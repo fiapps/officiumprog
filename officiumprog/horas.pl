@@ -16,7 +16,10 @@ sub horas {
   $command = shift;
   $hora = $command;	
 
-our $canticum = 0;                   
+our $canticum = 0;
+our $reciteindex = 0;
+our $recitelimit = 0;
+                   
 $tlang = ($lang1 !~ /Latin/) ? $lang1 : $lang2;    
 %translate = %{setupstring("$datafolder/$tlang/Psalterium/Translate.txt")}; 
 
@@ -55,7 +58,7 @@ while ($ind1 < @script1 || $ind2 < @script2) {
     
   $text1 =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;  
 
-  if ($lang1 =~ /Latin/i && $version =~ /1960/) {$text1 = jtoi($text1);}
+  if ($lang1 =~ /Latin/i) {$text1 = jtoi($text1);}
   if ($text1  && $text1 !~ /^\s+$/) {setcell($text1, $lang1);} 
  
    
@@ -66,7 +69,7 @@ while ($ind1 < @script1 || $ind2 < @script2) {
     if ($dayname[0] =~ /Quad/i && !Septuagesima_vesp()) {$text2 =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig;} 
 
  	$text2 =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
-    if ($lang2 =~ /Latin/i && $version =~ /1960/) {$text2 = jtoi($text2);}
+    if ($lang2 =~ /Latin/i) {$text2 = jtoi($text2);}
     if ($text2  && $text2 !~ /^\s+$/) {setcell($text2, $lang2);}  
  }
 }
@@ -898,8 +901,8 @@ sub martyrologium {
 	my ($luna, $mo) = ($year >= 1900 && $year < 2200) ? gregor($m, $d, $y, $lang) : luna($m, $d, $y, $lang);
 	if ($lang =~ /Latin/i) {$a[0] =~ s/\n/ /g; $a[0] .=  $luna;}
 	else {
-	  if ($a[0] =~ /Upon.*?$mo[, ]*/i) {$a[0] = "$luna $'";}
-	  elsif ($a[1] =~ /Upon.*?$mo[, ]*/i) {$a[1] = "$luna $'";}
+	  if ($a[0] =~ /U[p]+on.*?$mo[, ]*/i) {$a[0] = "$luna $'";}
+	  elsif ($a[1] =~ /U[p]+on.*?$mo[, ]*/i) {$a[1] = "$luna $'";}
 	  else {unshift(@a, ($luna, "_\n"));}
    }
 		

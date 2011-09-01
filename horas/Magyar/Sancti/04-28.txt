@@ -11,7 +11,7 @@ $Qui vivis
 
 [Commemoratio]
 !Commemoratio S. Vitalis Mart.
-@Commune/C2p:Oratio proper
+@Commune/C2:Oratio proper
 !Könyörgés
 Praesta, quaesumus omnipotens Deus: ut qui beati Vitalis Martyris tui natalitia colimus, intercessione ejus in tui nominis amore roboremur.
 $Per Dominum

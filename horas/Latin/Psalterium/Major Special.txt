@@ -533,8 +533,8 @@ V. Repleti sumus mane misericordia tua.
 R. Exsultavimus, et delectati sumus.
 
 [Day6 Vespera]
-!2 Cor. 1, 3-4
-v. Benedictus Deus, et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis, qui consolatur nos in omni tribulatione nostra.
+!Rom 11:33
+v. O Altitudo divitiarum sapientiae, et scientiae Dei quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus!
 $Deo gratias
 
 [Hymnus Day6 Vespera]
@@ -965,7 +965,7 @@ v. Christus resurgens ex mortuis iam non moritur, mors illi ultra non dominabitu
 $Deo gratias
 
 [Hymnus Pasch Laudes]
-{:H-Auroracaelum:}v. Aurora caelum purpurat,
+{:H-Auroracoelum:}v. Aurora caelum purpurat,
 Aether resultat laudibus,
 Mundus triumphans jubilat,
 Horrens avernus infremit:
@@ -1266,7 +1266,7 @@ Ut nobis parcas, te rogamus audi nos
 Ut nobis indulgeas, te rogamus audi nos
 Ut ad veram paenitentiam nos perducere digneris, te rogamus audi nos
 Ut Ecclesiam tuam sanctam regere et conservare digneris, te rogamus audi nos
-Ut domum Apostolicum et omnes ecclesiasticos ordines in sancta religione conservare digneris, te rogamus audi nos
+Ut domnum Apostolicum et omnes ecclesiasticos ordines in sancta religione conservare digneris, te rogamus audi nos
 Ut inimicos sanctae Ecclesiae humiliare digneris, te rogamus audi nos
 Ut regibus et principibus christianis pacem et veram concordiam donare digneris, te rogamus audi nos
 Ut cuncto populo christiano pacem et unitatem largiri digneris, te rogamus audi nos
@@ -1533,7 +1533,6 @@ Omnes sancti Angeli et Archangeli, orate pro nobis
 Omnes sancti beatorum Spirituum ordines, orate pro nobis
 _
 Sancte Ioannes Baptista, ora pro nobis
-Sancte Ioseph, ora pro nobis
 Omnes sancti Patriarchae et Prophetae, orate pro nobis
 Sancte Petre, ora pro nobis
 Sancte Paule, ora pro nobis
@@ -1610,7 +1609,7 @@ Ut nobis parcas, te rogamus audi nos
 Ut nobis indulgeas, te rogamus audi nos
 Ut ad veram paenitentiam nos perducere digneris, te rogamus audi nos
 Ut Ecclesiam tuam sanctam regere et conservare digneris, te rogamus audi nos
-Ut domum Apostolicum et omnes ecclesiasticos ordines in sancta religione conservare digneris, te rogamus audi nos
+Ut domnum Apostolicum et omnes ecclesiasticos ordines in sancta religione conservare digneris, te rogamus audi nos
 Ut inimicos sanctae Ecclesiae humiliare digneris, te rogamus audi nos
 Ut regibus et principibus christianis pacem et veram concordiam donare digneris, te rogamus audi nos
 Ut cuncto populo christiano pacem et unitatem largiri digneris, te rogamus audi nos
@@ -1713,7 +1712,6 @@ Omnes sancti Angeli et Archangeli, orate pro nobis
 Omnes sancti beatorum Spirituum ordines, orate pro nobis
 _
 Sancte Ioannes Baptista, ora pro nobis
-Sancte Ioseph, ora pro nobis
 Omnes sancti Patriarchae et Prophetae, orate pro nobis
 Sancte Petre, ora pro nobis
 Sancte Paule, ora pro nobis
@@ -1799,7 +1797,7 @@ Ut nobis parcas, te rogamus audi nos
 Ut nobis indulgeas, te rogamus audi nos
 Ut ad veram paenitentiam nos perducere digneris, te rogamus audi nos
 Ut Ecclesiam tuam sanctam regere et conservare digneris, te rogamus audi nos
-Ut domum Apostolicum et omnes ecclesiasticos ordines in sancta religione conservare digneris, te rogamus audi nos
+Ut domnum Apostolicum et omnes ecclesiasticos ordines in sancta religione conservare digneris, te rogamus audi nos
 Ut inimicos sanctae Ecclesiae humiliare digneris, te rogamus audi nos
 Ut regibus et principibus christianis pacem et veram concordiam donare digneris, te rogamus audi nos
 Ut cuncto populo christiano pacem et unitatem largiri digneris, te rogamus audi nos

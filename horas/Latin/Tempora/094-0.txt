@@ -6,10 +6,10 @@ V. Vespertina oratio ascendat ad te Domine.
 R. Et descendat super nos misericordia tua.
 
 [Lectio1]
-Incipit libro Judith
+Incipit liber Judith
 !Jdt 1:1-4
 1 Arphaxad itaque, rex Medorum, subjugaverat multas gentes imperio suo, et ipse aedificavit civitatem potentissimam, quam appellavit Ecbatanis,
-2 ex lapidibus quadratis et sectis: fecit muros ejus in altitudinem cubitorum septuaginta, et in latitudinem cubitorum triginta: turres vero ejus posuit in altitudinem cubitorum centum.
+2 ex lapidibus quadratis et sectis: Fecit muros ejus in altitudinem cubitorum septuaginta, et in latitudinem cubitorum triginta: turres vero ejus posuit in altitudinem cubitorum centum.
 3 Per quadrum vero earum latus utrumque vicenorum pedum spatio tendebatur, posuitque portas ejus in altitudinem turrium:
 4 et gloriabatur quasi potens in potentia exercitus sui, et in gloria quadrigarum suarum.
 
@@ -68,7 +68,7 @@ V. Tu Domine, cui humilium semper et mansuetorum placuit deprecatio.
 R. Exaudi orationem servorum tuorum.
 
 [Lectio6]
-Itaque illa, quae triduo jejunavit continuo, et corpus suum aqua lavit, plus placuit, et vindictam retulit: Aman autem, dum se regali jactat convivio, inter ipsa vina poenam suae ebrietatis exsolvit. Est ergo jejunium reconciliationis sacrificium, virtutis incrementum, quod fecit etiam feminas fortiores augmento gratiae. Jejunium nescit foeneratorem, non sortem foenoris novit: non redolet usuras mensa jejunantium: etiam ipsis jejunium conviviis dat gratiam. Dulciores post famem opulae fiunt, quae assiduitate fastidio sunt, et diuturna continuatione vilescunt. Condimentum cibi jejunium est. Quanto avidior appetentia, tanto esca jucundior.
+Itaque illa, quae triduo jejunavit continuo, et corpus suum aqua lavit, plus placuit, et vindictam retulit: Aman autem, dum se regali jactat convivio, inter ipsa vina poenam suae ebrietatis exsolvit. Est ergo jejunium reconciliationis sacrificium, virtutis incrementum, quod fecit etiam feminas fortiores augmento gratiae. Jejunium nescit faeneratorem, non sortem faenoris novit: non redolet usuras mensa jejunantium: Etiam ipsis jejunium conviviis dat gratiam, dulciores post famem epulae fiunt, quae assiduitate fastidio sunt, et diuturna continuatione vilescunt. Condimentum cibi jejunium est; quanto avidior appetentia, tanto esca jucundior.
 
 [Responsory6]
 R. Domine Deus, qui conteris bella ab initio, eleva brachium tuum super Gentes, quae cogitant servis tuis mala:
@@ -79,7 +79,7 @@ R. Et dextera tua glorificetur in nobis.
 R. Et dextera tua glorificetur in nobis.
 
 [Responsory7]
-R. Conforta me Rex, sanctorum principatum tenens:
+R. Conforta me Rex, Sanctorum principatum tenens:
 * Et da sermonem rectum, et bene sonantem in os meum.
 V. Domine Rex universae potestatis converte consilium eorum super eos.
 R. Et da sermonem rectum, et bene sonantem in os meum.

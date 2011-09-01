@@ -29,7 +29,7 @@ Corporis mysterium,
 Sanguinisque pretiosi,
 Quem in mundi pretium
 Fructus ventris generosi
-Rex effudit gentium.
+Rex effudit Gentium.
 _
 Nobis datus, nobis natus
 Ex intacta Virgine,
@@ -38,7 +38,7 @@ Sparso verbi semine,
 Sui moras incolatus
 Miro clausit ordine.
 _
-In supremae nocte cenae,
+In supremae nocte coenae,
 Recumbens cum fratribus
 Observata lege plene
 Cibis in legalibus,
@@ -87,7 +87,7 @@ Et ex praecordiis sonent praeconia;
 Recedant vetera nova sint omnia,
 Corda, voces, et opera.
 _
-Noctis recolitur cena novissima,
+Noctis recolitur coena novissima,
 Qua Christus creditur agnum et azyma
 Dedisse fratribus, juxta legitima
 Priscis indulta patribus.
@@ -99,7 +99,7 @@ Ejus fatemur manibus.
 _
 Dedit fragilibus corporis ferculum,
 Dedit et tristibus sanguinis poculum,
-Dicens accipite quod trado vasculum,
+Dicens: Accipite quod trado vasculum,
 Omnes ex eo bibite.
 _
 Sic sacrificium istud instituit,
@@ -120,12 +120,12 @@ Amen.
 
 [Ant Matutinum]
 Fructum salutiferum * gustandum dedit Dominus mortis suae tempore;;1
-A fructu frumenti et vini multiplicati fideles in pace Christi requiescunt;;4
-Communione calicis, * quo Deus ipse sumitur, non vitulorum sanguine, congregavit nos Deus;;15
+A fructu frumenti * et vini multiplicati fideles in pace Christi requiescunt;;4
+Communione calicis, * quo Deus ipse sumitur, non vitulorum sanguine, congregavit nos Dominus;;15
 V. Panem caeli dedit eis, alleluia.
 R. Panem Angelorum manducavit homo, alleluia.
 Memor sit Dominus * sacrificii nostri, et holocaustum nostrum pingue fiat;;19
-Paratur nobis * mensa Domini adversus omnes qui tribulant nos;;22
+Paratur * nobis mensa Domini adversus omnes qui tribulant nos;;22
 In voce exsultationis * resonent epulantes in mensa Domini;;41
 V. Cibavit illos ex adipe frumenti, alleluia.
 R. Et de petra, melle saturavit eos, alleluia.
@@ -138,9 +138,9 @@ R. Et vinum laetificet cor hominis, alleluia.
 [Lectio1]
 De Epistola prima beati Pauli Apostoli ad Corinthios.
 !1 Cor 11:20-22
-20 Convenientibus ergo vobis in unum, jam non est Dominicam cœnam manducare.
-21 Unusquisque enim suam cœnam praesumit ad manducandum, et alius quidem esurit, alius autem ebrius est.
-22 Numquid domos non habetis ad manducandum, et bibendum? aut ecclesiam Dei contemnitis, et confunditis eos qui non habent? Quid dicam vobis? laudo vos? in hoc non laudo.
+20 Convenientibus vobis in unum, jam non est Dominicam cœnam manducare.
+21 Unusquisque enim suam cœnam praesumit ad manducandum, Et alius quidem esurit, alius autem ebrius est.
+22 Numquid domos non habetis ad manducandum, et bibendum? aut Ecclesiam Dei contemnitis, et confunditis eos qui non habent? Quid dicam vobis? Laudo vos? In hoc non laudo.
 
 [Responsory1]
 R. Immolabit haedum multitudo filiorum Israël ad vesperam Paschae:
@@ -179,27 +179,27 @@ R. Et ambulavit in fortitudine cibi illius usque ad montem Dei.
 R. Et ambulavit in fortitudine cibi illius usque ad montem Dei.
 
 [Lectio4]
-Sermo S. Thomae Aquinatis.
+Sermo sancti Thomae Aquinatis.
 !Lectio iv. In Opusculo 57.
-Immensa divinae largitatis beneficia, exhibita populo christiano, ingestimabilem ei conferunt dignitatem. Neque enim est, aut fuit aliquando tam grandis natio, quae habeat deos appropinquantes sibi, sicut adest nobis Deus noster. Unigenitus siquidem Dei Filius, suae divinitatis volens nos esse participes, naturam nostram assumpsit, ut homines deos faceret factus homo. Et hoc insuper, quod de nostro assumpsit, totum nobis contulit ad salutem. Corpus namque suum pro nostra reconciliatione in ara crucis hostiam obtulit Deo Patri: sanguinem suum fudit in pretium simul et lavacrum: ut redempti a miserabili servitute, a peccatis omnibus mundaremur. Ut autem tanti beneficii jugis in nobis maneret memoria, corpus suum in cibum, et sanguinem suum in potum, sub specie panis et vini sumendum fidelibus dereliquit.
+Immensa divinae largitatis beneficia, exhibita populo christiano, inaestimabilem ei conferunt dignitatem. Neque enim est, aut fuit aliquando tam grandis natio, quae habeat deos appropinquantes sibi, sicut adest nobis Deus noster. Unigenitus siquidem Dei Filius, suae divinitatis volens nos esse participes, naturam nostram assumpsit, ut homines deos faceret factus homo. Et hoc insuper, quod de nostro assumpsit, totum nobis contulit ad salutem. Corpus namque suum pro nostra reconciliatione in ara crucis hostiam obtulit Deo Patri: sanguinem suum fudit in pretium simul et lavacrum: ut redempti a miserabili servitute, a peccatis omnibus mundaremur. Ut autem tanti beneficii jugis in nobis maneret memoria, corpus suum in cibum, et sanguinem suum in potum, sub specie panis et vini sumendum fidelibus dereliquit.
 
 [Responsory4]
-R. Cenantibus illis accepit Jesus panem, et benedixit, ac fregit, deditque discipulis suis, et ait:
+R. Coenantibus illis accepit Jesus panem, et benedixit, ac fregit, deditque discipulis suis, et ait:
 * Accipite, et comedite: hoc est corpus meum.
 V. Dixerunt viri tabernaculi mei: Quis det de carnibus ejus, ut saturemur?
 R. Accipite, et comedite: hoc est corpus meum.
 
 [Lectio5]
-Opretiosum et admirandum convivium, salutiferum, et omni suavitate repletum! Quid enim hoc convivio pretiosius esse potest? in quo non carnes vitulorum et hircorum, ut olim in lege, sed nobis Christus sumendus proponitur verus Deus. Quid hoc sacramento mirabilius? In ipso namque panis et vinum in Christi corpus et sanguinem substantialiter convertuntur: ideoque Christus Deus, et homo perfectus sub modici panis et vini specie continetur. Manducatur itaque a fidelibus, sed minime laceratur: quinimmo diviso Sacramento, sub qualibet divisionis particula integer perseverat. Accidentia autem sine subjecto in eodem subsistunt, ut fides locum habeat, dum visibile invisibiliter sumitur aliena specie occultatum: et sensus a deceptione reddantur immunes, qui de accidentibus judicant sibi notis.
+O pretiosum et admirandum convivium, salutiferum, et omni suavitate repletum! Quid enim hoc convivio pretiosius esse potest? in quo non carnes vitulorum et hircorum, ut olim in lege, sed nobis Christus sumendus proponitur verus Deus. Quid hoc Sacramento mirabilius? In ipso namque panis et vinum in Christi corpus et sanguinem substantialiter convertuntur: ideoque Christus Deus, et homo perfectus sub modici panis et vini specie continetur. Manducatur itaque a fidelibus, sed minime laceratur: quinimmo diviso Sacramento, sub qualibet divisionis particula integer perseverat. Accidentia autem sine subjecto in eodem subsistunt, ut fides locum habeat, dum visibile invisibiliter sumitur aliena specie occultatum: et sensus a deceptione reddantur immunes, qui de accidentibus judicant sibi notis.
 
 [Responsory5]
-R. Accepit Jesus calicem, postquam cenavit, dicens: Hic calix novum testamentum est in meo sanguine:
+R. Accepit Jesus calicem, postquam coenavit, dicens: Hic calix novum testamentum est in meo sanguine:
 * Hoc facite in meam commemorationem.
 V. Memoria memor ero, et tabescet in me anima mea.
 R. Hoc facite in meam commemorationem.
 
 [Lectio6]
-Nullum etiam sacramentum est isto salubrius, quo purgantur peccata, virtutes augentur, et mens omnium spiritualium charismatum abundantia impinguatur. Offertur in Ecclesia pro vivis et mortuis: ut omnibus prosit, quod est pro salute omnium institutum. Suavitatem denique hujus Sacramenti nullus exprimere sufficit, per quod spiritualis dulcedo in suo fonte gustatur: et recolitur memoria illius, quam in sua passione Christus monstravit, excellentissimae caritatis. Unde ut arctius hujus caritatis immensitas fidelium cordibus infigeretur, in ultima cena, quando Pascha cum discipulis celebrato, transiturus erat de hoc mundo ad Patrem, hoc Sacramentum instituit, tamquam passionis suae memoriale perenne, figurarum veterum impletivum, miraculorum ab ipso factorum maximum: et de sua contristatis absentia solatium singulare reliquit.
+Nullum etiam sacramentum est isto salubrius, quo purgantur peccata, virtutes augentur, et mens omnium spiritualium charismatum abundantia impinguatur. Offertur in Ecclesia pro vivis et mortuis: ut omnibus prosit, quod est pro salute omnium institutum. Suavitatem denique hujus Sacramenti nullus exprimere sufficit, per quod spiritualis dulcedo in suo fonte gustatur: et recolitur memoria illius, quam in sua passione Christus monstravit, excellentissimae caritatis. Unde ut arctius hujus caritatis immensitas fidelium cordibus infigeretur, in ultima coena, quando Pascha cum discipulis celebrato, transiturus erat de hoc mundo ad Patrem, hoc Sacramentum instituit, tamquam passionis suae memoriale perenne, figurarum veterum impletivum, miraculorum ab ipso factorum maximum: et de sua contristatis absentia solatium singulare reliquit.
 
 [Responsory6]
 R. Ego sum panis vitae: patres vestri manducaverunt manna in deserto, et mortui sunt:
@@ -216,7 +216,7 @@ In illo tempore: Dixit Jesus turbis Judaeorum: Caro mea, vere est cibus: et sang
 _
 Homilia sancti Augustini Episcopi.
 !Tractatus 26. in Joannii., sub finem.
-Cum cibo et potu id appetant homines, ut neque esuriant, neque sitiant: hoc veraciter non praestat, nisi iste cibus et potus, qui eos, a quibus sumitur, immortales et incorruptibiles facit; id est, societas ipsa sanctorum: ubi pax erit, et unitas plena atque perfecta. Propterea quippe, sicut etiam ante nos hoc intellexerunt homines Dei, Dominus noster Jesus Christus corpus et sanguinem suum in eis rebus commendavit, quae ad unum aliquid rediguntur ex multis. Namque aliud in unum ex multis granis conficitur: aliud in unum ex multis acinis confluit.* Denique jam exponit quomodo id fiat, quod loquitur: et quid sit manducare corpus ejus, et sanguinem bibere.
+Cum cibo et potu id appetant homines, ut neque esuriant, neque sitiant: hoc veraciter non praestat, nisi iste cibus et potus, qui eos, a quibus sumitur, immortales et incorruptibiles facit; id est, societas ipsa Sanctorum: ubi pax erit, et unitas plena atque perfecta. Propterea quippe, sicut etiam ante nos hoc intellexerunt homines Dei, Dominus noster Jesus Christus corpus et sanguinem suum in eis rebus commendavit, quae ad unum aliquid rediguntur ex multis. Namque aliud in unum ex multis granis conficitur: aliud in unum ex multis acinis confluit.* Denique jam exponit quomodo id fiat, quod loquitur: et quid sit manducare corpus ejus, et sanguinem bibere.
 
 [Responsory7]
 R. Qui manducat meam carnem, et bibit meum sanguinem,
@@ -292,7 +292,7 @@ Ego sum * panis vivus, qui de caelo descendi: si quis manducaverit ex hoc pane, 
 
 [Lectio Prima]
 !1 Cor 11:27
-v. Quicumque manducaverit panem hunc, vel biberit calicem Domini indigne: reus erit Corporis et Sanguinis Domini.
+v. Quicumque manducaverit panem hunc, vel biberit calicem Domini indigne: reus erit corporis et sanguinis Domini.
 
 [Capitulum Tertia]
 !1 Cor 11:23-24
@@ -328,7 +328,7 @@ R. Et vinum laetificet cor hominis, alleluia.
 
 [Capitulum Nona]
 !1 Cor 11:27
-v. Quicumque manducaverit panem hunc, vel biberit calicem Domini indigne: reus erit Corporis et Sanguinis Domini.
+v. Quicumque manducaverit panem hunc, vel biberit calicem Domini indigne: reus erit corporis et sanguinis Domini.
 $Deo gratias
 
 [Responsory Nona]

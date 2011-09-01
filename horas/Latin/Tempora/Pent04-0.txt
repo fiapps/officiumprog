@@ -25,20 +25,21 @@ De libro primo Regum.
 2 Porro Saul et filii Israël congregati venerunt in Vallem terebinthi, et direxerunt aciem ad pugnandum contra Philisthiim.
 3 Et Philisthiim stabant super montem ex parte hac, et Israël stabat supra montem ex altera parte: vallisque erat inter eos.
 4 Et egressus est vir spurius de castris Philisthinorum nomine Goliath, de Geth, altitudinis sex cubitorum et palmi:
-5 et cassis aerea super caput ejus, et lorica squamata induebatur. Porro pondus loricae ejus, quinque millia siclorum aeris erat:
-6 et ocreas aereas habebat in cruribus, et clypeus aereus tegebat humeros ejus.
+5 Et cassis aerea super caput ejus, et lorica squamata induebatur, porro pondus loricae ejus, quinque millia siclorum aeris erat:
+6 Et ocreas aereas habebat in cruribus, et clypeus aereus tegebat humeros ejus.
 7 Hastile autem hastae ejus erat quasi liciatorium texentium: ipsum autem ferrum hastae ejus sexcentos siclos habebat ferri: et armiger ejus antecedebat eum.
 
 [Responsory1]
 R. Praeparate corda vestra Domino, et servite illi soli:
 * Et liberabit vos de manibus inimicorum vestrorum.
-V. Convertimini ad eum in toto corde vestro, et auferte deos alienos de medio vestri. Et liberabit vos de manibus inimicorum vestrorum.
+V. Convertimini ad eum in toto corde vestro, et auferte deos alienos de medio vestri. 
+R. Et liberabit vos de manibus inimicorum vestrorum.
 
 [Lectio2]
 !1 Sam 17:8-11
-8 Stansque clamabat adversum phalangas Israël, et dicebat eis: Quare venistis parati ad praelium? numquid ego non sum Philisthaeus, et vos servi Saul? eligite ex vobis virum, et descendat ad singulare certamen.
-9 Si quiverit pugnare mecum, et percusserit me, erimus vobis servi: si autem ego praevaluero, et percussero eum, vos servi eritis, et servietis nobis.
-10 Et aiebat Philisthaeus: Ego exprobravi agminibus Israël hodie: date mihi virum, et ineat mecum singulare certamen.
+8 Stansque clamabat adversum phalangas Israël, et dicebat eis: Quare venistis parati ad praelium? Numquid ego non sum Philisthaeus, et vos servi Saul? Eligite ex vobis virum, et descendat ad singulare certamen,
+9 si quiverit pugnare mecum, et percusserit me, erimus vobis servi: si autem ego praevaluero, et percussero eum, vos servi eritis, et servietis nobis.
+10 Et aiebat Philisthaeus: Ego exprobravi agminibus Israël hodie: Date mihi virum, et ineat mecum singulare certamen.
 11 Audiens autem Saul et omnes Israëlitae sermones Philisthaei hujuscemodi, stupebant, et metuebant nimis.
 
 [Responsory2]
@@ -75,12 +76,12 @@ V. Nonne iste est David, de quo canebant in choro, dicentes: Saul percussit mill
 R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit opprobrium ex Israël.
 
 [Lectio5]
-Sed dicit aliquis Si allegatus est, quare adhuc tantum praevalet? Verum est, fratres carissimi, quia multum praevalet: sed tepidis et negligentibus, et Deum in veritate non timentibus dominatur. Alligatus est enim tamquam innexus canis catenis, et neminem potest mordere, nisi eum qui se illi mortifera securitate conjunxerit. Jam videte, fratres, quam stultus est homo ille, quem canis in catena positus mordet. Tu te illi per voluntates et cupiditates saeculi noli conjungere, et ille ad te non praesumit accedere. Latrare potest, sollicitare potest, mordere omnino non potest, nisi volentem. Non enim cogendo, sed suadendo nocet: nec extorquet a nobis consensum, sed petit.
+Sed dicit aliquis Si alligatus est, quare adhuc tantum praevalet? Verum est, fratres carissimi, quia multum praevalet: sed tepidis et negligentibus, et Deum in veritate non timentibus dominatur. Alligatus est enim tamquam innexus canis catenis, et neminem potest mordere, nisi eum qui se illi mortifera securitate conjunxerit. Jam videte, fratres, quam stultus est homo ille, quem canis in catena positus mordet. Tu te illi per voluntates et cupiditates saeculi noli conjungere, et ille ad te non praesumit accedere. Latrare potest, sollicitare potest, mordere omnino non potest, nisi volentem. Non enim cogendo, sed suadendo nocet: nec extorquet a nobis consensum, sed petit.
 
 [Responsory5]
-R. Montes Gelboe, nec ros nec pluvia veniant super vos,
+R. Montes Gelboë, nec ros nec pluvia veniant super vos,
 * Ubi ceciderunt fortes Israël.
-V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboe autem transeat.
+V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboë autem transeat.
 R. Ubi ceciderunt fortes Israël.
 
 [Lectio6]
@@ -113,7 +114,7 @@ Non turbatur haec navis, in qua prudentia navigat, abest perfidia, fides aspirat
 @Tempora/Pent01-0:Responsory8
 
 [Lectio9]
-Nam etsi non licet mihi scire quemadmodum natus sit: non licet tamen nescire quod natus sit. Seriem generationis ignoro: sed auctorem generationis agnosco. Non interfuimus cum ex Patre Dei Filius nasceretur: sed interfuimus cum a Patre Dei Filius diceretur. Si Deo non credimus, cui credemus? Omnia enim quae credimus, vel visu credimus, vel auditu. Visus saepe fallitur, auditus in fide est.
+Nam etsi non licet mihi scire quemadmodum natus sit: non licet tamen nescire quod natus sit. Seriem generationis ignoro: sed auctorem generationis agnosco. Non interfuimus cum ex Patre Dei Filius nasceretur: sed interfuimus cum a Patre Dei Filius diceretur. Si Deo non credimus, cui credemus? Omnia enim quae credimus, vel visu credimus, vel auditu, visus saepe fallitur, auditus in fide est.
 &teDeum
 
 [Ant 2]

@@ -5,10 +5,6 @@ SS. Soteris et Caji Papae Mart.;;Semiduplex;;2;;vide C3
 vide C3;
 9 lectiones
 
-[Oratio]
-Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed Soter and Caius thy Martyrs and Sovereign Pontiffs, whom thou didst constitute Shepherd of the whole Church.
-$Per Dominum
-
 [Lectio4]
 Soter, a countryman of Fondi in Campania, succeeded the holy martyr Anicete, (in the year 173.) It was he who ordained that nuns should not touch the sacred vessels and linen of the Altar, nor serve with the incense in the Church. He ordained likewise, that on the anniversary of the Lord's Supper, every one should receive the Body of Christ, except those who were forbidden to do so on account of grievous sin. He sat as Pope three years, eleven months, and twenty-eight days. He ordained in the month of December eighteen Priests, nine Deacons, and eleven Bishops for divers places. He was crowned with martyrdom under the Emperor Marcus Aurelius, (in 177,) and was buried after the manner of them that had gone before him, in the Cemetery, which was afterwards called that of St Calixtus.
 

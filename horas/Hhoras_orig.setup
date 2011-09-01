@@ -1,5 +1,5 @@
 [Chant]
-$notes=0;
+$notes=0;;
 $voicecolumn='mute';;
 $keyfreq='160';;
 $basetime='360';;
@@ -15,13 +15,15 @@ $testmode='Regular';;
 $lang2='English';;
 $votive='proper';;
 $output='html';;
-$accented='1';;
 $onefile=1;;
 
 [parameters]
 $priest='0';;
+$accented=1;;
+$celllength=10000;;
+$extracolumn='0';;
 $lang1='Latin';;
-$framecolor='#ffffdd';;
+$framecolor='white';;
 $whitebground='1';;
 $border='0';;
 $blackfont='black';;

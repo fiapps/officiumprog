@@ -7,9 +7,9 @@ Oratio Dominica
 [Lectio1]
 De libro tertio Regum.
 !1 Kgs 11:1-4
-1 Rex autem Salomon adamavit mulieres alienigenas multas, filiam quoque Pharaonis, et Moabitidas, et Ammonitidas, Idumaeas, et Sidonias, et Hethaeas:
-2 de gentibus super quibus dixit Dominus filiis Israël: Non ingrediemini ad eas, neque de illis ingredientur ad vestras: certissime enim avertent corda vestra ut sequamini deos earum. His itaque copulatus est Salomon ardentissimo amore.
-3 Fueruntque ei uxores quasi reginae septingentae, et concubinae trecentae: et averterunt mulieres cor ejus.
+1 Rex autem Salomon adamavit mulieres alienigenas multas, filiam quoque pharaonis, et Moabitidas, et Ammonitidas, Idumaeas, et Sidonias, et Hethaeas:
+2 de gentibus super quibus dixit Dominus filiis Israël: Non ingrediemini ad eas, neque de illis ingredientur ad vestras: certissime enim avertent corda vestra ut sequamini deos earum. His itaque copulatus est Salomon ardentissimo amore:
+3 fueruntque ei uxores quasi reginae septingentae, et concubinae trecentae: et averterunt mulieres cor ejus.
 4 Cumque jam esset senex, depravatum est cor ejus per mulieres, ut sequeretur deos alienos: nec erat cor ejus perfectum cum Domino Deo suo, sicut cor David patris ejus.
 
 [Responsory1]
@@ -30,7 +30,7 @@ De libro tertio Regum.
 9 Igitur iratus est Dominus Salomoni, quod aversa esset mens ejus a Domino Deo Israël, qui apparuerat ei secundo,
 10 et praeceperat de verbo hoc ne sequeretur deos alienos: et non custodivit quae mandavit ei Dominus.
 11 Dixit itaque Dominus Salomoni: Quia habuisti hoc apud te, et non custodisti pactum meum, et praecepta mea quae mandavi tibi, disrumpens scindam regnum tuum, et dabo illud servo tuo.
-12 Verumtamen in diebus tuis non faciam propter David patrem tuum: de manu filii tui scindam illud,
+12 Verumtamen in diebus tuis non faciam propter David patrem tuum.
 
 [Responsory3]
 @Tempora/Pent01-2:Responsory3

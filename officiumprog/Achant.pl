@@ -15,8 +15,10 @@ sub singit {
   my $psalmline = shift;
   my $lineind = shift;  
 
-  $chanttype = ($tfile =~ /^H\-/) ? 'Hymn' : ($tfile =~ /^Ap/i) ? 'Antiphon' : ($tfile =~ /^p/i) ? 'Psalm' : 'Syllabic';
-  
+  $chanttype = ($tfile =~ /^A\-([a-z0-9]+)/i) ? $1 : ($tfile =~ /^H\-/) ? 'Hymn' : ($tfile =~ /^Ap/i) ? 
+    'Antiphon' : ($tfile =~ /^p/i) ? 'Psalm' : 'Syllabic';
+
+
   our $doline = 8;
   our $clef = 'do=8';
   our $syllabletime = $basetime;
@@ -178,7 +180,8 @@ sub praepare_latin {
   $p1 =~ s/Í/i:/ig;
   $p1 =~ s/Ó/o:/ig;
   $p1 =~ s/Ú/u:/ig;
-  $p1 =~ s/([aeiou]:*)i([aeiou]:*)/$1j$2/ig;
+  #$p1 =~ s/([\saeiou]:*)i([aeiou]:*)/$1j$2/ig;
+  $p1 =~ s/([\saeiou])i([aeiou])/$1j$2/ig;
   $p1 =~ s/(i:*)i/$1i:/ig;
   $p1 =~ s/iesu/jesu/ig;
 
@@ -237,7 +240,7 @@ sub compose {
   my $psalmline = shift;
   my $lineind = shift;   
                                    
-  if ($chanttype =~ /Recite/i) {return recite_line($p1, $tone);}
+  if ($chanttype =~ /Recit/i) {return recite_line($p1, $tone);}
   elsif ($chanttype =~ /Antiphon/i ) {return ant_line($p1, $tone);}
   elsif ($chanttype =~ /Psalm/i) {return psalm_line($p1, $tone, $psalmline);}
   elsif ($chanttype =~ /Hymn/i) {return hymnverse($p1, $tone, $lineind);}
@@ -245,9 +248,21 @@ sub compose {
 }
 
 sub recite_line {
-  my $p1 = shift;
-  my $tone = shift;
-  my @texttone = split("\n", $tone);
+  my $p1 = shift;  
+  my $tone = shift;  
+  if (!$p1 || $p1 =~ /^\s*$/) {return '';}  
+
+  my @texttone = split("\n", $tone);  
+  if ($texttone[0] =~ /clef/i) {($doline, $dofreq) = getdo(shift(@texttone));}
+
+  $recitelimit = 3;
+  if ($reciteindex < $recitelimit) {$reciteindex++; return recite1tone($p1, $tone, 0);}
+  elsif ($reciteindex == $recitelimit) {
+    $reciteindex++;
+	@p1 = split('\*', $p1); 
+	return recite1tone($p1[0], $tone, 0) . processtone($p1[1], $texttone[2], 0);
+  } else {$reciteindex = 0; return processtone($p1, $texttone[3], 0);}
+
   return $p1;
 }
 
@@ -392,6 +407,32 @@ sub psalm_line {
   if ($p1[-1] !~ /^void$/) {$m .= processtone($p1[-1], $texttone[4]);}
   return $m;
 }
+
+sub recite1tone {
+  my $p1 = shift;
+  $p1 =~ s/^\s*//;
+  $p1 =~ s/\s*$//;      
+  my $tone = shift; 
+  
+  my @texttone = split("\n", $tone);  
+   
+
+  my $m = $texttone[0];
+  my @tone = split(',', $texttone[1]);
+  my $i = 0;
+  my $j = 0;
+  while (@tone) {
+    my $sy;
+	if ($tone[0] =~ /b/i) {$sy = '';}
+	else {($sy, $j) = forwsyll($p1, $j);}
+	$m .= shift(@tone) . ",$sy,";
+  }
+  $p1 = substr($p1, $j);
+  $t = '';
+  $m .= processtone($p1, $texttone[2]);
+  return $m;
+}
+
 
 sub processtone {
   my $line = shift;

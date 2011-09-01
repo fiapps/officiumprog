@@ -14,7 +14,7 @@ Ecce veniet * Propheta magnus, et ipse renovabit Jerusalem, alleluia.
 
 [Capitulum Vespera]
 !Rom 13:11
-v. Fratres: Hora est jam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus.
+v. Fratres: Hora est jam nos de somno surgere, nunc enim propior est nostra salus, quam cum credidimus.
 $Deo gratias.
 
 [Ant 1]
@@ -46,7 +46,7 @@ R. Aspiciens a longe, ecce video Dei potentiam venientem, et nebulam totam terra
 
 [Lectio2]
 !Isa 1:4-6
-4 Vae genti peccatrici, populo gravi iniquitate, semini nequam, filiis sceleratis ! dereliquerunt Dominum; blasphemaverunt Sanctum Israël; abalienati sunt retrorsum.
+4 Vae genti peccatrici, populo gravi iniquitate, semini nequam, filiis sceleratis: dereliquerunt Dominum; blasphemaverunt Sanctum Israël; abalienati sunt retrorsum.
 5 Super quo percutiam vos ultra, addentes praevaricationem? omne caput languidum, et omne cor mœrens.
 6 A planta pedis usque ad verticem, non est in eo sanitas; vulnus, et livor, et plaga tumens, non est circumligata, nec curata medicamine, neque fota oleo.
 
@@ -97,7 +97,7 @@ Quamvis enim sine anima nihil caro desideret, et inde accipiat sensus, unde sumi
 R. Obsecro Domine, mitte quem missurus es: vide afflictionem populi tui:
 * Sicut locutus es, veni, * Et libera nos.
 V. Qui regis Israël intende, qui deducis velut ovem Joseph, qui sedes super Cherubim.
-R. Sicut locutus es, veni, * Et libera nos.
+R. Sicut locutus es, veni.
 &Gloria
 R. Et libera nos.
 
@@ -126,10 +126,10 @@ V. Annuntiate, et auditum facite: loquimini, et clamate.
 R. Et insulis, quae procul sunt, dicite: Salvator noster adveniet
 
 [Lectio9]
-Nam gentem contra gentem exsurgere, earumque pressuram terris insistere, plus jam in nostris temporibus cernimus, quam in codicibus legimus. Quod terraemotus urbes innumeras obruat, ex aliis mundi partibus scitis quam frequenter audivimus. Pestilentias sine cessatione patimur. Signa vero in sole, et luna, et stellis, adhuc aperte minime vidimus: sed quia et haec non longe sint, ex ipsa jam aeris immutatione colligimus.
+Nam gentem contra gentem exsurgere, earumque pressuram terris insistere, plus jam in nostris temporibus cernimus, quam in codicibus legimus. Quod terraemotus urbes innumeras obruat, ex aliis mundi partibus scitis quam frequenter audivimus. Pestilentias sine cessatione patimur. Signa vero in sole, et luna, et stellis, adhuc aperte minime vidimus: sed quia et haec non longe sint, ex ipsa jam aëris immutatione colligimus.
 
 [Responsory9]
-R. Ecce dies veniunt, dicit Dominus, et suscitabo David germen justum et regnabit Rex, et sapiens erit, et faciet judicium et justitiam in terra
+R. Ecce dies veniunt, dicit Dominus, et suscitabo David germen justum et regnabit rex, et sapiens erit, et faciet judicium et justitiam in terra
 * Et hoc est nomen quod vocabunt eum: * Dominus justus noster.
 V. In diebus illis salvabitur Juda, et Israël habitabit confidenter.
 R. Et hoc est nomen quod vocabunt eum
@@ -145,7 +145,7 @@ Ecce veniet * Propheta magnus, et ipse renovabit Jerusalem, alleluia.
 
 [Capitulum Laudes]
 !Rom 13:11
-v. Fratres: Hora est jam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus.
+v. Fratres: Hora est jam nos de somno surgere, nunc enim propior est nostra salus, quam cum credidimus.
 $Deo gratias.
 
 [Ant 2]
@@ -153,7 +153,7 @@ Spiritus Sanctus * in te descendet, Maria: ne timeas, habebis in utero Filium De
 
 [Capitulum Tertia]
 !Rom 13:11
-v. Fratres: Hora est jam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus.
+v. Fratres: Hora est jam nos de somno surgere, nunc enim propior est nostra salus, quam cum credidimus.
 $Deo gratias.
 
 [Capitulum Sexta]

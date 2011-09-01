@@ -35,8 +35,8 @@ Incipit liber Ecclesiastes.
 13 et proposui in animo meo quaerere et investigare sapienter de omnibus quae fiunt sub sole. Hanc occupationem pessimam dedit Deus filiis hominum, ut occuparentur in ea.
 14 Vidi cuncta quae fiunt sub sole, et ecce universa vanitas et afflictio spiritus.
 15 Perversi difficile corriguntur, et stultorum infinitus est numerus.
-16 Locutus sum in corde meo, dicens: Ecce magnus effectus sum, et praecessi omnes sapientia qui fuerunt ante me in Jerusalem; et mens mea contemplata est multa sapienter, et didici.
-17 Dedique cor meum ut scirem prudentiam atque doctrinam, erroresque et stultitiam; et agnovi quod in his quoque esset labor et afflictio spiritus:
+16 Locutus sum in corde meo, dicens: Ecce magnus effectus sum, et praecessi omnes sapientia qui fuerunt ante me in Jerusalem; et mens mea contemplata est multa sapienter, et didici
+17 dedique cor meum ut scirem prudentiam atque doctrinam, erroresque et stultitiam. 
 
 [Responsory3]
 @Tempora/081-0:Responsory3
@@ -50,7 +50,7 @@ Salomon cum saecularium rerum concupiscentia teneretur, magnas eas et admirandas
 @Tempora/081-0:Responsory4
 
 [Lectio5]
-At ubi inde ad se reversus, et quasi ex umbrosa quadam abysso ad lumen verae sapientiae respicere voluit, tunc sublimem illam, et caelis dignam emisit vocem: Vanitas vanitatum, dicens, et omnia vanitas. Hanc et vos, et hac sublimiorem, si volueritis, efferetis sententiam de intempestiva hac voluptate, si aliquanti spera mala consuetudine vos sequestraveritis.
+At ubi inde ad se reversus, et quasi ex umbrosa quadam abysso ad lumen verae sapientiae respicere valuit, tunc sublimem illam, et caelis dignam emisit vocem: Vanitas vanitatum, dicens, et omnia vanitas. Hanc et vos, et hac sublimiorem, si volueritis, efferetis sententiam de intempestiva hac voluptate, si aliquanti spera mala consuetudine vos sequestraveritis.
 
 [Responsory5]
 @Tempora/081-0:Responsory5

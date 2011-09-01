@@ -44,6 +44,10 @@ Spiritus, cujus resonat per omnem
 Gloria mundum.
 Amen.
 
+[Versum 1]
+V.  Stetit Angelus juxta aram templi.
+R.  Habens thuríbulum áureum in manu sua.
+
 [Ant 1]
 Ego sum Raphael angelus * qui asto ante Dominum: vos autem benedicite Deum , et narrate omnia mirabilia eius, alleluia.
 
@@ -216,6 +220,10 @@ Et Sanctus unxit Spiritus
 In sempiterna saecula.
 Amen.
 
+[Versum 2]
+V.  In conspéctu Angelórum psallam tibi, Deus meus.
+R.  Adorábo ad templum sanctum tuum, et confitébor nómini tuo.
+
 [Ant 2]
 Ego sum Raphael angelus * qui adsto ante Dominum: vos autem benedicite Deum , et narrate omnia mirabilia eius, alleluia.
 
@@ -275,6 +283,10 @@ R. In conspectu Angelorum * psallam tibi Deus meus
 _
 V. Adorate Deum
 R. Omnes Angeli ejus
+
+[Versum 3]
+V.  Stetit Angelus juxta aram templi.
+R.  Habens thuríbulum áureum in manu sua.
 
 [Ant 3]
 Princeps gloriosissime * Raphael Archangele, esto memor nostri: hic et ubique semper precare pro nobis Filium Dei

@@ -10,21 +10,21 @@ Lesson from the book of Ezekiel
 @Tempora/111-2:Responsory1
 
 [Lectio2]
-!Ezek 1:5-9
-5  And in the midst thereof the likeness of four living creatures: and this was their appearance: there was the likeness of a man in them.
-6  Every one had four faces, and every one four wings.
-7  Their feet were straight feet, and the sole of their foot was like the sole of a calf's foot, and they sparkled like the appearance of glowing brass.
-8  And they had the hands of a man under their wings on their four sides: and they bad faces, and wings on the four sides,
-9  And the wings of one were joined to the wings of another. They turned not when they went: but every one went straight forward.
+!Ezek 34:5-9
+5 And my sheep were scattered, because there was no shepherd: and they became the prey of all the beasts of the field, and were scattered.
+6 My sheep have wandered in every mountain, and in every high hill: and my flocks were scattered upon the face of the earth, and there was none that sought them, there was none, I say, that sought them. 
+7 Therefore, ye shepherds, hear the word of the Lord: 
+8 As I live, saith the Lord God, forasmuch as my flocks have been made a spoil, and my sheep are become a prey to all the beasts of the field, because there was no shepherd: for my shepherds did not seek after my flock, but the shepherds fed themselves, and fed not my flocks: 
+9 Therefore, ye shepherds, hear the word of the Lord: 
 
 [Responsory2]
 @Tempora/111-2:Responsory2
 
 [Lectio3]
-!Ezek 1:10-12
-10  And as for the likeness of their faces: there was the face of a man, and the face of a lion on the right side of all the four: and the face of an ox, on the left side of all the four: and the face of an eagle over all the four.
-11  And their faces, and their wings were stretched upward: two wings of every one were joined, and two covered their bodies:
-12  And every one of them went straight forward: whither the impulse of the spirit was to go, thither they went: and they turned not when they went.
+!Ezek 34:10-12
+10 Thus saith the Lord God: Behold I myself come upon the shepherds, I will require my flock at their hand, and I will cause them to cease from feeding the flock any more, neither shall the shepherds feed themselves any more: and I will deliver my flock from their mouth, and it shall no more be meat for them.
+11 For thus saith the Lord God: Behold I myself will seek my sheep, and will visit them. 
+12 As the shepherd visiteth his flock in the day when he shall be in the midst of his sheep that were scattered, so will I visit my sheep, and will deliver them out of all the places where they have been scattered in the cloudy and dark day. 
 
 [Responsory3]
 @Tempora/111-2:Responsory3

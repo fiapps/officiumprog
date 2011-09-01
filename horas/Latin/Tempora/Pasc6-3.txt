@@ -36,7 +36,7 @@ Incipit Epistola secunda beati Joannis Apostoli.
 !2 John 1:10-13
 10 Si quis venit ad vos, et hanc doctrinam non affert, nolite recipere eum in domum, nec Ave ei dixeritis.
 11 Qui enim dicit illi Ave, communicat operibus ejus malignis.
-12 Plura habens vobis scribere, nolui per cartam et atramentum: spero enim me futurum apud vos, et os ad os loqui: ut gaudium vestrum plenum sit.
+12 Plura habens vobis scribere, nolui per chartam et atramentum: spero enim me futurum apud vos, et os ad os loqui: ut gaudium vestrum plenum sit.
 13 Salutant te filii sororis tuae Electae.
 
 [Responsory3]
@@ -45,7 +45,7 @@ Incipit Epistola secunda beati Joannis Apostoli.
 [Lectio4]
 Sermo sancti Gregorii Nysseni.
 !Orat. dc Ascens. homini.
-Hodiernam celebritatem satis per se magnam, propheta David majorem efficit, dum Hic enim excelsus Propheta supra seipsum egrediens, tamquam corporis onere nihil prematur, infert se caelestibus potestatibus, et voces earum nobis exponit, cum in caelum redeuntem Dominum ipsae comitantes, Angelis, qui versantur in terris, quibusque in humanam vitam ingressus commissus est, imperant ad hunc modum: Tollite portas principes vestras, et elevamini portae aeternales, et introibit Rex gloriae.
+Hodiernam celebritatem satis per se magnam, propheta David majorem efficit, dum illi gaudium e Psalmis adjungit. Hic enim excelsus Propheta supra seipsum egrediens, tamquam corporis onere nihil prematur, infert se caelestibus potestatibus, et voces earum nobis exponit, cum in caelum redeuntem Dominum ipsae comitantes, Angelis, qui versantur in terris, quibusque in humanam vitam ingressus commissus est, imperant ad hunc modum: Tollite portas principes vestras, et elevamini portae aeternales, et introibit Rex gloriae.
 
 [Lectio5]
 Et quoniam ubicumque fuerit ille, qui in seipso omnia continet, pro suscipientium captu seipsum dimetitur (neque enim solum inter homines homo fit, verum etiam dum inter Angelos versatur, ad illorum vocem sese demittit) idcirco janitores interrogant: Quis est iste Rex gloriae? Respondent ipsis, demonstrantque fortem et potentem in praelio, qui pugnaturus erat contra illum, qui naturam humanam in servitute captivam detinebat, et eversurus eum qui mortis habebat imperium: ut gravissimo hoste superato, genus hominum in libertatem et pacem vindicaret.
@@ -66,5 +66,5 @@ Hoc autem nobis primum quaerendum est, quidnam sit, quod, nato Domino, apparueru
 In ascensione ergo ejus Angeli in albis vestibus videri debuerunt: quia qui in nativitate sua apparuit Deus humilis, in ascensione sua ostensus est homo sublimis. Sed hoc nobis magnopere, fratres carissimi, in hac solemnitate pensandum est: quia deletum est hodierna die chirographum damnationis nostrae, mutata est sententia corruptionis nostrae. Illa enim natura, cui dictum est: Terra es, et in terram ibis; hodie in caelum ivit. Pro hac ipsa namque carnis nostrae sublevatione, per figuram beatus Job Dominum avem vocat. Quia enim ascensionis ejus mysterium Judaeam non intelligere conspexit, de infidelitate ejus per figuram beatus Job sententiam protulit, dicens: Semitam ignoravit avis.
 
 [Lectio9]
-Avis enim recte appellatus est Dominus, quia corpus carneum ad aethera libravit. Cujus avis semitam ignoravit, quisquis eum ad caelum ascendisse non credidit. De hac solemnitate per Psalmistam dicitur: Elevata est magnificentia tua super caelos. De hac rursus ait: Ascendit Deus in jubilatione, et Dominus in voce tubam. De hac iterum dicit: Ascendens in altum, captivam duxit captivitatem, dedit dona hominibus. Ascendens quippe in altum, captivam duxit captivitatem: quia corruptionem nostram virtute suae incorruptionis absorbuit. Dedit vero dona hominibus, quia misso desuper Spiritu, alii sermonem sapientiae, alii sermonem scientiae alii gratiam virtutum, alii gratiam curationum, alii genera linguarum, alii interpretatidnem tribuit sermonum.
+Avis enim recte appellatus est Dominus, quia corpus carneum ad aethera libravit. Cujus avis semitam ignoravit, quisquis eum ad caelum ascendisse non credidit. De hac solemnitate per Psalmistam dicitur: Elevata est magnificentia tua super caelos. De hac rursus ait: Ascendit Deus in jubilatione, et Dominus in voce tubae. De hac iterum dicit: Ascendens in altum, captivam duxit captivitatem, dedit dona hominibus. Ascendens quippe in altum, captivam duxit captivitatem: quia corruptionem nostram virtute suae incorruptionis absorbuit. Dedit vero dona hominibus, quia misso desuper Spiritu, alii sermonem sapientiae, alii sermonem scientiae alii gratiam virtutum, alii gratiam curationum, alii genera linguarum, alii interpretationem tribuit sermonum.
 &teDeum

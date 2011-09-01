@@ -8,6 +8,9 @@ Leo
 vide C4a;mtv
 9 lectiones
 
+[Ant 1]
+O Doctor optime,* Ecclesiae Sanctae lumen, beate Leone, divinae legis amator, deprecare pro nobis Filium Dei
+
 [Oratio]
 Gregem tuum, Pastor ætérne, placátus inténde: et per beátum Leonem Summum Pontíficem perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem.
 $Per Dominum

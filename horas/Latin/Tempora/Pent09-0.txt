@@ -36,7 +36,7 @@ R. Et liberabit vos de manibus inimicorum vestrorum.
 !2 Kgs 1:4-6
 4 Et abiit Elias.
 5 Reversique sunt nuntii ad Ochoziam. Qui dixit eis: Quare reversi estis?
-6 At illi responderunt ei: Vir occurrit nobis, et dixit ad nos: Ite, et revertimini ad regem qui misit vos, et dicetis ei: Haec dicit Dominus: Numquid quia non erat Deus in Israël, mittis ut consulatur Beelzebub deus Accaron? idcirco de lectulo, super quem ascendisti, non descendes, sed morte morieris.
+6 At illi responderunt ei: Vir occurrit nobis, et dixit ad nos: Ite, et revertimini ad regem qui misit vos, et dicetis ei: Haec dicit Dominus: Numquid quia non erat Deus in Israël, mittis ut consulatur Beelzebub deus Accaron? Idcirco de lectulo, super quem ascendisti, non descendes, sed morte morieris.
 
 [Responsory2]
 R. Deus omnium exauditor est: ipse misit Angelum suum, et tulit me de ovibus patris mei:
@@ -74,13 +74,13 @@ R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit opprobri
 Beatus enim Elias typum habuit Domini Salvatoris. Sicut enim Elias a Judaeis persecutionem passus est: ita et verus Elias Dominus noster ab ipsis Judaeis reprobatus est, et contemptus. Elias reliquit gentem suam: et Christus deseruit synagogam. Elias abiit in desertum: et Christus venit in mundum. Elias in deserto corvis ministrantibus pascebatur: et Christus in deserto mundi hujus Gentium fide reficitur.
 
 [Responsory5]
-R. Montes Gelboe, nec ros nec pluvia veniant super vos
+R. Montes Gelboë, nec ros nec pluvia veniant super vos
 * Ubi ceciderunt fortes Israël.
-V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboe autem transeat.
+V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboë autem transeat.
 R. Ubi ceciderunt fortes Israël.
 
 [Lectio6]
-Corvi enim illi, qui beato Eliae, jubente Domino, ministrabant, Gentium populum figurabant: propterea et de Gentium Ecclesia dicitur: Nigra sum et formosa, filia Jerusalem. Unde est Ecclesia nigra, et formosa? Nigra per naturam, formosa per gratiam. Unde nigra? Ecce in iniquitatibus conceptus sum, et in delictis peperit me mater mea. Unde formosa? Asperges me hyssopo, et mundabor: lavabis me, et super nivem dealbabor.
+Corvi enim illi, qui beato Eliae, jubente Domino, ministrabant, Gentium populum figurabant: Propterea et de Gentium Ecclesia dicitur: Nigra sum et formosa, filia Jerusalem. Unde est Ecclesia nigra, et formosa? Nigra per naturam, formosa per gratiam. Unde nigra? Ecce in iniquitatibus conceptus sum, et in delictis peperit me mater mea. Unde formosa? Asperges me hyssopo, et mundabor: lavabis me, et super nivem dealbabor.
 
 [Responsory6]
 R. Ego te tuli de domo patris tui, dicit Dominus, et posui te pascere gregem populi mei:
@@ -93,7 +93,7 @@ R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
 !Luke 19:41-47
-In illo tempore: Cum appropinquaret Jesus Jerusalem, videns civitatem flevit super illam, dicens: Quia si cognovisses et tu, et quidem in hac die tua, quae ad pacem tibi, nunc autem abscondita sunt ab oculis tuis. Et reliqua.
+In illo tempore: Cum appropinquaret Jesus Jerusalem, videns civitatem flevit super illam, dicens: Quia si cognovisses et tu, et quidem in hac die tua, quae ad pacem tibi! Nunc autem abscondita sunt ab oculis tuis. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
 !Homilia 39. In Evangelia.
@@ -103,7 +103,7 @@ Quod a flente Domino illa Jerosolymorum subversio describitur, quae a Vespasiano
 @Tempora/Pent01-3:Responsory1
 
 [Lectio8]
-Cui ex qua culpa eversionis suae plena fuerit illata, subjungitur: Eo quod non cognoveris tempus visitationis tuae. Creator quippe hominum per incarnationis suae mysterium hanc visitare dignatus est: sed ipsa timoris et amoris illius recordata non est. Unde etiam per Prophetam in increpatione cordis humani aves caeli ad testimonium deducuntur, dum dicitur: Milvus in caelo cognovit tempus suum, turtur et hirundo et ciconia custodierunt tempus adventus sui: populus autem meus non cognovit judicium Domini.
+Cui ex qua culpa eversionis suae poena fuerit illata, subjungitur: Eo quod non cognoveris tempus visitationis tuae. Creator quippe hominum per incarnationis suae mysterium hanc visitare dignatus est: sed ipsa timoris et amoris illius recordata non est. Unde etiam per prophetam in increpatione cordis humani aves caeli ad testimonium deducuntur, dum dicitur: Milvus in caelo cognovit tempus suum, turtur et hirundo et ciconia custodierunt tempus adventus sui: populus autem meus non cognovit judicium Domini.
 
 [Responsory8]
 @Tempora/Pent01-0:Responsory8
@@ -120,7 +120,7 @@ V. Dominus regnavit, decorem induit.
 R. Induit Dominus fortitudinem, et praecinxit se virtute.
 
 [Ant 3]
-Scriptum est enim: * Quia domus mea domus orationis est cunctis gentibus: vos autem fecistis illam speluncam latronum: et erat quotidie docens in templo.
+Scriptum est enim: * Quia domus mea domus orationis est cunctis gentibus: vos autem fecistis illam speluncam latronum: Et erat quotidie docens in templo.
 
 [Versum 3]
 V. Dirigatur Domine oratio mea.

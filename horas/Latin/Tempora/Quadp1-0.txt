@@ -25,7 +25,7 @@ $Per Dominum.
 Praeoccupemus faciem Domini: * Et in psalmis jubilemus ei.
 
 [Lectio1]
-Incipit libro Genesis
+Incipit liber Genesis
 !Gen 1:1-8
 1 In principio creavit Deus caelum et terram.
 2 Terra autem erat inanis et vacua, et tenebrae erant super faciem abyssi: et Spiritus Dei ferebatur super aquas.

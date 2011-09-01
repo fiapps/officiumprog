@@ -17,7 +17,7 @@ De libro primo Regum.
 [Lectio2]
 !1 Sam 17:41-46
 41 Ibat autem Philisthaeus incedens, et appropinquans adversum David, et armiger ejus ante eum.
-42 Cumque inspexisset Philisthaeus, et vidisset David, despexit eum. Erat enim adolescens, rufus, et pulcher aspectu.
+42 Cumque inspexisset Philisthaeus, et vidisset David, despexit eum, erat enim adolescens, rufus, et pulcher aspectu.
 43 Et dixit Philisthaeus ad David: Numquid ego canis sum, quod tu venis ad me cum baculo? Et maledixit Philisthaeus David in diis suis:
 44 dixitque ad David: Veni ad me, et dabo carnes tuas volatilibus caeli et bestiis terrae.
 45 Dixit autem David ad Philisthaeum: Tu venis ad me cum gladio, et hasta, et clypeo: ego autem venio ad te in nomine Domini exercituum, Dei agminum Israël quibus exprobrasti
@@ -31,7 +31,7 @@ De libro primo Regum.
 48 Cum ergo surrexisset Philisthaeus, et veniret, et appropinquaret contra David, festinavit David et cucurrit ad pugnam ex adverso Philisthaei.
 49 Et misit manum suam in peram, tulitque unum lapidem, et funda jecit, et circumducens percussit Philisthaeum in fronte: et infixus est lapis in fronte ejus, et cecidit in faciem suam super terram.
 50 Praevaluitque David adversum Philisthaeum in funda et lapide, percussumque Philisthaeum interfecit. Cumque gladium non haberet in manu David,
-51 cucurrit, et stetit super Philisthaeum, et tulit gladium ejus, et eduxit eum de vagina sua: et interfecit eum, praeciditque caput ejus. Videntes autem Philisthiim quod mortuus esset fortissimus eorum, fugerunt.
+51 cucurrit, et stetit super Philisthaeum, et tulit gladium ejus, et eduxit eum de vagina sua: et interfecit eum, praeciditque caput ejus. 
 
 [Responsory3]
 @Tempora/Pent03-2Feria:Responsory3

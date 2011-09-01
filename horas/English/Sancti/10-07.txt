@@ -70,7 +70,7 @@ Blessed art thou * O Virgin Mary, Mother of God, who didst believe the Lord; for
 O God, Whose Only-begotten Son, by living, dying, and rising again, hath purchased everlasting joy for us, mercifully grant that, by calling these things to mind in the Blessed Virgin Mary's most holy Garden-of-roses, we may learn better both to follow what they set forth, and to strive after what they promise.
 $Per eumdem
 
-[Commemoratio]
+[Commemoratio 2]
 !S. Marci Papae
 @Commune/C4:Oratio proper
 $Oremus
@@ -79,6 +79,7 @@ $Per Dominum
 _
 !Commemoratio Ss. Martyrum Sergii, Bacchi, Marcelli and Apuleji
 @Commune/C3:Oratio proper
+_
 $Oremus
 Pause there to come upon us, O Lord, a grace from the blessed and worthy wrestling of thine holy Martyrs Sergius, Bacchus, Marcellus, and Apuleius, fanning ever in us the fire of the love of thyself.
 $Per Dominum
@@ -142,7 +143,7 @@ Lesson from the book of Ecclesiasticus
 12 Then the creator of all things commanded, and said to me: and he that made me, rested in my tabernacle, 24:13 And he said to me: Let thy dwelling be in Jacob, and thy inheritance in Israel, and take root in my elect. 
 14 From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him. 
 15 And so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem. 
-16 And I took root in an honourable people, and in the portion of mg God his inheritance, and my abode is in the full assembly of saints.
+16 And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints.
 
 [Responsory1]
 R. Take the pleasant harp, in the time appointed, on your solemn feastday

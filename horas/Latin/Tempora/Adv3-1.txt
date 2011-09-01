@@ -19,7 +19,7 @@ De Isaia Propheta
 4 Et erit flos decidens gloriae exsultationis ejus, qui est super verticem vallis pinguium, quasi temporaneum ante maturitatem autumni, quod, cum aspexerit videns, statim ut manu tenuerit, devorabit illud.
 5 In die illa erit Dominus exercituum corona gloriae, et sertum exsultationis residuo populi sui;
 6 et spiritus judicii sedenti super judicium, et fortitudo revertentibus de bello ad portam.
-7 Verum hi quoque prae vino nescierunt, et prae ebrietate erraverunt; sacerdos et propheta nescierunt prae ebrietate; absorpti sunt a vino, erraverunt in ebrietate, nescierunt videntem, ignoraverunt judicium.
+7 Verum hi quoque prae vino nescierunt, et prae ebrietate erraverunt; sacerdos et propheta nescierunt prae ebrietate; absorpti sunt a vino.
 
 [Responsory2]
 @Tempora/Adv3-0:Responsory2
@@ -28,7 +28,7 @@ De Isaia Propheta
 !Isa 28:16-18
 16 Idcirco haec dicit Dominus Deus: Ecce ego mittam in fundamentis Sion lapidem, lapidem probatum, angularem, pretiosum, in fundamento fundatum; qui crediderit, non festinet.
 17 Et ponam in pondere judicium, et justitiam in mensura; et subvertet grando spem mendacii, et protectionem aquae inundabunt.
-18 Et delebitur fœdus vestrum cum morte, et pactum vestrum cum inferno non stabit: flagellum inundans cum transierit, eritis ei in conculcationem.
+18 Et delebitur fœdus vestrum cum morte, et pactum vestrum cum inferno non stabit.
 
 [Responsory3]
 @Tempora/Adv3-0:Responsory3

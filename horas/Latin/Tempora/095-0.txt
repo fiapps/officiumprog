@@ -1,12 +1,12 @@
 [Ant 1]
-Domine Rex omnipotens, * in ditione tua cuncta sunt posita, et non est qui possit tuae resistere voluntati.
+Domine Rex omnipotens, * in dicione tua cuncta sunt posita, et non est qui possit tuae resistere voluntati.
 
 [Versum 1]
 V. Vespertina oratio ascendat ad te Domine.
 R. Et descendat super nos misericordia tua.
 
 [Lectio1]
-Incipit libro Esther
+Incipit liber Esther
 !Esth 1:1-4
 1 In diebus Assueri, qui regnavit ab India usque Æthiopiam super centum viginti septem provincias,
 2 quando sedit in solio regni sui, Susan civitas regni ejus exordium fuit.
@@ -14,7 +14,7 @@ Incipit libro Esther
 4 ut ostenderet divitias gloriae regni sui, ac magnitudinem atque jactantiam potentiae suae, multo tempore, centum videlicet et octoginta diebus.
 
 [Responsory1]
-R. Domine mi Rex omnipotens, in ditione tua cuncta sunt posita, et non est qui possit resistere voluntati tuae:
+R. Domine mi Rex omnipotens, in dicione tua cuncta sunt posita, et non est qui possit resistere voluntati tuae:
 * Libera nos propter nomen tuum.
 V. Exaudi orationem nostram, et converte luctum nostrum in gaudium.
 R. Libera nos propter nomen tuum.
@@ -36,7 +36,7 @@ R. Libera nos propter nomen tuum.
 [Responsory3]
 R. Spem in alium numquam habui, praeterquam in te Deus Israël:
 * Qui irasceris, et propitius eris: et omnia peccata hominum in tribulatione dimittis.
-V. Domine Deus creator caeli et terrae, respice ad humilitatem nostram.
+V. Domine Deus Creator caeli et terrae, respice ad humilitatem nostram.
 R. Qui irasceris, et propitius eris: et omnia peccata hominum in tribulatione dimittis.
 &Gloria
 R. Qui irasceris, et propitius eris: et omnia peccata hominum in tribulatione dimittis.

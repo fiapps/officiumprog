@@ -1,5 +1,5 @@
 [Rank]
-S. Gregory VII Papae Confessoris;;Duplex;;3;;vide C4
+S. Gregorii VII Papae Confessoris;;Duplex;;3;;vide C4
 
 [Rule]
 vide C4;
@@ -10,15 +10,11 @@ CPapaM=Urbanum;
 Deus in te sperantium fortitudo, qui beatum Gregorium Confessorem tuum atque Pontificem, pro tuenda Ecclesiae libertate virtute constantiae roborasti: da nobis ejus exemplo, et intercessione, omnia adversantia fortiter superare.
 $Per Dominum
 
-[Commemoratio 1]
+[Commemoratio]
 !Commemoratio S. Urbani I. Pp. et Martyris
-Ant. Lux perpetua lucebit Sanctis tuis Domine, et aeternitas temporum, alleluia.
-_
-V. Sancti et justi in Domino gaudete alleluia.
-R. Vos elegit Deus in hereditatem sibi, alleluia.
-_
+@Commune/C3:Oratio proper
 $Oremus.
-Gregem tuum, Pastor æterne, placatus intende: et per beatum Urbanum Martyrem tuum atque Summum Pontificem, perpetua protectione custodi; quem totius Ecclesiæ præstitisti esse pastorem. 
+Gregem tuum, Pastor ætérne, placátus inténde: et per beátum Urbánum Mártyrem tuum atque Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem. 
 $Per Dominum.
 
 [Lectio4]
@@ -34,18 +30,6 @@ Dum Missarum solemnia perageret, visa est viris piis columba e caelo delapsa, hu
 !Pro Urbano I Martyri
 Urbanus Romanus, Alexandro Severo imperatore, doctrina et vitae sanctitate multos ad Christi fidem convertit: in illis Valerianum, beatae Caeciliae sponsum, et Tiburtium Valeriani fratrem; qui postea martyrium forti animo subierunt. Hic de bonis Ecclesiae attributis scripsit his verbis: Ipsae res fidelium, quae Domino offeruntur, non debent in alios usus, quam ecclesiasticos et christianorum fratrum, vel indigentium, converti: quia vota sunt fidelium, et pretia peccatorum, ac patrimonia pauperum. Sedit annos sex, menses septem, dies quatuor: ac martyrio coronatus, sepultus est in coemeterio Praetextati, octavo Kalendas Junii. Ordinationibus quinque habitis mense Decembri, creavit presbyteros novem, diaconos quinque, episcopos per diversa loca octo.
 &teDeum
-
-[Commemoratio 2]
-!Commemoratio S. Urbani I. Pp. et Martyris
-Ant. Filiae Jerusalem, venite, et videte Martyres cum coronis quibus coronavit eos Dominus in die solemnitatis et laetitiae, alleluia, alleluia.
-_
-V. Pretiosa in conspectu Domini, alleluia.
-R. Mors sanctorum ejus, alleluia.
-_
-$Oremus.
-Da quaesumus omnipotens Deus: ut qui beati Urbani Martyris tui atque Pontificis
-solemnia colimus, ejus apud te intercessionibus adjuvemur.
-$Per Dominum.
 
 [Lectio94]
 Gregórius Papa septimus, antea Hildebrandus, Suanæ in Etruria natus, doctrína, sanctitáte, omnique virtútum génere cum primis nobilis, mirifice universam Dei Ecclésiam illustrávit. Adoléscens religiosi habitum índuit in Cluniacénsi monastério, tantoque pietátis ardore Deo deserviit, ut a sanctis ejúsdem cœnobii pátribus prior fúerit eléctus. Postea factus abbas monasterii sancti Pauli extra muros Urbis, ac deínde creátus Romanæ Ecclésiæ cardinalis, sub Summis Pontifícibus Leone nono, Victore secundo, Stephano nono, Nicolao secundo et Alexandro secundo, præcipuis munéribus et legatiónibus perfunctus est. Mortuo Alexandro secundo, unanímiter Summus Póntifex eléctus, ecclesiásticæ libertátis propugnator ac defensor acérrimus éxstitit; quapropter multa passus, et Roma discedere coactus est. Postrema ejus moriéntis verba fuére: Diléxi justítiam et odívi iniquitátem, proptérea morior in exsílio. Migrávit in cælum, anno salútis millésimo octogésimo quinto, ejúsque corpus in cathedrali basilica Salernitana honorifice cónditum est.

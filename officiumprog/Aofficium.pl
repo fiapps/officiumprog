@@ -324,7 +324,7 @@ $but = $tframe->Button(-borderwidth=>0, -image=>$imgptr, -highlightthickness=>0,
 setimage($but, "up", 12);
 configure($but, $framecolor, $titlefont);
 
-$tframe->Button(-text=>'Kalendar', -background=>$framecolor, -borderwidth=>0, -foreground=>$blue,
+$tframe->Button(-text=>'Kalendarium', -background=>$framecolor, -borderwidth=>0, -foreground=>$blue,
   -command=>sub{kalendar()})
   ->pack(-side=>'left', -padx=>$padx);
 
@@ -464,7 +464,7 @@ if ($missaprog) {
       ->grid(-column=>3, -row=>1, -padx=>$padx);
   }
 } else {
-  $bframe2->Button(-text=>'Kalendar', -background=>$framecolor, -borderwidth=>0,  -foreground=>$blue,
+  $bframe2->Button(-text=>'Kalendarium', -background=>$framecolor, -borderwidth=>0,  -foreground=>$blue,
     -command=>sub{kalendar()})
     ->grid(-column=>3, -row=>1, -padx=>$padx);
 }

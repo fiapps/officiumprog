@@ -10,6 +10,7 @@ Psalmi Dominica
 Antiphonas horas
 Doxology=Hearth
 Prima=53
+Festum Domini
 
 [Ant Vespera]
 Put thy easy yoke * upon all mankind, O Lord, and be thou ruler, even in the midst of thine enemies.;;109
@@ -132,10 +133,9 @@ V. Et lætábor super eis cum bene eis fécero in toto Corde meo.
 R. Ut non recédant a me.
 
 [Lectio2]
-!Jer 30:18-24
+!Jer Jer 30:18-19; 30:21-24
 18 Ezt mondja az Úr: Helyreállítom Jákob sátrait, és megkönyörülök hajlékain. Újraépítik romjaiból a várost, és a palotát is a maga helyén.
-19 Hálaadás hallatszik onnan és örömnek szava. Megsokasítom õket, és nem fogyatkoznak meg; megdicsõítem õket, és nem szégyenülnek meg.
-20 Fiaik becsesek lesznek a szememben, mint egykor voltak, gyülekezetük szilárdan fennmarad színem elõtt; sanyargatóikat meg mind megfenyítem.
+19 Hálaadás hallatszik onnan és örömnek szava. 
 21 Vezérük közülük származik, és fejedelmük a maguk körébõl. Színem elé engedem, úgyhogy elém járulhat. Mert ki merné életét kockáztatni, hogy elém járuljon? mondja az Úr.
 22 Így ti az én népem lesztek, én meg a ti Istenetek leszek.
 23 De megindul az Úr haragjának fergetege is, és pusztító vihar zúdul a gonoszok fejére.

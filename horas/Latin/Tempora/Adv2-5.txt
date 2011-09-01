@@ -26,15 +26,15 @@ De Isaia Propheta
 [Lectio3]
 !Isa 24:7-16
 7 Luxit vindemia, infirmata est vitis, ingemuerunt omnes qui laetabantur corde;
-8 cessavit gaudium tympanorum, quievit sonitus laetantium, conticuit dulcedo citharae.
+8 Cessavit gaudium tympanorum, quievit sonitus laetantium, conticuit dulcedo citharae.
 9 Cum cantico non bibent vinum; amara erit potio bibentibus illam.
 10 Attrita est civitas vanitatis, clausa est omnis domus, nullo introëunte.
-11 Clamor erit super vino in plateis, deserta est omnia laetitia, translatum est gaudium terrae.
+11 Clamor erit super vino in plateis, deserta est omnis laetitia, translatum est gaudium terrae.
 12 Relicta est in urbe solitudo, et calamitas opprimet portas.
 13 Quia haec erunt in medio terrae in medio populorum, quomodo si paucae olivae quae remanserunt excutiantur ex olea et racemi, cum fuerit finita vindemia.
 14 Hi levabunt vocem suam, atque laudabunt: cum glorificatus fuerit Dominus, hinnient de mari.
 15 Propter hoc in doctrinis glorificate Dominum; in insulis maris nomen Domini Dei Israël.
-16 A finibus terrae laudes audivimus, gloriam Justi.
+16 A finibus terrae laudes audivimus, gloriam justi.
 
 [Responsory3]
 @Tempora/Adv2-0:Responsory6

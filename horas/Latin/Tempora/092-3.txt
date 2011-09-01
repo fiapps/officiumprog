@@ -17,8 +17,8 @@ De libro Job
 8 seram, et alius comedat, et progenies mea eradicetur.
 9 Si deceptum est cor meum super muliere, et si ad ostium amici mei insidiatus sum,
 10 scortum alterius sit uxor mea, et super illam incurventur alii.
-11 Hoc enim nefas est, et iniquitas maxima.
-12 Ignis est usque ad perditionem devorans, et omnia eradicans genimina.
+11 Hoc enim nefas est, et iniquitas maxima:
+12 ignis est usque ad perditionem devorans, et omnia eradicans genimina.
 
 [Responsory2]
 @Tempora/091-1:Responsory2
@@ -28,9 +28,9 @@ De libro Job
 13 Si contempsi subire judicium cum servo meo et ancilla mea, cum disceptarent adversum me:
 14 quid enim faciam cum surrexerit ad judicandum Deus? et cum quaesierit, quid respondebo illi?
 15 Numquid non in utero fecit me, qui et illum operatus est, et formavit me in vulva unus?
-16 Si negavi quod volebant pauperibus, et oculos viduae expectare feci;
+16 Si negavi quod volebant pauperibus, et oculos viduae exspectare feci;
 17 si comedi buccellam meam solus, et non comedit pupillus ex ea
-18 (quia ab infantia mea crevit mecum miseratio, et de utero matris meae egressa est mecum);
+18 quia ab infantia mea crevit mecum miseratio, et de utero matris meae egressa est mecum;
 
 [Responsory3]
 @Tempora/091-0:Responsory3

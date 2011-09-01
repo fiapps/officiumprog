@@ -1,6 +1,9 @@
 [Rank]
 St. Joseph Confessoris Sponsi B.M.V. confessoris;;Duplex II classis;;5;;
 
+[RankNewcal]
+St Joseph the Worker Confessoris.;;Duplex optional classis;;2;;
+
 [Rule]
 proper
 Psalmi Dominica

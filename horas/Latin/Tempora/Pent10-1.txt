@@ -18,7 +18,7 @@ De libro quarto Regum.
 !2 Kgs 11:4-7
 4 Anno autem septimo misit Jojada, et assumens centuriones et milites, introduxit ad se in templum Domini, pepigitque cum eis fœdus: et adjurans eos in domo Domini, ostendit eis filium regis:
 5 et praecepit illis, dicens: Iste est sermo, quem facere debetis:
-6 tertia pars vestrum introëat sabbato, et observet excubias domus regis. Tertia autem pars sit ad portam Sur, et tertia pars sit ad portam quae est post habitaculum scutariorum: et custodietis excubias domus Messa.
+6 tertia pars vestrum introëat sabbato, et observet excubias domus regis; tertia autem pars sit ad portam Sur, et tertia pars sit ad portam quae est post habitaculum scutariorum: et custodietis excubias domus Messa.
 7 Duae vero partes e vobis, omnes egredientes sabbato, custodiant excubias domus Domini circa regem.
 
 [Responsory2]
@@ -26,8 +26,8 @@ De libro quarto Regum.
 
 [Lectio3]
 !2 Kgs 11:9-12
-9 Et fecerunt centuriones juxta omnia quae praeceperat eis Jojada sacerdos: et assumentes singuli viros suos qui ingrediebantur sabbato, cum his qui egrediebantur sabbato, venerunt ad Jojadam sacerdotem.
-10 Qui dedit eis hastas et arma regis David, quae erant in domo Domini.
+9 Et assumentes singuli viros suos qui ingrediebantur sabbatum, cum his qui egrediebantur sabbato, venerunt ad Jojadam sacerdotem,
+10 qui dedit eis hastas et arma regis David, quae erant in domo Domini.
 11 Et steterunt singuli habentes arma in manu sua, a parte templi dextera usque ad partem sinistram altaris et aedis, circum regem.
 12 Produxitque filium regis, et posuit super eum diadema et testimonium: feceruntque eum regem, et unxerunt: et plaudentes manu, dixerunt: Vivat rex.
 

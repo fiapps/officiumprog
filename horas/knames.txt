@@ -6,6 +6,7 @@ Adv3-5;Ember Friday in Advent
 Adv3-6;Ember Saturday in Advent
 Adv4-0;Fourth Sunday of Advent
 Adv;Feria of Advent
+Adv3;Greater Feria of Advent
 Nat1-0;Sunday in the Octave of Christmas
 Nat2-0;Most Holy Name of Jesus
 Epi1-0;Holy Family
@@ -49,7 +50,7 @@ Pasc1-0;Low Sunday
 Pasc;Feria in Paschaltide
 Pasc2-0;Second Sunday after Easter
 Pasc3-0;Third Sunday after Easter
-Pasc4-0;Forth Sunday after Easter
+Pasc4-0;Fourth Sunday after Easter
 Pasc5-0;Fifth Sunday after Easter
 Pasc5-1;Rogation
 Pasc5-3;Vigil of Ascencion
@@ -460,7 +461,7 @@ C10;Saturday of Our Lady
 12-09;Feria
 12-10;St. Melchiades Pope and Martyr
 12-11;St. Damasus I Pope and Confessor
-12-12;Feria
+12-12;Our Lady of Guadalupae 
 12-13;St. Lucy Virgin and Martyr
 12-14;Feria
 12-15;Feria

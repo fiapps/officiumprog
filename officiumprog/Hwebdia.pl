@@ -40,10 +40,13 @@ sub htmlHead {
   if (!$title) {$title = ' ';}
   $htmltext = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n" .
   "<HTML><HEAD>\n" .
+  "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\">" .
   "<META NAME=\"Resource-type\" CONTENT=\"Document\">\n" .
   "<META NAME=\"description\" CONTENT=\"Divine Office\">\n" .
   "<META NAME=\"keywords\" CONTENT=\"Divine Office, Breviarium, Liturgy, Traditional, Zsolozsma\">\n" .
   "<META NAME=\"Copyright\" CONTENT=\"Like GNU\">\n" .
+  "<META NAME=\"Author\" CONTENT=\"$version\">\n" .
+  "<META NAME=\"Publisher\" CONTENT=\"Divinumofficium.com\">\n" .
   "<TITLE>$title</TITLE>\n" .
   "</HEAD>";
 }
@@ -79,12 +82,6 @@ sub setfont {
 # changes +++, ++ + to crosses in the line
 sub setcross {
   my $line = shift;
-  my $csubst = ''; #"<IMG SRC=$htmlurl/cross3.gif ALIGN=BASELINE ALT=cross3>";
-  $line =~ s/\+\+\+/$csubst/g;
-  $csubst = ''; #"<IMG SRC=$htmlurl/cross2.gif ALIGN=BASELINE ALT=cross2>";
-  $line =~ s/\+\+/$csubst/g;
-  $csubst = ' '; #"<IMG SRC=$htmlurl/cross1.gif ALIGN=BASELINE ALT=cross1>";
-  $line =~ s/ \+ / $csubst /g;
   return $line;
 }
 
@@ -95,6 +92,7 @@ sub setcell {
   my $lang = shift; 
  
  
+  if (!$accented) {$text = deaccent1($text);}
   my $width = ($only) ? 100 : 50;
   if (columnsel($lang)) {
     $searchind++; $htmltext .=  "<TR>";
@@ -104,15 +102,15 @@ sub setcell {
 	  $notefile =~ s/^pc/p/;
 	  $imgu = ($onefile) ? $imgurl1 : $imgurl;
 	  $htmltext .= "<TR><TD COLSPAN=$columns WIDTH=100% $background VALIGN=MIDDLE ALIGN=CENTER>\n" .
-	    "<IMG SRC=\"$imgu/$notefile.gif\" WIDTH=80%></TD></TR>\n";
+	    "<IMG SRC=\"$imgu/$notefile.gif\" WIDTH=100%></TD></TR>\n";
     }
   }
   
     # handle chant
     my $ttext = $text;
     $text = '';
-    $ctext = '';
-    while ($voicecolumn =~ /chant/i && $lang1 =~ /$voicecolumn/i && $ttext =~ /\{\:(.*?)\:\}/) { 
+    $ctext = '';   
+    while ($voicecolumn =~ /chant/i && $voicecolumn =~ /$lang/i && $ttext =~ /\{\:(.*?)\:\}/) { 
       $tonefile = $1;         
       $text .= $`;
       $ttext = $';
@@ -120,8 +118,9 @@ sub setcell {
       if ($ttext =~ /\{\:\:\}/) {$ctext = $`; $ttext = $';}
       else {$ctext = $ttext; $ttext = '';}
       my $wavfilename = substr($hora,0,1) . '-' . substr($lang, 0,1) . "$searchind-$tonefile";
+	  my $reffilename = ($onefile) ? "$month_day/$wavfilename" : $wavfilename;
       
-      $text .= "<A HREF=\"$wavfilename.wav\" TARGET=\"_NEW\"> chant </A>$ctext";
+      $text .= "<A HREF=\"$reffilename.wav\" TARGET=\"_NEW\"> chant </A>$ctext";
       $ctext =~ s/\<.*?\>//g;
 	    $ctext =~ s/\(.*?\)//g;
 	    $ctext =~ s/\[.*?\]//sg;
@@ -134,13 +133,49 @@ sub setcell {
     $text .= $ttext;
   
   
-  
   $text =~ s/\{\:.*?\:\}//g;
   $text =~ s/\_/ /g;
   $text =~ s/[%`]//g;
-  $htmltext .=  "<TD $background VALIGN=TOP WIDTH=$width% ID=L$searchind>"; 
-  $htmltext .=  setfont($blackfont,$text) . "</TD>\n";
-  if ($only || !columnsel($lang)) {$htmltext .= "</TR>\n";} 
+
+  $text =~ s/wait[0-9]+//gi;
+
+  $tdtext2 = '';
+  if ($column == 1) {$tdtext1 = $text;}
+  else {$tdtext2 = $text;}
+  
+  if ($column == 2 && !$only) {
+    my ($b1, $b2) = longtd($tdtext1, $tdtext2);
+	@tdtext1 = @$b1;
+	@tdtext2 = @$b2;  
+    my $item;
+    my $i = 0;
+	while ($i < @tdtext1 && $i < @tdtext2) {
+	  $item = $tdtext1[$i];
+      if ($i > 0) {$htmltext .= "<TR>";}
+	  $htmltext .="<TD $background VALIGN=TOP ALIGN=LEFT WIDTH=45%>";  
+      $htmltext .=  setfont($blackfont,$item) . "</TD>\n";
+  
+      $item = $tdtext2[$i];
+      $htmltext .="<TD $background VALIGN=TOP ALIGN=LEFT WIDTH=45%>";  
+      $htmltext .=  setfont($blackfont,$item) . "</TD>\n";
+      if ($extracolumn) {
+	    $htmltext .="<TD $background VALIGN=TOP ALIGN=Center WIDTH=10%>";  
+        $htmltext .=  "$filler</TD>\n";
+      }
+	  if ($filler && $filler ne ' ') {$filler = ' ';}
+
+      $i++;
+	}
+	@tdtext1 = splice(@tdtext1, @tdtext1);
+    @tdtext2 = splice(@tdtext2, @tdtext2);   
+    $htmltext .= "</TR>\n";
+  }
+  
+  if ($only) {
+    $htmltext .=  "<TD $background VALIGN=TOP WIDTH=$width% ID=L$searchind>"; 
+    $htmltext .=  setfont($blackfont,$text) . "</TD>\n";
+    if ($only || !columnsel($lang)) {$htmltext .= "</TR>\n";} 
+  }
 } 
 
 #*** topnext_Cell() 
@@ -165,35 +200,27 @@ sub topnext {
 #*** table_start
 # start main table
 sub table_start {
-  $htmltext .= "<TABLE BORDER=0 ALIGN=CENTER CELLPADDING=8 CELLSPACING=$border BGCOLOR='$framecolor' WIDTH=80%>";
+  $htmltext .= "<TABLE BORDER=0 ALIGN= CELLPADDING=0 CELLSPACING=$border BGCOLOR='$framecolor' WIDTH=99%>";
+
+  our @tdtext1 = splice(@tdtext1, @tdtext1);
+  our @tdtext2 = splice(@tdtext2, @tdtext2);
+  our $tdtext1 = '';
+  our $filler = '';
+  my $i;
+  if ($extracolumn) {for ($i = 0; $i < $extracolumn; $i++) {$filler .= '.';}}
+   
+
 }
 
-#antepost('$title')
-# prints Ante of Post call
 sub ante_post {
-  my $title = shift;
-  my $flag = 0;
-  if (!$onefile) {$flag = 1;}
-  if ($hora =~ /Matutinum/i && $title =~ /ante/i) {$flag = 1;} 
-  if ($hora =~ /Completorium/i && $title =~ /post/i) {$flag = 1;}
-  if (!$flag) {return;}
-
- 
-  my $text1 = resolve_refs('$' . $title, $lang1); 
-  $text1 =~ s/_/ /g;    
-
-  if (!$only) {
-    my %prayer = %{setupstring("$datafolder/$lang2/Psalterium/Prayers.txt")};
-    my $text2 = resolve_refs('$' . $title, $lang2);       
-    $text2 =~ s/_/ /g;    
-    $htmltext .= "<TR><TD $background VALIGN=TOP width 50%>$text1</TD><TD $background >$text2</TD></TR>\n";
-  } else {$htmltext .= "<TR><TD $background VALIGN=TOP width 100%>$text1</TD></TR>\n";}
+  return;
 }
+
 
 #table_end()
 # finishes main table
 sub table_end {
-  $htmltext .= "</TABLE><span ID=L$searchind></span>";
+  $htmltext .= "</TABLE><BR>";
 }
 
 #*** linkcode($name, $ind, $lang, $disabled)
@@ -252,7 +279,7 @@ sub makewav {
     if (!$texttone) {last;}
   }
 
-  $outfile = "$outdir/$year/$month-$day/$wavfilename";
+  $outfile = "$outdir/$year/$month_day/$wavfilename";
   if (open(OUT, ">$outfile.pho")) {
     print OUT $text;	
 	close OUT;
@@ -293,3 +320,107 @@ sub makewav {
   }
   return 1;
 }
+
+sub deaccent1 {
+  my $w = shift; 
+
+ 
+  $w =~ s/á/a/g;
+  $w =~ s/é/e/g;
+  $w =~ s/ë/e/g;
+  $w =~ s/í/i/g;
+  $w =~ s/ó/o/g;
+  $w =~ s/ú/u/g;
+  $w =~ s/Á/A/g;
+  $w =~ s/É/E/g;
+  $w =~ s/Í/I/g;
+  $w =~ s/Ó/O/g;
+  $w =~ s/Ú/U/g;
+  $w =~ s/æ/ae/g;
+  $w =~ s/œ/oe/g;
+  $w =~ s/Æ/Ae/g;
+  $w =~ s/Œ/Oe/g; 
+  $w =~ s/ý/y/g;
+  $w =~ s/ö/o/g;
+  $w =~ s/õ/o/g;
+  $w =~ s/ô/o/g;
+  $w =~ s/ü/u/g;
+  $w =~ s/û/u/g;
+  $w =~ s/Ö/O/g;
+  $w =~ s/Ô/O/g;
+  $w =~ s/Ô/O/g;
+  $w =~ s/Ú/U/g;
+  $w =~ s/Ü/U/g;
+  $w =~ s/Û/U/g;
+  $w =~ s/’/'/g;
+
+  return $w;
+}
+
+sub longtd {
+ 
+  my $a1 = shift; 
+  my $a2 = shift; 
+
+  my @a1 = split('<BR>', $a1);
+  my @a2 = split('<BR>', $a2);
+  my @b1 = splice(@b1, @b1);
+  my @b2 = splice(@b2, @b2);
+  my $i;
+  my $lim = @a1;
+  if (@a2 > $lim) {$lim = @a2;}
+  
+  for ($i = 0; $i < $lim; $i++) {
+    my $b1 = $a1[$i];
+	my $b2 = $a2[$i]; 
+    if (length($b1) < $celllength && length($b2) < $celllength) {
+	  if ($b1) {push(@b1, $b1);}
+	  if ($b2) {push(@b2, $b2);}  
+	  next;
+	}
+	my @c1 = split('|', $b1); 
+	my @c2 = split('|', $b2); 
+    my $flag = 0;
+	my $i = 0;
+	my $s = '';
+
+	while ($i < @c1) {
+	  my $c = $c1[$i];
+	  $i++;
+      if (!$flag && length($s) > $celllength && $c eq '<' && $s) {push(@b1, $s); $s = '';}
+	  if ($c eq '<' && $c1[$i] ne '/') {$flag++;}
+	  if ($c eq '<' && $c1[$i] eq '/' && $flag) {$flag--;}
+	  $s .= $c;
+	  if ($flag) {next;}
+	  if (($c =~ /[.?]/ && length($s) > $celllength && $i < @c1-1 && $c1[$i] eq ' ' && $c1[$i+1] =~ /[A-Z"]/) ||
+	   ($c =~ /[,;:]/ && length($s) > $celllength)) {push(@b1, $s); $s = '';}
+    }
+	if ($s) {push(@b1, $s);}
+
+	$i = 0;
+	$s = '';
+	$flag = 0;
+	while ($i < @c2) {
+	  my $c = $c2[$i];
+	  $i++;
+      if (!$flag && length($s) > $celllength && $c eq '<' && $s) {push(@b2, $s); $s = '';}
+	  if ($c eq '<' && $c2[$i] ne '/') {$flag++;}
+	  if ($c eq '<' && $c2[$i] eq '/' && $flag) {$flag--;}
+	  $s .= $c;
+	  if ($flag) {next;}
+	  if (($c =~ /[.?]/ && length($s) > $celllength && $i < @c2-1 && $c2[$i] eq ' ' && $c2[$i+1] =~ /[A-Z"]/) ||
+	   ($c =~ /[,;:]/ && length($s) > $celllength)) {push(@b2, $s); $s = '';}
+    }
+	if ($s) {push(@b2, $s);}
+    
+	while (@b1 < @b2) {push(@b1, ' ');}
+	while (@b2 && @b2 < @b1) {push(@b2, ' ');}
+  
+  
+  } 
+  
+  return (\@b1, \@b2);
+
+}
+
+

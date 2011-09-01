@@ -27,7 +27,6 @@ Vitalis miles, sanctorum Gervasii et Protasii pater, una cum Paulino judice Rave
 Paulus a Cruce, Uvádæ in Ligúria natus, a primo ratiónis usu, Jesu Christi crucifíxi amóre flagrávit. Martyrii desidério incénsus, exercítui se adjúnxit, qui Venétiis ad bellum Turcis inferéndum comparabátur. Cógnita vero Dei voluntáte, honestíssimis núptiis sibíque deláta pátrui hereditáte recusátis, rudi túnica a suo epíscopo indútus, nondum cléricus, Domínicum agrum divíni verbi prædicatióne excóluit. Romæ a Summo Pontifice Benedícto décimo tértio ex obediéntia sacerdótio auctus, in solitúdinem recéssit Argentárii montis, quo eum beáta Virgo jamprídem invitáverat, veste illi simul osténsa atri colóris passiónis Fílii sui insígnibus decoráta, ibíque fundaménta jecit novæ congregatiónis, cujus sodáles voto adstringeréntur Domínicæ passiónis memóriam promovéndi. Sacras Vírgines quoque instítuit, quæ Dómini passiónem sédulo meditaréntur. Prædicatióne, virtútibus et divínis charismátibus clarus, Romæ obdormívit in Dómino, anno millésimo septingentésimo septuagésimo quinto. Eum Pius nonus Póntifex máximus in Beatórum, dein in Sanctórum númerum rétulit.
 &teDeum
 
-
 [Lectio7]
 @Commune/C1a:Lectio7
 
@@ -39,7 +38,7 @@ Paulus a Cruce, Uvádæ in Ligúria natus, a primo ratiónis usu, Jesu Christi cruci
 
 [Commemoratio]
 !Commemoratio S. Vitalis Mart.
-@Commune/C2p:Oratio proper
+@Commune/C2:Oratio proper
 $Oremus
 Praesta, quaesumus omnipotens Deus: ut qui beati Vitalis Martyris tui natalitia colimus, intercessione ejus in tui nominis amore roboremur.
 $Per Dominum

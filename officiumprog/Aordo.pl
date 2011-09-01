@@ -204,7 +204,8 @@ sub Readings {
 	my $savekday = $kday;
     $dayname[0] = '';
 	precedence($date1); #for the daily item      
-    $kyear = $savekyear;
+    
+	$kyear = $savekyear;
 	$kmonth = $savekmonth;
 	$kday = $savekday;
 	
@@ -279,7 +280,8 @@ sub ordohtml {
 	  my $savekmonth= $kpmonth;
   	  my $savekday = $kpday;
       precedence($date1); #for the daily item      
-      $kpyear = $savekyear;
+      
+	  $kpyear = $savekyear;
 	  $kpmonth = $savekmonth;
 	  $kpday = $savekday;
 
@@ -293,7 +295,7 @@ sub ordohtml {
 	  my $r3 = $rank[3];
 	  my $col3 = "$rank[0]";
 	  if ($version =~ /1960/) { 
-	    $col3 = getkname($winner);
+	    $col3 = getkname($winner, $rank[2]);
 		if (($dayofweek == 0 || $rank[0] =~ /(Feria|Dominica)/i) && 
 		    $rank[0] =~ / (III|II|IV|I|V)\.\s(August|Septembr|Octobr|Novembr|Decembr)/i) 
 	      {$col3 .= (' ' . $knames{$1} . ' ' . $knames{$2});} 
@@ -305,7 +307,7 @@ sub ordohtml {
 		if ($version =~ /1960/) {$r[2] = floor($r[2]);}
 	    my @r = split(';;', chompd($commemoratio1{Rank}));
 		if ($r[2] >= 2 || $vespera != 1) {
-	      if ($version =~ /1960/) {$col3 .= '<BR>' . getkname($commemoratio1);}
+	      if ($version =~ /1960/) {$col3 .= '<BR>' . getkname($commemoratio1, $r[2]);}
 		  else {$col3 .= "<BR>$r[0]";}
 		  $col2 .= "<BR>$r[2]";
 		}
@@ -314,7 +316,7 @@ sub ordohtml {
 	  	my @r = split(';;', chompd($commemoratio{Rank}));
 		if ($version =~ /1960/) {$r[2] = floor($r[2]);}
 		if ($r[2] >= 2 || $vespera != 1) {
-	      if ($version =~ /1960/) {$col3 .= '<BR>' . getkname($commemoratio);}
+	      if ($version =~ /1960/) {$col3 .= '<BR>' . getkname($commemoratio, $r[2]);}
 		  else {$col3 .= "<BR>$r[0]";}
 		  $col2 .= "<BR>$r[2]";
 		}
@@ -323,7 +325,7 @@ sub ordohtml {
  	    my @r = split(';;', chompd($commemorated{Rank}));
 		if ($version =~ /1960/) {$r[2] = floor($r[2]);}
 		if ($r[2] >= 2 || $vespera != 1) {
-	      if ($version =~ /1960/) {$col3 .= '<BR>' . getkname($commemorated);}
+	      if ($version =~ /1960/) {$col3 .= '<BR>' . getkname($commemorated, $r[2]);}
 		  else {$col3 .= "<BR>$r[0]";}
 		  $col2 .= "<BR>$r[2]";
 		}
@@ -426,19 +428,23 @@ sub ordohtml {
 
 sub getkname {
   my $item = shift;
+  my $rank = shift; 
   my $key;
   if ($item =~ /Tempora/i && $item =~ /([a-z0-9]+\-[0-9])/i) {
     $key = $1;
 	if ($dayofweek == 0 && $kpmonth > 7 && $key =~ /^Epi/) {$key = 'P' . $key;}
 	if (exists($knames{$key})) {return $knames{$key};}
+    if ($key =~ /Adv[34]/i && $item =~ /Tempora/i && $rank == 3) {return $knames{Adv3};} 
 	if ($key =~ /Adv/i) {return $knames{Adv};}	
 	if ($key =~ /Quad[1-4]/i) {return $knames{Quad};}
 	if ($key =~ /Quad5/i) {return $knames{Quad5};}
 	if ($key =~ /Pasc/i) {return $knames{Pasc};}
     return 'Feria';
   } 
+
+
   if ($item =~ /Sancti/i && $item =~ /([0-9][0-9]\-[0-9D][0-9U])/) {
-    $key = $1;
+    $key = $1; 
 	if (exists($knames{$key})) {
 	  my $name = $knames{$key};
 	  if ($name =~ /==/) {$name = $`;}
@@ -447,7 +453,7 @@ sub getkname {
   }
   if ($item =~ /C10/i) {return $knames{C10};}
   %w = officestring("$datafolder/Latin/$item");
-  my @r = split(';;', $w{Rank});
+  my @r = split(';;', $w{Rank});  
   return $r[0];
 }
 

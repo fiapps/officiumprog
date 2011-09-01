@@ -2,7 +2,7 @@
 SS. Apostolorum Petri and Pauli;;Duplex I classis cum octava communi;;6.5;;ex C1
 
 [Rank1960]
-SS. Apostolorum Petri and Pauli;;Duplex I classis;;6;;vide C1
+SS. Apostolorum Petri and Pauli;;Duplex I classis;;6;;ex C1
 
 [Rule]
 ex C1;
@@ -269,6 +269,17 @@ _
 $Oremus
 O God, Who didst hallow this day by the Testifying of thine Holy Apostles Peter and Paul, grant unto thy Church, whose foundations Thou wast pleased to lay by their hands, the grace always in all things to remain faithful to their teaching.
 $Per Dominum
+
+[Octava 11]
+!Commemoratio Octavae S. Petri.
+Ant. Tu es Pastor ovium * Princeps Apostolorum, tibi traditae sunt claves regni caelorum
+_
+V. Tu es Petrus.
+R. Et super hanc petram aedificabo Ecclesiam meam.
+_
+v. Oremus. 
+Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti: da Ecclesiae tuae, eorum in omnibus sequi praeceptum, per quos religionis sumpsit exordium.
+!Qui vivis
 
 [Octava 2]
 !Commemoratio Octavae Ss. Petri and Pauli

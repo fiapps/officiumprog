@@ -11,7 +11,7 @@ De libro Sapientiae.
 [Lectio2]
 !Sap 13:4-7
 4 Aut si virtutem et opera eorum mirati sunt, intelligant ab illis quoniam qui haec fecit fortior est illis:
-5 a magnitudine enim speciei et creaturae cognoscibiliter poterit creator horum videri.
+5 a magnitudine enim speciei et creaturae cognoscibiliter poterit Creator horum videri.
 6 Sed tamen adhuc in his minor est querela; et hi enim fortasse errant, Deum quaerentes, et volentes invenire.
 7 Etenim cum in operibus illius conversentur inquirunt, et persuasum habent quoniam bona sunt quae videntur.
 

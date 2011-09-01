@@ -21,16 +21,16 @@ Factus est * repente de caelo sonus advenientis spiritus vehementis, alleluia, a
 Confirma hoc Deus, * quod operatus es in nobis: a templo sancto tuo, quod est in Jerusalem, alleluia, alleluia;;67
 Emitte Spiritum tuum, * et creabuntur: et renovabis faciem terrae, alleluia, alleluia;;103
 V. Spiritus Paraclitus alleluia
-R. Docebit vos alleluia
+R. Docebit vos omnia. alleluia
 
 [Lectio1]
 Lectio sancti Evangelii secundum Lucam.
 !Luke 5:17-26
-In illo tempore: Factum est in una dierum, et Jesus sedebat docens. Et erant pharisaei sedentes, et legis doctores, qui venerant ex omni castello Galileae, et Judeae, et Jerusalem: et virtus Domini erat ad sanandum eos. Et reliqua.
+In illo tempore: Factum est in una dierum, et Jesus sedebat docens. Et erant pharisaei sedentes, et legis doctores, qui venerant ex omni castello Galilaeae, et Judaeae, et Jerusalem: et virtus Domini erat ad sanandum eos. Et reliqua.
 _
 Homilia sancti Ambrosii Episcopi.
 !Lib 5 in cap 5 Lucae post initium
-Non otiosa hujus paralytici, nec angusta medicina est, quando Dominus et orasse praemittitur: non utique propter suffaragium, sed propter exemplum. Imitandi enim specimen dedit, non precandi ambitum requisivit. Et convenientibus ex omni Galilaea, et Judaea, et Jerusalem legis doctoribus, inter ceterorum remedia debilium, paralytici istius medicina describitur. Primum omnium, quod ante diximus, unusquisque aeger petendae precatores salutis debet adhibere, per quos nostrae vitae compago resoltita, actuumque nostrorum clauda vestigia, verbi caelestis remedio reformantur.
+Non otiosa hujus paralytici, nec angusta medicina est, quando Dominus et orasse praemittitur: non utique propter suffragium, sed propter exemplum. Imitandi enim specimen dedit, non precandi ambitum requisivit. Et convenientibus ex omni Galilaea, et Judaea, et Jerusalem legis doctoribus, inter ceterorum remedia debilium, paralytici istius medicina describitur. Primum omnium, quod ante diximus, unusquisque aeger petendae precatores salutis debet adhibere, per quos nostrae vitae compago resoluta, actuumque nostrorum clauda vestigia, verbi caelestis remedio reformentur.
 
 [Responsory1]
 R. Non vos me elegistis, sed ego elegi vos, et posui vos:
@@ -56,8 +56,8 @@ Disce qui judicas, ignoscere: disce qui aeger es, impetrare. Si gravium peccator
 [Ant 2]
 Dixit Jesus: * Ut sciatis autem, quia Filius hominis habet potestatem in terra dimittendi peccata, ait paralytico: Tibi dico, surge: tolle lectum tuum, et vade in domum tuam, alleluia.
 
-[Oratio 2]
-Da quaesumus Ecclesiae tuae misericors Deus: ut sancto Spiritu congregata, hostili nullatenus incursione turbetur.
+[Oratio]
+Da quaesumus Ecclesiae tuae misericors Deus: ut Sancto Spiritu congregata, hostili nullatenus incursione turbetur.
 $Per Dominum eiusdem
 
 [Ant 3]

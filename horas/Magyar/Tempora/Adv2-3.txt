@@ -10,14 +10,14 @@ Olvasmány Izaiás próféta könyvébõl
 1 Küldjetek bárányokat az ország királyának, Szelából, a sivatagon át, Sion leányának hegyéhez! 
 2 Mint az ide-oda röpdösõ madarak, s mint a kifosztott fészek, olyanok Moáb leányai Arnon gázlójánál. 
 3 "Adj tanácsot, Hozz döntést! Tedd árnyékodat olyanná délben, mintha éjszaka volna; rejtsd el az elûzötteket, s ne áruld el az oda menekülõket, 
-4 hadd lakjanak nálad moábi menekültjeim, légy rejtekhelyük a pusztító elõl." Majd ha véget ér az elnyomás, elpusztul a pusztító, s akik most a földet tiporják, letûnnek, 
+4 hadd lakjanak nálad moábi menekültjeim, légy rejtekhelyük a pusztító elõl." 
 
 [Responsory1]
 @Tempora/Adv1-3:Responsory1
 
 [Lectio2]
 !Isa 16:4-6
-4 hadd lakjanak nálad moábi menekültjeim, légy rejtekhelyük a pusztító elõl." Majd ha véget ér az elnyomás, elpusztul a pusztító, s akik most a földet tiporják, letûnnek, 
+4 Majd ha véget ér az elnyomás, elpusztul a pusztító, s akik most a földet tiporják, letûnnek, 
 5 akkor majd királyi széket állít fel az irgalom, és rajta hûségesen, Dávid sátorában olyan bíró ül majd, akinek gondja lesz az igazságra, és sietve megadja azt, ami jogos. 
 6 Hallottunk Moáb gõgjérõl, módfeletti kevélységérõl. Felfuvalkodottsága, gõgje és dölyfössége csak üres kérkedés. 
 

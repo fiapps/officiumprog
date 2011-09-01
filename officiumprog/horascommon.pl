@@ -99,7 +99,7 @@ sub getname {
 	  return "$abbr=$days[$dayofweek] infra Hebdomodam $str";
 	}
   }
-  return "$abbr not found";
+  return "$abbr";
 }
 
 #*** getsundaytable()
@@ -272,7 +272,7 @@ sub getrank {
 	   elsif (exists($transfer{$tn1})) {$tn1 =$transfer{$tn1};}
        elsif(exists($transfer{$nday}) && $transfer{$nday} =~ /tempora/i ) {$tn1 = $transfer{$nday};} 
 
-       $tvesp = 1;
+       #$tvesp = 1;
 	   %tn1 = %{officestring("$datafolder/$lang1/$tn1.txt", 1)};  
        #if ($tn1{Rank} =~ /(Feria|Vigilia|infra octavam|Quat[t]*uor)/i && $tn1{Rank} !~ /in octava/i
        #  && $tn1{Rank} !~ /Dominica/i) {$tn1rank = '';}
@@ -300,7 +300,7 @@ sub getrank {
   } else {$trank = ''; $tname = '';}     
 
 
-  if (transfered($tname)) {$trank = '';}
+  if (transfered($tname)) {$trank = '';} 
   #if (transfered($tn1)) {$tn1 = '';}     #???????????
 		
   if ($hora =~ /Vespera/i && $dayname[0] =~ /Quadp3/ && $dayofweek == 3) {$trank =~ s/;;6/;;2/;}
@@ -318,7 +318,6 @@ sub getrank {
     $tname = '';
     %tempora = {};
   }
-
 
   $initia = ($tempora{Lectio1} =~ /!.*? 1\:1\-/) ? $initia = 1 : 0;
                             
@@ -387,7 +386,7 @@ sub getrank {
     $cday =~ s/11-03$/11-02t/;
 
 	if (-e "$datafolder/$lang1/$cday.txt") { 
-      $cname = "$cday.txt";       
+      $cname = "$cday.txt";      
       %csaint = updaterank(setupstring("$datafolder/$lang1/$cname")); 
       $BMVSabbato = ($csaint{Rank} =~ /Vigilia/) ? 0 : 1;
       $crank = ($csaint{Rank} =~ /vigilia/i && $csaint{Rank} !~ /(;;[56]|Epi)/i ) ? '' : $csaint{Rank};
@@ -409,7 +408,6 @@ sub getrank {
   if ($version !~ /1960/ && $crank && ($tname =~ /Quadp3\-2/i || $tname =~ /Quad6\-[1-3]/i)) 
     {$crank[2] = 1;}      
 
-
   if ($crank =~ /infra octav/i  && $srank =~ /infra octav/i) 
     {$crank = ''; $cname = ''; @crank = undef;} #exception for nov 2
 
@@ -417,6 +415,7 @@ sub getrank {
                                          
   if (($version =~ /1955/ && $crank[2] < 5) || ($version =~ /1960/ && $crank[2] < 6) ) 
 	  {$crank = ''; @crank = splice(@crank, @crank);}    
+
 
   if ($version !~ /1960/ && $hora =~ /Completorium/i && $month == 11 && $day == 1 && $dayofweek != 6) {
     $crank[2] = 7;
@@ -433,7 +432,6 @@ sub getrank {
   our $antecapitulum = '';
   our $antecapitulum2 = '';
   our $anterule = '';
-
 
   if ($crank[2] >= $srank[2]) {     
 	   if ($hora =~ /Vespera/i && $srank[2] ==  $crank[2]  && $crank[2] >= 2) {
@@ -453,12 +451,22 @@ sub getrank {
       @srank = split(";;", $srank);
       @crank = split(";;", $crank); 
 	  $vflag = 1; 
-	  if ($srank[2] >= 5 && $crank[2] < 2) {$crank = ''; $cname = ''; @crank =''; %csaint= undef;}
-	  if ($srank[2] >= 5 && $crank =~ /infra octav/i) {$crank = ''; $cname = ''; %csaint = undef; @crank = '';} 
+	  
+	  if ((($srank[2] >= 6 && $crank[2] < 5) || ($srank[2] >= 5 && $crank[2] < 3)) 
+	    && $crank[0] !~ /Octav.*?(Epiph|Nativ|Corporis|Cordis|Ascensionis)/i )  
+	    {$crank = ''; $cname = ''; @crank =''; %csaint= undef;}
+	  elsif ($srank[2] >= 5 && $crank =~ /infra octav/i) {$crank = ''; $cname = ''; %csaint = undef; @crank = '';} 
     }
 
-  if ($vflag == 1 && $srank[2] >= 6) {$crank = ''; $cname = ''; %csaint = undef; @crank = '';} 
+	if ($tvesp == 1 && $version =~ /1960/) {
+	  if ((($trank[2] >= 6 && $srank[2] < 5) || ($trank[2] >= 5 && $srank[2] < 3)) 
+	    && $srank[0] !~ /Octav.*?(Epiph|Nativ|Corporis|Cordis|Ascensionis)/i )  
+	    {$srank = ''; $sname = ''; @srank =''; %saint= undef;}
+	  elsif ($trank[2] >= 5 && $srank =~ /infra octav/i  && $srank[0] !~ /Epiph/) 
+	    {$srank = ''; $sname = ''; %saint = undef; @srank = '';} 
+    }
   } 
+
 
    #Newcal optional
   if ($version =~ /newcal/i && $testmode =~ /seasonal/i && ($srank[2] < 3  
@@ -481,6 +489,7 @@ sub getrank {
     if (($trank[2] >= 6 && $srank[2] < 6) || ($trank[2] >= 5 && $srank[2] < 5)) 
 	  {$srank = ''; @srank = undef;}
   }
+
 
   #if ($svesp == 3 && $srank[2] >= 5 && $dayofweek == 6) {$srank[2] += 5;}  ?????????
 
@@ -518,8 +527,6 @@ sub getrank {
   if ($testmode =~ /seasonal/i && $version =~ /1960/ && $srank[2] < 5 && $dayname[0] =~ /Adv/i) 
     {$srank[2] = 1;}   
 
-
-
   #Winner is a saint (> or >= ???)
   if ($srank[2] && ($version !~ /1960/ || $srank[2] > 1.1) && 
     ($srank[2] > $trank[2] || 
@@ -536,7 +543,7 @@ sub getrank {
     $vespera = $svesp;      
     if ($srank[3] =~ /^(ex|vide)\s*C/i) {  
       $communetype = $1;    
-      if ($version =~ /trident/i && $version !~ /monastic/i) {$communetype = 'ex';}
+      if ($version =~ /trident/i && $version !~ /monastic/i && $rank > 2) {$communetype = 'ex';}
       if ($srank[3] =~ /(C[0-9]+[a-z]*)/i) {
 	      $commune = $1;
 	 	  $dayname[1] .= " $communetype $communesname{$commune} [$commune]";
@@ -559,10 +566,10 @@ sub getrank {
      if ($hora !~ /Completorium/i) {$dayname[2] = "Transfer $trank[0]";}
      $commemoratio = ''; 
       
-    } elsif ($version =~ /1960/ && $winner{Rule} =~ /Festum Domini/i && $trank =~ /Dominica/i) { 
+  } elsif ($version =~ /1960/ && $winner{Rule} =~ /Festum Domini/i && $trank =~ /Dominica/i) { 
         $trank = ''; @trank = undef; 
 		if ($crank[2] >= 6) {$dayname[2] = "Commemoratio: $crank[0]"; $commemoratio = $cname;} 	 
-    } elsif ($winner =~ /sancti/i && $trank[2] && $trank[2] > 1 && $trank[2] >= $crank[2] && $rank < 7) { 
+  } elsif ($winner =~ /sancti/i && $trank[2] && $trank[2] > 1 && $trank[2] >= $crank[2] && $rank < 7) { 
       if ($hora !~ /Completorium/i && $trank[0] && $winner{Rule} !~ /no commemoratio/i)
 	    {$dayname[2] = "Commemoratio: $trank[0]";  } 
       $commemoratio = $tname; 
@@ -571,7 +578,7 @@ sub getrank {
 	  $comrank = $trank[2];
       $cvespera = $tvesp;
 
-    } elsif ($crank[2] && ($srank[2] <= 5 || $crank[2] >= 2)) { 
+  } elsif ($crank[2] && ($srank[2] <= 5 || $crank[2] >= 2)) { 
       if ($hora !~ /Completorium/i && $crank[0] && $winner{Rule} !~ /no commemoratio/i) 
 	    {$dayname[2] = "Commemoratio: $crank[0]";}  
       $commemoratio1 = ($trank[2] > 1) ? $tname : '';
@@ -579,18 +586,17 @@ sub getrank {
       $comrank = $crank[2]; 
       $cvespera = 4 - $svesp;    
     							 
-    } elsif ($crank[2] < 6) {$dayname[2] = ''; $commemoratio = '';}  
+  } elsif ($crank[2] < 6) {$dayname[2] = ''; $commemoratio = '';}  
 
-    %w = %{officestring("$datafolder/$lang1/$winner")};      
-    if (($hora =~ /matutinum/i || (!$dayname[2] && $hora !~ /Vespera|Completorium/i)) && $rank < 7) { 
-      my %scrip = %{officestring("$datafolder/$lang1/$tname")};  
-      if (!exists($w{"Lectio1"}) && exists($scrip{Lectio1}) && $scrip{Lectio1} !~ /evangelii/i && 
-        ($w{Rank} !~ /\;\;ex / || ($version =~ /trident/i && $w{Rank} !~ /\;\;(vide|ex) /i) ) ) 
-      {$dayname[2] = "Scriptura: $trank[0]";}
-      else {$dayname[2] = "Tempora: $trank[0]" }
-     $scriptura = $tname;
-
-    }
+  %w = %{officestring("$datafolder/$lang1/$winner")};      
+  if (($hora =~ /matutinum/i || (!$dayname[2] && $hora !~ /Vespera|Completorium/i)) && $rank < 7) { 
+    my %scrip = %{officestring("$datafolder/$lang1/$tname")};  
+    if (!exists($w{"Lectio1"}) && exists($scrip{Lectio1}) && $scrip{Lectio1} !~ /evangelii/i && 
+      ($w{Rank} !~ /\;\;ex / || ($version =~ /trident/i && $w{Rank} !~ /\;\;(vide|ex) /i) ) ) 
+    {$dayname[2] = "Scriptura: $trank[0]";}
+    else {$dayname[2] = "Tempora: $trank[0]" }
+   $scriptura = $tname;
+   }
 
   } else {    #winner is de tempora
 
@@ -620,7 +626,7 @@ sub getrank {
      }
    }
 
-           
+  
     $rank = $trank[2];  
 	$dayname[1] = "$trank[0]  $trank[1]"; 
     $winner = $tname;            
@@ -818,7 +824,6 @@ sub precedence {
 
   getrank(); #fills @dayname, $winner, $commemoratio, $commune, $communetype, $rank);
 
-
   $duplex = 0;    
   if ($dayname[1] && $dayname[1] !~ /duplex/i) {$duplex = 1;}
   elsif ($dayname[1] =~ /semiduplex/i) {$duplex = 2;}
@@ -862,19 +867,30 @@ sub precedence {
      $commemoratio1 = $commemoratio;
 	 $commemoratio = 'Sancti/12-29.txt';
   }
-  if ($version !~ /1960/ && $hora =~ /Vespera/ && $month == 1 && $day == 3 && $dayofweek == 6) {$commemoratio1 = 'Sancti/01-04.txt';}
+  if ($version !~ /1960/ && $hora =~ /Vespera/ && $month == 1 && $day == 3 && $dayofweek == 6) 
+    {$commemoratio1 = 'Sancti/01-04.txt';}
 
+  if ($version =~ /1960/ && $winner{Rule} =~ /No Sunday commemoratio/i && $dayofweek == 0) 
+    {$commemoratio = $commemoratio1 = $dayname[2] = '';}
+
+  
   if ($commemoratio) {   
     my $flag = ($commemoratio =~ /tempora/i && $tvesp == 1) ? 1 : 0;  
     %commemoratio = %{officestring("$datafolder/$lang1/$commemoratio", $flag)};
-    %commemoratio2 = %{officestring("$datafolder/$lang2/$commemoratio")};
+    if ($version =~ /1960/ && $winner{Rule} =~ /Festum Domini/ && $commemoratio{Rule} =~ /Festum Domini/i) 
+	  {$commemoratio = ''; %commemoratio = undef; $dayname[2] = '';}
+    if ($vespera == $svesp && $vespera == 1 && $cvespera == 3 && $commemoratio{Rule} =~ /No second Vespera/i)
+	  {$commemoratio = ''; %commemoratio = undef; $dayname[2] = '';}
+	else {%commemoratio2 = %{officestring("$datafolder/$lang2/$commemoratio")};}
+	
   }
 
   if ($commemoratio1) {   
     my $flag = ($commemoratio1 =~ /tempora/i && $tvesp == 1) ? 1 : 0;  
     %commemoratio1 = %{officestring("$datafolder/$lang1/$commemoratio1", $flag)};
+    if ($version =~ /1960/ && $winner{Rule} =~ /Festum Domini/ && $commemoratio1{Rule} =~ /Festum Domini/) 
+	  {$commemoratio1 = ''; %commemoratio1 = undef; $dayname[2] = '';}
   }
-
 
   if ($scriptura) {     
     %scriptura = %{officestring("$datafolder/$lang1/$scriptura")};
@@ -1076,6 +1092,7 @@ sub officestring {
   my %s;
   if ($fname !~ /tempora[M]*\/(Pent|Epi)/i) {
     %s = updaterank(setupstring($fname));
+	if ($version =~ /1960/ && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) {$s{Rank} =~ s/;;2/;;3/;}
 	return \%s;
   }
   if ($fname =~ /tempora[M]*\/Pent([0-9]+)/i && $1 < 5) {
@@ -1132,10 +1149,11 @@ sub nday {
 # otherwise false
 sub transfered { 
   my $str = shift;	  
-  if ($transfertemp =~ /$str/i) {return 0;}
+  if ($transfertemp && $str =~ /$transfertemp/i) {return 0;}  
+  if ($transfer && $str =~ /$transfer/i) {return 0;}
   my $key;	
   foreach $key (keys %transfer) { 
-	if ($transfer{$key} =~ /Tempora/i) {next;} 
+	if ($transfer{$key} =~ /Tempora/i && $transfer{$key} !~ /Epi1\-0/i ) {next;} 
 	if ($key !~ /(dirge|Hy)/i && $transfer{$key} !~ /$key/ && ($str =~ /$transfer{$key}/i || $transfer{$key} =~ /$str/i ) ) {
 	  return 1;
 	}
@@ -1180,7 +1198,7 @@ sub setheadline {
   if ($name && $rank) {
 	  my $rankname = '';
 
-    if ($name !~ /(Die|Feria|Sabbato)/i && $dayname[0] !~ /Pasc[07]/i) {
+    if ($name !~ /(Die|Feria|Sabbato)/i && ($dayname[0] !~ /Pasc[07]/i || $dayofweek == 0)) {
 	    my @tradtable = ('none', 'Simplex', 'Semiduplex', 'Duplex', 'Duplex majus', 
         'Duplex II. classis', 'Duplex I. classis', 'Duplex I. clasis');
         my @newtable = ('none', 'Commemoratio', 'III. classis', 'III. classis', 'III. classis',
@@ -1254,11 +1272,12 @@ sub nomatinscomm {
 # checks for @... reference
 # returns the expanded text
 sub getreference {
-  my $str = shift;
+  my $str = shift;  
   my $lang = shift;      
   if ($str =~ /\@([a-z0-9 \/\-\:]+)/i) {
     my $key = $1;        
     my @key = split(':', $key);
+	if ($dayname[0] =~ /Pasc/i) {$key[0] =~ s/(C[23])/$1p/;}
 	$key[1] =~ s/\s*$//;   
     my %v = %{setupstring("$datafolder/$lang/$key[0].txt")}; 
     $str=~ s/\@([a-z0-9 \/\-\:]+)/$v{$key[1]}/i; 
@@ -1354,7 +1373,7 @@ sub date_to_days {
  return $ret
 }
 
-#*** date_to_days($day, $month-1, $year)
+#*** date_to_days1($day, $month-1, $year)
 # returns the number of days from the epoch 01-01-1070
 sub date_to_days1 {
   my ($d, $m, $y) = @_; 
@@ -1366,7 +1385,7 @@ sub date_to_days1 {
   return $days;
 }
 
-#*** days_to_date($days)
+#*** days_to_date1($days)
 # returns the ($sec, $min, $hour, $day, $month-1, $year-1900, $wday, $yday, 0) array from the number of days from 01-01-1970 
 sub days_to_date1 {
   my $days = shift;
@@ -1379,15 +1398,22 @@ sub days_to_date1 {
   return @d;
 }
 
-
+#*** nooctnat()
+# returns 1 for 1960 not Christmas Octave days
 sub nooctnat {
-  if ($version =~ /1960/ && $month < 12 && $day <25) {return 1;}
+  if ($version =~ /1960/ && ($month < 12 || $day <25)) {return 1;}
   return 0;
 }
 
 sub jtoi {
   my $t = shift;
+  $t =~ s/([aeiou])u([aeiou])/$1v$2/g;
+  $t =~ s/V([bcdfghklmnpqrstvwxyz])/U$1/g;
+  $t =~ s/Qv/Qu/g;
+  $t =~ s/qv/qu/g;
+  if ($version !~ /1960/) {return $t;}
   $t =~ s/j/i/g;
   $t =~ s/J/I/g;
+  $t =~ s/H\-Iesu/H-Jesu/g;
   return $t;
 }

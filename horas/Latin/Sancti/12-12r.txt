@@ -36,10 +36,6 @@ Leva in circuitu * oculos tuos, et vide: omnes isti congregati sunt, venerunt ti
 Deus, qui sub beatissimae Virginis Mariae singulari patrocinio constitutos perpetuis beneficiis nos cumulari voluisti: praesta supplicibus tuis; ut, cujus hodie commemoratione laetamur in terris, ejus conspectu perfruamur in caelis.
 $Per Dominum
 
-[Commemoratio]
-!Commemoratio Die IV infra Octavam Immaculatae conceptionem B.M.V.
-@Sancti/12-08:Oratio
-
 [Ant Matutinum]
 A solis ortu * usque ad occasum, magnum est nomen meum in gentibus;;8
 Ego in altissimis * habitavi, et thronus meus in columna nubis;;18

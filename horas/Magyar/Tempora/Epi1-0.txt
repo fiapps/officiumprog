@@ -5,6 +5,7 @@ Sanctae Familiae Jesu Máriae Joseph;;Duplex II classis;;4
 9 lectiones
 Psalmi Dominica
 Antiphonas horas
+No Sunday Commemoratio
 
 [Ant Vespera]
 And Jacob * begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ;;109

@@ -10,7 +10,7 @@ Antiphonas horas
 [Ant Vespera]
 Herodes rex * apposuit ut apprehenderet et Petrum: quem cum apprehendisset, misit in carcerem, volens post Pascha producere eum populo;;109
 Petrus quidem * servabatur in carcere, oratio autem fiebat sine intermissione ab Ecclesia ad Deum pro eo.;;110
-Dixit Angelus * ad Petrum: Circumda tibi vestimentum tuum, et sequere me;;11
+Dixit Angelus * ad Petrum: Circumda tibi vestimentum tuum, et sequere me;;111
 Misit Dominus * Angelum suum, et liberavit me de manu Herodis, alleluia;;112
 Tu es Petrus, * et super hanc petram aedificabo Ecclesiam meam;;116
 
@@ -22,7 +22,7 @@ $Deo gratias
 [Hymnus Vespera]
 v. Miris modis repente liber, ferrea
 Christo jubente vincla Petrus exuit:
-Ovilis ille pastor, et rector gregis
+Ovilis ille Pastor, et Rector gregis
 Vitae recludit pascua, et fontes sacros,
 Ovesque servat creditas, arcet lupos.
 _
@@ -38,7 +38,7 @@ V. Tu es Petrus.
 R. Et super hanc petram aedificabo Ecclesiam meam
 
 [Ant 1]
-Tu es pastor ovium * princeps Apostolorum, tibi traditae sunt claves regni caelorum.
+Tu es pastor ovium * Princeps Apostolorum, tibi traditae sunt claves regni caelorum.
 
 [Oratio]
 Deus, qui beatum Petrum Apostolum, a vinculis absolutum, illaesum abire fecisti: nostrorum, quaesumus, absolve vincula peccatorum; et omnia mala a nobis propitiatus exclude.
@@ -51,8 +51,7 @@ _
 @Commune/C3:Oratio proper
 _
 v. Oremus.
-Fraterna nos Domine Martyrum tuorum corona laetificet: quae et fidei nostrae
-praebeat incrementa virtutum, et multiplici nos suffragio consoletur.
+Fraterna nos Domine Martyrum tuorum corona laetificet: quae et fidei nostrae praebeat incrementa virtutum, et multiplici nos suffragio consoletur.
 $Per Dominum
 
 [Hymnus Matutinum]
@@ -72,11 +71,11 @@ Amen.
 [Lectio1]
 De Actibus Apostolorum.
 !Acts 12:1-5
-1 Eodem autem tempore misit Herodes rex manus, ut affligeret quosdam de ecclesia.
+1 Misit Herodes rex manus, ut affligeret quosdam de Ecclesia.
 2 Occidit autem Jacobum fratrem Joannis gladio.
-3 Videns autem quia placeret Judaeis, apposuit ut apprehenderet et Petrum. Erant autem dies Azymorum.
+3 Videns autem quia placeret Judaeis, apposuit ut apprehenderet et Petrum. Erant autem dies azymorum.
 4 Quem cum apprehendisset, misit in carcerem, tradens quatuor quaternionibus militum custodiendum, volens post Pascha producere eum populo.
-5 Et Petrus quidem servabatur in carcere. Oratio autem fiebant sine intermissione ab ecclesia ad Deum pro eo.
+5 Et Petrus quidem servabatur in carcere; oratio autem fiebat sine intermissione ab Ecclesia ad Deum pro eo.
 
 [Responsory1]
 R. Simon Petre antequam de navi vocarem te, novi te, et super plebem meam principem te constitui
@@ -87,8 +86,8 @@ R. Et claves regni caelorum tradidi tibi.
 [Lectio2]
 !Acts 12:6-8
 6 Cum autem producturus eum esset Herodes, in ipsa nocte erat Petrus dormiens inter duos milites, vinctus catenis duabus: et custodes ante ostium custodiebant carcerem.
-7 Et ecce angelus Domini astitit, et lumen refulsit in habitaculo: percussoque latere Petri, excitavit eum, dicens: Surge velociter. Et ceciderunt catenae de manibus ejus.
-8 Dixit autem angelus ad eum: Praecingere, et calcea te caligas tuas. Et fecit sic. Et dixit illi: Circumda tibi vestimentum tuum, et sequere me.
+7 Et ecce Angelus Domini astitit, et lumen refulsit in habitaculo: percussoque latere Petri, excitavit eum, dicens: Surge velociter. Et ceciderunt catenae de manibus ejus.
+8 Dixit autem Angelus ad eum: Praecingere, et calcea te caligas tuas. Et fecit sic. Et dixit illi: Circumda tibi vestimentum tuum, et sequere me.
 
 [Responsory2]
 R. Si diligis me, Simon Petre, pasce oves meas: Domine tu nosti quia amo te,
@@ -98,9 +97,9 @@ R. Et animam meam pono pro te.
 
 [Lectio3]
 !Acts 12:9-11
-9 Et exiens sequebatur eum, et nesciebat quia verum est, quod fiebat per angelum: existimabat autem se visum videre.
-10 Transeuntes autem primam et secundam custodiam, venerunt ad portam ferream, quae ducit ad civitatem: quae ultro aperta est eis. Et exeuntes processerunt vicum unum: et continuo discessit angelus ab eo.
-11 Et Petrus ad se reversus, dixit: Nunc scio vere quia misit Dominus angelum suum, et eripuit me de manu Herodis, et de omni exspectatione plebis Judaeorum.
+9 Et exiens sequebatur eum, et nesciebat quia verum est, quod fiebat per Angelum: existimabat autem se visum videre.
+10 Transeuntes autem primam et secundam custodiam, venerunt ad portam ferream, quae ducit ad civitatem: quae ultro aperta est eis; et exeuntes processerunt vicum unum: et continuo discessit Angelus ab eo.
+11 Et Petrus ad se reversus, dixit: Nunc scio vere quia misit Dominus Angelum suum, et eripuit me de manu Herodis, et de omni exspectatione plebis Judaeorum.
 
 [Responsory3]
 R. Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam, et portae inferi non praevalebunt adversus eam:
@@ -111,7 +110,7 @@ R. Et tibi dabo claves regni caelorum.
 R. Et tibi dabo claves regni caelorum.
 
 [Lectio4]
-Theodosio juniore imperante, cum Eudocia ejus uxor Jerosolymam solvendi voti causa venisset, ibi multis est affecta muneribus: prae ceteris insigne donum accepit ferreae catense,auro gemmisque ornatae: quam illam esse affirmabant, qua Petrus Apostolus ab Herode vinctus fuerat. Eudocia catenam pie venerata, eam postea Romam ad filiam Eudoxiam misit, quae illam Pontifici Maximo detulit: isque vicissim illi monstravit alteram catenam: qua, Nerone imperatore, idem Apostolus constrictus fuerat.
+Theodosio juniore imperante, cum Eudocia ejus uxor Jerosolymam solvendi voti causa venisset, ibi multis est affecta muneribus: Prae ceteris insigne donum accepit ferreae catenae, auro gemmisque ornatae: quam illam esse affirmabant, qua Petrus Apostolus ab Herode vinctus fuerat. Eudocia catenam pie venerata, eam postea Romam ad filiam Eudoxiam misit, quae illam Pontifici maximo detulit: Isque vicissim illi monstravit alteram catenam: qua, Nerone imperatore, idem Apostolus constrictus fuerat.
 
 [Responsory4]
 R. Domine, si tu es, jube me venire ad te super aquas.
@@ -120,7 +119,7 @@ V. Cumque vidisset ventum validum venientem, timuit: et cum coepisset mergi, cla
 R. Et extendens manum apprehendit eum, et dixit Jesus: Modicae fidei, quare dubitasti?
 
 [Lectio5]
-Cum igitur Pontifex Romanam catenam cum ea, quae Jerosolymis allata fuerat, contulisset, factum est ut illae inter se sic connecterentur, ut non duae, sed una catena ab eodem artifice confecta esse videretur. Quo miraculo tantus honor sacris illis vinculis haberi coepit, ut propterea hoc nomine sancti Petri ad Vincula ecclesia titulo Eudoxiae, dedicata sit in Exquiliis, ejusque memoriae dies festus institutus Kalendis Augusti.
+Cum igitur Pontifex Romanam catenam cum ea, quae Jerosolymis allata fuerat, contulisset, factum est ut illae inter se sic connecterentur, ut non duae, sed una catena ab eodem artifice confecta esse videretur. Quo miraculo tantus honor sacris illis vinculis haberi coepit, ut propterea hoc nomine sancti Petri ad vincula ecclesia titulo Eudoxiae, dedicata sit in Exquiliis, ejusque memoriae dies festus institutus Kalendis Augusti.
 
 [Responsory5]
 R. Surge Petre, et indue te vestimentis tuis, accipe fortitudinem ad salvandas Gentes:
@@ -129,10 +128,10 @@ V. Angelus Domini astitit, et lumen refulsit in habitaculo carceris, percussoque
 R. Quia ceciderunt catenae de manibus tuis.
 
 [Lectio6]
-Quo ex tempore honos, qui eo die profanis Gentilium celebritatibus tribui solitus erat, Petri vinculis haberi coepit: quae tacta segros sanabant, et daemones ejiciebant. Quo in genere anno salutis humanae nongentesimo sexagesimo nono accidit, ut quidam comes, Othonis imperatoris familiaris, occupatus ab immundo spiritu, seipsum dentibus dilaniaret. Quare is jussu imperatoris ad Joannem Pontificem ducitur: qui, ut sacra catena comitis collum attigit, erumpens nefarius spiritus hominem liberum reliquit: ac deinceps in Urbe sanctorum vinculorum religio propagata est.
+Quo ex tempore honos, qui eo die profanis Gentilium celebritatibus tribui solitus erat, Petri vinculis haberi coepit: quae tacta aegros sanabant, et daemones ejiciebant. Quo in genere anno salutis humanae nongentesimo sexagesimo nono accidit, ut quidam comes, Ottonis imperatoris familiaris, occupatus ab immundo spiritu, seipsum dentibus dilaniaret. Quare is jussu imperatoris ad Joannem Pontificem ducitur: qui, ut sacra catena comitis collum attigit, erumpens nefarius spiritus hominem liberum reliquit: ac deinceps in Urbe sanctorum vinculorum religio propagata est.
 
 [Responsory6]
-R. Tu es pastor ovium, princeps Apostolorum: tibi tradidit Deus omnia regna mundi:
+R. Tu es pastor ovium, Princeps Apostolorum: tibi tradidit Deus omnia regna mundi:
 * Et ideo tibi traditae sunt claves regni caelorum.
 V. Quodcumque ligaveris super terram, erit ligatum et in caelis et quodcumque solveris super terram, erit solutum et in caelis.
 R. Et ideo tibi traditae sunt claves regni caelorum.
@@ -142,11 +141,11 @@ R. Et ideo tibi traditae sunt claves regni caelorum.
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
 !Matt 16:13-19
-In illo tempore: Venit Jesus in partes Caesareae Philippi: et interrogebat discipulos suos, dicens: Quem dicunt homines esse Filium hominis? Et reliqua.
+In illo tempore: Venit Jesus in partes Caesareae Philippi: et interrogabat discipulos suos, dicens: Quem dicunt homines esse Filium hominis? Et reliqua.
 _
-Homilia S. Augustini Episcopi.
+Homilia sancti Augustini Episcopi.
 !Ex serm. 29. de Sanct. in medio.
-Solus Petrus inter Apostolos meruit audire: Amen dico tibi, quia tu es Petrus, et super hanc petram aedificabo Ecclesiam meam. Dignus certe, qui aedificandis in domo Dei populis lapis esset ad fundamentum, columna ad sustentaculum, clavis ad regnum. De hoc ait sermo divinus: Et ponebant, inquit, infirmos suos, ut umbra saltem transeuntis Petri obumbraret eos. Si tunc opem ferre poterat umbra corporis, quanto magis nunc plenitudo virtutis? si tunc supplicantibus proderat aura quaedam pertranseuntis quanto magis gratia nunc permanentis? Morito per omnes Christi ecclesias auro pretiosius habetur ferrum illud paenalium vinculorum.
+Solus Petrus inter Apostolos meruit audire: Amen dico tibi, quia tu es Petrus, et super hanc petram aedificabo Ecclesiam meam; dignus certe, qui aedificandis in domo Dei populis lapis esset ad fundamentum, columna ad sustentaculum, clavis ad regnum. De hoc ait sermo divinus: Et ponebant, inquit, infirmos suos, ut umbra saltem transeuntis Petri obumbraret eos. Si tunc opem ferre poterat umbra corporis, quanto magis nunc plenitudo virtutis? si tunc supplicantibus proderat aura quaedam pertranseuntis quanto magis gratia nunc permanentis? Merito per omnes Christi ecclesias auro pretiosius habetur ferrum illud poenalium vinculorum.
 
 [Responsory7]
 R. Ego pro te rogavi Petre, ut non deficiat fides tua:
@@ -155,7 +154,7 @@ V. Caro et sanguis non revelavit tibi, sed Pater meus, qui est in caelis.
 R. Et tu aliquando conversus confirma fratres tuos.
 
 [Lectio8]
-Si tam medicabilis fuit obumbratio visitantis, quanto magis catena vincientis? Si inanis quaedam species vacuae imaginis habere potuit in se vim salutis, quanto plus de corpore meruerunt attrahere salubritatis ferreo pondere sacris impressa membris vincula passionis? Si ad praesidia supplicantium tam potens fuit ante martyrium, quanto magis efficax post triumphum? Felices illi nexus, qui de manicis et compedibus in coronam mutandi, Apostolum contingentes Martyrem reddiderunt. Felicia vincula, quae reum suum usque ad Christi crucem non tam condemnatura, quam consecratum miserunt.
+Si tam medicabilis fuit obumbratio visitantis, quanto magis catena vincientis? Si inanis quaedam species vacuae imaginis habere potuit in se vim salutis, quanto plus de corpore meruerunt attrahere salubritatis ferreo pondere sacris impressa membris vincula passionis? Si ad praesidia supplicantium tam potens fuit ante martyrium, quanto magis efficax post triumphum? Felices illi nexus, qui de manicis et compedibus in coronam mutandi, Apostolum contingentes Martyrem reddiderunt. Felicia vincula, quae reum suum usque ad Christi crucem non tam condemnatura, quam consecratura miserunt.
 
 [Responsory8]
 R. Quem dicunt homines esse Filium hominis? dixit Jesus discipulis suis. Respondens Petrus dixit: Tu es Christus Filius Dei vivi.
@@ -215,7 +214,7 @@ $Deo gratias
 [Responsory Tertia]
 R.br. In omnem terram * Exivit sonus eorum.
 R. In omnem terram * Exivit sonus eorum.
-V. Et in fines orbis terrae verba ebrum.
+V. Et in fines orbis terrae verba eorum.
 R. Exivit sonus eorum.
 &Gloria
 R. In omnem terram * Exivit sonus eorum.
@@ -225,12 +224,12 @@ R. Memores erunt nominis tui Domine.
 
 [Capitulum Sexta]
 !Acts 12:5
-v. Petrus quidem servabatur in carcere. Oratio autem fiebat sine intermissione ab Ecclesia ad Deum pro eo.
+v. Petrus quidem servabatur in carcere: oratio autem fiebat sine intermissione ab Ecclesia ad Deum pro eo.
 $Deo gratias
 
 [Responsory Sexta]
 R.br. Constitues eos principes * Super omnem terram.
-R.Constitues eos principes * Super omnem terram.
+R. Constitues eos principes * Super omnem terram.
 V. Memores erunt nominis tui Domine.
 R. Super omnem terram.
 &Gloria
@@ -256,7 +255,7 @@ V. Annuntiaverunt opera Dei.
 R. Et facta ejus intellexerunt.
 
 [Ant 3]
-Solve jubente Deo * terrarum Petre catenas, qui facis ut pateant caelestia regna beatis.
+Solve * jubente Deo terrarum Petre catenas, qui facis ut pateant caelestia regna beatis.
 
 [Lectio94]
 Theodósio junióre imperánte, Eudócia ejus uxor Jerosólymæ insígne præ céteris donum accépit férreæ caténæ, quam illiam esse affirmábant, qua Petrus Apóstolus ab Heróde vinctus fúerat. Eudócia caténam pie veneráta, Romam ad fíliam Eudóxiam misit, ubi a summo Pontífice compósita cum ea, qua Neróne imperatóre idem beátus Apóstolus constríctus fúerat, ambæ inter se sic connéxæ sunt, ut non duæ, sed una caténa ab uno artífice confécta esse viderétur. Hinc, cum et ægrotórum salus et obsessórum liberátio, sacro horum vinculórum contáctu, sæpe obtinerétur, tantus honor sacris illis vínculis habéri cœpit, ut proptérea hoc nómine sancti Petri ad víncula ecclésia, título Eudóxiæ, dedicáta sit in Exquíliis, ejúsque memóriæ dies festus, profánis Gentílium solemnitátibus abólitis, institútus fúerit Kaléndis Augústi.

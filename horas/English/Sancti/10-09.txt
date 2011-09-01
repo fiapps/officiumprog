@@ -19,6 +19,12 @@ Tam salutarium operum causa incidit Joannes in acerrimas insectationes hominum n
 Graviter dolens, gentes adeo plurimas remotis in regionibus luce Evangelii carere, inflammabatur desiderio migrandi in illas oras ad lumen verge religionis effundendum. At cum intellecsisset a sancto Philippo Nerio, a quo vrus reformator dicebatur, se suamque Congregationem ad instituendos Italiae populos destinari, divinae acquievit voluntati; minime tamen abstiunit quin, si aliquaa~
 infidelibus opem afferre posset, experiretur. Hinc initis consiliis sum piissimo praesule Vives, coetum instituit presbyterorum, quibus propositum esset idoneos informare adolescentes, in dissitas regiones subinde mittendos ad fidem propagandam. Quare merito veluti auctor censetur praeclarissimi illius instituti, quod summorum Pontificum opera amplificatum, proferendar per universum orbem catholicae fidei mirabiliter inservit. Plura opera de re sacra et morali conscripsit, cuivis hominum conditione accommodatissima. Denique a sacro ministerio numquam deficiens, in cinere et cilicio ad Domiuum migravit Romaae, die nona Octobris, anno millesimo sexcentesimo nono, aetatis sexagesimo sexto. Quem sanctitatis et miraculis illustrem Pius nonus Pontifex Maximus Beatorum fastis accensuit. Pius vero undecimus, anno millesimo nongentesimo trigesimo octavo, die solemni Paschae, inter Sanctos adscripsit.
 
+[Lectio7]
+@Commune/C1a:Lectio7
+
+[Lectio8]
+@Commune/C1a:Lectio8
+
 [Commemoratio]
 !Commemoration for S. Dyonisii Ep. Rustici et Eleuthery
 @Commune/C3:Oratio proper

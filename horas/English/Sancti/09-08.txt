@@ -133,7 +133,7 @@ Let us this day keep solemnly * the Birth-day of Mary, Mother but still Maiden, 
 V. This day is the Birth-day of the holy Virgin Mary.
 R. Whose' famous life still sheddeth lustre upon all the Churches.
 
-[Commemoratio]
+[Commemoratio 2]
 !Commemoratio S. Adriani, Mart
 @Commune/C2:Oratio proper
 $Oremus

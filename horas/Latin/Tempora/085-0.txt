@@ -1,5 +1,5 @@
 [Ant 1]
-Observa fili praecepta patris tui * et ne dimittas legem matris tuae, sed liga eam semper in corde tuo.
+Observa fili * praecepta patris tui et ne dimittas legem matris tuae, sed liga eam semper in corde tuo.
 
 [Versum 1]
 V. Vespertina oratio ascendat ad te Domine.
@@ -10,9 +10,9 @@ De libro Ecclesiastici.
 !Sir 5:1-5
 1 Noli attendere ad possessiones iniquas, et ne dixeris: Est mihi sufficiens vita: nihil enim proderit in tempore vindictae et obductionis.
 2 Ne sequaris in fortitudine tua concupiscentiam cordis tui,
-3 et ne dixeris: Quomodo potui? aut, Quis me subjiciet propter facta mea? Deus enim vindicans vindicabit.
+3 et ne dixeris: Quomodo potui? aut, quis me subjiciet propter facta mea? Deus enim vindicans vindicabit.
 4 Ne dixeris: Peccavi: et quid mihi accidit triste? Altissimus enim est patiens redditor.
-5 De propitiatio peccato noli esse sine metu, neque adjicias peccatum super peccatum.
+5 De propitiato peccato noli esse sine metu, neque adjicias peccatum super peccatum.
 
 [Responsory1]
 @Tempora/081-0:Responsory1

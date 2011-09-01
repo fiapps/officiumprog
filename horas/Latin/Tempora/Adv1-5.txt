@@ -17,9 +17,9 @@ De Isaia Propheta
 [Lectio2]
 !Isa 6:4-7
 4 Et commota sunt superliminaria cardinum a voce clamantis, et domus repleta est fumo.
-5 Et dixi: Vae mihi, quia tacui, quia vir pollutus labiis ego sum, et in medio populi polluta labia habentis ego habito, et regem Dominum exercituum vidi oculis meis.
-6 Et volavit ad me unus de seraphim, et in manu ejus calculus, quem forcipe tulerat de altari,
-7 et tetigit os meum, et dixit: Ecce tetigit hoc labia tua, et auferetur iniquitas tua, et peccatum tuum mundabitur.
+5 Et dixi: Vae mihi, quia tacui, quia vir pollutus labiis ego sum, et in medio populi polluta labia habentis ego habito, et Regem Dominum exercituum vidi oculis meis.
+6 Et volavit ad me unus de Seraphim, et in manu ejus calculus, quem forcipe tulerat de altari,
+7 Et tetigit os meum, et dixit: Ecce tetigit hoc labia tua, et auferetur iniquitas tua, et peccatum tuum mundabitur.
 
 [Responsory2]
 @Tempora/Adv1-0:Responsory5

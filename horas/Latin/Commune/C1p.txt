@@ -219,7 +219,7 @@ Paschale Jesu gaudium;
 A morte dira criminum
 Vitae renatos libera.
 _
-Deo, Patri sit gloria,
+* Deo, Patri sit gloria,
 Et Filio, qui a mortuis
 Surrexit, ac Paraclito,
 In sempiterna saecula.

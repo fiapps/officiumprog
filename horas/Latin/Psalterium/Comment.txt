@@ -3,7 +3,7 @@ ex Psalterio secundum diem
 ex Psalterio secundum temporum
 ex Proprio de Tempore
 ex Proprio Sanctorum
-ex Commune aut Festum
+ex Communi aut Festo
 Per Annum
 Psalmi et Antiphona de Dominica
 Votive

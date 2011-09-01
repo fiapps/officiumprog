@@ -1,3 +1,4 @@
+A-Recit1;;De-us, _;;in_adjutórium me-um in-ten-de.;;et_in_saecula_saecu-lo-rum. A-men.;;Al-le-lu-ja.
 H-Adregias;;Ad re-gi-as Ag-ni da-pes,;;Sto-lis a-mic-ti can-di-dis,;;Post tran-si-tum Ma-ris Ru-bri,;;Chris-to ca-na-mus Pri-nci-pi: 
 H-AeternaChristi;;Ae-ter-na Chris-ti mu-ne-ra,;;A-pos-to-lo-rum glo-ri-am,;;Pal-mas et hym-nos de-bi-tos;;Lae-tis ca-na-mus men-ti-bus.
 H-Aeternarex;;Ae-ter-ne Rex al--tis-si-me,;;Re-demp-tor et fi-de-li-um,;;Cui mors pe-rem-pta de-tu-lit;;Sum-mae tri-um-phum glo-ri-ae.
@@ -59,16 +60,40 @@ H-VespAdv;;Cre-a-tor al-me si-de-rum,;;Ae-ter-na lux cre-den-ti-um,;;Je-su, Re-d
 H-VespFeria;;Im-men-se coe-li Con-di-tor,;;Qui mix-ta ne con-fun-de-rent,;;A-quae flu-en-ta di-vi-dens,;;Coe-lum de-di-sti li-mi-tem.
 H-Vexillaregis;;Ve-xil-la Re-gis pro-de-unt:;;Ful-get cru-cis mys-te-ri-um,;;Qua vi-ta mor-tem per-tu-lit,;;Et mor-te vi-tam pro-tu-lit. 
 H-Virginisproles;;Vir-gi-nis Pro-les, o-pi-fex-que mat-ris,;;Vir-go quem ges-sit, pe-pe-rit-que Vir-go;;;Vir-gi-nis par-tos ca-ni-mus de-co-ra;;Mor-te tri-um-phos.
+HASH(0x207969c);;
+HASH(0x207c694);;
+HASH(0x207cd4c);;
+HASH(0x207d554);;
+HASH(0x20db68c);;
+HASH(0x20ea68c);;
+HASH(0x20eea84);;
+HASH(0x20fa69c);;
+HASH(0x2108944);;
+HASH(0x2108b04);;
+HASH(0x2108d44);;
+HASH(0x210969c);;
+HASH(0x210a69c);;
+HASH(0x210a944);;
+HASH(0x210ad44);;
+HASH(0x210c694);;
+HASH(0x210cd4c);;
+HASH(0x210d554);;
+HASH(0x210ea84);;
+HASH(0x216d554);;
+HASH(0x21a8b04);;
+HASH(0x21b8944);;
+HASH(0x21ccd4c);;
+HASH(0x21d8944);;
 S-AlmaRedemptoris;;Al-ma Re-demp-to-ris ma-ter, quae per-vi-a coe-li por-ta ma-nes, ;;et stel-la mar-is, suc-cur-re ca-den-ti,;;sur-ge-re qui cu-rat, po-pu-lo: tu quae ge-nu-is-ti,;;na-tu-ra mi-ra-nte, tu-um sanc-tum Ge-ni-to-rem,;;vir-go pri-us ac pos-te-ri-us, Gab-ri-e-lis ab o-re;;su-mens il-lud a-ve, pec-ca-to-rum mi-se-re-re. 
 S-AveRegina;;A-ve, Re-gi-na cae-lo-rum,;;A-ve, Do-mi-na An-ge-lo-rum:;;Sal-ve ra-dix, sal-ve por-ta,;;Ex qua mun-do lux est or-ta:;;Gau-de, Vir-go glo-ri-o-sa,;;Su-per om-nes spe-ci-o-sa,;;Va-le, o val-de de-co-ra,;;Et pro no-bis Chris-tum ex-o-ra.
 S-ReginaCaeli;;Re-gi-na coe-li, lae-ta-re, al-le-lu-ia:;;Qui-a quem me-ru-is-ti por-ta-re, al-le-lu-ia,;;Re-sur-re-xit, si-cut di-xit, al-le-lu-ia:;;O-ra pro no-bis De-um, al-le-lu-ia. 
 S-SalveRegina;;Sal-ve, Re-gi-na, ma-ter mi-se-ri-cor-di-ae:;;vi-ta, dul-ce-do et spes nos-tra, sal-ve.;;Ad te cla-ma-mus ex-sul-es fi-li-i He-vae.;;Ad te sus-pi-ra-mus ge-men-tes et flen-tes;;In hac lac-ri-ma-rum val-le.;;E-ia er-go, ad-vo-ca-ta nost-ra,;;il-los tu-os mi-se-ri-cor-des o-cu-los ad nos con-ver-te.;;Et Ie-sum, be-ne-dic-tum fruc-tum ven-tris tu-i,;;no-bis post hoc ex-si-li-um os-ten-de.;;O cle-mens, o pi-a, o dul-cis Vir-go Ma-ri-a. 
 p1D;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1G;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
 p1a;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
 p1a2;;Sic in-cípitur, sic fléc-ti-tur; et sic -me-dí-a-tur, at-que sic fí-ni-tur
 p1a3;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
 p1f;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
-p1G;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
 p1g;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
 p1g2;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
 p1g3;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
@@ -98,10 +123,10 @@ p7c;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que -sic fí-ni-tur
 p7c2;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que -sic fí-ni-tur
 p7d;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que -sic fí-ni-tur
 p8G;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
-p8g;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
 p8G2;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
 p8a;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
 p8c;;Sic in-cípitur, sic_flécti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
+p8g;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
 p9;;Sic_incípit-ur, sic fléc-ti-tur, -et sic me-dí-a-tur, atque sic fí-ni-tur
 p9d;;Sic_incípit-ur, sic fléc-ti-tur, et sic me-dí-a-tur, atque_sic fí-ni-tur
 p9i;;Sic_incíp-it-ur, sic fléc-ti-tur, et_sic_me-dí-a-tur, atque sic fí-ni-tur

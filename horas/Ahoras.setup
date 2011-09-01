@@ -1,4 +1,6 @@
 [Chant]
+$notes='0';;
+$voicecolumn='mute';;
 $keyfreq='160';;
 $basetime='360';;
 $voweltime='40';;

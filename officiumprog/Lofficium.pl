@@ -301,7 +301,7 @@ $but = $tframe->Button(-borderwidth=>0, -image=>$imgptr, -highlightthickness=>0,
 setimage($but, "up", 12);
 configure($but, $framecolor, $titlefont);
 
-$tframe->Button(-text=>'Kalendar', -background=>$framecolor, -borderwidth=>0, -foreground=>$blue,
+$tframe->Button(-text=>'Kalendarium', -background=>$framecolor, -borderwidth=>0, -foreground=>$blue,
   -command=>sub{kalendar()})
   ->pack(-side=>'left', -padx=>$padx);
 
@@ -412,7 +412,7 @@ $bframe2->Optionmenu(-options=>\@optarray3,-textvariable=>\$testmode, #-backgrou
   -border=>1, -font=>$labelfont, -command=>sub{mainpage();})
   ->grid(-column=>2, -row=>1, -padx=>$padx);
 
-$bframe2->Button(-text=>'Kalendar', -background=>$framecolor, -borderwidth=>0,  -foreground=>$blue,
+$bframe2->Button(-text=>'Kalendarium', -background=>$framecolor, -borderwidth=>0,  -foreground=>$blue,
   -command=>sub{kalendar()})
   ->grid(-column=>3, -row=>1, -padx=>$padx);
 

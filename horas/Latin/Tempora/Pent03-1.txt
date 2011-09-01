@@ -16,7 +16,7 @@ De libro primo Regum.
 [Lectio2]
 !1 Sam 10:20-24
 20 Et applicuit Samuel omnes tribus Israël, et cecidit sors tribus Benjamin.
-21 Et applicuit tribum Benjamin et cognationes ejus, et cecidit cognatio Metri: et pervenit usque ad Saul filium Cis. Quaesierunt ergo eum, et non est inventus.
+21 et applicuit tribum Benjamin et cognationes ejus, et cecidit cognatio Metri: et pervenit usque ad Saul filium Cis. Quaesierunt ergo eum, et non est inventus.
 22 Et consuluerunt post haec Dominum utrumnam venturus esset illuc. Responditque Dominus: Ecce absconditus est domi.
 23 Cucurrerunt itaque et tulerunt eum inde: stetitque in medio populi, et altior fuit universo populo ab humero et sursum.
 24 Et ait Samuel ad omnem populum: Certe videtis quem elegit Dominus, quoniam non sit similis illi in omni populo. Et clamavit omnis populus, et ait: Vivat rex.

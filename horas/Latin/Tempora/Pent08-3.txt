@@ -17,8 +17,8 @@ De libro tertio Regum.
 [Lectio2]
 !1 Kgs 11:29-31
 29 Factum est igitur in tempore illo, ut Jeroboam egrederetur de Jerusalem, et inveniret eum Ahias Silonites propheta in via, opertus pallio novo: erant autem duo tantum in agro.
-30 Apprehendensque Ahias pallium suum novum quo coopertus erat, scidit in duodecim partes.
-31 Et ait ad Jeroboam: Tolle tibi decem scissuras: haec enim dicit Dominus Deus Israël: Ecce ego scindam regnum de manu Salomonis, et dabo tibi decem tribus.
+30 Apprehendensque Ahias pallium suum novum quo coopertus erat, scidit in duodecim partes,
+31 et ait ad Jeroboam: Tolle tibi decem scissuras: haec enim dicit Dominus Deus Israël: Ecce ego scindam regnum de manu Salomonis, et dabo tibi decem tribus.
 
 [Responsory2]
 @Tempora/Pent01-3:Responsory2

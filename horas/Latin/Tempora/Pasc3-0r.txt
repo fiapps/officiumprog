@@ -8,7 +8,7 @@ Una Antiphona
 
 [Capitulum Vespera]
 !1 Pet 2:11
-v. Carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus desideriis quae militant adversus animam
+v. Carissimi: Obsecro vos tamquam advenas et peregrinos abstinere vos a carnalibus desideriis quae militant adversus animam
 $Deo gratias
 
 [Versum 1]
@@ -25,7 +25,7 @@ $Per Dominum
 [Lectio1]
 Incipit liber Apocalypsis beati Joannis Apostoli.
 !Rev 1:1-6
-1 Apocalypsis Jesu Christi, quam dedit illi Deus palam facere servis suis, quae oportet fieri cito: et significavit, mittens per angelum suum servo suo Joanni,
+1 Apocalypsis Jesu Christi, quam dedit illi Deus palam facere servis suis, quae oportet fieri cito: et significavit, mittens per Angelum suum servo suo Joanni,
 2 qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi, quaecumque vidit.
 3 Beatus qui legit, et audit verba prophetiae hujus, et servat ea, quae in ea scripta sunt: tempus enim prope est.
 4 Joannes septem ecclesiis, quae sunt in Asia. Gratia vobis, et pax ab eo, qui est, et qui erat, et qui venturus est: et a septem spiritibus qui in conspectu throni ejus sunt:
@@ -40,33 +40,33 @@ R. In sanguine tuo, alleluia.
 
 [Lectio2]
 !Rev 1:7-11
-7 Ecce venit cum nubibus, et videbit eum omnis oculus, et qui eum pupugerunt. Et plangent se super eum omnes tribus terrae. Etiam: amen.
-8 Ego sum alpha et omega, principium et finis, dicit Dominus Deus: qui est, et qui erat, et qui venturus est, omnipotens.
-9 Ego Joannes frater vester, et particeps in tribulatione, et regno, et patientia in Christo Jesu: fui in insula, quae appellatur Patmos, propter verbum Dei, et testimonium Jesu:
-10 fui in spiritu in dominica die, et audivi post me vocem magnam tamquam tubae,
+7 Ecce venit cum nubibus, et videbit eum omnis oculus, et qui eum pupugerunt. Et plangent se super eum omnes tribus terrae. Etiam: Amen.
+8 Ego sum alpha et omega, principium et finis, dicit Dominus Deus: qui est, et qui erat, et qui venturus est, Omnipotens.
+9 Ego Joannes frater vester, et particeps in tribulatione, et regno, et patientia in Christo Jesu: fui in insula, quae appellatur Patmos, propter verbum Dei, et testimonium Jesu.
+10 Fui in spiritu in Dominica die, et audivi post me vocem magnam tamquam tubae,
 11 dicentis: Quod vides, scribe in libro: et mitte septem ecclesiis, quae sunt in Asia, Epheso, et Smyrnae, et Pergamo, et Thyatirae, et Sardis, et Philadelphiae, et Laodiciae.
 
 [Responsory2]
 R. Ego sicut vitis fructificavi suavitatem odoris alleluia
 * Transite ad me omnes qui concupiscitis me, et a generationibus meis adimplemini, alleluia, alleluia.
-V. In me omnis spes vitae et virtutis.
+V. In me omnis gratia viae et veritatis: in me omnes spes vitae et virtutis.
 R. Transite ad me omnes qui concupiscitis me, et a generationibus meis adimplemini, alleluia, alleluia.
 
 [Lectio3]
 !Rev 1:12-19
 12 Et conversus sum ut viderem vocem, quae loquebatur mecum: et conversus vidi septem candelabra aurea:
-13 et in medio septem candelabrorum aureorum, similem Filio hominis vestitum podere, et praecinctum ad mamillas zona aurea:
+13 et in medio septem candelabrorum aureorum, similem filio hominis vestitum podere, et praecinctum ad mamillas zona aurea:
 14 caput autem ejus, et capilli erant candidi tamquam lana alba, et tamquam nix, et oculi ejus tamquam flamma ignis:
-15 et pedes ejus similes auricalco, sicut in camino ardenti, et vox illius tamquam vox aquarum multarum:
+15 et pedes ejus similes aurichalco, sicut in camino ardenti, et vox illius tamquam vox aquarum multarum:
 16 et habebat in dextera sua stellas septem: et de ore ejus gladius utraque parte acutus exibat: et facies ejus sicut sol lucet in virtute sua.
 17 Et cum vidissem eum, cecidi ad pedes ejus tamquam mortuus. Et posuit dexteram suam super me, dicens: Noli timere: ego sum primus, et novissimus,
 18 et vivus, et fui mortuus, et ecce sum vivens in saecula saeculorum: et habeo claves mortis, et inferni.
 19 Scribe ergo quae vidisti, et quae sunt, et quae oportet fieri post haec.
 
 [Responsory3]
-R. Audivi vocem de caelo, tamquam vocem tonitrui magni, alleluia: regnabitDeus noster in aeternum, alleluia:
+R. Audivi vocem de caelo, tamquam vocem tonitrui magni, alleluia: Regnabit Deus noster in aeternum, alleluia:
 * Quia facta est salus, et virtus, et potestas Christi ejus, alleluia, alleluia.
-V. Et vox de throno exivit, dicens: Laudem dicite Deo nostro omnes sancti ejus, et qui timetis Deum pusilli et magni.
+V. Et vox de throno exivit, dicens: Laudem dicite Deo nostro omnes Sancti ejus, et qui timetis Deum pusilli et magni.
 R. Quia facta est salus, et virtus, et potestas Christi ejus, alleluia, alleluia.
 &Gloria
 R.* Quia facta est salus, et virtus, et potestas Christi ejus, alleluia, alleluia.
@@ -118,7 +118,7 @@ V. Sanctificati sunt ergo sacerdotes et levitae: et universus Israël deducebat a
 R. Et David cum cantoribus citharam percutiebat in domo Domini, et laudes Deo canebat, alleluia, alleluia.
 
 [Lectio8]
-Quis ergo ait: Modicum, et jam non videbitis me; qui eum corporaliter tunc videbant: quia iturus erat ad Patrem, et eum deinceps mortalem visuri non erant, qualem, cum ista loqueretur, videbant. Quod vero addidit: Et iterum modicum, et videbitis me: universae promisit Ecclesiae, sicut universae promisit: Ecce ego vobiscum sum usque ad consummationem saeculi. Non tardat Dominus promissum. Modicum, et videbimus eum: ubi jam nihil rogemus, nihil interrogemus, quia nihil desiderandum remanebit, nihil quaerendum latebit.
+Illis ergo ait: Modicum, et jam non videbitis me; qui eum corporaliter tunc videbant: quia iturus erat ad Patrem, et eum deinceps mortalem visuri non erant, qualem, cum ista loqueretur, videbant. Quod vero addidit: Et iterum modicum, et videbitis me: universae promisit Ecclesiae, sicut universae promisit: Ecce ego vobiscum sum usque ad consummationem saeculi. Non tardat Dominus promissum. Modicum, et videbimus eum: ubi jam nihil rogemus, nihil interrogemus, quia nihil desiderandum remanebit, nihil quaerendum latebit.
 
 [Responsory8]
 R. Tristitia vestra, alleluia,
@@ -134,7 +134,7 @@ Hoc modicum longum nobis videtur, quoniam adhuc agitur: cum finitum fuerit, tunc
 
 [Capitulum Laudes]
 !1 Pet 2:11
-v. Carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus desideriis quae militant adversus animam
+v. Carissimi: Obsecro vos tamquam advenas et peregrinos abstinere vos a carnalibus desideriis quae militant adversus animam
 $Deo gratias
 
 [Versum 2]
@@ -146,7 +146,7 @@ Modicum * et non videbitis me, dicit Dominus: iterum modicum, et videbitis' me, 
 
 [Capitulum Tertia]
 !1 Pet 2:11
-v. Carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus desideriis quae militant adversus animam
+v. Carissimi: Obsecro vos tamquam advenas et peregrinos abstinere vos a carnalibus desideriis quae militant adversus animam
 $Deo gratias
 
 [Capitulum Sexta]

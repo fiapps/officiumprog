@@ -12,7 +12,8 @@ vide C4;
 9 lectiones
 
 [Oratio]
-O God, who hast promised to them that leave all things in this world for thy sake to receive an hundredfold, and everlasting life in that which is to come: mercifully grant; that, following in the footsteps of thy blessed Saint Paulinus, we may be enabled to despise all things that are earthly, and to desire only those things that are heavenly.  Who livest and reignest
+O God, who hast promised to them that leave all things in this world for thy sake to receive an hundredfold, and everlasting life in that which is to come: mercifully grant; that, following in the footsteps of thy blessed Saint Paulinus, we may be enabled to despise all things that are earthly, and to desire only those things that are heavenly.  
+$Qui vivis
 
 [Lectio4]
 !Breve Pii X diei 18 Sept. 1908
@@ -44,13 +45,9 @@ Refresh the hungry soul, and ye will not fear the wrath to come in the evil day.
 Truly, dearly beloved, by present carefulness and constant just dealing, provide not only that ye make seek eternal good things, but that ye may deserve to escape innumerable evils.  For we require strong helps and protection, and stand in need of many and unceasing prayers for our defence.  For our adversary does not rest, and the ever-watchful enemy besetteth all our ways in order to work our ruin.  Moreover, in this world we have many crosses, very numerous struggles, pestilent diseases, fires of fever and stabs of pain do violence to our souls.  The flames of lust are kindled; hidden snares are set everywhere, on all sides there bristle drawn swords, life is passed in the midst of ambushes and combats, and we walk through fires craftily buried under ashes.  Therefore before ye should by your misfortune or your fault rush into any one of such great calamities, hasten to become acceptable and dear to the physician, so that in time of need ye may have ready the remedy of salvation.  It is one thing when ye alone pray for yourself; and quite another when a multitude entreateth for you before God.
 &teDeum
 
-[Lectio93]
-Paulinus Nolae episcopus, eruditus studiis humanitatis, doctus etiam divinis litteris, multa eleganter et ornate scripsit versibus, et soluta oratione. Hujus viri caritas praecipue celebratur, quod vasteta a Gothis Campania, omnem facultatem, ne relictis quidem sibi rebus ad vitam necessariis, in alendos pauperes et captivos redimendos contulerit. Quo tempore, ut scribit sanctus Augustinus, ex opulentissimo divitiae voluntate pauperrimus, et copiosissime sanctus, captus a barbaris, sic Deum precabatur: Domine, ne excrucier propter aurum et argentum: ubi enim sint omnia mea, tu scis. Postea vero Wandalis easdem regiones infestantibus, cum ab eo posceret vidua, ut filium sibi redimeret, consumptis rebus omnibus in officio pietatis, seipsum pro illo in servitutem tradidit. Igitur in Africam profectus, domini sui, qui regis erat gener, hortum colendum suscepit. Verum cum prophetiae dono regis mortem ipsi domino praedixisset, et rex in somnis Paulinum sedentem medium inter duos judices, sibique de manibus eripientem flagellum vidisset: tantus vir cognitus honorificentissime dimissus est, condonatis ei omnibus suis civibus, qui captivi fuerant. Nolam reversus ad episcopale officium, cum verbo et exemplo omnes ad pietatem christianam inflammaret, laterum dolore correptus est; mox cubiculum in quo jacebat, terraemotu contremuit, ac paulo post animam Deo reddidit.
-&teDeum
+[Versum 2]
+V. The Lord guided the just in right paths.
+R. And showed him the kingdom of God.
 
 [Ant 2]
-Euge serve bone et fidelis * quia in pauca fuisti fidelis, supra multa te constituam, dicit Dominus.
-
-[Versum 2]
-V. Justum deduxit Dominus per vias rectas.
-R. Et ostendit illi regnum Dei.
+Well done, thou good and faithful servant; * thou hast been faithful over a few things, I will make thee ruler over many things enter thou into the joy of thy Lord.

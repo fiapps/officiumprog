@@ -18,14 +18,13 @@ Olvasmány a Makkabeusok második könyvébõl
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!2 Mac 6:23-29
+!2 Mac 6:23-28
 23 De õ korához, hajlott korának megfelelõ tekintélyéhez, munkában megõszült hajához és lelki nagyságához, továbbá ifjúkora óta folytatott példás életéhez méltó módon, de még sokkal inkább az Istentõl szabott szent törvényekhez ragaszkodva nemes elhatározást tett: azt válaszolta azon nyomban, hogy inkább küldjék az alvilágba. 
 24 "Korunkhoz - mondta - nem illik a képmutatás. Meg aztán sok fiatal azt hinné, hogy a kilencvenesztendõs Eleazár pogány lett. 
 25 Képmutatásom, és rövid, mulandó életemhez való ragaszkodásom félrevezetné õket, koromra meg szégyent és gyalázatot hozna. 
 26 S ha most kikerülném is az emberek büntetését, nem tudnék sem élve, sem halva megszabadulni a Mindenható kezétõl. 
 27 Ezért most férfihoz illõen kockára teszem életemet, és méltó leszek koromhoz. 
 28 Ugyanakkor szép példát mutatok az ifjúságnak arra, hogyan kell a tiszteletet érdemlõ, szent törvényekért bátran és hõsiesen szép halált halni." 
-29 Ezekkel a szavakkal mindjárt föllépett a kínpadra. Azokban, akik félrehívták, az iránta kevéssel azelõtt tanúsított jóindulat gyûlöletbe csapott át. Azt hitték, ezek az elõbbi szavak az esztelenség megnyilvánulásai. 
 
 [Responsory2]
 @Tempora/101-0:Responsory2

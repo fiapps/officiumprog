@@ -58,7 +58,7 @@ if (!$month) {$month = 1;}
 my $kalfiles1 = '';
 $ch = ($year2 =~ /none/) ? 'SELECTED' : '';
 my $kalfiles2 = "<OPTION $ch VALUE=\"none\">none\n";
-$title = "Permanent kalendars";
+$title = "Permanent calendars";
 if (opendir(DIR, "$datafolder/Latin/Tabulae")) {
   my $file;
   while ($file = readdir(DIR)) {

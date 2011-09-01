@@ -20,8 +20,7 @@ Olvasmány a Makkabeusok elsõ könyvébõl
 @Tempora/101-1:Responsory2
 
 [Lectio3]
-!1 Mac 16:21-24
-21 De valaki elõresietett és jelentette Gezerben Jánosnak, hogy atyját és testvéreit megölték: "Már útnak indította embereit, hogy téged is öljenek meg." 
+!1 Mac 16:22-24
 22 Erre a hírre nagyon megrémült. Elfogatta az embereket, akik azért mentek, hogy megöljék, és kivégeztette õket. Mert tudta, hogy a vesztére törnek. 
 23 János történetének többi részét, háborúit és véghezvitt hõstetteit, a falak újjáépítését és egyéb tetteit 
 24 mind följegyezték fõpapsága könyvébe, attól az idõtõl fogva, hogy atyja helyett õ lett a fõpap. 

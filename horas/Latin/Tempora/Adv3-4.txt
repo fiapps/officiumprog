@@ -7,7 +7,7 @@ Oratio Dominica
 [Lectio1]
 De Isaia Propheta
 !Isa 33:1-2
-1 Vae qui praedaris ! nonne et ipse praedaberis? et qui spernis, nonne et ipse sperneris? Cum consummaveris depraedationem, depraedaberis; cum fatigatus desieris contemnere, contemneris.
+1 Vae qui praedaris! nonne et ipse praedaberis? et qui spernis, nonne et ipse sperneris? Cum consummaveris depraedationem, depraedaberis; cum fatigatus desieris contemnere, contemneris.
 2 Domine, miserere nostri, te enim exspectavimus; esto brachium nostrum in mane, et salus nostra in tempore tribulationis.
 
 [Responsory1]
@@ -48,4 +48,4 @@ R. Et vocabitur tibi nomen novum, quod os Domini nominavit.
 Vigilate * animo, in proximo est Dominus Deus noster.
 
 [Ant 3]
-Laetamini* cum Jerusalem, et exsultate in ea omnes qui diligitis eam, in aeternum.
+Laetamini * cum Jerusalem, et exsultate in ea omnes qui diligitis eam, in aeternum.

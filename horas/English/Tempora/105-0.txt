@@ -18,14 +18,13 @@ Lesson from the second book of Machabees
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!2 Mac 6:23-29
+!2 Mac 6:23-28
 23 But he began to consider the dignity of his age, and his ancient years, and the inbred honour of his grey head, and his good life and conversation from a child: and he answered without delay, according to the ordinances of the holy law made by God, saying, that he would rather be sent into the other world.
 24 For it doth not become our age, said he, to dissemble: whereby many young persons might think that Eleazar, at the age of fourscore and ten years, was gone over to the life of the heathens:
 25 And so they, through my dissimulation, and for a little time of a corruptible life, should be deceived, end hereby I should bring a stain and a curse upon my old age.
 26 For though, for the present time, I should be delivered from the punishments of men, yet should I not escape the hand of the Almighty neither alive nor dead.
 27 Wherefore by departing manfully out of this life, I shall shew myself worthy of my old age:
 28 And I shall leave an example of fortitude to young men, if with a ready mind and constancy I suffer an honourable death, for the most venerable and most holy laws. And having spoken thus, he was forthwith carried to execution.
-29 And they that led him, and had been a little before more mild, were changed to wrath for the words he had spoken, which they thought were uttered out of arrogancy.
 
 [Responsory2]
 @Tempora/101-0:Responsory2

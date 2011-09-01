@@ -11,8 +11,8 @@ De libro Ecclesiastici.
 
 [Lectio2]
 !Sir 3:5-8
-5 Et sicut qui thesaurizat, ita et qui honorificat matrem suam.
-6 Qui honorat patrem suum jucundabitur in filiis, et in die orationis suae exaudietur.
+5 Et sicut qui thesaurizat, ita et qui honorificat matrem suam,
+6 qui honorat patrem suum jucundabitur in filiis, et in die orationis suae exaudietur.
 7 Qui honorat patrem suum vita vivet longiore, et qui obedit patri refrigerabit matrem.
 8 Qui timet Dominum honorat parentes, et quasi dominis serviet his qui se genuerunt.
 

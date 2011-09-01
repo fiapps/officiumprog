@@ -20,7 +20,5 @@ $Per Dominum
 !Commemoratio S. Christinae.
 @Commune/C6:Oratio proper
 v. Oremus
-Indulgentiam nobis quaesumus Domine, beata Christina Virgo et martyr imploret;
-quae tibi grata sember exstitit, et merito castitatis et tuae professione
-virtutis
+Indulgentiam nobis quaesumus Domine, beata Christina Virgo et Martyr imploret; quae tibi grata semper exstitit, et merito castitatis et tuae professione virtutis
 $Per Dominum

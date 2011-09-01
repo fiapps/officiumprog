@@ -53,6 +53,7 @@ $adjust = strictparam('adjust');
 $masschange = strictparam('masschange');   
 $coupled = strictparam('coupled');
 $compare = strictparam('compare');
+$punct = strictparam('punct');
 $csearch = strictparam('csearch');
 $skey = strictparam('skey');
 $sstring = strictparam('sstring');
@@ -73,11 +74,11 @@ eval($setup{'parameters'});
 eval($setup{'general'});	 
 
 $date = strictparam('date'); 
-precedence($date);	       
+precedence($date);	   
 
 $lang1 = strictparam('lang1');  #the first column
 if (!$lang1 || $lang1 !~ /(latin|english|magyar)/i) {$lang1 = 'Latin';}
-$folder1 = strictparam('folder1');
+$folder1 = strictparam('folder1'); 
 if (!$folder1) {
   $folder1 = ($winner =~ /tempora/i) ? 'Tempora' : 'Sancti';
   if ($winner =~ /M\//i) {$folder1 .= 'M';}  
@@ -114,8 +115,6 @@ if ($folder1 =~ /M$/) {$version = 'pre Trident Monastic';}
   Martyrologium, Martyrologium1,Martyrologium2,program,TemporaM,SanctiM,CommuneM,Regula,test);
 @folders2=(Ordinarium,Psalterium,Tempora,Sancti,Commune,psalms,'psalms1',Tabulae,tones, 
   Martyrologium,TemporaM,SanctiM,CommuneM,Regula,test);
-if (!(-d "$datafolder/$lang1/test")) {pop(@folders1);} 
-if (!(-d "$datafolder/$lang2/test")) {pop(@folders2);} 
 
 @languages = splice(@laguages, @languages);
 opendir(DIR, $datafolder); 
@@ -128,7 +127,7 @@ foreach $item (@a) {
 
 
 $save = strictparam('save');
-if ($folder1 =~ /program/) {$edit1 = 0; $save = 0; $adjust = 0; $masschange = 0; $coupled = 0; $compare = 0;}
+if ($folder1 =~ /program/) {$edit1 = 0; $save = 0; $adjust = 0; $masschange = 0; $coupled = 0; $compare = 0; $punct = 0;}
 if ($adjust) {$save = 1;}
 if ($savesetup < 2) {$save = 0;}
 
@@ -284,7 +283,9 @@ print "</SELECT></TD>\n";
 print "<TD ALIGN=CENTER><FONT SIZE=1>folder1<BR></FONT>" .
   "<SELECT SIZE=5 NAME=folder1 onchange=\"submit1()\">\n";
 
-@folders = @folders1;
+@folders = ($lang1 =~ /^Latin$/i) ? @folders1 : @folders2; 
+if (!(-d "$datafolder/$lang1/test")) {pop(@folders);} 
+
 foreach $item (@folders) {
   $selected = ($item =~ /^$folder1$/i) ? "SELECTED" : "";
   print "<OPTION $selected VALUE=\"$item\">$item\n";
@@ -322,7 +323,9 @@ if ($lang2 =~ /search/i) {
 } elsif ($lang2 !~ /(none|search)/i) {
   print "<TD ALIGN=CENTER><FONT SIZE=1>folder2<BR></FONT>" .
     "<SELECT SIZE=5 NAME=folder2 onchange=\"submit1()\">\n";
-  @folders = @folders2;
+  @folders = ($lang2 =~ /^Latin$/i) ? @folders1 : @folders2;
+  if (!(-d "$datafolder/$lang2/test")) {pop(@folders);} 
+
   foreach $item (@folders) {
     $selected = ($item =~ /^$folder2$/i) ? "SELECTED" : "";
     print "<OPTION $selected VALUE=\"$item\">$item\n";  
@@ -356,6 +359,9 @@ if ($folder1 !~ /program/i) {
     $checked = ($compare) ? 'CHECKED' : '';
     print "&nbsp;&nbsp;&nbsp;\n";
     print "Compare:<INPUT TYPE=checkbox NAME='compare' onclick='submit1()' $checked>\n";
+    $checked = ($punct) ? 'CHECKED' : '';
+    print "&nbsp;&nbsp;&nbsp;\n";
+    print "Punctuation:<INPUT TYPE=checkbox NAME='punct' onclick='submit1()' $checked>\n";
   }
   $checked = ($edit1) ? 'CHECKED' : '';
   print "&nbsp;&nbsp;&nbsp;\n";
@@ -448,30 +454,34 @@ if (!$skeleton) {
 } 
 
 #*** skeleton printout
-elsif ($folder1 !~ /program/i) { 
+elsif ($folder1 !~ /program/i  && ($folder1 !~ /Martyrologium/i || !$compare ||!@txvern)) { 
   $ind1 = $ind2 = $pind1 = 0;
   my $skfont = ($compare) ? $blackfont : $redfont;
   
+  if ($compare && @txvern) {
+    {@txvern = split("\n", correspond(\@txvern, \@txlat));}
+  
+  }
   while ($ind1 < @txlat || $ind2 < @txvern) {
-    ($text1, $ind1) = getunit(\@txlat, $ind1);
-    ($text2, $ind2) = getunit(\@txvern, $ind2); 
+    ($text1, $ind1) = getunit2(\@txlat, $ind1);
+    ($text2, $ind2) = getunit2(\@txvern, $ind2);  
     if ($compare) {    
-	  $text1 =~ s/\n[0-9: ]+/\n/;
-	  $text1 =~ s/\n[0-9: ]+/ /g;
+      $text1 =~ s/\n[0-9: ]+/\n/;  
+      $text1 =~ s/\n[0-9: ]+/ /g;
       $text2=~ s/\n[0-9: ]+/\n/;
-      $text2=~ s/\n[0-9: ]+/ /g;
-	  $text1 =~ s/ +/ /g;
+      $text2=~ s/\n[0-9: ]+/ /g; 
+      $text1 =~ s/ +/ /g;
 	  $text2 =~ s/ +/ /g;
     }
 
-	  @text1 = split("\n", $text1);
-      @text2 = split("\n", $text2);
+	@text1 = split("\n", $text1);
+    @text2 = split("\n", $text2);
 
-	  print "<TR><TD $background $width VALIGN=TOP>" . setfont($skfont,$text1[0]); 
+	print "<TR><TD $background $width VALIGN=TOP>" . setfont($skfont,$text1[0]); 
     if ($text1[0]) {print 
       "&nbsp;&nbsp:<INPUT TYPE=RADIO NAME=expind1 VALUE=expand onclick=\"expand(1,$ind1)\">";
     }
-
+    
     if ($compare) {
 	  lcompare($text1, $text2);
       if ($ind1 == $expand1) {for ($i = 1; $i < @text1; $i++) {print "<BR>" . tcompare($text1[$i], $text2[$i]);}}
@@ -489,7 +499,20 @@ elsif ($folder1 !~ /program/i) {
     }
   }
 
-} 
+} elsif ($folder1 =~ /Martyrologium/i && $compare) {
+    @text1 = splice(@text1, @text1);
+	@text2 = splice(@text2, @text2);
+	my $l;
+	foreach $l (@txlat) {if ($l && $l !~ /^[\s_]*$/) {push(@text1, $l);}}
+	foreach $l (@txvern) {if ($l && $l !~ /^[\s_]*$/) {push(@text2, $l);}}
+	
+	print "<TR><TD $background $width VALIGN=TOP>";
+    for ($i = 1; $i < @text1; $i++) {print "<BR>" . tcompare($text1[$i], $text2[$i]);}
+	print "</TD>\n";
+	print "<TD $background $width VALIGN=TOP>"; 
+    for ($i = 1; $i < @text2; $i++) {print "<BR>" . tcompare($text2[$i], $text1[$i]);}
+	print   "</TD></TR>\n";
+}
 
 #*** program skeleton
 else {
@@ -831,6 +854,23 @@ sub getunit1 {
   return ($t, $ind);
 }
 
+sub getunit2 {
+  my $s = shift;
+  my @s = @$s;
+  my $ind = shift;
+  my $t = '';
+  my $plen = 1;
+
+  while ($ind < @s) {
+    my $line = chompd($s[$ind]);
+    $ind++;
+    if ($line && !($line =~ /^\s+$/)) {$t .= "$line\n"; next;}
+    if (!$t) {next;}
+    last;
+  }    
+
+  return ($t, $ind);
+}
 
 sub searchrut {
  my $search = shift;
@@ -923,7 +963,7 @@ sub get_sday_e {
 
 sub lcompare {
   my $t1 = shift;
-  my $t2 = shift;
+  my $t2 = shift; 
 
   my @t1 = split("\n", $t1);
   my @t2 = split("\n", $t2);
@@ -963,8 +1003,8 @@ sub lcompare {
 }
 
 sub tcompare {
-  my $t1 = shift;
-  my $t2 = shift;
+  my $t1 = shift;  
+  my $t2 = shift;  
   if (!$t2 || !$t1) {return $t1;} 
 
   my @t1 = split(' ', $t1);
@@ -976,7 +1016,7 @@ sub tcompare {
 
   for ($i = 0; $i < $n; $i++) {
     $w1 = deaccent($t1[$i]);  
-	$w2 = deaccent($t2[$i]);  
+	$w2 = deaccent($t2[$i]);   
 	
 	if ($w1 eq $w2) {$str .= "$t1[$i] ";}
 	else {$str .= "<FONT COLOR=RED>$t1[$i] </FONT>";}
@@ -986,9 +1026,12 @@ sub tcompare {
 	
 
 sub deaccent {
-  my $w = shift; 
+  my $w = shift;  
 
-  $w =~ s/[!@#$%&*()\-_=+,<.>?'";:0-9 ]//g; 
+  if (!$punct) {
+    $w =~ s/[!@#$%&*()\-_=+,<.>?'";: ]//g; 
+    $w = lc($w);
+  }
   
   $w =~ s/á/a/g;
   $w =~ s/é/e/g;
@@ -1000,18 +1043,14 @@ sub deaccent {
   $w =~ s/Í/I/g;
   $w =~ s/Ó/O/g;
   $w =~ s/Ú/U/g;
-  $w =~ s/ae/æ/g;
-  $w =~ s/áe/æ/g;
-  $w =~ s/oe/œ/g;
-  $w =~ s/óe/œ/g;
-  $w =~ s/Ae/Æ/g;
-  $w =~ s/Áe/Æ/g;
-  $w =~ s/Oe/Œ/g; 
-  $w =~ s/Óe/Œ/g;
+  $w =~ s/ë/e/g;
+  $w =~ s/æ/ae/g;
+  $w =~ s/œ/oe/g;
+  $w =~ s/Æ/Ae/g;
+  $w =~ s/Œ/Oe/g; 
   $w =~ s/ı/y/g;
-  $w =~ s/([nraeiouáéíóöõúüûÁÉÓÖÔÚÜÛ])i([aeiouáéíóöõúüûÁÉÓÖÔÚÜÛ])/$1j$2/ig;
-  $w =~ s/^i([aeiouAEIOUáéíóöõúüûÁÉÓÖÔÚÜÛ])/j$1/g; 
-  $w =~ s/^I([aeiouAEIOUáéíóöõúüûÁÉÓÖÔÚÜÛ])/J$1/g; 
+  $w =~ s/j/i/g;
+  $w =~ s/J/I/g;
   return $w;
 }
 
@@ -1039,7 +1078,64 @@ sub putaccents {
   $t =~ s/U'/Ú/g;
   $t =~ s/U:/Ü/g;
   $t =~ s/U"/Û/g;
+  $w =~ s/ae/æ/g;
+  $w =~ s/oe/œ/g;
+  $w =~ s/Ae/Æ/g;
+  $w =~ s/Oe/Œ/g; 
   $t =~ s/y'/ı/g;
+  $w =~ s/([nraeiouáéíóöõúüûÁÉÓÖÔÚÜÛ])i([aeiouáéíóöõúüûÁÉÓÖÔÚÜÛ])/$1j$2/ig;
+  $w =~ s/^i([aeiouAEIOUáéíóöõúüûÁÉÓÖÔÚÜÛ])/j$1/g; 
+  $w =~ s/^I([aeiouAEIOUáéíóöõúüûÁÉÓÖÔÚÜÛ])/J$1/g;
+  $w =~ s/Israel/Israël/g;
+  $w =~ s/Noe/Noë/g;
+  $w =~ s/Michael/Michaël/g;
+  $w =~ s/troeunt/troëunt/g;
+  $w =~ s/Joel/Joël/g; 
 
   return $t;
 }	 
+
+sub correspond {
+  my $t1 = shift;
+  my $t2 = shift;
+  my @t1 = @$t1;
+  my @t2 = @$t2;
+  my $t = '';
+ 
+ 
+  my %ps;		
+  foreach (keys %ps) {delete($ps{$_});}
+  my $i;
+  my $key = '';
+  my $value = '';
+  my $l;
+  for ($i = 0; $i <  @t1; $i++) {
+    $l = $t1[$i];
+    $l= chompd($l);
+    if ($l =~ /^\s*\[([a-z0-9áéíóöõúüûÁÉÓÖÔÚÜÛ\_\- \#]+)\]/i) {
+	  $l = $1;
+      if ($key) {$ps{$key} = $value;}
+	  $key = $l;        
+      $value = '';
+      next;
+   }
+   $value .= "$l\n";
+ } 
+ if ($key) {$ps{$key} = $value; }
+ 
+ for ($i = 0; $i <  @t2; $i++) {
+   $l = $t2[$i];
+   if ($l =~ /^\s*\[([a-z0-9áéíóöõúüûÁÉÓÖÔÚÜÛ\_\- \#]+)\]/i) {
+     $key = $1;
+     if (exists($ps{$key})) {
+       $t .= "[$key]\n$ps{$key}\n";
+       delete($ps{$key}); 
+     } else {
+	   while ($t2[$i] && $t2[$i] !~ /^\s$/) {$t .= $t2[$i]; $i++;} 
+	   $t .= "\n";
+	 }
+   }
+ } 
+ foreach $key( sort keys %ps ) {$t .= "[$key]\n$ps{$key}\n";} 
+ return $t;
+}

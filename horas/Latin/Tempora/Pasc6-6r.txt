@@ -1,17 +1,19 @@
 [Rank]
-Sabbato in Vigilia Pentecostes;;I classis Semiduplex;;5;;vide Tempora/Pasc5-4
+Sabbato in Vigilia Pentecostes;;I classis Semiduplex;;6;;vide Tempora/Pasc5-4
 
 [Rule]
-Psalmi Dominica
-Antiphonas Horas
 Doxology=Asc
 Preces
 Feria Te Deum
 
+[Oratio]
+Omnipotens sempiterne Deus, fac nos tibi semper et devotam gerere voluntatem, et majestati tuae sincero corde servire. 
+$Per Dominum
+
 [Lectio1]
 Lectio sancti Evangelii secundum Joannem.
 !John 14:15-21
-In illo tempore: Dixit Jesus discipulis suis: Si diligitis me, mandata mea servate. Et ego rogabo Patrem, et aliura Paraclitum dabit vobis. Et reliqua.
+In illo tempore: Dixit Jesus discipulis suis: Si diligitis me, mandata mea servate. Et ego rogabo Patrem, et alium Paraclitum dabit vobis. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
 !Tract. 74. in Joann. sub tin. et 75.

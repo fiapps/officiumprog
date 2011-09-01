@@ -1,11 +1,11 @@
 [Lectio1]
 De Ezechiele Propheta
 !Ezek 43:1-5
-1 Et duxit me ad portam quae respiciebat ad viam orientalem.
-2 Et ecce gloria Dei Israël ingrediebatur per viam orientalem: et vox erat ei quasi vox aquarum multarum, et terra splendebat a majestate ejus.
+1 Et duxit me ad portam quae respiciebat ad viam Orientalem
+2 et ecce gloria Dei Israël ingrediebatur per viam Orientalem: et vox erat ei quasi vox aquarum multarum, et terra splendebat a majestate ejus.
 3 Et vidi visionem secundum speciem quam videram quando venit ut disperderet civitatem, et species secundum aspectum quem videram juxta fluvium Chobar: et cecidi super faciem meam.
-4 Et majestas Domini ingressa est templum per viam portae quae respiciebat ad orientem.
-5 Et elevavit me spiritus, et introduxit me in atrium interius: et ecce repleta erat gloria Domini domus.
+4 Et majestas Domini ingressa est templum per viam portae quae respiciebat ad Orientem
+5 et elevavit me spiritus, et introduxit me in atrium interius: et ecce repleta erat gloria Domini domus.
 
 [Responsory1]
 @Tempora/111-0:Responsory4

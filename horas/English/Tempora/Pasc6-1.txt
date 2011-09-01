@@ -36,11 +36,16 @@ Lesson from the first letter of St John the Apostle
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!1 John 3:13-16
+!1 John 3:13-18
 13 Wonder not, brethren, if the world hate you.
 14 We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death.
 15 Whosoever hateth his brother is a murderer. And you know that no murderer hath eternal life abiding in himself.
-16 In this we have known the charity of God, because he hath laid down his life for us: and we ought to lay down our lives for the brethren._ @Tempora/Pasc5-4:Responsory3
+16 In this we have known the charity of God, because he hath laid down his life for us: and we ought to lay down our lives for the brethren.
+17 He that hath the substance of this world, and shall see his brother in need, and shall shut up his bowels from him: how doth the charity of God abide in him? 
+18 My little children, let us not love in word, nor in tongue, but in deed, and in truth. 
+
+[Responsory3]
+@Tempora/Pasc5-4:Responsory3
 
 [Lectio4]
 From the Sermons of St John Chrysostom, Patriarch of Constantinople.

@@ -1,8 +1,8 @@
 [Lectio1]
 De libro Ecclesiastae.
 !Eccl 4:1-4
-1 Verti me ad alia, et vidi calumnias quae sub sole geruntur, et lacrimas innocentium, et neminem consolatorem, nec posse resistere eorum violentiae, cunctorum auxilio destitutos,
-2 et laudavi magis mortuos quam viventes;
+1 Verti me ad alia, et vidi calumnias quae sub sole geruntur, et lacrimas innocentium, et neminem consolatorem, nec posse resistere eorum violentiae, cunctorum auxilio destitutos.
+2 Et laudavi magis mortuos quam viventes;
 3 et feliciorem utroque judicavi qui necdum natus est, nec vidit mala quae sub sole fiunt.
 4 Rursum contemplatus sum omnes labores hominum, et industrias animadverti patere invidiae proximi; et in hoc ergo vanitas et cura superflua est.
 

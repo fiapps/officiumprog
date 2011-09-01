@@ -36,8 +36,8 @@ R. Et liberabit vos de manibus inimicorum vestrorum.
 [Lectio2]
 !1 Kgs 9:6-9
 6 Si autem aversione aversi fueritis vos et filii vestri, non sequentes me, nec custodientes mandata mea et caeremonias meas quas proposui vobis, sed abieritis et colueritis deos alienos, et adoraveritis eos:
-7 auferam Israël de superficie terrae quam dedi eis, et templum quod sanctificavi nomini meo, projiciam a conspectu meo: eritque Israël in proverbium, et in fabulam cunctis populis.
-8 Et domus haec erit in exemplum: omnis qui transierit per eam, stupebit, et sibilabit, et dicet: Quare fecit Dominus sic terrae huic, et domui huic?
+7 auferam Israël de superficie terrae quam dedi eis, et templum quod sanctificavi nomini meo, projiciam a conspectu meo: eritque Israël in proverbium, et in fabulam cunctis populis,
+8 et domus haec erit in exemplum: omnis qui transierit per eam, stupebit, et sibilabit, et dicet: Quare fecit Dominus sic terrae huic, et domui huic?
 9 Et respondebunt: Quia dereliquerunt Dominum Deum suum, qui eduxit patres eorum de terra Ægypti, et secuti sunt deos alienos, et adoraverunt eos, et coluerunt eos: idcirco induxit Dominus super eos omne malum hoc.
 
 [Responsory2]
@@ -50,8 +50,8 @@ R. Et unxit me unctione misericordiae suae.
 !1 Kgs 9:10-14
 10 Expletis autem annis viginti postquam aedificaverat Salomon duas domos, id est, domum Domini, et domum regis
 11 (Hiram rege Tyri praebente Salomoni ligna cedrina et abiegna, et aurum juxta omne quod opus habuerat), tunc dedit Salomon Hiram viginti oppida in terra Galilaeae.
-12 Et egressus est Hiram de Tyro ut videret oppida quae dederat ei Salomon, et non placuerunt ei.
-13 Et ait: Haeccine sunt civitates quas dedisti mihi, frater? Et appellavit eas terram Chabul, usque in diem hanc.
+12 Et egressus est Hiram de Tyro ut videret oppida quae dederat ei Salomon, et non placuerunt ei,
+13 et ait: Haeccine sunt civitates quas dedisti mihi, frater? Et appellavit eas terram Chabul, usque in diem hanc.
 14 Misit quoque Hiram ad regem Salomonem centum viginti talenta auri.
 
 [Responsory3]
@@ -77,9 +77,9 @@ R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit opprobri
 Nam praeter libros divinae historiae, ubi regnasse narratur, Psalmus etiam septuagesimus primus titulo nominis ejus inscriptus est. In quo tam multa dicuntur, quae omnino ei convenire non possunt; Domino autem Christo aptissima perspicuitate conveniunt: ut evidenter appareat, quod in illo figura qualiscumque adumbrata sit, in isto autem ipsa veritas praesentata.
 
 [Responsory5]
-R. Montes Gelboe, nec ros nec pluvia veniant super vos,
+R. Montes Gelboë, nec ros nec pluvia veniant super vos,
 * Ubi ceciderunt fortes Israël.
-V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboe autem transeat.
+V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboë autem transeat.
 R. Ubi ceciderunt fortes Israël.
 
 [Lectio6]
@@ -116,14 +116,14 @@ Quam ob rem sequitur: Qui fidelis est in minimo, hoc est, in carnalibus; et in m
 &teDeum
 
 [Ant 2]
-Ait Dominus villico: * Quid hoc audio de te? redde rationem villicationis tuae, alleluia.
+Ait dominus villico: * Quid hoc audio de te? redde rationem villicationis tuae, alleluia.
 
 [Versum 2]
 V. Dominus regnavit, decorem induit.
 R. Induit Dominus fortitudinem, et praecinxit se virtute.
 
 [Ant 3]
-Quid faciam, * quia dominus meus aufert a me villicationem? Fodere non valeo, mendicare erubesco: scio quid faciam, ut cum amotus fuero a villicatione, recipiant me in domos suas.
+Quid faciam, * quia dominus meus aufert a me villicationem? Fodere non valeo, mendicare erubesco: Scio quid faciam, ut cum amotus fuero a villicatione, recipiant me in domos suas.
 
 [Versum 3]
 V. Dirigatur Domine oratio mea.

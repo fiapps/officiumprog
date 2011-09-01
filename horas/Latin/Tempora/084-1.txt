@@ -5,7 +5,7 @@ De libro Ecclesiastici.
 23 et vidit, et dinumeravit eam: utraque autem sunt dona Dei.
 24 Scientiam et intellectum prudentiae sapientia compartietur, et gloriam tenentium se exaltat.
 25 Radix sapientiae est timere Dominum, et rami illius longaevi.
-26 In thesauris sapientiae intellectus et scientiae religiositas: execratio autem peccatoribus sapientia.
+26 In thesauris sapientiae intellectus et scientiae religiositas: exsecratio autem peccatoribus sapientia.
 
 [Responsory1]
 @Tempora/081-1:Responsory1
@@ -17,7 +17,7 @@ De libro Ecclesiastici.
 29 Usque in tempus sustinebit patiens, et postea redditio jucunditatis.
 30 Bonus sensus usque in tempus abscondet verba illius, et labia multorum enarrabunt sensum illius.
 31 In thesauris sapientiae significatio disciplinae:
-32 execratio autem peccatori cultura Dei.
+32 exsecratio autem peccatori cultura Dei.
 33 Fili, concupiscens sapientiam, conserva justitiam, et Deus praebebit illam tibi.
 
 [Responsory2]

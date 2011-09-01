@@ -102,6 +102,10 @@ R. Amen.
 r. Qui tecum vivit et regnat in unitate Spiritus Sancti Deus per omnia saecula saeculorum. 
 R. Amen.
 
+[Qui tecum eiusdem]
+r. Qui tecum vivit et regnat in unitate eiusdem Spiritus Sancti Deus per omnia saecula saeculorum. 
+R. Amen.
+
 [Te Deum]
 v. Te Deum laudamus: te Dominum confitemur.
 Te aeternum Patrem, omnis terra veneratur.

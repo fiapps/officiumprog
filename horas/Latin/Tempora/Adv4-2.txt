@@ -9,7 +9,7 @@ De Isaia Propheta
 !Isa 42:1-4
 1 Ecce servus meus, suscipiam eum; electus meus, complacuit sibi in illo anima mea: dedi spiritum meum super eum: judicium gentibus proferet.
 2 Non clamabit, neque accipiet personam, nec audietur vox ejus foris.
-3 Calamum quassatum non conteret, et linum fumigans non extinguet: in veritate educet judicium.
+3 Calamum quassatum non conteret, et linum fumigans non exstinguet: in veritate educet judicium.
 4 Non erit tristis, neque turbulentus, donec ponat in terra judicium; et legem ejus insulae exspectabunt.
 
 [Responsory1]
@@ -17,7 +17,7 @@ De Isaia Propheta
 
 [Lectio2]
 !Isa 42:5-7
-5 Haec dicit Dominus Deus, creans caelos, et extendens eos; formans terram, et quae germinant ex ea; dans flatum populo qui est super eam, et spiritum calcantibus eam:
+5 Haec dicit Dominus Deus, creans caelos, et extendens eos; firmans terram, et quae germinant ex ea; dans flatum populo qui est super eam, et spiritum calcantibus eam:
 6 Ego Dominus vocavi te in justitia, et apprehendi manum tuam, et servavi te: et dedi te in fœdus populi, in lucem gentium,
 7 ut aperires oculos caecorum, et educeres de conclusione vinctum, de domo carceris sedentes in tenebris.
 

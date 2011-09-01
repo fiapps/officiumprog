@@ -34,8 +34,8 @@ Laudemus Deum nostrum, * In confessione beatae N.
 @Commune/C7:Hymnus Matutinum
 
 [Ant Matutinum]
-Quam pulchra * est casta generatio cum claritate;;8
-Leva ejus * sub capite meo, et dextera illius amplexabitur me;;18
+O quam pulchra * est casta generatio cum claritate;;8
+Laeva ejus * sub capite meo, et dextera illius amplexabitur me;;18
 Revertere, * revertere Sunamitis: revertere, revertere, ut intueamur te;;23
 V. Specie tua et pulchritudine tua.
 R. Intende, prospere procede, et regna.
@@ -56,7 +56,7 @@ R. In tabernaculo suo habitare facit eam.
 10 Mulierem fortem quis inveniet? procul et de ultimis finibus pretium ejus.
 11 Confidit in ea cor viri sui, et spoliis non indigebit.
 12 Reddet ei bonum, et non malum, omnibus diebus vitae suae.
-13 Quaesivit lanam et linum, et operata est consilia manuum suarum.
+13 Quaesivit lanam et linum, et operata est consilio manuum suarum.
 14 Facta est quasi navis institoris, de longe portans panem suum.
 15 Et de nocte surrexit, deditque praedam domesticis suis, et cibaria ancillis suis.
 16 Consideravit agrum, et emit eum; de fructu manuum suarum plantavit vineam.
@@ -69,14 +69,14 @@ V. Specie tua et pulchritudine tua intende, prospere procede, et regna.
 R. Quia concupivit Rex speciem tuam.
 
 [Lectio2]
-!Prov 3:18-24
-18 Lignum vitae est his qui apprehenderint eam, et qui tenuerit eam beatus.
-19 Dominus sapientia fundavit terram; stabilivit caelos prudentia.
-20 Sapientia illius eruperunt abyssi, et nubes rore concrescunt.
-21 Fili mi, ne effluant haec ab oculis tuis. Custodi legem atque consilium,
-22 et erit vita animae tuae, et gratia faucibus tuis.
-23 Tunc ambulabis fiducialiter in via tua, et pes tuus non impinget.
-24 Si dormieris, non timebis; quiesces, et suavis erit somnus tuus.
+!Prov 31:18-24
+18 Gustavit, et vidit quia bona est negotiatio ejus; non exstinguetur in nocte lucerna ejus.
+19 Manum suam misit ad fortia, et digiti ejus apprehenderunt fusum.
+20 Manum suam aperuit inopi, et palmas suas extendit ad pauperem.
+21 Non timebit domui suæ a frigoribus nivis; omnes enim domestici ejus vestiti sunt duplicibus.
+22 Stragulatam vestem fecit sibi; byssus et purpura indumentum ejus.
+23 Nobilis in portis vir ejus, quando sederit cum senatoribus terræ.
+24 Sindonem fecit, et vendidit, et cingulum tradidit Chananæo.
 
 [Responsory2]
 R. Diffusa est gratia in labiis tuis:
@@ -105,7 +105,7 @@ R. Intende, prospere procede, et regna.
 [Lectio4]
 Ex Libro Sancti Ambrosii Episcopi de Viduis
 !prope finem
-Aegrum hunc Ecclesiae fertilem cerno, nunc integritatis flore vernantem, nunc viduitatis gravitate pollentem, nunc etiam conjugii fructibus redundantem. Nam etsi diversi, unius tamen agri fructus sunt: nec tanta hortorum alia, quantae aristae segetum, messium spicae: compluriumque spatia camporum recipiendis aptantur seminibus, quam redditis novales fructibus feriantur. Bona ergo viduitas, quae toties apostolico judicio praedicatur. Haec enim magistra fidei, magistra est castitatis.
+Agrum hunc Ecclesiae fertilem cerno, nunc integritatis flore vernantem, nunc viduitatis gravitate pollentem, nunc etiam conjugii fructibus redundantem. Nam etsi diversi, unius tamen agri fructus sunt: nec tanta hortorum lilia, quantae aristae segetum, messium spicae: compluriumque spatia camporum recipiendis aptantur seminibus, quam redditis novales fructibus feriantur. Bona ergo viduitas, quae toties apostolico judicio praedicatur. Haec enim magistra fidei, magistra est castitatis.
 
 [Responsory4]
 R. Propter veritatem, et mansuetudinem, et justitiam:
@@ -114,7 +114,7 @@ V. Specie tua et pulchritudine tua intende, prospere procede, et regna.
 R. Et deducet te mirabiliter dextera tua.
 
 [Lectio5]
-Unde et illi qui deorum suorum adulteria et probra venerantur, caelibatus et viduitatis statuere poenas, ut aemuli criminum multarent studia virtutum, specie quidem, qua fecunditatem quaererent, sed studio, quo propositum castitatis abolerent, Nam confectis et miles stipendiis arma deponit, et relicto officio quod gerebat, ad propria veteranus rura dimittitur, ut et ipse exercitae laboribus vitae requiem consequatur; et alios spes futurae quietis subeundis faciat operibus promptiores. Agricola quoque maturior torquendam aliis stivam committit, et juvenili gravatus opere providentiam curae senilis explorat: vitem facilius tondere, quam premere, ut juvenescentem luxuriam reprimat, et adolescentem lasciviam falce succidat: parcorum quamdam partuum castitatem docens etiam in vitibus expetendam.
+Unde et illi qui deorum suorum adulteria et probra venerantur, caelibatus et viduitatis statuere poenas, ut aemuli criminum mulctarent studia virtutum, specie quidem, qua foecunditatem quaererent, sed studio, quo propositum castitatis abolerent, Nam confectis et miles stipendiis arma deponit, et relicto officio quod gerebat, ad propria veteranus rura dimittitur, ut et ipse exercitae laboribus vitae requiem consequatur; et alios spes futurae quietis subeundis faciat operibus promptiores. Agricola quoque maturior torquendam aliis stivam committit, et juvenili gravatus opere providentiam curae senilis explorat: vitem facilius tondere, quam premere, ut juvenescentem luxuriam reprimat, et adolescentem lasciviam falce succidat: parcorum quamdam partuum castitatem docens etiam in vitibus expetendam.
 
 [Responsory5]
 R. Dilexisti justitiam, et odisti iniquitatem:
@@ -239,12 +239,12 @@ v. Multae filiae congregaverunt divitias: tu supergressa es universas. Fallax gr
 $Deo gratias.
 
 [Responsory Nona]
-R.br. Elegit eam Deus,* Et praeelegit eam
-R. Elegit eam Deus,* Et praeelegit eam
+R.br. Elegit eam Deus, * Et praeelegit eam
+R. Elegit eam Deus, * Et praeelegit eam
 V. In tabernaculo suo habitare facit eam.
 R. Et praeelegit eam
 &Gloria
-R. Elegit eam Deus,* Et praeelegit eam
+R. Elegit eam Deus, * Et praeelegit eam
 _
 V. Diffusa est gratia in labiis tuis.
 R. Propterea benedixit te Deus in aeternum.

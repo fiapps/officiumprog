@@ -7,10 +7,10 @@ Oratio Dominica
 [Lectio1]
 De libro tertio Regum.
 !1 Kgs 4:21-24
-21 Salomon autem erat in ditione sua, habens omnia regna a flumine terrae Philisthiim usque ad terminum Ægypti: offerentium sibi munera, et servientium ei cunctis diebus vitae ejus.
+21 Salomon autem erat in dicione sua, habens omnia regna a flumine terrae Philisthiim usque ad terminum Ægypti: offerentium sibi munera, et servientium ei cunctis diebus vitae ejus.
 22 Erat autem cibus Salomonis per dies singulos triginta cori similae, et sexaginta cori farinae,
 23 decem boves pingues, et viginti boves pascuales, et centum arietes, excepta venatione cervorum, caprearum, atque bubalorum, et avium altilium.
-24 Ipse enim obtinebat omnem regionem quae erat trans flumen, a Thaphsa usque ad Gazan, et cunctos reges illarum regionum: et habebat pacem ex omni parte in circuitu.
+24 Ipse enim obtinebat omnem regionem quae erat trans flumen, a Thaphsa usque ad Gazam, et cunctos reges illarum regionum: et habebat pacem ex omni parte in circuitu.
 
 [Responsory1]
 @Tempora/Pent01-1:Responsory1

@@ -7,10 +7,10 @@ Oratio Dominica
 [Lectio1]
 De libro secundo Regum.
 !2 Sam 14:4-7
-4 Itaque cum ingressa fuisset mulier Thecuitis ad regem, cecidit coram eo super terram, et adoravit, et dixit: Serva me, rex.
+4 Cum ingressa fuisset mulier Thecuitis ad regem, cecidit coram eo super terram, et adoravit, et dixit: Serva me, rex.
 5 Et ait ad eam rex: Quid causae habes? Quae respondit: Heu, mulier vidua ego sum: mortuus est enim vir meus.
 6 Et ancillae tuae erant duo filii: qui rixati sunt adversum se in agro, nullusque erat qui eos prohibere posset: et percussit alter alterum, et interfecit eum.
-7 Et ecce consurgens universa cognatio adversum ancillam tuam, dicit: Trade eum qui percussit fratrem suum, ut occidamus eum pro anima fratris sui quem interfecit, et deleamus heredem: et quaerunt extinguere scintillam meam quae relicta est, ut non supersit viro meo nomen, et reliquiae super terram.
+7 Et ecce consurgens universa cognatio adversum ancillam tuam, dicit: Trade eum qui percussit fratrem suum, ut occidamus eum pro anima fratris sui quem interfecit, et deleamus heredem: Et quaerunt exstinguere scintillam meam quae relicta est, ut non supersit viro meo nomen, et reliquiae super terram.
 
 [Responsory1]
 @Tempora/Pent01-2:Responsory3
@@ -29,7 +29,7 @@ De libro secundo Regum.
 [Lectio3]
 !2 Sam 14:19-21
 19 Et ait rex: Numquid manus Joab tecum est in omnibus istis? Respondit mulier, et ait: Per salutem animae tuae, domine mi rex, nec ad sinistram, nec ad dexteram est ex omnibus his quae locutus est dominus meus rex: servus enim tuus Joab, ipse praecepit mihi, et ipse posuit in os ancillae tuae omnia verba haec.
-20 Ut verterem figuram sermonis hujus, servus tuus Joab praecepit istud: tu autem, domine mi rex, sapiens es, sicut habet sapientiam angelus Dei, ut intelligas omnia super terram.
+20 Ut verterem figuram sermonis hujus, servus tuus Joab praecepit istud: tu autem, domine mi rex, sapiens es, sicut habet sapientiam Angelus Dei, ut intelligas omnia super terram.
 21 Et ait rex ad Joab: Ecce placatus feci verbum tuum: vade ergo, et revoca puerum Absalom.
 
 [Responsory3]

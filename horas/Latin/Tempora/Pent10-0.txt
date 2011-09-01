@@ -24,7 +24,7 @@ De libro quarto Regum.
 29 Anno undecimo Joram filii Achab, regnavit Ochozias super Judam,
 30 venitque Jehu in Jezrahel. Porro Jezabel, introitu ejus audito, depinxit oculos suos stibio, et ornavit caput suum, et respexit per fenestram
 31 ingredientem Jehu per portam, et ait: Numquid pax potest esse Zambri, qui interfecit dominum suum?
-32 Levavitque Jehu faciem suam ad fenestram, et ait: Quae est ista? et inclinaverunt se ad eum duo vel tres eunuchi.
+32 Levavitque Jehu faciem suam ad fenestram, et ait: Quae est ista? Et inclinaverunt se ad eum duo vel tres eunuchi.
 33 At ille dixit eis: Praecipitate eam deorsum: et praecipitaverunt eam, aspersusque est sanguine paries, et equorum ungulae conculcaverunt eam.
 34 Cumque introgressus esset ut comederet biberetque, ait: Ite, et videte maledictam illam, et sepelite eam: quia filia regis est.
 
@@ -39,7 +39,7 @@ R. Et liberabit vos de manibus inimicorum vestrorum.
 35 Cumque issent ut sepelirent eam, non invenerunt nisi calvariam, et pedes, et summas manus.
 36 Reversique nuntiaverunt ei. Et ait Jehu: Sermo Domini est, quem locutus est per servum suum Eliam Thesbiten, dicens: In agro Jezrahel comedent canes carnes Jezabel,
 37 et erunt carnes Jezabel sicut stercus super faciem terrae in agro Jezrahel, ita ut praetereuntes dicant: Haeccine est illa Jezabel?
-1 Erant autem Achab septuaginta filii in Samaria: scripsit ergo Jehu litteras, et misit in Samariam, ad optimates civitatis, et ad majores natu, et ad nutritios Achab, dicens:
+1 Erant autem Achab septuaginta filii in Samaria: Scripsit ergo Jehu litteras, et misit in Samariam, ad optimates civitatis, et ad majores natu, et ad nutricios Achab, dicens:
 2 Statim ut acceperitis litteras has, qui habetis filios domini vestri, et currus, et equos, et civitates firmas, et arma,
 3 eligite meliorem, et eum qui vobis placuerit de filiis domini vestri, et eum ponite super solium patris sui, et pugnate pro domo domini vestri.
 
@@ -52,9 +52,9 @@ R. Et unxit me unctione misericordiae suae.
 [Lectio3]
 !2 Kgs 10:4-7
 4 Timuerunt illi vehementer, et dixerunt: Ecce duo reges non potuerunt stare coram eo, et quomodo nos valebimus resistere?
-5 Miserunt ergo praepositi domus, et praefecti civitatis, et majores natu, et nutritii, ad Jehu, dicentes: Servi tui sumus: quaecumque jusseris faciemus, nec constituemus nobis regem: quaecumque tibi placent, fac.
-6 Rescripsit autem eis litteras secundo, dicens: Si mei estis, et obeditis mihi, tollite capita filiorum domini vestri, et venite ad me hac eadem hora cras in Jezrahel. Porro filii regis, septuaginta viri, apud optimates civitates nutriebantur.
-7 Cumque venissent litteras ad eos, tulerunt filios regis, et occiderunt septuaginta viros, et posuerunt capita eorum in cophinis, et miserunt ad eum in Jezrahel.
+5 Miserunt ergo praepositi domus, et praefecti civitatis, et majores natu, et nutricii, ad Jehu, dicentes: Servi tui sumus: quaecumque jusseris faciemus, nec constituemus nobis regem: quaecumque tibi placent, fac.
+6 Rescripsit autem eis litteras secundo, dicens: Si mei estis, et obeditis mihi, tollite capita filiorum domini vestri, et venite ad me hac eadem hora cras in Jezrahel. Porro filii regis, septuaginta viri, apud optimates civitatis nutriebantur.
+7 Cumque venissent litterae ad eos, tulerunt filios regis, et occiderunt septuaginta viros, et posuerunt capita eorum in cophinis, et miserunt ad eum in Jezrahel.
 
 [Responsory3]
 R. Dominus, qui eripuit me de ore leonis, et de manu bestiae liberavit me,
@@ -67,7 +67,7 @@ R. Ipse me eripiet de manibus inimicorum meorum.
 [Lectio4]
 Sermo sancti Joannis Chrysostomi.
 !Homilia 25. in Epist. ad Rom.
-Non putemus nos excusationem habituros, si quando delictorum socios invenerimus: nam istud, supplicium magis augebit. Quandoquidem et serpens magis punitus est quam mulier: quemadmodum et mulier plus quam vir, et Jezabel majores poenas dedit, quam Achab vineae raptor. Ipsa quippe universum istud negotium texuerat, regique lapsus occasionem dederat. Igitur et tu quoque si reliquis perditionis causa fueris, graviora patieris, quam qui per te subversi sunt. Neque enim peccare tantum in se perditionis habet, quantum quod reliqui ad peccandum inducuntur.
+Non putemus nos excusationem habituros, si quando delictorum socios invenerimus: nam istud, supplicium magis augebit. Quandoquidem et serpens magis punitus est quam mulier: quemadmodum et mulier plus quam vir. Et Jezabel majores poenas dedit, quam Achab vineae raptor, ipsa quippe universum istud negotium texuerat, regique lapsus occasionem dederat. Igitur et tu quoque si reliquis perditionis causa fueris, graviora patieris, quam qui per te subversi sunt. Neque enim peccare tantum in se perditionis habet, quantum quod reliqui ad peccandum inducuntur.
 
 [Responsory4]
 R. Percussit Saul mille, et David decem millia:
@@ -76,12 +76,12 @@ V. Nonne iste est David, de quo canebant in choro, dicentes: Saul percussit mill
 R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit opprobrium ex Israël.
 
 [Lectio5]
-Itaque si quando peccantes viderimus, non solum non impellamus, sed et extrahamus ex ipso malitiae barathro: ne et alienae perditionis poenas demus. Recordemur quoque perpetuo terribilis illius tribunalis, fluminis ignei, vinculorum insolubilium, profundarum tenebrarum, stridorem dentium, venenosique vermis. Sed dices: Benignus est Deus. Ergo haec omnia verba. sunt, et neque punitur dives ille Lazari contemptor, neque fatuae virgines a sponso rejiciuntur? Ergo qui Christum non paverunt, in ignem diabolo praeparatum non abibunt? Ergo qui sordidis est vestibus, non peribit, manus ac pedes vinctus? Qui centum denarios a conservo suo exegit,non tradetur tortoribus? Quod de moechis dictum est, nimirum quod vermis eorum non morietur, et ignis eorum non exstinguetur, verum non erit?
+Itaque si quando peccantes viderimus, non solum non impellamus, sed et extrahamus ex ipso malitiae barathro: ne et alienae perditionis poenas demus. Recordemur quoque perpetuo terribilis illius tribunalis, fluminis ignei, vinculorum insolubilium, profundarum tenebrarum, stridorum dentium, venenosique vermis. Sed dices: Benignus est Deus. Ergo haec omnia verba. sunt, et neque punitur dives ille Lazari contemptor, neque fatuae virgines a sponso rejiciuntur? Ergo qui Christum non paverunt, in ignem diabolo praeparatum non abibunt? Ergo qui sordidis est vestibus, non peribit, manus ac pedes vinctus? Qui centum denarios a conservo suo exegit, non tradetur tortoribus? Quod de moechis dictum est, nimirum quod vermis eorum non morietur, et ignis eorum non exstinguetur, verum non erit?
 
 [Responsory5]
-R. Montes Gelboe, nec ros nec pluvia veniant super vos,
+R. Montes Gelboë, nec ros nec pluvia veniant super vos,
 * Ubi ceciderunt fortes Israël.
-V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboe autem transeat.
+V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboë autem transeat.
 R. Ubi ceciderunt fortes Israël.
 
 [Lectio6]
@@ -108,7 +108,7 @@ Diceret saltem pharisaeus: Non sum sicut multi homines. Quid est, ceteri homines
 @Tempora/Pent01-3:Responsory1
 
 [Lectio8]
-Jejuno bis in sabbato: decimas do omnium quas possideo. Quid rogaverit Deum, quaere in verbis ejus, nihil invenies. Ascendit orare: noluit Deum rogare, sed se laudare. Parum est, non Deum rogare, sed se laudare: insuper et roganti insultare. Publicanus autem de longinquo stabat, et Deo tamen ipse appropinquabat: cordis conscientia eum removebat, pietas applicabat. Publicanus autem de longinquo stabat, sed Dominus eum de propinquo attendebat.
+Jejuno bis in sabbato: decimas do omnium quae possideo. Quid rogaverit Deum, quaere in verbis ejus, nihil invenies. Ascendit orare: noluit Deum rogare, sed se laudare. Parum est, non Deum rogare, sed se laudare: insuper et roganti insultare. Publicanus autem de longinquo stabat, et Deo tamen ipse appropinquabat: cordis conscientia eum removebat, pietas applicabat. Publicanus autem de longinquo stabat, sed Dominus eum de propinquo attendebat.
 
 [Responsory8]
 @Tempora/Pent01-0:Responsory8

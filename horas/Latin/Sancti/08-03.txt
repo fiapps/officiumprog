@@ -32,14 +32,14 @@ $Qui tecum
 De Actibus Apostolorum.
 !Acts 7:51-54
 51 Dura cervice, et incircumcisis cordibus et auribus, vos semper Spiritui Sancto resistitis: sicut patres vestri, ita et vos.
-52 Quem prophetarum non sunt persecuti patres vestri? et occiderunt eos qui praenuntiabant de adventu Justi, cujus vos nunc proditores et homicidae fuistis:
-53 qui accepistis legem in dispositione angelorum, et non custodistis.
+52 Quem prophetarum non sunt persecuti patres vestri? Et occiderunt eos qui praenuntiabant de adventu Justi, cujus vos nunc proditores et homicidae fuistis:
+53 qui accepistis legem in dispositione Angelorum, et non custodistis.
 54 Audientes autem haec, dissecabantur cordibus suis, et stridebant dentibus in eum.
 
 [Responsory1]
 R. Stephanus autem plenus gratia et fortitudine,
 * Faciebat prodigia et signa magna in populo.
-V. Surrexerunt quidam de synagoga disputantes cum Stephano, et non poterant resistere sapientia;, et Spiritui qui loquebatur.
+V. Surrexerunt quidam de synagoga disputantes cum Stephano, et non poterant resistere sapientiae, et Spiritui qui loquebatur.
 R. Faciebat prodigia et signa magna in populo.
 
 [Lectio2]
@@ -64,7 +64,7 @@ R. Et intuebantur vultum ejus tamquam vultum Angeli stantis inter illos.
 [Responsory3]
 R. Intuens in caelum beatus Stephanus, vidit gloriam Dei, et ait:
 * Ecce video caelos apertos, et Filium hominis stantem a dextris virtutis Dei.
-V. Cum autem esset Stephanus plenus Spiritu sancto, intendens in caelum, vidit gloriam Dei, et ait.
+V. Cum autem esset Stephanus plenus Spiritu Sancto, intendens in caelum, vidit gloriam Dei, et ait.
 R. Ecce video caelos apertos, et Filium hominis stantem a dextris virtutis Dei.
 &Gloria.
 R. Ecce video caelos apertos, et Filium hominis stantem a dextris virtutis Dei.
@@ -79,7 +79,7 @@ V. Positis autem genibus clamavit voce magna, dicens.
 R. Domine Jesu Christe, accipe spiritum meum: et ne statuas illis hoc peccatum.
 
 [Lectio5]
-Quibus auditis Jerosolymarum antistes, finitimarum urbium episcopis presbyterisque convocatis, ad locum pergit: defossos loculos invenit, unde suavissimus odor efflabatur. Cujus rei fama commota, magna hominum multitudo eo convenit, multique ex variis morbis aegroti ac debiles, sani et integridomum redierunt. Sacrum autem sancti Stephani corpus, quod summa tunc celebritate in sanctam ecclesiam Sion illatum est, sub Theodosio juniore Constantinopolim, inde Romam Pelagio primo Summo Pontifice translatum, in agro Verano in sepulcro sancti Laurentii Martyris collocatum est.
+Quibus auditis Jerosolymorum antistes, finitimarum urbium episcopis presbyterisque convocatis, ad locum pergit: defossos loculos invenit, unde suavissimus odor efflabatur. Cujus rei fama commota, magna hominum multitudo eo convenit, multique ex variis morbis aegroti ac debiles, sani et integri domum redierunt. Sacrum autem sancti Stephani corpus, quod summa tunc celebritate in sanctam ecclesiam Sion illatum est, sub Theodosio juniore Constantinopolim, inde Romam Pelagio primo summo Pontifice translatum, in agro Verano in sepulcro sancti Laurentii Martyris collocatum est.
 
 [Responsory5]
 R. Impetum fecerunt unanimiter in eum, et ejecerunt eum extra civitatem, invocantem et dicentem
@@ -88,9 +88,9 @@ V. Et testes deposuerunt vestimenta sua secus pedes adolescentis, qui vocabatur 
 R. Domine Jesu, accipe spiritum meum.
 
 [Lectio6]
-Ex libro S. Augustini Episcopi de Civitate Dei.
+Ex libro sancti Augustini Episcopi de Civitate Dei.
 !Lib. 22. Gap. 8. circa med.
-Ad aquas Tibilitanas episcopo afferente Projecto reliquias Martyris gloriosissimi Stephani, ad ejus memoriam veniebat magnge multitudinis concursus et occursus. Ibi caeca mulier, ut ad episcopum portantem pignora sacra duceretur, oravit: flores, quos ferebat, dedit: recepit, oculis admovit, protinus vidit. Stupentibus qui aderant, praeibat exsultans, viam carpens, et viae ducem ulterius non requirens. Memorati memoriam Martyris, quae posita est in castello Synicensi quod Hipponensi coloniae vicinum est, eiusdem loci Lucillus episcopus, populo praecedente atque sequente, portabat; fistula, cujus molestia jamdiu laboraverat, et familiarissimi sui medici, qui eam secaret, operiebatur manus, illius pise sarcinae vectatione repente sanata est.
+Ad aquas Tibilitanas episcopo afferente Projecto reliquias Martyris gloriosissimi Stephani, ad ejus memoriam veniebat magnae multitudinis concursus et occursus. Ibi caeca mulier, ut ad episcopum portantem pignora sacra duceretur, oravit: flores, quos ferebat, dedit: recepit, oculis admovit, protinus vidit. Stupentibus qui aderant, praeibat exsultans, viam carpens, et viae ducem ulterius non requirens. Memorati memoriam Martyris, quae posita est in castello Synicensi quod Hipponensi coloniae vicinum est, eiusdem loci Lucillus episcopus, populo praecedente atque sequente, portabat; fistula, cujus molestia jamdiu laboraverat, et familiarissimi sui medici, qui eam secaret, operiebatur manus, illius piae sarcinae vectatione repente sanata est.
 
 [Responsory6]
 R. Impii super justum jacturam fecerunt, ut eum morti traderent:
@@ -103,14 +103,14 @@ R. At ille gaudens suscepit lapides, ut mereretur accipere coronam gloriae.
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
 !Matt 23:34-39
-In illo tempore: Dicebat Jesus scribis et phariseis: Ecce ego mitto ad vos prophetas, et sapientes, et scribas: et ex illis occidetis, et crucifigetis. Et reliqua.
+In illo tempore: Dicebat Jesus scribis et pharisaeis: Ecce ego mitto ad vos prophetas, et sapientes, et scribas: et ex illis occidetis, et crucifigetis. Et reliqua.
 _
-Homilia S. Hieronymi Presbyteri.
+Homilia sancti Hieronymi Presbyteri.
 !Lib. 4. Gomm. in cap. 23. Matth.
-ioc quod antea dixeramus: Implete mensuram patrum vestrorum; ad personam Domini pertinere, eo quod occidendus esset ab eis: potest et ad discipulos ejus referri, de quibus nunc dicit: Ecce ego mitto ad vos prophetas, et sapientes, et scribas. Simulque observa, juxta Apostolum scribentem ad Corinthios, varia esse dona discipulorum Christi: alios prophetas, qui ventura praedicent: alios sapientes, qui noverunt quando debeant proferre sermonem: alios scribas in lege doctissimos, ex quibus lapidatus est Stephanus, Paulus occisus, crucifixus Petrus, flagellati in Actibus Apostolorum discipuli.
+Hoc quod antea dixeramus: Implete mensuram patrum vestrorum; ad personam Domini pertinere, eo quod occidendus esset ab eis: potest et ad discipulos ejus referri, de quibus nunc dicit: Ecce ego mitto ad vos prophetas, et sapientes, et scribas. Simulque observa, juxta Apostolum scribentem ad Corinthios, varia esse dona discipulorum Christi: alios prophetas, qui ventura praedicent: alios sapientes, qui noverunt quando debeant proferre sermonem: alios scribas in lege doctissimos, ex quibus lapidatus est Stephanus, Paulus occisus, crucifixus Petrus, flagellati in Actibus Apostolorum discipuli.
 
 [Responsory7]
-R. Stephanus servus Dei, quem lapidabant Judeai, vidit caelos apertos: vidit, et introivit:
+R. Stephanus servus Dei, quem lapidabant Judaei, vidit caelos apertos: vidit, et introivit:
 * Beatus homo cui caeli patebant.
 V. Cum igitur saxorum crepitantium turbine quateretur, inter aethereos aulae caelestis sinus divina ei claritas fulsit.
 R. Beatus homo cui caeli patebant.
@@ -147,7 +147,7 @@ V. Sepelierunt Stephanum viri timorati.
 R. Et fecerunt planctum magnum super eum.
 
 [Ant 2]
-Stephanus autem * plenus gratia et fortitudine, faciebat signa magna in popuIo.
+Stephanus autem * plenus gratia et fortitudine, faciebat signa magna in populo.
 
 [Lectio Prima]
 !Acts 7:59
@@ -171,7 +171,7 @@ R. Coronam de lapide pretioso.
 
 [Capitulum Sexta]
 !Acts 6:9-10
-v. Surrexerunt autem quidam de synagoga, quae appellatur Libertinorum, et Cyrenensium, et Alexandrinorum, et eorum qui erant a Cilicia et Asia, disputantes cum Stephano: et non poterant resistere sapientiae et spiritui qui loquebatur.
+v. Surrexerunt autem quidam de synagoga, quae appellatur Libertinorum, et Cyrenensium, et Alexandrinorum, et eorum qui erant a Cilicia et Asia, disputantes cum Stephano: et non poterant resistere sapientiae et Spiritui qui loquebatur.
 $Deo gratias
 
 [Responsory Sexta]
@@ -200,6 +200,13 @@ R. Magna est gloria ejus * In salutari tuo.
 _
 V. Justus ut palma florebit.
 R. Sicut cedrus Libani multiplicabitur.
+
+[Versum 3]
+V. Stephanus vidit caelos apertos.
+R. Vidit, et introivit: beatus homo, cui caeli patebant.
+
+[Ant 3]
+Sepelierunt * Stephanum viri timorati, et fecerunt planctum magnum super eum.
 
 [Lectio94]
 Sanctórum córpora Stéphani Protomártyris, Gamaliélis, Nicodémi et Abibónis, suavíssimum odórem manántia, a Joánne Jerosolymitárum antístite, invénta sunt prope Jerosólymam. Cujus rei fama commóta, magna hóminum multitúdo eo convénit, multíque ex váriis morbis ægróti ac débiles, sani et íntegri domum rediérunt. Sacrum autem sancti Stéphani corpus, quod summa tunc celebritáte in sanctam ecclésiam Sion illátum est, sub Theodósio junióre Constantinópolim, inde Romam, Pelágio primo summo Pontífice, translátum, in agro Veráno in sepúlcro sancti Lauréntii Mártyris collocátum est.

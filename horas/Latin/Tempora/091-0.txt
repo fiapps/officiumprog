@@ -6,11 +6,11 @@ V. Vespertina oratio ascendat ad te Domine.
 R. Et descendat super nos misericordia tua.
 
 [Lectio1]
-Incipit libro Job
+Incipit liber Job
 !Job 1:1-3
 1 Vir erat in terra Hus, nomine Job: et erat vir ille simplex, et rectus, ac timens Deum, et recedens a malo.
 2 Natique sunt ei septem filii, et tres filiae.
-3 Et fuit possessio ejus septem millia ovium, et tria millia camelorum, quingenta quoque juga boum, et quingentae asinae, ac familia multa nimis: eratque vir ille magnus inter omnes orientales.
+3 Et fuit possessio ejus septem millia ovium, et tria millia camelorum, quingenta quoque juga boum, et quingentae asinae, ac familia multa nimis: eratque vir ille magnus inter omnes Orientales.
 
 [Responsory1]
 R. Si bona suscepimus de manu Dei, mala autem quare non sustineamus?
@@ -21,10 +21,10 @@ R. Dominus dedit, Dominus abstulit: sicut Domino placuit, ita factum est: sit no
 [Lectio2]
 !Job 1:4-5
 4 Et ibant filii ejus, et faciebant convivium per domos, unusquisque in die suo. Et mittentes vocabant tres sorores suas, ut comederent et biberent cum eis.
-5 Cumque in orbem transissent dies convivii, mittebat ad eos Job, et sanctificabat illos: consurgensque diluculo, offerebat holocausta pro singulis. Dicebat enim: Ne forte peccaverint filii mei, et benedixerint Deo in cordibus suis. Sic faciebat Job cunctis diebus.
+5 Cumque in orbem transissent dies convivii, mittebat ad eos Job, et sanctificabat illos: consurgensque diluculo, offerebat holocausta pro singulis: dicebat enim: Ne forte peccaverint filii mei, et benedixerint Deo in cordibus suis. Sic faciebat Job cunctis diebus.
 
 [Responsory2]
-R. Antequam comedam, suspiro, et tamquam inundantes aquae, sic rugitus meus: quia timor quem timebam, evenit mihi; et quod verebar, accidit: nonne dissimulavi? nonne silui? nonne quievi?
+R. Antequam comedam, suspiro, et tamquam inundantes aquae, sic rugitus meus: quia timor quem timebam, evenit mihi; et quod verebar, accidit: Nonne dissimulavi? nonne silui? nonne quievi?
 *. Et venit super me indignatio.
 V. Ecce non est auxilium mihi in me, et necessarii quoque mei recesserunt a me.
 R. Et venit super me indignatio.
@@ -36,7 +36,7 @@ R. Et venit super me indignatio.
 8 Dixitque Dominus ad eum: Numquid considerasti servum meum Job, quod non sit ei similis in terra, homo simplex et rectus, ac timens Deum, et recedens a malo?
 9 Cui respondens Satan, ait: Numquid Job frustra timet Deum?
 10 nonne tu vallasti eum, ac domum ejus, universamque substantiam per circuitum; operibus manuum ejus benedixisti, et possessio ejus crevit in terra?
-11 sed extende paululum manum tuam et tange cuncta quae possidet, nisi in faciem benedixerit tibi.
+11 Sed extende paululum manum tuam et tange cuncta quae possidet, nisi in faciem benedixerit tibi.
 
 [Responsory3]
 R. Quare detraxistis sermonibus veritatis: ad increpandum verba componitis, et subvertere nitimini amicum vestrum?
@@ -49,7 +49,7 @@ R. Verumtamen quae cogitastis, explete.
 [Lectio4]
 Ex libro Moralium sancti Gregorii Papae.
 !Lectio iv. Lib. 2. Cap. 1.
-Scriptura sacra mentis oculis quasi quoddam speculum opponitur, ut interna nostra facies in ipsa videatur. Ibi etenim foeda, ibi pulchra nostra cognoscimus: ibi sentimus quantum proficimus, ibi a profectu quam longe distamus. Narrat autem gesta sanctorum et ad imitationem corda provocat infirmorum: dumque illorum victricia facta commemorat, contra vitiorum praslia debilia nostra confirmat: fltque verbis illius, ut eo mens minus inter certamina trepidet, quo ante se positos tot virorum fortium triumphos videt.
+Scriptura sacra mentis oculis quasi quoddam speculum opponitur, ut interna nostra facies in ipsa videatur. Ibi etenim foeda, ibi pulchra nostra cognoscimus: ibi sentimus quantum proficimus, ibi a profectu quam longe distamus. Narrat autem gesta Sanctorum et ad imitationem corda provocat infirmorum: dumque illorum victricia facta commemorat, contra vitiorum praelia debilia nostra confirmat: fitque verbis illius, ut eo mens minus inter certamina trepidet, quo ante se positos tot virorum fortium triumphos videt.
 
 [Responsory4]
 R. Induta est caro mea putredine, et sordibus pulveris cutis mea aruit, et contracta est:
@@ -68,7 +68,7 @@ R. Antequam vadam ad terram tenebrosam, et opertam mortis caligine.
 
 [Lectio6]
 !Lib. 1. Moral. cap. 1.
-Vir erat in terra Hus, nomine Job. Idcirco sanctus vir ubi habitaverit, dicitur, ut ejus meritum virtutis exprimatur. Hus namque quis nesciat quod sit in terra Gentilium? Gentilitas autem eo obligata vitiis exstitit, quo cognitionem sui conditoris ignoravit. Dicatur itaque ubi habitaverit: ut hoc ejus laudibus proficiat, quod bonus inter malos fuit. Neque enim valde laudabile est, bonum esse cum bonis, sed bonum esse cum malis. Sicut enim gravioris culpae est, inter bonos bonum non esse: ita immensi est praeconii, bonum etiam inter malos exstitisse.
+Vir erat in terra Hus, nomine Job. Idcirco sanctus vir ubi habitaverit, dicitur, ut ejus meritum virtutis exprimatur. Hus namque quis nesciat quod sit in terra Gentilium? Gentilitas autem eo obligata vitiis exstitit, quo cognitionem sui Conditoris ignoravit. Dicatur itaque ubi habitaverit: ut hoc ejus laudibus proficiat, quod bonus inter malos fuit. Neque enim valde laudabile est, bonum esse cum bonis, sed bonum esse cum malis. Sicut enim gravioris culpae est, inter bonos bonum non esse: ita immensi est praeconii, bonum etiam inter malos exstitisse.
 
 [Responsory6]
 R. Non abscondas me Domine a facie tua: manum tuam longe fac a me:

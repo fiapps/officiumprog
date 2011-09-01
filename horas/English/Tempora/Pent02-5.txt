@@ -10,6 +10,7 @@ Psalmi Dominica
 Antiphonas horas
 Doxology=Hearth
 Prima=53
+Festum Domini
 
 [Ant Vespera]
 Put thy easy yoke * upon all mankind, O Lord, and be thou ruler, even in the midst of thine enemies.;;109
@@ -132,10 +133,9 @@ V. Yea, I will rejoice over them, to do them good with my whole Heart.
 R. So that they shall not depart from me.
 
 [Lectio2]
-!Jer 30:18-24
+!Jer Jer 30:18-19; 30:21-24
 18 Thus saith the Lord: Behold I will bring back the captivity of the pavilions of Jacob, and will have pity on his houses, and the city shall be built in her high place, and the temple shall be founded according to the order thereof. 
-19 And out of them shall come forth praise, and the voice of them that play: and I will multiply them, and they shall not be made few: and I will glorify them, and they shall not be lessened. 
-20 And their children shall be as from the beginning, and their assembly shall be permanent before me: and I will visit against all that afflict them.
+19 And out of them shall come forth praise, and the voice of them that play: 
 21 And their leader shall be of themselves: and their prince shall come forth from the midst of them: and I will bring him near, and he shall come to me: for who is this that setteth his heart to approach to me, saith the Lord? 
 22 And you shall be my people: and I will be your God. 
 23 Behold the whirlwind of the Lord, his fury going forth, a violent storm, it shall rest upon the head of the wicked. 
@@ -272,7 +272,7 @@ Amen.
 
 [Versum 2]
 V. With joy shall ye draw water.
-R. Out of the wells of the Saviour.
+R. Out of the fountains of the Saviour.
 
 [Ant 2]
 For these things were done * that the Scripture should be fulfilled which saith, They shall look on him whom they pierced.
@@ -327,7 +327,7 @@ R. A memorial of his wondrous deeds.
 R. The merciful Lord hath instituted * A memorial of his wondrous deeds.
 _
 V. With joy shall ye draw water.
-R. Out of the wells of the Saviour.
+R. Out of the fountains of the Saviour.
 
 [Ant Vespera 3]
 One of the soldiers * with a spear pierced his side, and forthwith came there out Blood and Water.;;109
@@ -338,13 +338,13 @@ My son, * give me thine heart, and let thine eyes observe my ways.;;147
 
 [Versum 3]
 V. With joy shall ye draw water.
-R. Out of the wells of the Saviour.
+R. Out of the fountains of the Saviour.
 
 [Ant 3]
 But when they came to Jesus * and saw that he was dead already, they brake not his legs, but one of the soldiers with a spear pierced his side, and forthwith came there out Blood and Water.
 
 [Oratio 3]
-O God, the protector of all them that trust in thee, without whom nothing is strong, nothing is holy ; increase and multiply upon us thy mercy, that thou being our ruler and guide, we may so pass through things temporal, that we finally lose not the things eternal.
+O God, the protector of all them that trust in thee, without whom nothing is strong, nothing is holy; increase and multiply upon us thy mercy, that thou being our ruler and guide, we may so pass through things temporal, that we finally lose not the things eternal.
 $Per Dominum
 
 [Octava 1]
@@ -362,7 +362,7 @@ $Per eumdem
 For these things were done * that the Scripture should be fulfilled which saith, They shall look on him whom they pierced.
 _
 V. With joy shall ye draw water.
-R. Out of the wells of the Saviour.
+R. Out of the fountains of the Saviour.
 O God, who hast suffered the Heart of thy Son to be wounded by our sins, and in that very Heart hast bestowed on us the abundant riches of thy love : grant that the devout homage of our hearts, which we render unto him, may of thy mercy be deemed a recompence acceptable in thy sight.
 $Per eumdem
 
@@ -371,10 +371,10 @@ $Per eumdem
 But when they came to Jesus * and saw that he was dead already, they brake not his legs, but one of the soldiers with a spear pierced his side, and forthwith came there out Blood and Water.
 _
 V. With joy shall ye draw water.
-R. Out of the wells of the Saviour.
+R. Out of the fountains of the Saviour.
 _
 O God, the protector of all them that trust in thee, without whom
-nothing is strong, nothing is holy ; increase and multiply upon us thy
+nothing is strong, nothing is holy; increase and multiply upon us thy
 mercy, that thou being our ruler and guide, we may so pass through
 things temporal, that we finally lose not the things eternal.
 $Per Dominum

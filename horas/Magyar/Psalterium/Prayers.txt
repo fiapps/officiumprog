@@ -3,8 +3,7 @@ v. Mi Atyánk, ki vagy a mennyekben, Szenteltessék meg a te neved; Jöjjön el a te
 Mindennapi kenyerünket add meg nekünk ma; És bocsásd meg a mi vétkeinket,miképpen mi is megbocsátunk az ellenünk vétkezõknek; És ne vígy minket kísértésbe, De szabadíts meg a gonosztól! Ámen.
 
 [Pater_noster1]
-v. Mi Atyánk, ki vagy a mennyekben, Szenteltessék meg a te neved; Jöjjön el a te országod; Legyen meg a te akaratod, miképpen a mennyben, azonképpen itt a földön is.
-Mindennapi kenyerünket add meg nekünk ma; És bocsásd meg a mi vétkeinket,miképpen mi is megbocsátunk az ellenünk vétkezõknek; 
+v. Mi Atyánk, ki vagy a mennyekben, Szenteltessék meg a te neved; Jöjjön el a te országod; Legyen meg a te akaratod, miképpen a mennyben, azonképpen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; És bocsásd meg a mi vétkeinket,miképpen mi is megbocsátunk az ellenünk vétkezõknek; 
 V. És ne vígy minket kísértésbe, 
 R. De szabadíts meg a gonosztól!
 
@@ -19,7 +18,7 @@ Hiszek Szentlélekben. Katolikus keresztény Anyaszentegyházat; a szenteknek egyes
 
 [Gloria]
 V. Dicsöség az Atyának, és a Fiúnak, * és Szentlélek Istennek;
-R. Miképpen kezdetben vala most * és mindörökkön örökke. Ámen
+R. Miképpen kezdetben vala, most, * és mindörökkön örökke. Ámen
 
 [Gloria1]
 V. Dicsöség az Atyának, és a Fiúnak, * és a Szentlélek Istennek;
@@ -55,12 +54,12 @@ V. Nyisd meg ++ Uram, ajkamat`,
 R. Hogy dicséretedet hirdesse szavam!
 
 [Deus in adjutorium]
-V. Istenem + jöjj segítségemre!.
-R. Uram, segíts meg engemet!
+V. Istenem, + jöjj segítségemre.
+R. Uram, segíts meg engemet.
 
 [Deus in adiutorium]
-V. Istenem + jöjj segítségemre!.
-R. Uram, segíts meg engemet!
+V. Istenem + jöjj segítségemre.
+R. Uram, segíts meg engemet.
 
 [Tu autem]
 V. Te pedig Uram irgalmazz nekünk.
@@ -103,6 +102,10 @@ R. Ámen.
 
 [Qui tecum]
 r. Aki veled és a Szentlélekkel együtt él és uralkodik mindörökkön örökké. 
+R. Ámen.
+
+[Qui tecum eiusdem]
+r. Aki veled és a ugyanazon Szentlélekkel együtt él és uralkodik mindörökkön örökké. 
 R. Ámen.
 
 [Te Deum]

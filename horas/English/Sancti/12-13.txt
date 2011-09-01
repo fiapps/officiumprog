@@ -5,6 +5,7 @@ S. Luciae Virginis Martyris;;Duplex;;3;;vide C6b
 vide C6b;
 9 lectiones;
 Doxology=Nat
+Commemoratio3
 
 [Ant Vespera]
 While St. Lucy was praying, * the blessed Agatha appeared unto her, and consoled the handmaiden of Christ;;109
@@ -20,7 +21,7 @@ In patience * hast thou possessed thy soul, Lucy, Bride of Christ thou hast hate
 Graciously hear us, O God of our salvation; that as we rejoice in the festivity of blessed Lucy, thy Virgin and Martyr, we may be instructed in the affections of a loving devotion.
 $Per Dominum
 
-[Commemoratio]
+[Commemoratio 2]
 !Commemoratio Die infra Octavam Immaculatae conceptionem B.M.V.
 @Sancti/12-08:Oratio
 

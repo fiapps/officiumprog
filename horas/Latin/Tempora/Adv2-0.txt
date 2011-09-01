@@ -32,13 +32,13 @@ De Isaia Propheta
 !Isa 11:1-4
 1 Et egredietur virga de radice Jesse, et flos de radice ejus ascendet.
 2 Et requiescet super eum spiritus Domini: spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis;
-3 et replebit eum spiritus timoris Domini. Non secundum visionem oculorum judicabit, neque secundum auditum aurium arguet;
+3 et replebit eum spiritus timoris Domini. non secundum visionem oculorum judicabit, neque secundum auditum aurium arguet;
 4 sed judicabit in justitia pauperes, et arguet in aequitate pro mansuetis terrae;
 
 [Responsory1]
 R. Jerusalem, cito veniet salus tua: quare maerore consumeris? numquid consiliarius non est tibi, quia innovavit te dolor?
 * Salvabo te, et liberabo te, noli timere.
-V. Ego enim sum Dominus Deus tuus, sanctus Israël, Redemptor tuus.
+V. Ego enim sum Dominus Deus tuus, Sanctus Israël, Redemptor tuus.
 R. Salvabo te, et liberabo te, noli timere.
 
 [Lectio2]
@@ -49,10 +49,10 @@ R. Salvabo te, et liberabo te, noli timere.
 7 Vitulus et ursus pascentur, simul requiescent catuli eorum; et leo quasi bos comedet paleas.
 
 [Responsory2]
-R. Ecce Dominus veniet, et omnes sancti ejus cum eo, et erit in die illa lux magna: et exibunt de Jerusalem sicut aqua munda: et regnebit Dominus in aeternum
-* Super omnes Gentes.
+R. Ecce Dominus veniet, et omnes Sancti ejus cum eo, et erit in die illa lux magna: et exibunt de Jerusalem sicut aqua munda: et regnabit Dominus in aeternum
+* Super omnes gentes.
 V. Ecce Dominus cum virtute veniet: et regnum in manu ejus, et potestas, et imperium.
-R. Super omnes Gentes.
+R. Super omnes gentes.
 
 [Lectio3]
 !Isa 11:8-10
@@ -61,7 +61,7 @@ R. Super omnes Gentes.
 10 In die illa radix Jesse, qui stat in signum populorum, ipsum gentes deprecabuntur, et erit sepulcrum ejus gloriosum.
 
 [Responsory3]
-R. Civitas Jerusalem noli flere: quoniam deluit Dominus super te:
+R. Civitas Jerusalem noli flere: quoniam doluit Dominus super te:
 * Et auferet a te omnem tribulationem.
 V. Ecce Dominus in fortitudine veniet: et brachium ejus dominabitur.
 R. Et auferet a te omnem tribulationem.
@@ -71,10 +71,10 @@ R. Et auferet a te omnem tribulationem.
 [Lectio4]
 De Expositione sancti Hieronymi Presbyteri in Isaiam Prophetam.
 !Lib. 4. in cap. 11. Isaiae.
-Egredietur virga de radice Jesse. Usque ad principium visionis, vel ponderis Babylonis, quod vidit Isaias, filius Amos, omnis haec prophetia de Christo est: quam per partes volumus explanare, ne simul proposita atque disserta lectoris confundat memoriam. Virgam et florem de radice Jesse ipsum Dominum Judaei interpretantur: quod scilicet in virga regnantis potentia, in flore pulchritudo monstretur.
+Et egredietur virga de radice Jesse. Usque ad principium visionis, vel ponderis Babylonis, quod vidit Isaias, filius Amos, omnis haec prophetia de Christo est: quam per partes volumus explanare, ne simul proposita atque disserta lectoris confundat memoriam. Virgam et florem de radice Jesse ipsum Dominum Judaei interpretantur: quod scilicet in virga regnantis potentia, in flore pulchritudo monstretur.
 
 [Responsory4]
-R. Ecce veniet Dominus, protector noster, sanctus Israël,
+R. Ecce veniet Dominus, protector noster, Sanctus Israël,
 * Coronam regni habens in capite suo.
 V. Et dominabitur a mari usque ad mare, et a flumine usque ad terminos orbis terrarum.
 R. Coronam regni habens in capite suo.
@@ -89,7 +89,7 @@ V. Dabo in Sion salutem, et in Jerusalem gloriam meam.
 R. Et videbitis, et gaudebit cor vestrum
 
 [Lectio6]
-Super hunc igitur florem, qui de trunco et radice Jesse per Mariam Virginem repente consurget, requiescet Spiritus Domini: quia in ipso complacuit omnem plenitudinem divinitatis habitare corporaliter: nequaquam per partes, ut in ceteris Sanctis: sed juxta Evangelium eorum, quod hebraeo sermone conscriptum legunt Nazaraei: Descendet super eum omnis fons Spiritus sancti. Dominus autem Spiritus est; et ubi Spiritus Domini, ibi libertas.
+Super hunc igitur florem, qui de trunco et radice Jesse per Mariam Virginem repente consurget, requiescet Spiritus Domini: quia in ipso complacuit omnem plenitudinem divinitatis habitare corporaliter: nequaquam per partes, ut in ceteris Sanctis: sed juxta Evangelium eorum, quod Hebraeo sermone conscriptum legunt Nazaraei: Descendet super eum omnis fons Spiritus Sancti. Dominus autem Spiritus est; et ubi Spiritus Domini, ibi libertas.
 
 [Responsory6]
 R. Jerusalem plantabis vineam in montibus tuis: exsultabis, quoniam dies Domini veniet: surge Sion, convertere ad Dominum Deum tuum: gaude et laetare Jacob:
@@ -106,12 +106,12 @@ In illo tempore: Cum audisset Joannes in vinculis opera Christi, mittens duos de
 _
 Homilia sancti Gregorii Papae.
 !Homilia 6. in Evang. post init.
-Visis tot signis tantisque virtutibus, non scandalizari quisque potuit, sed admirari. Sed infidelium mens grave in illo scandalum pertulit, cum eum post tot miracula morientem vidit. Unde et Paulus dicit: Nos autem praedicamus Christum crucifixum, Judaeis quidem scandalum, Gentibus autem stultitiam. Stultum quippe hominibus visum est, ut pro hominibus auctor vitae moreretur: et inde contra eum homo scandalum sumpsit, unde ei amplius debitor fieri debuit. Nam tanto Deus ab hominibus dignius honorandus est, quanto pro hominibus et indigna suscepit.
+Visis tot signis tantisque virtutibus, non scandalizari quisque potuit, sed admirari. Sed infidelium mens grave in illo scandalum pertulit, cum eum post tot miracula morientem vidit. Unde et Paulus dicit: Nos autem praedicamus Christum crucifixum, Judaeis quidem scandalum, Gentibus autem stultitiam. Stultum quippe hominibus visum est, ut pro hominibus Auctor vitae moreretur: et inde contra eum homo scandalum sumpsit, unde ei amplius debitor fieri debuit. Nam tanto Deus ab hominibus dignius honorandus est, quanto pro hominibus et indigna suscepit.
 
 [Responsory7]
 R. Egredietur Dominus de Samaria ad portam quae respicit ad Orientem: et veniet in Bethlehem, ambulans super aquas redemptionis Judae:
 * Tunc salvus erit omnis homo: quia ecce veniet.
-V. Et praeparabitur in misericordia solum ejus, et sedebit super iliud in veritate.
+V. Et praeparabitur in misericordia solium ejus, et sedebit super illud in veritate.
 R. Tunc salvus erit omnis homo: quia ecce veniet.
 
 [Lectio8]
@@ -124,7 +124,7 @@ V. Veni Domine, et noli tardare: relaxa facinora plebi tuae.
 R. Et libera populum tuum.
 
 [Lectio9]
-Sed dimissis Joannis discipulis, quid de eodem Joanne turbis dicat, audiamus. Quid existis in desertum vidore? Arundinem vento agitatam? Quod videlicet non asserendo, sed negando intulit. Arundinem quippe mox ut aura contigerit, in partem alteram inflectit. Et quid per arundinem, nisi carnalis animus designatur? Qui mox ut favore vel detractione tangitur, statim in partem quamlibet inclinatur?
+Sed dimissis Joannis discipulis, quid de eodem Joanne turbis dicat, audiamus. Quid existis in desertum videre? Arundinem vento agitatam? Quod videlicet non asserendo, sed negando intulit. Arundinem quippe mox ut aura contigerit, in partem alteram inflectit. Et quid per arundinem, nisi carnalis animus designatur? Qui mox ut favore vel detractione tangitur, statim in partem quamlibet inclinatur?
 
 [Responsory9]
 R. Ecce Dominus veniet cum splendore descendens, et virtus ejus cum eo,
@@ -161,7 +161,7 @@ $Deo gratias
 
 [Capitulum Nona]
 !Rom 15:13
-v. Deus autem spei repleat vos omni gaudio et pace in credendo ut abundetis in spe et in virtute Spiritus sancti.
+v. Deus autem spei repleat vos omni gaudio et pace in credendo ut abundetis in spe et in virtute Spiritus Sancti.
 $Deo gratias
 
 [Ant 3]

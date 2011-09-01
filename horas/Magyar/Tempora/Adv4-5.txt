@@ -26,13 +26,11 @@ Olvasmány Izaiás próféta könyvébõl
 @Tempora/Adv4-0:Responsory5
 
 [Lectio3]
-!Isa 66:13-18
+!Isa 66:13-16
 13 Mert a fiút, akit az anyja vigasztal, úgy vigasztallak meg én is titeket; [Jeruzsálemben leltek vigasztalást.] 
 14 Ennek láttán örülni fog szívetek; csontjaitok, mint a fû, sarjadoznak. Szolgáinak az Úr megmutatja kezét, ám ellenségeire haragja vár. 
 15 Mert lám, tûzben érkezik az Úr, harci szerere akár a forgószél. Szabadjára engedi izzó haragját, fenyegetését a lobogó lángokban. 
 16 Mert az Úr tûz által fog ítéletet tartani, és a kardja által az emberek fölött, s bizony sokan lesznek, akiket az Úr megöl. 
-17 Azok meg, akik megszentelõdnek és megtisztulnak, hogy a berkekbe léphessenek, és ott a középen állóhoz szegõdhessenek, akik sertéshúst, csúszómászót és egeret esznek: az ilyenek tettei és tervei egyszerre semmivé válnak - mondja az Úr. 
-18 Íme eljövök, hogy összegyûjtsek minden népet és nyelvet. Eljönnek majd és meglátják dicsõségemet. 
 
 [Responsory3]
 @Tempora/Adv4-0:Responsory6

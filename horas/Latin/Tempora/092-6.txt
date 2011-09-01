@@ -18,9 +18,9 @@ De libro Job
 
 [Lectio3]
 !Job 42:12-16
-12 Dominus autem benedixit novissimis Job magis quam principio ejus: et facta sunt ei quatuordecim millia ovium, et sex millia camelorum, et mille juga boum, et mille asinae.
-13 Et fuerunt ei septem filii, et tres filiae.
-14 Et vocavit nomen unius Diem, et nomen secundae Cassiam, et nomen tertiae Cornustibii.
+12 Dominus autem benedixit novissimis Job magis quam principio ejus: et facta sunt ei quatuordecim millia ovium, et sex millia camelorum, et mille juga boum, et mille asinae;
+13 et fuerunt ei septem filii, et tres filiae;
+14 et vocavit nomen unius Diem, et nomen secundae Cassiam, et nomen tertiae Cornustibii.
 15 Non sunt autem inventae mulieres speciosae sicut filiae Job in universa terra: deditque eis pater suus hereditatem inter fratres earum.
 16 Vixit autem Job post haec centum quadraginta annis, et vidit filios suos, et filios filiorum suorum usque ad quartam generationem: et mortuus est senex, et plenus dierum.
 

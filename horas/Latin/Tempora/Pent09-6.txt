@@ -29,8 +29,8 @@ De libro quarto Regum.
 
 [Lectio3]
 !2 Kgs 9:11-13
-11 Jehu autem egressus est ad servos domini sui: qui dixerunt ei: Rectene sunt omnia? quid venit insanus iste ad te? Qui ait eis: Nostis hominem, et quid locutus sit.
-12 At ille responderunt: Falsum est, sed magis narra nobis. Qui ait eis: Haec et haec locutus est mihi, et ait: Haec dicit Dominus: Unxi te regem super Israël.
+11 Jehu autem egressus est ad servos domini sui: qui dixerunt ei: Recte ne sunt omnia? quid venit insanus iste ad te? Qui ait eis: Nostis hominem, et quid locutus sit.
+12 At illi responderunt: Falsum est, sed magis narra nobis. Qui ait eis: Haec et haec locutus est mihi, et ait: Haec dicit Dominus: Unxi te regem super Israël.
 13 Festinaverunt itaque, et unusquisque tollens pallium suum posuerunt sub pedibus ejus in similitudinem tribunalis, et cecinerunt tuba, atque dixerunt: Regnavit Jehu.
 
 [Responsory3]

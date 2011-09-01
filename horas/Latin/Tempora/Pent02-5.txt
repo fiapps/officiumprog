@@ -10,6 +10,7 @@ Psalmi Dominica
 Antiphonas horas
 Doxology=Heart
 Prima=53
+Festum Domini
 
 [Ant Vespera]
 Suávi jugo tuo * domináre, Dómine, in médio inimicórum tuórum.;;109
@@ -34,7 +35,7 @@ Peccata nostra dirigunt:
 Ferrumque dirae cuspidis
 Mortale crimen acuit.
 _
-Ex corde scisso Ecclesia
+Ex Corde scisso Ecclesia
 Christo jugata nascitur:
 Hoc ostium arcae in latere est
 Genti ad salutem positum.
@@ -45,14 +46,14 @@ Stolas ut illic sordidas
 Lavemus Agni in sanguine.
 _
 Turpe est redire ad crimina,
-Quae cor beatum lacerent
+Quae Cor beatum lacerent
 Sed aemulemur cordibus
 Flammas amoris indices.
 _
-Hoc Christe nobis, hoc Pater,
-Hoc sancte dona Spiritus,
-Quibus potestas, gloria
-Regnumque in omne est saeculum.
+Jesu, tibi sit gloria,
+Qui Corde fundis gratiam,
+Cum Patre, et almo Spiritu,
+In sempiterna saecula.
 Amen.
 
 [Versum 1]
@@ -85,7 +86,7 @@ Terrae marisque, et siderum,
 Errata patrum miserans,
 Et nostra rumpens vincula.
 _
-Non corde discedat tuo
+Non Corde discedat tuo
 Vis illa amoris inclyti:
 Hoc fonte gentes hauriant
 Remissionis gratiam.
@@ -95,10 +96,10 @@ Passumque ad hoc est vulnera:
 Ut nos lavaret sordibus,
 Unda fluente, et sanguine.
 _
-Decus Parenti, et Filio,
-Sanctoque sit Spiritui,
-Quibus potestas, gloria
-Regnumque in omne est saeculum.
+Jesu, tibi sit gloria,
+Qui Corde fundis gratiam,
+Cum Patre, et almo Spiritu,
+In sempiterna saecula.
 Amen.
 
 [Ant Matutinum]
@@ -132,14 +133,13 @@ V. Et lætábor super eis cum bene eis fécero in toto Corde meo.
 R. Ut non recédant a me.
 
 [Lectio2]
-!Jer 30:18-24
-18 haec dicit Dominus ecce ego convertam conversionem tabernaculorum Iacob et tectis eius miserebor et aedificabitur civitas in excelso suo et templum iuxta ordinem suum fundabitur
-19 et egredietur de eis laus voxque ludentium et multiplicabo eos et non inminuentur et glorificabo eos et non adtenuabuntur
-20 et erunt filii eius sicut a principio et coetus eius coram me permanebit et visitabo adversum omnes qui tribulant eum
-21 et erit dux eius ex eo et princeps de medio eius producetur et adplicabo eum et accedet ad me quis enim iste est qui adplicet cor suum ut adpropinquet mihi ait Dominus
-22 et eritis mihi in populum et ego ero vobis in Deum
-23 ecce turbo Domini furor egrediens procella ruens in capite impiorum conquiescet
-24 non avertet iram indignationis Dominus donec faciat et conpleat cogitationem cordis sui in novissimo dierum intellegetis ea
+!Jer 30:18-19; 30:21-24
+18 Haec dicit Dominus: Ecce ego convertam conversionem tabernaculorum Iacob et tectis eius miserebor et aedificabitur civitas in excelso suo et templum iuxta ordinem suum fundabitur
+19 et egredietur de eis laus voxque ludentium. 
+21 Et erit dux eius ex eo et princeps de medio eius producetur et applicabo eum et accedet ad me. Quis enim iste est qui applicet cor suum ut appropinquet mihi ait Dominus
+22 Et eritis mihi in populum et ego ero vobis in Deum
+23 Ecce turbo Domini furor egrediens procella ruens in capite impiorum conquiescet
+24 Non avertet iram indignationis Dominus donec faciat et compleat cogitationem cordis sui in novissimo dierum intelligetis ea
 
 [Responsory2]
 R. Si inimícus meus maledixísset mihi, sustinuíssem útique
@@ -149,17 +149,17 @@ R. Tu vero homo unánimis qui simul mecum dulces capiébas cibos.
 
 [Lectio3]
 !Jer 31:1-3; 31:31-33
-1 in tempore illo dicit Dominus ero Deus universis cognationibus Israhel et ipsi erunt mihi in populum
-2 haec dicit Dominus invenit gratiam in deserto populus qui remanserat gladio vadet ad requiem suam Israhel
-3 longe Dominus apparuit mihi et in caritate perpetua dilexi te ideo adtraxi te miserans
-31 ecce dies veniunt dicit Dominus et feriam domui Israhel et domui Iuda foedus novum
-32 non secundum pactum quod pepigi cum patribus vestris in die qua adprehendi manum eorum ut educerem eos de terra Aegypti pactum quod irritum fecerunt et ego dominatus sum eorum dicit Dominus
-33 sed hoc erit pactum quod feriam cum domo Israhel post dies illos dicit Dominus dabo legem meam in visceribus eorum et in corde eorum scribam eam et ero eis in Deum et ipsi erunt mihi in populum
+1 In tempore illo dicit Dominus ero Deus universis cognationibus Israël et ipsi erunt mihi in populum
+2 Haec dicit Dominus: Invenit gratiam in deserto populus qui remanserat a gladio vadet ad requiem suam Israël
+3 Longe Dominus apparuit mihi. Et in caritate perpetua dilexi te ideo attraxi te miserans
+31 Ecce dies venient dicit Dominus et feriam domui Israël et domui Iuda foedus novum
+32 non secundum pactum quod pepigi cum patribus eorum in die qua apprehendi manum eorum ut educerem eos de terra Aegypti pactum quod irritum fecerunt et ego dominatus sum eorum dicit Dominus
+33 Sed hoc erit pactum quod feriam cum domo Israël post dies illos dicit Dominus: Dabo legem meam in visceribus eorum et in corde eorum scribam eam et ero eis in Deum et ipsi erunt mihi in populum
 
 [Responsory3]
 R. Cum essémus mórtui peccátis, convivificávit nos Deus in Christo
 * Propter nímiam caritátem suam qua diléxit nos.
-V. Ut osténderet in sæculis superveniéntibus abundántes divítias rátiæ suæ.
+V. Ut osténderet in sæculis superveniéntibus abundántes divítias grátiæ suæ.
 R. Propter nímiam caritátem suam qua diléxit nos.
 &Gloria
 R. Propter nímiam caritátem suam qua diléxit nos.
@@ -260,13 +260,13 @@ Christus sacerdos obtulit.
 _
 Quis non amantem redamet?
 Quis non redemptus diligat,
-Et corde in isto seligat
+Et Corde in isto seligat
 Aeterna tabernacula?
 _
-Decus Parenti, et Filio,
-Sanctoque sit Spiritui,
-Quibus potestas, gloria
-Regnumque in omne est saeculum.
+Jesu, tibi sit glória,
+Qui Corde fundis grátiam,
+Cum Patre, et almo Spíritu,
+In sempitérna sæcula. 
 Amen.
 
 [Versum 2]

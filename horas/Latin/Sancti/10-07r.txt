@@ -66,7 +66,8 @@ $Per eumdem
 [Commemoratio]
 !S. Marci Papae
 @Commune/C4:Oratio proper
-v. Oremus
+_
+$Oremus
 Exaudi Domine preces nostras: et, interveniente beato Marco, Confessore tuo atque Pontifice, indulgentiam nobis tribue placatus et pacem.
 $Per Dominum
 

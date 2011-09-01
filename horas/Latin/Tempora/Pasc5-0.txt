@@ -7,8 +7,10 @@ Una Antiphona
 Doxology=Pasc
 
 [Capitulum Vespera]
-!Jas 1:22-24
-v. Carissimi, estote autem factores verbi et non auditores tantum fallentes vosmet ipsos quia si quis auditor est verbi et non factor hic conparabitur viro consideranti vultum nativitatis suae in speculo consideravit enim se et abiit et statim oblitus est qualis fuerit
+!Jac 1:22-24
+v. Carissimi: Estote factores verbi, et non auditores tantum, fallentes vosmetipsos. Quia si quis auditor est verbi, et non factor: hic comparabitur viro consideranti vultum nativitatis suae in speculo: consideravit enim se, et abiit, et statim oblitus est qualis fuerit.
+$Deo gratias
+
 $Deo gratias
 
 [Versum 1]
@@ -39,13 +41,13 @@ R. Adhaereat lingua mea faucibus meis, si non meminero tui, alleluia, alleluia.
 
 [Lectio2]
 !1 Pet 1:6-12
-6 In quo exsultabis, modicum nunc si oportet contristari in variis tentationibus:
+6 In quo exsultabitis, modicum nunc si oportet contristari in variis tentationibus:
 7 ut probatio vestrae fidei multo pretiosior auro (quod per ignem probatur) inveniatur in laudem, et gloriam, et honorem in revelatione Jesu Christi:
 8 quem cum non videritis, diligitis: in quem nunc quoque non videntes creditis: credentes autem exsultabitis laetitia inenarrabili, et glorificata:
 9 reportantes finem fidei vestrae, salutem animarum.
 10 De qua salute exquisierunt, atque scrutati sunt prophetae, qui de futura in vobis gratia prophetaverunt:
 11 scrutantes in quod vel quale tempus significaret in eis Spiritus Christi: praenuntians eas quae in Christo sunt passiones, et posteriores glorias:
-12 quibus revelatum est quia non sibimetipsis, vobis autem ministrabant ea quae nunc nuntiata sunt vobis per eos qui evangelizaverunt vobis, Spiritu Sancto misso de caelo, in quem desiderant angeli prospicere.
+12 quibus revelatum est quia non sibimetipsis, vobis autem ministrabant ea quae nunc nuntiata sunt vobis per eos qui evangelizaverunt vobis, Spiritu Sancto misso de caelo, in quem desiderant Angeli prospicere.
 
 [Responsory2]
 R. Viderunt te aquae, Deus, viderunt te aquae, et timuerunt:
@@ -59,7 +61,7 @@ R. Multitudo sonitus aquarum vocem dederunt nubes, alleluia, alleluia, alleluia.
 14 quasi filii obedientiae, non configurati prioribus ignorantiae vestrae desideriis:
 15 sed secundum eum qui vocavit vos, Sanctum: et ipsi in omni conversatione sancti sitis:
 16 quoniam scriptum est: Sancti eritis, quoniam ego sanctus sum.
-17 Et si patrem invocatis eum, qui sine acceptione personarum judicat secundum uniuscujusque opus, in timore incolatus vestri tempore conversamini.
+17 Et si Patrem invocatis eum, qui sine acceptione personarum judicat secundum uniuscujusque opus, in timore incolatus vestri tempore conversamini.
 18 Scientes quod non corruptibilibus, auro vel argento, redempti estis de vana vestra conversatione paternae traditionis:
 19 sed pretioso sanguine quasi agni immaculati Christi, et incontaminati:
 20 praecogniti quidem ante mundi constitutionem, manifestati autem novissimis temporibus propter vos,
@@ -76,7 +78,7 @@ R. In medio Ecclesiae laudabo te, alleluia, alleluia.
 [Lectio4]
 Ex libro sancti Ambrosii Episcopi de fide resurrectionis.
 !Post medium.
-Qouniam Dei mori non poterat sapientia, resurgere autem non poterat quod mortuum non erat; assumitur caro, quae mori posset: ut dum moritur quod solet, quod mortuum fuerat, hoc resurgeret. Neque enim poterat esse, nisi per hominem resurrectio: quoniam sicut per hominem mors, ita et per hominem resurrectio mortuorum. Ergo resurrexit homo, quoniam homo mortuus est: resuscitatus homo, sed resuscitans Deus. Tunc secundum carnem homo, nunc per omnia Deus. Nunc enim secundum carnem jam non novimus Christum, sed carnis gratiam tenemus, ut ipsum primitias quiescentium, ipsum primogenitum ex mortuis noverimus.
+Quoniam Dei mori non poterat Sapientia, resurgere autem non poterat quod mortuum non erat; assumitur caro, quae mori posset: ut dum moritur quod solet, quod mortuum fuerat, hoc resurgeret. Neque enim poterat esse, nisi per hominem resurrectio: quoniam sicut per hominem mors, ita et per hominem resurrectio mortuorum. Ergo resurrexit homo, quoniam homo mortuus est: resuscitatus homo, sed resuscitans Deus. Tunc secundum carnem homo, nunc per omnia Deus. Nunc enim secundum carnem jam non novimus Christum, sed carnis gratiam tenemus, ut ipsum primitias quiescentium, ipsum primogenitum ex mortuis noverimus.
 
 [Responsory4]
 R. In ecclesiis benedicite Deo, alleluia,
@@ -85,7 +87,7 @@ V. Psalmum dicite nomini ejus, date gloriam laudi ejus.
 R. Domino de fontibus Israël, alleluia, alleluia.
 
 [Lectio5]
-Primitiae utique eiusdem sunt generis atque nattirai, cujus et reliqui fructus: quorum pro laetiore proventu primitiva Deo munera deferuntur; sacrum munus pro omnibus, et quasi reparatse quaedam liba naturae. Primitiae ergo quiescentium Christus. Sed utrum suorum quiescentium, qui quasi mortis exsortes, dulci quodam sopore tenentur, an omnium mortuorum? Sed sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur. Itaque sicut primitiae mortis in Adam, ita etiam primitiae resurrectionis in Christo omnes resurgent. Sed nemo desperet, neque justus doleat commtine consortium resurgendi, cum praecipuum fructum virtutis exspectet. Omnes quidem restirgent, sed unusquisque, ut ait Apostolus, in suo ordine. Communis est divinae fructus clementiae, sed distinctus ordo meritorum.
+Primitiae utique eiusdem sunt generis atque naturae, cujus et reliqui fructus: quorum pro laetiore proventu primitiva Deo munera deferuntur; sacrum munus pro omnibus, et quasi reparatae quaedam liba naturae. Primitiae ergo quiescentium Christus. Sed utrum suorum quiescentium, qui quasi mortis exsortes, dulci quodam sopore tenentur, an omnium mortuorum? Sed sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur. Itaque sicut primitiae mortis in Adam, ita etiam primitiae resurrectionis in Christo omnes resurgent. Sed nemo desperet, neque justus doleat commune consortium resurgendi, cum praecipuum fructum virtutis exspectet. Omnes quidem resurgent, sed unusquisque, ut ait Apostolus, in suo ordine. Communis est divinae fructus clementiae, sed distinctus ordo meritorum.
 
 [Responsory5]
 R. In toto corde meo, alleluia, exquisivi te, alleluia:
@@ -111,7 +113,7 @@ In illo tempore: Dixit Jesus discipulis suis: Amen, amen dico vobis: si quid pet
 _
 Homilia sancti Augustini Episcopi.
 !Tractatus 102. in Joannem.
-Domini verba nunc ista tractanda sunt: Amen, amen dico vobis: si quid petieritis Patrem in nomine meo, dabit vobis. Jam dictum est in superioribus hujus Dominici sermonis partibus, propter eos, qui nonmilla petunt a Patre in Christi nomine, nec accipiunt: non peti in nomine Salvatoris, quidquid petitur contra rationem salutis. Non enim sonum litterarum ac syllabarum, sed quod sonus ipse significat, et quod eo sono recte ac veraciter intelligitur, hoc accipiendus est dicere, cum dicit: In nomine meo.
+Domini verba nunc ista tractanda sunt: Amen, amen dico vobis: si quid petieritis Patrem in nomine meo, dabit vobis. Jam dictum est in superioribus hujus Dominici sermonis partibus, propter eos, qui nonnulla petunt a Patre in Christi nomine, nec accipiunt: non peti in nomine Salvatoris, quidquid petitur contra rationem salutis. Non enim sonum litterarum ac syllabarum, sed quod sonus ipse significat, et quod eo sono recte ac veraciter intelligitur, hoc accipiendus est dicere, cum dicit: In nomine meo.
 
 [Responsory7]
 R. Deus canticum novum cantabo tibi, alleluia:
@@ -120,7 +122,7 @@ V. Deus meus es tu, et confitebor tibi: Deus meus es tu, et exaltabo te.
 R. In psalterio decem chordarum psallam tibi, alleluia, alleluia.
 
 [Lectio8]
-Unde qui hoc sentit de Christo, quod non est de linico Dei Filio sentiendum, non petit in ejus nomine, etiamsi non taceat litteris ac syllabis Christum: quoniam in ejus nomine petit, quem cdgitat cum petit. Qui vero quod est de illo sentiendum sentit, ipse in ejus nomine petit: et accipit quod petit, si non contra suam salutem sempiternam petit: accipit autem quando debet accipere. Quaedam enim non negantur: sed ut congruo dentur tempore defloruntur. Ita sane intelligendum est quod ait: Dabit vobis: ut ea beneficia significata sciantur his verbis, quae ad eos, qui petunt, proprie pertinent. Exaudiuntur quippe omnes sancti pro seipsis, non autem pro omnibus exaudiuntur vel amicis, vel inimicis suis, vel quibuslibet aliis: quia non utcumque dictum est, dabit; sed, dabit vobis.
+Unde qui hoc sentit de Christo, quod non est de unico Dei Filio sentiendum, non petit in ejus nomine, etiamsi non taceat litteris ac syllabis Christum: quoniam in ejus nomine petit, quem cogitat cum petit. Qui vero quod est de illo sentiendum sentit, ipse in ejus nomine petit: et accipit quod petit, si non contra suam salutem sempiternam petit: Accipit autem quando debet accipere. Quaedam enim non negantur: sed ut congruo dentur tempore differuntur. Ita sane intelligendum est quod ait: Dabit vobis: ut ea beneficia significata sciantur his verbis, quae ad eos, qui petunt, proprie pertinent. Exaudiuntur quippe omnes Sancti pro seipsis, non autem pro omnibus exaudiuntur vel amicis, vel inimicis suis, vel quibuslibet aliis: quia non utcumque dictum est, Dabit; sed, Dabit vobis.
 
 [Responsory8]
 R. Bonum est confiteri Domino, alleluia:
@@ -135,7 +137,7 @@ Usque modo, inquit, non petistis quidquam in nomine meo. Petite, et accipietis, 
 &teDeum
 
 [Capitulum Laudes]
-!Jas 1:22-24
+!Jac 1:22-24
 v. Carissimi: Estote factores verbi, et non auditores tantum, fallentes vosmetipsos. Quia si quis auditor est verbi, et non factor: hic comparabitur viro consideranti vultum nativitatis suae in speculo: consideravit enim se, et abiit, et statim oblitus est qualis fuerit.
 $Deo gratias
 
@@ -153,12 +155,12 @@ $Deo gratias
 
 [Capitulum Sexta]
 !Jas 1:25
-v. Qui autem perspexerit in lege perfecta libertatis et permanserit non auditor obliviosus factus sed factor operis hic beatus in facto suo erit
+v. Qui autem perspexerit in legem perfectam libertatis et permanserit in ea non auditor obliviosus factus sed factor operis hic beatus in facto suo erit
 $Deo gratias
 
 [Capitulum Nona]
 !Jas 1:27
-v. Religio munda et inmaculata apud Deum et Patrem haec est visitare pupillos et viduas in tribulatione eorum inmaculatum se custodire ab hoc saeculo
+v. Religio munda et immaculata apud Deum et Patrem haec est: visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc saeculo
 $Deo gratias
 
 [Versum 3]

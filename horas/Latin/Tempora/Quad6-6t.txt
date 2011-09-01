@@ -85,7 +85,7 @@ Incipit Oratio Jeremíæ Prophetæ
 13 Adolescentibus impudice abusi sunt, et pueri in ligno corruerunt.
 14 Senes defecerunt de portis, juvenes de choro psallentium.
 15 Defecit gaudium cordis nostri ; versus est in luctum chorus noster.
-16 Cecidit corona capitis nostri : væ nobis, quia peccavimus !
+16 Cecidit corona capitis nostri: væ nobis, quia peccavimus !
 v. Jerusalem, Jerusalem, convertere ad Dominum Deum tuum. 
 
 [Responsory3]
@@ -160,12 +160,12 @@ R. Factus sum sicut homo sine adjutorio, inter mortuos liber.
 
 [Lectio9]
 !Heb 9:23-28
-23 Necesse est ergo exemplaria quidem cælestium his mundari : ipsa autem cælestia melioribus hostiis quam istis.
-24 Non enim in manufacta Sancta Jesus introivit exemplaria verorum : sed in ipsum cælum, ut appareat nunc vultui Dei pro nobis :
-25 neque ut sæpe offerat semetipsum, quemadmodum pontifex intrat in Sancta per singulos annos in sanguine alieno :
-26 alioquin oportebat eum frequenter pati ab origine mundi : nunc autem semel in consummatione sæculorum, ad destitutionem peccati, per hostiam suam apparuit.
-27 Et quemadmodum statutum est hominibus semel mori, post hoc autem judicium :
-28 sic et Christus semel oblatus est ad multorum exhaurienda peccata : secundo sine peccato apparebit exspectantibus se, in salutem.
+23 Necesse est ergo exemplaria quidem cælestium his mundari: ipsa autem cælestia melioribus hostiis quam istis.
+24 Non enim in manufacta Sancta Jesus introivit exemplaria verorum: sed in ipsum cælum, ut appareat nunc vultui Dei pro nobis:
+25 neque ut sæpe offerat semetipsum, quemadmodum pontifex intrat in Sancta per singulos annos in sanguine alieno:
+26 alioquin oportebat eum frequenter pati ab origine mundi: nunc autem semel in consummatione sæculorum, ad destitutionem peccati, per hostiam suam apparuit.
+27 Et quemadmodum statutum est hominibus semel mori, post hoc autem judicium:
+28 sic et Christus semel oblatus est ad multorum exhaurienda peccata: secundo sine peccato apparebit exspectantibus se, in salutem.
 
 [Responsory9]
 R. Sepulto Domino, signatum est monumentum, volventes lapidem ad ostium monumenti:

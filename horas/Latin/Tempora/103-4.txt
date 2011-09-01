@@ -1,12 +1,12 @@
 [Lectio1]
-De libro primo Maccabeorum
+De libro primo Machabaeorum
 !1 Mac 13:1-6
 1 Et audivit Simon quod congregavit Tryphon exercitum copiosum ut veniret in terram Juda, et attereret eam.
 2 Videns quia in tremore populus est, et in timore, ascendit Jerusalem, et congregavit populum:
 3 et adhortans dixit: Vos scitis quanta ego, et fratres mei, et domus patris mei, fecimus pro legibus et pro sanctis, praelia, et angustias quales vidimus:
 4 horum gratia perierunt fratres mei omnes propter Israël, et relictus sum ego solus.
-5 Et nunc non mihi contingat parcere animae meae in omni tempore tribulationis: non enim melior sum fratribus meis.
-6 Vindicabo itaque gentem meam, et sancta, natos quoque nostros, et uxores: quia congregatae sunt universae gentes conterere nos inimicitiae gratia.
+5 Et nunc non mihi contingat parcere animae meae in omni tempore tribulationis: non enim melior sum fratribus meis;
+6 vindicabo itaque gentem meam, et sancta, natos quoque nostros, et uxores: quia congregatae sunt universae Gentes conterere nos inimicitiae gratia.
 
 [Responsory1]
 @Tempora/101-0:Responsory1

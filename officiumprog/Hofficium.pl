@@ -87,8 +87,6 @@ require "specials.pl";
 require "specmatins.pl";
 require "Hwebdia.pl";
 require "Hsetup.pl";
-#require "Aedit.pl";
-#require "Acheck.pl";
 require "Achant.pl";
 require "tfertable.pl";
 require "monastic.pl";
@@ -101,9 +99,9 @@ our $Tk = 0;
 our $Ck = 0;
 our $missa = 0;
 
-our ($lang1, $lang2, $expand, $column, $output);
+our ($lang1, $lang2, $expand, $column, $output, $onefile);
 our %translate; #translation of the skeleton label for 2nd language 
-our ($voicecolumn, $doline, $keyfreq, $dofreq, $basetime,$voweltime, $vowelmod, $mono);
+our ($notes,$voicecolumn, $doline, $keyfreq, $dofreq, $basetime,$voweltime, $vowelmod, $mono);
 our $sanctiname = 'Sancti';
 our $temporaname = 'Tempora';
 our $communename = 'Commune';
@@ -160,13 +158,14 @@ $firstcall = 1;
 $mw->configure(-title=>"Generate Offices");
 $error = '';
 chantmessage();
+
 our $only = ($lang1 =~ /$lang2/) ? 1 : 0;
 our ($priest, $width, $blackfont, $redfont, $smallblack, $smallfont, $titlefont,
   $black, $red, $blue);
 
 if ($lang1 !~ /Latin/i && $voicecolumn =~ /Latin/i) {$voicecolumn = 'mute';}
 if ($lang2 !~ /Magyar/i && $voicecolumn =~ /Magyar/i) {$voicecolumn = 'mute';}
-if ($Hk < 3) {$voicecolumn = 'mute';}
+if ($Hk < 3) {$voicecolumn = 'mute';} 
 
 if ($ARGV[0] =~ /cleantab/) {cleantab();}
 
@@ -176,7 +175,7 @@ $mwf = $mw->Scrolled('Pane', -scrollbars=>'osoe',
  ->pack(-side=>'top', -padx=>$padx, -pady=>$pady);
 
 our $datefrom = gettoday();
-our $dateto = $datefrom;
+our $numofdays = 1;
 our $outdir = "$Bin";
 
 $labelfont = "{Arial} 12";
@@ -190,9 +189,9 @@ $topframe->Button(-text=>"Generate Offices",  -font=>$labelfont, -command=>sub{g
   configure($label, $framecolor, $labelfont, $titlecolor);
   $topframe->Entry(-textvariable=>\$datefrom, -width=>10, -background=>"#ffffdd")
     ->pack(-side=>'left', -padx=>$padx);	   
-  $label = $topframe->Label(-text=>'To:')->pack(-side=>'left', -padx=>$padx);
+  $label = $topframe->Label(-text=>'Days:')->pack(-side=>'left', -padx=>$padx);
   configure($label, $framecolor, $labelfont, $titlecolor);
-  $topframe->Entry(-textvariable=>\$dateto, -width=>10, -background=>"#ffffdd")
+  $topframe->Entry(-textvariable=>\$numofdays, -width=>3, -background=>"#ffffdd")
   ->pack(-side=>'left', -padx=>$padx);	   
   $label = $topframe->Label(-text=>'Into:')->pack(-side=>'left', -padx=>$padx);
   configure($label, $framecolor, $labelfont, $titlecolor);
@@ -261,9 +260,9 @@ $bframe3->Button(-text=>'Help',
   -command=>sub{system("start iexplore $datafolder/Help/Hhelp.html");}) 
   ->pack(-side=>'left', -padx=>$padx, -pady=>$pady);  
 
-  my $label = $bottomframe->Label(-textvariable=>\$error)->pack(-side=>'left', -pady=>$pady);
+  my $label = $bottomframe->Label(-textvariable=>\$error)->pack(-side=>'top', -padx=>$padx);
   configure($label, $framecolor, $labelfont, $titlecolor);
-  $label = $bottomframe->Label(-textvariable=>\$message, justify=>'left')->pack(-side=>'left', -pady=>$pady);
+  $label = $bottomframe->Label(-textvariable=>\$message, justify=>'left')->pack(-side=>'top', -padx=>$padx);
   configure($label, $framecolor, $labelfont, $titlecolor);
 
 $mwf->pack(-anchor=>'n');
@@ -281,7 +280,7 @@ sub errorTk {
 # called before exit
 # saves horas.setup file with the current values
 sub finalsave {
-  setsetup('general', $expand, $version, $testmode, $lang2, 'proper', $output, $accented, $onefile);
+  setsetup('general', $expand, $version, $testmode, $lang2, 'proper', $output, $onefile);
   if ($savesetup) {
     savesetuphash('Hhoras', \%setup);
   }      
@@ -313,20 +312,24 @@ sub prevnext {
 sub generate {
   my $maxnum = 0;
   our $date1 = $datefrom;
-  while ($maxnum <= 366) {
+  if ($numofdays > 367) {$numofdays == 367;}
+  if ($numofdays < 1) {$numofdays = 1;}
+  while ($maxnum < $numofdays) {
     @horas = getdialogcolumn('horas','~',0);
     shift(@horas);
     pop (@horas);
     our ($month, $day, $year) = split('-', $date1);
     $outdir =~ s/\/\s*$//;
     if (!(d- "$outdir")) {mkdir("$outdir");}
-    $month_day = "$month-$day"; 
+    my $vletter = ($version =~ /Monastic/i) ? 'M' : ($version =~ /1570/) ? 'O' : ($version =~ /Trident/i) ? 'T' :
+       ($version =~ /1955/) ? 'P' : ($version =~ /New/) ? 'N' : ($version =~ /1960/) ? 'R' : '';
+	our $month_day = "$month-$day$vletter"; 
 	if ($votive =~ /(Dedication|Defunctorum|Parvum B.M.V.)/i) {$month_day = "$1$month_day"; ;}
     if (!(d- "$outdir/$year")) {mkdir("$outdir/$year");}
-	if (!$onefile) {
+	if (!$onefile || $voicecolumn =~ /chant/i) {
       if (!(d- "$outdir/$year/$month_day")) {mkdir("$outdir/$year/$month_day");}
-      master($month_day);
     } 
+    master($month_day);
 
     foreach $h (@horas) {
 	  if ($votive =~ /Defunctorum/i && $h !~ /(Matutinum|Laudes|Vespera)/i) {next;}
@@ -351,7 +354,6 @@ sub generate {
 	} elsif ($onefile)  {print "$outdir/$year/O$month_day.html cannot open\n"; }
 
     $maxnum++;
-    if ($date1 eq $dateto) {last;}
     $date1 = prevnext(1, $date1);
   }
   $message = "Offices for $maxnum days are generated";
@@ -380,10 +382,10 @@ sub master {
     my $item; 
     if ($votive !~ /Defunctorum/i) {foreach $item ('Matutinum', 'Laudes', 'Prima', 'Tertia', 
       'Sexta', 'Nona', 'Vespera', 'Completorium') {
-      print OUT "<A HREF=\"$monthday/$item.html\">$item</A>&nbsp;&nbsp;&nbsp;\n";
+      print OUT "<A HREF=\"$monthday/$item.html\">$item</A>    \n";
       if ($item =~ /tertia/i) {print OUT "<BR><BR>\n";}
     }} else {foreach $item ('Matutinum', 'Laudes', 'Vespera') {
-      print OUT "<A HREF=\"$monthday/$item.html\">$item</A>&nbsp;&nbsp;&nbsp;\n";
+      print OUT "<A HREF=\"$monthday/$item.html\">$item</A>    \n";
     }}
 	print OUT "</TD></TR></TABLE></BODY></HTML>\n";
     close OUT;
@@ -413,31 +415,46 @@ sub generatehora {
   $title = ($hora =~ /vesper/i) ? "Ad Vesperas" :  "Ad $hora";
   if (substr($title,-1) =~ /a/i) {$title .= 'm';}
   $message = "$month-$day-$year $title";
+  $title1 = ($onefile) ? "O$month-$day-$year" : $title;
   $mw->update();
   
   $background = ($whitebground) ? "BGCOLOR=\"white\"" : "BGCOLOR=\"$framecolor\"";
 
   if (!$onefile || $hora =~ /Matutinum/i) {
     $headline = setheadline();
-    htmlHead($title);
+    htmlHead($title1);
     $htmltext .= "<BODY VLINK=$visitedlink LINK=$link BGCOLOR=\"$framecolor\"> ";
     $htmltext .= "<P ALIGN=CENTER><FONT COLOR=$daycolor>$dayname[1]<BR></FONT>$comment</P>\n";
   }
+  if ($onefile && $hora =~ /Matutinum/i) {
+    foreach $item ('Matutinum', 'Laudes', 'Prima', 'Tertia', 'Sexta', 'Nona', 'Vespera', 'Completorium')  {
+	  $htmltext .= "<A HREF=\"#$item\">$item</A><BR>\n";
+	}
+  }	      
   
-  $htmltext .=  "<P ALIGN=CENTER><FONT COLOR=MAROON SIZE=+1><B><I>$title</I></B></FONT>&nbsp;&nbsp;&nbsp;&nbsp;</P>\n";
   if ($hora =~ /vesper/i) {$hora = 'Vespera';}
+  $htmltext .=  "<P ALIGN=CENTER>";
+  if ($onefile) {$htmltext .= "<A NAME=\"$hora\"> </A>\n";}
+  $htmltext .=  "<FONT COLOR=MAROON SIZE=+1><B><I>$title</I></B></FONT>    </P>\n";
+
   horas($hora); 
   
   if (!$onefile || $hora =~ /Completorium/i) {$htmltext .= "</BODY></HTML>";}
-}  
+  if ($only && $hora =~ /Completorium/i && $celllength < 10000) {
+    $htmltext =~ s/<(TABLE|TR|TD).*?>//ig;
+    $htmltext =~ s/<\/(TABLE|TR|TD)>//ig;
+  }
+
+}
 
 sub chantmessage {
   $message = ($Hk < 3) ? 'Install mbr folder and point to it in Hhoras.ini for chant' :
     ($voicecolumn =~ /chant/) ?
     "Call 'Options' 'Chant' and set 'Generate chant' button to mute if you do not want chant files\n" :
     "Call 'Options' 'Chant' and set 'Generate chant' button to chant if you want chant files\n";
-  if ($notes) {$message .= "Call 'Options' 'Chant' and clear 'Show notes' box to skip notes";}
-  else {$message .= "Call 'Options' 'Chant' and set 'Show notes' box to set notes";}
+  if ($notes) {$message .= "Call 'Options' 'Chant' and clear 'Show notes' box to skip notes\n";}
+  else {$message .= "Call 'Options' 'Chant' and set 'Show notes' box to set notes\n";}
+  $message .= "For Nook or Kindle see 'Help' 'Hints section";  
 
 }
 

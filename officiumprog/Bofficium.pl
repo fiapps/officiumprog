@@ -437,7 +437,7 @@ $comment<BR><BR>
 <INPUT TYPE=BUTTON NAME=SUBMIT VALUE=" " onclick="parchange();">
 <A HREF=# onclick="prevnext(1)">&uarr;</A>
 &nbsp;&nbsp;&nbsp;
-<A HREF='kalendar.pl' target="_new">Kalendar</A>
+<A HREF='kalendar.pl' target="_new">Kalendarium</A>
 </P>
 PrintTag
 }

@@ -1,21 +1,19 @@
 [Rank]
 S. Paulini episcopi et Confessoris;;Simplex;;1.1;;vide C4
 
-[Rank1960]
-S. Paulini episcopi et Confessoris;;Simplex;;3;;vide C4
-
-[RankNewcal]
-S. Paulini episcopi et Confessoris;;Duplex optional;;2;;vide C4
-
 [Rule]
 vide C4;
+1 et 2 lectiones
 
 [Oratio]
-Da, quaesumus omnipotens Deus: ut beati Paulini Confessoris tui atque Pontificis veneranda solemnitas, et devotionem nobis augeat, et salutem.
-$Per Dominum
+Deus, qui nos beati N. Confessoris tui annua solemnitate laetificas: concede propitius; ut cujus natalitia colimus, etiam actiones imitemur.
+$Per Dominum. 
 
-[Lectio93]
-Paulinus Nolae episcopus, eruditus studiis humanitatis, doctus etiam divinis litteris, multa eleganter et ornate scripsit versibus, et soluta oratione. Hujus viri caritas praecipue celebratur, quod vasteta a Gothis Campania, omnem facultatem, ne relictis quidem sibi rebus ad vitam necessariis, in alendos pauperes et captivos redimendos contulerit. Quo tempore, ut scribit sanctus Augustinus, ex opulentissimo divitiae voluntate pauperrimus, et copiosissime sanctus, captus a barbaris, sic Deum precabatur: Domine, ne excrucier propter aurum et argentum: ubi enim sint omnia mea, tu scis. Postea vero Wandalis easdem regiones infestantibus, cum ab eo posceret vidua, ut filium sibi redimeret, consumptis rebus omnibus in officio pietatis, seipsum pro illo in servitutem tradidit. Igitur in Africam profectus, domini sui, qui regis erat gener, hortum colendum suscepit. Verum cum prophetiae dono regis mortem ipsi domino praedixisset, et rex in somnis Paulinum sedentem medium inter duos judices, sibique de manibus eripientem flagellum vidisset: tantus vir cognitus honorificentissime dimissus est, condonatis ei omnibus suis civibus, qui captivi fuerant. Nolam reversus ad episcopale officium, cum verbo et exemplo omnes ad pietatem christianam inflammaret, laterum dolore correptus est; mox cubiculum in quo jacebat, terraemotu contremuit, ac paulo post animam Deo reddidit.
+[Lectio2]
+Paulinus Nolæ episcopus, eruditus studiis humanitatis, doctus etiam diuinis litteris, multa eleganter et ornate scripsit uersibus et soluta oratione. Huius uiri charitas præcipue celebratur, quod, uastata a Vandalis Campania, omnem facultatem, ne relictis quidem sibi rebus ad uitam necessariis, in alendos pauperes et captiuos redimendos contulerit. Quo tempore, ut scribit Augustinus, ex opulentissimo diuite uoluntate pauperrimus, ey copiosissime sanctus, captus a barbaris sic deum precabatur. Domine, ne excrucier propter aurum, ey argentum : ubi enim sim omnia mea, tu scis. Ab eo cum posceret, ut filium sibi redimeret, consumptis rebus in officio pietatis seipsum pro illo in seruitutem tradidit.
+
+[Lectio3]
+Igitur in Africam ductus a domino, qui erat regis gener, eius hortum colendum suscepit. Verum cum prophetiæ dono regis mortem ipsi domino prædixisset, et rex in somnis Paulinum sedentem medium inter duos iudices, sibique de manibus eripientem flagellum uidisset, quantus uir esset cognitus honorificentissime dimissus est,  condonatus ei omnibus suis ciuibus qui captiui fuerant. Nolam reuersus ad episcopale officium cum uerbo et exemplo omnes ad pietatem Christianam inflammaret, laterum dolore correptus, cubiculum in quo iacebat terræmotu contremuit, ac paulo post animam deo reddidit
 &teDeum
 
 [Ant 2]
@@ -24,7 +22,3 @@ Euge serve bone et fidelis * quia in pauca fuisti fidelis, supra multa te consti
 [Versum 2]
 V. Justum deduxit Dominus per vias rectas.
 R. Et ostendit illi regnum Dei.
-
-[Lectio94]
-Paulínus, anno reparátæ salútis trecentésimo quinquagésimo tértio a claríssima cívium Romanórum família Burdígalæ natus, senatória dignitáte potítus est. Nolæ consul renuntiátus, divíno lúmine tactus consulátum dimísit, et, Burdígalam revérsus, a beáto Delphíno baptizátus est. Dein, bonórum quibus abundábat prétio paupéribus distribúto, in Hispániam secéssit, ubi présbyter ordinátur. Nolam cum rediísset, penes sancti Felícis sepúlcrum monastérium cóndidit, sociísque adscítis, coenobíticam vitam eámque arctíssimam est aggréssus. Percrescénte ejus sanctimóniæ fama, ad Nolánum episcopátum evéhitur, quo in múnere admiránda pietátis, patiéntiæ ac potíssimum caritátis exémpla relíquit. Multa ad sacram doctrínam pertinéntia scripsit, atque ínsuper eloquéntiæ et poéseos laude excélluit. Vastáta a Gothis Campánia, facultátes omnes in aléndos páuperes et captívos rediméndos cóntulit. Póstea vero, Vándalis eásdem regiónes infestántibus, cum nil ámplius erogándum habéret, se ipsum pro fílio cujúsdam víduæ in servitútem trádidit, et in Africam ductus est. Tandem, Dei ope libertáte donátus, Nolæ placidíssimo éxitu obdormívit in Dómino.
-&teDeum

@@ -2,7 +2,7 @@
 De libro Esther
 !Esth 4:1-5
 1 Quae cum audisset Mardochaeus, scidit vestimenta sua, et indutus est sacco, spargens cinerem capiti: et in platea mediae civitatis voce magna clamabat, ostendens amaritudinem animi sui,
-2 et hoc ejulatu usque ad fores palatii gradiens. Non enim erat licitum indutum sacco aulam regis intrare.
+2 et hoc ejulatu usque ad fores palatii gradiens; non enim erat licitum indutum sacco aulam regis intrare.
 3 In omnibus quoque provinciis, oppidis, ac locis, ad quae crudele regis dogma pervenerat, planctus ingens erat apud Judaeos, jejunium, ululatus, et fletus, sacco et cinere multis pro strato utentibus.
 4 Ingressae autem sunt puellae Esther et eunuchi, nuntiaveruntque ei. Quod audiens consternata est, et vestem misit, ut ablato sacco induerent eum: quam accipere noluit.
 5 Accitoque Athach eunucho, quem rex ministrum ei dederat, praecepit ei ut iret ad Mardochaeum, et disceret ab eo cur hoc faceret.
@@ -13,11 +13,11 @@ De libro Esther
 [Lectio2]
 !Esth 4:6-11
 6 Egressusque Athach, ivit ad Mardochaeum stantem in platea civitatis, ante ostium palatii:
-7 qui indicavit ei omnia quae acciderant: quomodo Aman promisisset ut in thesauros regis pro Judaeorum nece inferret argentum.
-8 Exemplar quoque edicti, quod pendebat in Susan, dedit ei, ut reginae ostenderet, et moneret eam ut intraret ad regem et deprecaretur eum pro populo suo.
+7 Qui indicavit ei omnia quae acciderant: quomodo Aman promisisset ut in thesauros regis pro Judaeorum nece inferret argentum.
+8 exemplar quoque edicti, quod pendebat in Susan, dedit ei, ut reginae ostenderet, et moneret eam ut intraret ad regem et deprecaretur eum pro populo suo.
 9 Regressus Athach, nuntiavit Esther omnia quae Mardochaeus dixerat.
 10 Quae respondit ei, et jussit ut diceret Mardochaeo:
-11 Omnes servi regis, et cunctae, quae sub ditione ejus sunt, norunt provinciae, quod sive vir, sive mulier non vocatus, interius atrium regis intraverit, absque ulla cunctatione statim interficiatur: nisi forte rex auream virgam ad eum tetenderit pro signo clementiae, atque ita possit vivere. Ego igitur quomodo ad regem intrare potero, quae triginta jam diebus non sum vocata ad eum?
+11 Omnes servi regis, et cunctae, quae sub dicione ejus sunt, norunt provinciae, quod sive vir, sive mulier non vocatus, interius atrium regis intraverit, absque ulla cunctatione statim interficiatur: nisi forte rex auream virgam ad eum tetenderit pro signo clementiae, atque ita possit vivere. Ego igitur quomodo ad regem intrare potero, quae triginta jam diebus non sum vocata ad eum?
 
 [Responsory2]
 @Tempora/094-0:Responsory7

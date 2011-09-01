@@ -1,5 +1,5 @@
 [Lectio1]
-De libro primo Maccabeorum
+De libro primo Machabaeorum
 !1 Mac 6:1-6
 1 Et rex Antiochus perambulabat superiores regiones, et audivit esse civitatem Elymaidem in Perside nobilissimam, et copiosam in argento et auro,
 2 templumque in ea locuples valde, et illic velamina aurea, et loricae, et scuta, quae reliquit Alexander Philippi rex Macedo, qui regnavit primus in Graecia.
@@ -13,7 +13,7 @@ De libro primo Maccabeorum
 
 [Lectio2]
 !1 Mac 6:6-9
-6 et invaluerunt armis, et viribus, et spoliis multis, quae ceperunt de castris, quae exciderunt:
+6 Et invaluerunt armis, et viribus, et spoliis multis, quae ceperunt de castris, quae exciderunt:
 7 et quia diruerunt abominationem, quam aedificaverat super altare quod erat in Jerusalem: et sanctificationem, sicut prius, circumdederunt muris excelsis, sed et Bethsuram civitatem suam.
 8 Et factum est ut audivit rex sermones istos, expavit, et commotus est valde: et decidit in lectum, et incidit in languorem prae tristitia, quia non factum est ei sicut cogitabat.
 9 Et erat illic per dies multos, quia renovata est in eo tristitia magna, et arbitratus est se mori.
@@ -24,7 +24,7 @@ De libro primo Maccabeorum
 [Lectio3]
 !1 Mac 6:10-13
 10 Et vocavit omnes amicos suos, et dixit illis: Recessit somnus ab oculis meis, et concidi, et corrui corde prae sollicitudine:
-11 et dixi in corde meo: In quantam tribulationem deveni, et in quos fluctus tristitiae, in qua nunc sum: qui jucundus eram, et dilectus in potestate mea !
+11 et dixi in corde meo: In quantam tribulationem deveni, et in quos fluctus tristitiae, in qua nunc sum: qui jucundus eram, et dilectus in potestate mea!
 12 Nunc vero reminiscor malorum quae feci in Jerusalem, unde et abstuli omnia spolia aurea et argentea quae erant in ea, et misi auferre habitantes Judaeam sine causa.
 13 Cognovi ergo quia propterea invenerunt me mala ista: et ecce pereo tristitia magna in terra aliena.
 

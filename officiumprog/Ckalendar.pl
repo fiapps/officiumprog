@@ -114,7 +114,7 @@ if (!$kyear) {$kyear = $year;}
 @monthnames = ('Januarius', 'Februarius', 'Martius', 'Aprilis', 'Majus', 'Junius',
   'Julius', 'Augustus', 'September', 'October', 'November', 'December');
 @monthlength = (31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
-$title = "Kalendar: $monthnames[$kmonth-1] $kyear";
+$title = "Kalendarium: $monthnames[$kmonth-1] $kyear";
 @daynames = ('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fry', 'Sat');
 
                                   

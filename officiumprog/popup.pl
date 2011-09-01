@@ -117,7 +117,7 @@ $tlang = ($lang1 !~ /Latin/) ? $lang1 : $lang2;
 PrintTag
 
  $text =~ s/\_/ /g;
- if ($lang1 =~ /Latin/i && $version =~ /1960/) {$text = jtoi($text);}
+ if ($lang1 =~ /Latin/i) {$text = jtoi($text);}
  print "<TD $background WIDTH=50% VALIGN=TOP>" . setfont($blackfont,$text) . "</TD>\n";
   $lang = $lang2;
 
@@ -125,7 +125,7 @@ PrintTag
     $text = resolve_refs($popup, $lang2);    
     #$text = resolve_refs($text, $lang2);   
  	  $text =~ s/\_/ /g;
-      if ($lang2 =~ /Latin/i && $version =~ /1960/) {$text = jtoi($text);}
+      if ($lang2 =~ /Latin/i) {$text = jtoi($text);}
 	  print "<TD $background VALIGN=TOP>" . setfont($blackfont,$text) . "</TD></TR>\n";
   }
   print "</TABLE><BR>\n";

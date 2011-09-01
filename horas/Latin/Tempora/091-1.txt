@@ -27,7 +27,7 @@ R. Et calamitas quam patior, in statera.
 [Lectio3]
 !Job 1:20-22
 20 Tunc surrexit Job, et scidit vestimenta sua: et tonso capite corruens in terram, adoravit,
-21 et dixit: Nudus egressus sum de utero matris meae, et nudus revertar illuc. Dominus dedit, Dominus abstulit; sicut Domino placuit, ita factum est. Sit nomen Domini benedictum.
+21 et dixit: Nudus egressus sum de utero matris meae, et nudus revertar illuc. Dominus dedit, Dominus abstulit; sicut Domino placuit, ita factum est: sit nomen Domini benedictum.
 22 In omnibus his non peccavit Job labiis suis, neque stultum quid contra Deum locutus est.
 
 [Responsory3]

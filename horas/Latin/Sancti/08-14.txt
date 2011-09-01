@@ -22,8 +22,11 @@ no Te Deum
 
 [Commemoratio]
 !Commemoratio S. Eusebii.
-@Commune/C4:Oratio
+@Commune/C4:Oratio proper
+$Oremus
+Deus, qui nos beáti Eusébii Confessóris tui ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalítia cólimus, per ejus ad te exémpla gradiámur.  
+$Per Dominum.
 
 [Oratio]
 Deus, qui virginalem aulam beatæ Mariæ, in qua habitares, eligere dignatus es: da, quaesumus; ut, sua nos defensione munitos, iucundos facias suae interesse festivitati:
-$Per Dominum
+$Qui vivis

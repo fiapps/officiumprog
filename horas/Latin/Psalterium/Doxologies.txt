@@ -26,6 +26,13 @@ Cum Patre et almo Spiritu,
 In sempiterna saecula.
 Amen. 	
 
+[AscT]
+Gloria tibi domine,
+Qui scandis super sidera,
+Cum patre, et sancto spiritu,
+In sempiterna saecula.
+Amen.
+
 [Pent]
 Deo Patri sit gloria,
 Et Filio, qui a mortuis

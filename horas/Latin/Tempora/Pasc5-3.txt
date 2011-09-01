@@ -27,7 +27,7 @@ V. Deus meus es tu, et confitebor tibi: Deus meus es tu, et exaltabo te.
 R. In psalterio decem chordarum psallam tibi, alleluia, alleluia.
 
 [Lectio2]
-Quapropter hoc quod ait: Pater, venit hora, clarifica Filium tuum: ostendit, omne tempus, et quid, quando faceret, vel fieri sineret, ab illo esse dispositum, qui tempori subditus non est: quoniam quae futura erant per singula tempora, in Dei sapientia causas efficientes habent, in qua nulla sunt tempora. Non ergo credatur haec hora fato urgente venisse, sed Deo potius ordinante. Nec siderea necessitas Christi connexuit passionem: absit enim ut sidera mori cogerent siderum conditorem.
+Quapropter hoc quod ait: Pater, venit hora, clarifica Filium tuum: ostendit, omne tempus, et quid, quando faceret, vel fieri sineret, ab illo esse dispositum, qui tempori subditus non est: quoniam quae futura erant per singula tempora, in Dei sapientia causas efficientes habent, in qua nulla sunt tempora. Non ergo credatur haec hora fato urgente venisse, sed Deo potius ordinante. Nec siderea necessitas Christi connexuit passionem: absit enim ut sidera mori cogerent siderum Conditorem.
 
 [Responsory2]
 R. Bonum est confiteri Domino, alleluia:
@@ -52,5 +52,5 @@ R. A Domino, alleluia, alleluia.
 Pater, venit hora, * clarifica Filium tuum claritate quam habui, priusquam mundus esset, apud te, alleluia.
 
 [Oratio 2]
-Deus, a quo bona cuncta procedunt, largire supplicibus tuis: ut cogitamus te inspirante, quae recta sunt; et te gubernante, eadem faciamus.
+Deus, a quo bona cuncta procedunt, largire supplicibus tuis: ut cogitemus te inspirante, quae recta sunt; et te gubernante, eadem faciamus.
 $Per Dominum.

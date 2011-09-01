@@ -1,4 +1,4 @@
-#Incipit
+#Incipit 
 $Deus in adjutorium
 &Gloria
 &Alleluia

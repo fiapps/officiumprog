@@ -48,7 +48,7 @@ sub kalendarrut {
 @monthlength = (31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
 @daynames = ('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fry', 'Sat');
 
-$title = "Kalendar: $monthnames[$kmonth-1] $kyear";
+$title = "Kalendarium: $monthnames[$kmonth-1] $kyear";
                                   
 if ($mwf) {$mwf->destroy();}
 $mw->idletasks();

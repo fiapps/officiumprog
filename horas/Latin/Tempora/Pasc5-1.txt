@@ -1,5 +1,5 @@
 [Rank]
-Feria Secunda in Rogationibus;;Feria;;2
+Feria Secunda in Rogationibus;;Feria;;1.6
 
 [Rule]
 Una Antiphona
@@ -13,7 +13,7 @@ In illo tempore: Dixit Jesus discipulis suis: Quis vestrum habebit amicum et ibi
 _
 Homilia sancti Ambrosii Episcopi.
 !Liber 7 in Lucae cap. 11.
-Alius praecepti locus est, ut omnibus momentis, non solum diebus, sed etiam noctibus, oratio deferatur. Vides enim, quod iste qui media nocte perrexit, tres panes ab amico suo postulans, et in ipsa petendi intentione persistens, non defraudatur oratis. Qui sunt isti tres panes, nisi mysterii caelestis alimentum? Quod si diligas Dominum Deum tuum, non solum tibi, sed etiam aliis poteris emereri. Quis autem amicior nobis, quam qui pro nobis corpus suum tradidit?
+Alius praecepti locus est, ut omnibus momentis, non solum diebus, sed etiam noctibus, oratio deferatur. Vides enim, quod iste qui media nocte perrexit, tres panes ab amico suo postulans, et in ipsa petendi intentione persistens, non defraudetur oratis. Qui sunt isti tres panes, nisi mysterii caelestis alimentum? Quod si diligas Dominum Deum tuum, non solum tibi, sed etiam aliis poteris emereri. Quis autem amicior nobis, quam qui pro nobis corpus suum tradidit?
 
 [Responsory1]
 R. Dicant nunc, qui redempti sunt, alleluia,

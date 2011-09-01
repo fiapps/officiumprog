@@ -345,7 +345,7 @@ my $sel14 = ($testmode =~ /Common/i) ? 'SELECTED' : '';
 
   print << "PrintTag";
 &nbsp;&nbsp;&nbsp;
-<A HREF=# onclick="callkalendar();">Kalendar</A>
+<A HREF=# onclick="callkalendar();">Kalendarium</A>
 &nbsp;&nbsp;&nbsp;
 <SELECT NAME=testmode SIZE=4 onclick="parchange();">
 <OPTION $sel10 VALUE='regular'>regular
@@ -492,7 +492,7 @@ sub headline {
 <INPUT TYPE=BUTTON NAME=SUBMIT VALUE=" " onclick="parchange();">
 <A HREF=# onclick="prevnext(1)">&uarr;</A>
 &nbsp;&nbsp;&nbsp;
-<A HREF=# onclick="callkalendar();">Kalendar</A>
+<A HREF=# onclick="callkalendar();">Kalendarium</A>
 </P>
 PrintTag
 }

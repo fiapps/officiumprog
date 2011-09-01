@@ -533,8 +533,8 @@ V. We are filled in the morning with thy mercy:
 R. And we have rejoiced, and are delighted.
 
 [Day6 Vespera]
-!2 Cor 1:3-4
-v. Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort. who comforteth us in all our tribulation. 
+!Rom 11:33
+v. O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways! 
 $Deo gratias
 
 [Hymnus Day6 Vespera]
@@ -1469,7 +1469,6 @@ All holy Angels and Archangels, pray for us.
 All holy orders of blessed spirits, pray for us.
 _
 St. John the Baptist, pray for us.
-St. Joseph, pray for us.
 All holy Patriarchs and Prophets, pray for us.
 St. Peter, pray for us.
 St. Paul, pray for us.

@@ -9,10 +9,10 @@ Antiphonas Horas
 Doxology=Nat
 
 [Ant Vespera]
-Assumpta est * Maria in caelum: gaudent Angeli, laudantes benedicunt Dominum;;109
-Maria Virgo * assumpta est ad aethereum thalamum, in quo Rex regum stellato sedet solio;;112
+Assumpta est Maria in caelum: * gaudent Angeli, laudantes benedicunt Dominum;;109
+Maria Virgo assumpta est * ad aethereum thalamum, in quo Rex regum stellato sedet solio;;112
 In odorem * unguentorum tuorum currimus: adolescentulae dilexerunt te nimis;;121
-Benedicta filia * tu a Domino: quia per te fructum vitae communicavimus;;126
+Benedicta * filia tu a Domino: quia per te fructum vitae communicavimus;;126
 Pulchra es * et decora, filia Jerusalem, terribilis ut castrorum acies ordinata;;147
 
 [Hymnus Vespera]
@@ -69,7 +69,7 @@ Omnipotens sempitérne Deus, qui Immaculátam Vírginem Maríam, Fílii tui Genitríce
 $Per eumdem
 
 [Invit]
-Venite adoremus Regem regum, Cujus hodie ad aethereum * Virgo mater assumpta est caelum.
+Venite adoremus Regem regum, * Cujus hodie ad aethereum Virgo mater assumpta est caelum.
 
 [Hymnus Matutinum]
 Surge! Jam terris fera bruma cessit,
@@ -110,13 +110,13 @@ Benedicta tu * in mulieribus, et benedictus fructus ventris tui;;23
 V. Exaltata est sancta Dei Genitrix.
 R. Super choros Angelorum ad caelestia regna.
 Specie tua * et pulchritudine tua intende, prospere procede, et regna;;44
-Adjuvabit eam * Deus vultu suo: Deus in medio ejus, non commovebitur;;45
-Sicut laetantium * omnium nostrum habitatio est in te, sancta Dei Genitrix;;86
+Sanctificávit * tabernáculum suum Altíssimus.;;45
+Gloriósa * dicta sunt de te, Virgo María.;;86 
 V. Assumpta est Maria in caelum: gaudent Angeli.
 R. Laudantes benedicunt Dominum.
 Gaude Maria Virgo, * cunctas haereses sola interemisti in universo mundo;;95
-Dignare me * laudare te, Virgo sacrata: da mihi virtutem contra hostes tuos;;96
-Post partum * Virgo inviolata permansisti, Dei Genitrix intercede pro nobis;;97
+Cæli annúntiant * justítiam ejus, et omnes pópuli vident glóriam ejus.;;96
+Cantáte Dómino * cánticum novum: quia mirabília fecit in te, O María.;;97 
 V. Maria Virgo assumpta est ad aethereum thalamum.
 R. In quo Rex regum stellato sedet solio.
 
@@ -125,8 +125,8 @@ De libro Génesis
 !Gen 3:9-15
 9 vocavitque Dominus Deus Adam et dixit ei ubi es
 10 qui ait vocem tuam audivi in paradiso et timui eo quod nudus essem et abscondi me
-11 cui dixit quis enim indicavit tibi quod nudus esses nisi quod ex ligno de quo tibi praeceperam ne comederes comedisti
-12 dixitque Adam mulier quam dedisti sociam mihi dedit mihi de ligno et comedi
+11 cui dixit quis enim indicavit tibi quod nudus esses nisi quod ex ligno de quo praeceperam tibi ne comederes comedisti
+12 dixitque Adam mulier quam dedisti mihi sociam dedit mihi de ligno et comedi
 13 et dixit Dominus Deus ad mulierem quare hoc fecisti quae respondit serpens decepit me et comedi
 14 et ait Dominus Deus ad serpentem quia fecisti hoc maledictus es inter omnia animantia et bestias terrae super pectus tuum gradieris et terram comedes cunctis diebus vitae tuae
 15 inimicitias ponam inter te et mulierem et semen tuum et semen illius ipsa conteret caput tuum et tu insidiaberis calcaneo eius
@@ -138,14 +138,15 @@ V. Quae est ista quae ascendit per desertum sicut virgula fumi, ex aromatibus my
 R. Et sicut dies verni circumdabant eam flores rosarum et lilia convallium.
 
 [Lectio2]
+De Epístola prima beáti Pauli Apóstoli ad Corínthios 
 !1 Cor 15:20-26
-20 nunc autem Christus resurrexit a mortuis primitiae dormientium
-21 quoniam enim per hominem mors et per hominem resurrectio mortuorum
+20 Christus resurrexit a mortuis primitiae dormientium
+21 quoniam quidem per hominem mors et per hominem resurrectio mortuorum
 22 et sicut in Adam omnes moriuntur ita et in Christo omnes vivificabuntur
-23 unusquisque autem in suo ordine primitiae Christus deinde hii qui sunt Christi in adventu eius
-24 deinde finis cum tradiderit regnum Deo et Patri cum evacuaverit omnem principatum et potestatem et virtutem
+23 unusquisque autem in suo ordine primitiae Christus deinde ii qui sunt Christi qui in adventu eius crediderunt.
+24 Deinde finis cum tradiderit regnum Deo et Patri cum evacuaverit omnem principatum et potestatem et virtutem
 25 oportet autem illum regnare donec ponat omnes inimicos sub pedibus eius
-26 novissima autem inimica destruetur mors omnia enim subiecit sub pedibus eius cum autem dicat
+26 novissima autem inimica destruetur mors.
 
 [Responsory2]
 R. Sicut cedrus exaltata sum in Libano, et sicut cypressus in monte Sion: quasi myrrha electa
@@ -155,11 +156,11 @@ R. Dedi suavitatem odoris.
 
 [Lectio3]
 !1 Cor 15:53-57
-53 oportet enim corruptibile hoc induere incorruptelam et mortale hoc induere inmortalitatem
-54 cum autem mortale hoc induerit inmortalitatem tunc fiet sermo qui scriptus est absorta est mors in victoria
+53 Oportet enim corruptibile hoc induere incorruptionem et mortale hoc induere immortalitatem
+54 cum autem mortale hoc induerit immortalitatem tunc fiet sermo qui scriptus est absorpta est mors in victoria
 55 ubi est mors victoria tua ubi est mors stimulus tuus
 56 stimulus autem mortis peccatum est virtus vero peccati lex
-57 Deo autem gratias qui dedit nobis victoriam per Dominum nostrum Iesum Christum
+57 Deo autem gratias qui dedit nobis victoriam per Dominum Iesum Christum
 
 [Responsory3]
 R. Quae est ista quae processit sicut sol, et formosa tamquam Jerusalem?
@@ -191,7 +192,6 @@ R. Quia fecit mihi Dominus magna qui potens est, et sanctum nomen ejus.
 
 [Lectio6]
 Ex Actis Pii Papæ duodécimi
-!Pope Pius XII solemnly declares the dogma of the
 Quóniam vero univérsa Ecclésia fidem in corpóream beátæ Maríæ Vírginis Assumptiónem per sæculórum decúrsum manifestávit, et totíus orbis Epíscopi prope unánimi consensióne petiérunt ut hæc véritas, quæ Sacris Lítteris innítitur, Christifidélium ánimis pénitus est ínsita, ceterísque revelátis veritátibus plane cónsona, tamquam divínæ et cathólicæ fídei dogma definirétur, Pius duodécimus Póntifex Máximus, totíus Ecclésiæ votis ánnuens, státuit hoc Beátæ Maríæ Vírginis privilégium solémniter renuntiáre. Itaque die prima Novémbris anni máximi Jubilæi millésimi nongentésimi quinquagésimi, Romæ ad foro ad sancti Petri Basílicam paténte, plurimórum Sanctæ Románæ Ecclésiæ Cardinálium atque Episcopórum ex díssitis étiam regiónibus astánte cœtu, coram ingénti Christifidélium multitúdine, univérso cathólico orbe plaudénte, corpóream Beátæ Maríæ Vírginis Assumptiónem in cælum infallíbili oráculo in hæc verba proclamávit: Postquam súpplices étiam atque étiam ad Deum admóvimus preces, ac Veritátis Spíritus lumen invocávimus, ad Omnipoténtis Dei glóriam, qui peculiárem benevoléntiam suam Maríæ Vírgini dilargítus est, ad sui Fílii honórem, immortális sæculórum Regis ac peccáti mortísque victóris, ad ejúsdem augústæ Matris augéndam glóriam et ad totíus Ecclésiæ gáudium exsultationémque, auctoritáte Dómini Nostri Jesu Christi, Beatórum Apostolórum Petri et Pauli ac Nostra pronuntiámus, declarámus et definímus revelátum dogma esse: Immaculátam Deíparam semper Vírginem Maríam, expléto terréstris vitæ cursu, fuísse córpore et ánima ad cæléstem glóriam assúmptam.
 
 [Responsory6]
@@ -233,10 +233,10 @@ Felix dies, qui tam pretiósum munus de hujus mundi desérto transmísit, et ad san
 &teDeum
 
 [Ant Laudes]
-Assumpta est * Maria in caelum: gaudent Angeli, laudantes benedicunt Dominum.
-Maria Virgo * assumpta est ad aethereum thalamum, in quo Rex regum stellato sedet solio.
+Assumpta est Maria in caelum: * gaudent Angeli, laudantes benedicunt Dominum.
+Maria Virgo assumpta est * ad aethereum thalamum, in quo Rex regum stellato sedet solio.
 In odorem * unguentorum tuorum currimus: adolescentulae dilexerunt te nimis.
-Benedicta filia * tu a Domino: quia per te fructum vitae communicavimus.
+Benedicta * filia tu a Domino: quia per te fructum vitae communicavimus.
 Pulchra es * et decora, filia Jerusalem, terribilis ut castrorum acies ordinata.
 
 [Capitulum Laudes]
@@ -294,7 +294,7 @@ R. Exaltata est * Sancta Dei Genitrix.
 V. Super choros Angelorum ad caelestia regna.
 R. Sancta Dei Genitrix.
 &Gloria
-R.Exaltata est * Sancta Dei Genitrix.
+R. Exaltata est * Sancta Dei Genitrix.
 _
 V. Assumpta est Maria in caelum, gaudent Angeli.
 R. Laudantes benedicunt Dominum.
@@ -313,7 +313,7 @@ R. Gaudent Angeli.
 R. Assumpta est Maria in caelum, * Gaudent Angeli.
 _
 V. Maria Virgo assumpta est ad aethereum thalamum.
-R. In quo Rex regum stellato sedet solo.
+R. In quo Rex regum stellato sedet solio.
 
 [Capitulum Nona]
 !Judit 15:10
@@ -339,11 +339,11 @@ V. Exaltata est sancta Dei Genitrix.
 R. Super choros Angelorum ad caelestia regna.
 
 [Ant 3]
-Hodie Maria Virgo * caelos ascendit: gaudete, quia cum Christo regnat in aeternum.
+Hodie * Maria Virgo caelos ascendit: gaudete, quia cum Christo regnat in aeternum.
 
 [Octava 1]
 !Commemoratio Octavae Assumptionis B.M.V.
-Ant. Hodie Maria Virgo * caelos ascendit: gaudete, quia cum Christo regnat in aeternum.
+Ant. Hodie * Maria Virgo caelos ascendit: gaudete, quia cum Christo regnat in aeternum.
 _
 V. Exaltata est sancta Dei Genitrix.
 R. Super choros Angelorum ad caelestia regna.

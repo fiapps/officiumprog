@@ -12,6 +12,7 @@ Olvasmány a Példabeszédek könyvébõl
 
 [Lectio2]
 !Prov 16:6-9
+5 A helyes ut kezdete az igazsagossag;ezt jobban elfogadja az Ur mint az aldozatokat 
 6 Szeretet és hûség jóváteszi a bûnt, s az Úr félelme távol tart a rossztól. 
 7 Ha egy férfi útja kedves az Úr elõtt, ellenségeit is kibékíti vele. 
 8 Jobb az igazságos úton szerzett kevés, mint a nagy haszon becstelenség árán. 

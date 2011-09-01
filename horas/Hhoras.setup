@@ -1,12 +1,12 @@
 [Chant]
-$notes='1';;
-$voicecolumn='100';;
-$keyfreq='100';;
-$basetime='10';;
-$voweltime='0';;
-$vowelmod='0';;
-$mono='';;
-$pitchdiff='';;
+$notes='0';;
+$voicecolumn='mute';;
+$keyfreq='160';;
+$basetime='360';;
+$voweltime='40';;
+$vowelmod='10';;
+$mono='0';;
+$pitchdiff='0';;
 
 [general]
 $expand='all';;
@@ -15,13 +15,15 @@ $testmode='Regular';;
 $lang2='English';;
 $votive='proper';;
 $output='';;
-$accented='1';;
 $onefile='1';;
 
 [parameters]
 $priest='0';;
+$accented='0';;
+$celllength='200';;
+$extracolumn='4';;
 $lang1='Latin';;
-$framecolor='#ffffff';;
+$framecolor='white';;
 $whitebground='1';;
 $border='0';;
 $blackfont='black';;

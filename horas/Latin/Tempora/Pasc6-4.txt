@@ -18,7 +18,7 @@ De Epistola beati Pauli Apostoli ad Ephesios.
 1 Obsecro itaque vos ego vinctus in Domino, ut digne ambuletis vocatione, qua vocati estis,
 2 cum omni humilitate, et mansuetudine, cum patientia, supportantes invicem in caritate,
 3 solliciti servare unitatem Spiritus in vinculo pacis.
-4 Unum corpus, et unus Spiritus, sicut vocati estis in una spe vocationis vestrae.
+4 Unum corpus, et unus spiritus, sicut vocati estis in una spe vocationis vestrae.
 5 Unus Dominus, una fides, unum baptisma.
 6 Unus Deus et Pater omnium, qui est super omnes, et per omnia, et in omnibus nobis.
 7 Unicuique autem nostrum data est gratia secundum mensuram donationis Christi.
@@ -31,7 +31,7 @@ De Epistola beati Pauli Apostoli ad Ephesios.
 !Eph 4:9-14
 9 Quod autem ascendit, quid est, nisi quia et descendit primum in inferiores partes terrae?
 10 Qui descendit, ipse est et qui ascendit super omnes caelos, ut impleret omnia.
-11 Et ipse dedit quosdam quidem apostolos, quosdam autem prophetas, alios vero evangelistas, alios autem pastores et doctores,
+11 Et ipse dedit quosdam quidem Apostolos, quosdam autem Prophetas, alios vero Evangelistas, alios autem pastores et doctores,
 12 ad consummationem sanctorum in opus ministerii, in aedificationem corporis Christi:
 13 donec occurramus omnes in unitatem fidei, et agnitionis Filii Dei, in virum perfectum, in mensuram aetatis plenitudinis Christi:
 14 ut jam non simus parvuli fluctuantes, et circumferamur omni vento doctrinae in nequitia hominum, in astutia ad circumventionem erroris.
@@ -43,11 +43,11 @@ De Epistola beati Pauli Apostoli ad Ephesios.
 !Eph 4:15-21
 15 Veritatem autem facientes in caritate, crescamus in illo per omnia, qui est caput Christus:
 16 ex quo totum corpus compactum et connexum per omnem juncturam subministrationis, secundum operationem in mensuram uniuscujusque membri, augmentum corporis facit in aedificationem sui in caritate.
-17 Hoc igitur dico, et testificor in Domino, ut jam non ambuletis, sicut et gentes ambulant in vanitate sensus sui,
+17 Hoc igitur dico, et testificor in Domino, ut jam non ambuletis, sicut et Gentes ambulant in vanitate sensus sui,
 18 tenebris obscuratum habentes intellectum, alienati a vita Dei per ignorantiam, quae est in illis, propter caecitatem cordis ipsorum,
 19 qui desperantes, semetipsos tradiderunt impudicitiae, in operationem immunditiae omnis in avaritiam.
 20 Vos autem non ita didicistis Christum,
-21 si tamen illum audistis, et in ipso edocti estis, sicut est veritas in Jesu,
+21 si tamen illum audistis, et in ipso edocti estis.
 
 [Responsory3]
 @Tempora/Pasc5-4:Responsory3
@@ -55,10 +55,10 @@ De Epistola beati Pauli Apostoli ad Ephesios.
 [Lectio4]
 Sermo sancti Augustini Episcopi.
 !Sermo 3. de Ascensione Domini, qui est 176. de Tempore.
-Omnia, carissimi, quae Dominus Jesus Christus in hoc mundo sub fragilitate nostra miracula edidit, nobis proficiunt: qui dum humanam conditionem sideribus importavit, credentibus caelum patere posse monstravit: et dum victorem mortis in caelestia elevavit, victoribus quo sequantur ostendit. Ascensio ergo Domini catholicae fidei confirmatio fuit: ut securi in posterum crederemus miraculi illius donum, cujus jam in praesenti percepissemus effectum: et fidelis quisque cum jam tanta perceperit, per ea, quas cognoscit praestita, discat sperare promissa, ac Dei sui praeteritam praesentemque bonitatem, quasi futurorum teneat cautionem.
+Omnia, carissimi, quae Dominus Jesus Christus in hoc mundo sub fragilitate nostra miracula edidit, nobis proficiunt: qui dum humanam conditionem sideribus importavit, credentibus caelum patere posse monstravit: et dum victorem mortis in caelestia elevavit, victoribus quo sequantur ostendit. Ascensio ergo Domini catholicae fidei confirmatio fuit: ut securi in posterum crederemus miraculi illius donum, cujus jam in praesenti percepissemus effectum: et fidelis quisque cum jam tanta perceperit, per ea, quae cognoscit praestita, discat sperare promissa, ac Dei sui praeteritam praesentemque bonitatem, quasi futurorum teneat cautionem.
 
 [Lectio5]
-Super excelsa ergo caeli terranum corpus imponitur: ossa intra sepulcri angustias paulo ante conclusa, Angelorum caelibus inferuntur: in gremium immortalitatis mortalis natura transfunditur: et ideo sacra apostolicae lectionis testatur historia: Cum haec dixisset, inquit, videntibus illis, elevatus est Dum audis elevatum, agnosce militiae caelestis obsequium: unde hodierna festivitas hominis nobis et Dei sacramenta manifestavit. Sub una eademque persona, in eo qui elevat, divinam potentiam; in eo autem, qui elevatur, humanam cognosce substantiam.
+Super excelsa ergo caeli terrenum corpus imponitur: ossa intra sepulcri angustias paulo ante conclusa, Angelorum coetibus inferuntur: in gremium immortalitatis mortalis natura transfunditur: et ideo sacra apostolicae lectionis testatur historia: Cum haec dixisset, inquit, videntibus illis, elevatus est Dum audis elevatum, agnosce militiae caelestis obsequium: unde hodierna festivitas hominis nobis et Dei sacramenta manifestavit. Sub una eademque persona, in eo qui elevat, divinam potentiam; in eo autem, qui elevatur, humanam cognosce substantiam.
 
 [Lectio6]
 Ideoque omnimodis detestanda sunt venena Orientalis erroris, qui impia novitate praesumit asserere Filium Dei ac filium hominis unius esse naturae. In alterutra enim parte, vel qui solum hominem fuisse dixerit, negabit Conditoris gloriam: vel qui solum Deum, negabit misericordiam Redemptoris. Quo genere non facile Arianus evangelicam poterit habere veritatem, ubi Filium Dei nunc aequalem legimus, nunc minorem. Qui enim unius naturae Salvatorem nostrum mortifera persuasione crediderit, solum hominem, aut solum Deum cogetur dicere crucifixum. Sed non ita est. Mortem enim nec solus Deus sentire, nec solus homo superare potuisset.
@@ -66,7 +66,7 @@ Ideoque omnimodis detestanda sunt venena Orientalis erroris, qui impia novitate 
 [Lectio7]
 Lectio sancti Evangelii secundum Marcum.
 !Mark 16:14-20
-In illo tempore: Recumbentibus undecim discipulis, apparuit illis Jesus: et exprobavit incredulitatem eorum, et duritiam cordis: quia iis, qui viderant eum resurrexisse, non crediderunt. Et reliqua.
+In illo tempore: Recumbentibus undecim discipulis, apparuit illis Jesus: et exprobravit incredulitatem eorum, et duritiam cordis: quia iis, qui viderant eum resurrexisse, non crediderunt. Et reliqua.
 _
 De Homilia sancti Gregorii Papae.
 !Ex eadem Homilia 29.

@@ -49,9 +49,9 @@ R. Et unxit me unctione misericordiae suae.
 !1 Kgs 1:11-15
 11 Dixit itaque Nathan ad Bethsabee matrem Salomonis: Num audisti quod regnaverit Adonias filius Haggith, et dominus noster David hoc ignorat?
 12 Nunc ergo veni, accipe consilium a me, et salva animam tuam, filiique tui Salomonis.
-13 Vade, et ingredere ad regem David, et dic ei: Nonne tu, domine mi rex, jurasti mihi ancillae tuae, dicens: Salomon filius tuus regnabit post me, et ipse sedebit in solio meo? quare ergo regnat Adonias?
+13 Vade, et ingredere ad regem David, et dic ei: Nonne tu, domine mi rex, jurasti mihi ancillae tuae, dicens: Salomon filius tuus regnabit post me, et ipse sedebit in solio meo? Quare ergo regnat Adonias?
 14 Et adhuc ibi te loquente cum rege, ego veniam post te, et complebo sermones tuos.
-15 Ingressa est itaque Bethsabee ad regem in cubiculum: rex autem senuerat nimis, et Abisag Sunamitis ministrabat ei.
+15 Ingressa est itaque Bethsabee ad regem in cubiculum.
 
 [Responsory3]
 R. Dominus, qui eripuit me de ore leonis, et de manu bestiae liberavit me,
@@ -76,9 +76,9 @@ R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit opprobri
 Omnes pene virtutes corporis mutantur in senibus, et crescente sola sapientia, decrescunt cetera: jejunia, vigiliae, chameuniae, id est, super pavimentum dormitiones, huc illucque discursus, peregrinorum susceptio, defensio pauperum, instantia orationum, et perseverantia, visitatio languentium, labor manuum unde praebeantur eleemosynae. Et ne sermonem longius protraham, cuncta quae per corpus exercentur, fracto corpore minora fiunt.
 
 [Responsory5]
-R. Montes Gelboe, nec ros nec pluvia veniant super vos,
+R. Montes Gelboë, nec ros nec pluvia veniant super vos,
 * Ubi ceciderunt fortes Israël.
-V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboe autem transeat.
+V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboë autem transeat.
 R. Ubi ceciderunt fortes Israël.
 
 [Lectio6]
@@ -99,7 +99,7 @@ In illo tempore: Dixit Jesus discipulis suis: Attendite a falsis prophetis, qui 
 _
 Homilia sancti Hilarii Episcopi.
 !In Comment. in Matth. can. 6.
-Blandimenta verborum, et mansuetudinis simulationem Admonet fructu operationis expendi oportere; ut non qualem quis verbis referat, sed qualem se rebus efficiat, spectemus: quia in multis vestitu ovium rabies lupina contegitur. Ergo ut spinae uvas, ut tribuli ficus non generant, et ut iniquae arbores utilia poma non afferunt: ita ne in istis quidem consistere docet boni operis effectum, et idcirco omnes cognoscendos esse de fructibus. Regnum enim caelorum sola verborum officia non obtinent: neque qui dixerit: Domine, Domine, haeres illius erit.
+Blandimenta verborum, et mansuetudinis simulationem admonet fructu operationis expendi oportere; ut non qualem quis verbis referat, sed qualem se rebus efficiat, spectemus: quia in multis vestitu ovium rabies lupina contegitur. Ergo ut spinae uvas, ut tribuli ficus non generant, et ut iniquae arbores utilia poma non afferunt: ita ne in istis quidem consistere docet boni operis effectum, et idcirco omnes cognoscendos esse de fructibus. Regnum enim caelorum sola verborum officia non obtinent: neque qui dixerit: Domine, Domine, heres illius erit.
 
 [Responsory7]
 @Tempora/Pent01-3:Responsory1
@@ -111,7 +111,7 @@ Quid enim meriti est Domino dicere, Domine? Numquid Dominus non erit, nisi fueri
 @Tempora/Pent01-0:Responsory8
 
 [Lectio9]
-Atque hinc sibi regnum caelorum pollicentur: quasi vero eorum aliquid proprium sit, quae loquuntur aut faciunt, et non omnia virtus Dei invocata perficiat: cum doctrinae scientiam lectio afferat, daemonia Christi nomen exagitet. De nostro igitur est beata illa aeternitas promerenda, praestandumque est aliquid ex proprio, ut bonum velimus, malum omne vitamus, totoque affectu praeceptis caelestibus obtemperemus, ac talibus officiis cogniti Deo simus: agamusque potius quod vult, quam quod potest gloriemur, repudians eos ac repellens, quos a cognitione sua, opera iniquitatis averterint.
+Atque hinc sibi regnum caelorum pollicentur: quasi vero eorum aliquid proprium sit, quae loquuntur aut faciunt, et non omnia virtus Dei invocata perficiat: cum doctrinae scientiam lectio afferat, daemonia Christi nomen exagitet. De nostro igitur est beata illa aeternitas promerenda, praestandumque est aliquid ex proprio, ut bonum velimus, malum omne vitemus, totoque affectu praeceptis caelestibus obtemperemus, ac talibus officiis cogniti Deo simus: agamusque potius quod vult, quam quod potest gloriemur, repudians eos ac repellens, quos a cognitione sua, opera iniquitatis averterint.
 &teDeum
 
 [Ant 2]
@@ -122,7 +122,7 @@ V. Dominus regnavit, decorem induit.
 R. Induit Dominus fortitudinem, et praecinxit se virtute.
 
 [Ant 3]
-Non potest arbor * bona fructus malos facere, nec arbor mala fructus bonos facere: omnis arbor, quae non facit fructum bonum, excidetur, et in ignem mittetur, alleluia.
+Non potest arbor * bona fructus malos facere, nec arbor mala fructus bonos facere: Omnis arbor, quae non facit fructum bonum, excidetur, et in ignem mittetur, alleluia.
 
 [Versum 3]
 V. Dirigatur Domine oratio mea.

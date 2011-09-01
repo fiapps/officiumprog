@@ -137,8 +137,15 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
 	  if ($dayname[0] =~ /Epi1/i && $dayofweek == 0) {
 	    if ($version =~ /(Trident|Monastic)/i) {push(@tfer, sprintf("%02i-%02i=$tempname/Epi1-0a", $kmonth, $kday));}
         if ($version !~ /Monastic/i) {push(@scriptfer, sprintf("%02i-%02i=Epi1-0a", $kmp1, $kdp1));}
+	    if ($version =~ /1960/ && $kday == 13) {
+		  pop(@scriptfer);
+		  push(@scriptfer, "01-12=Epi1-0a");
+        }
 	  }   
       if ($version =~ /Monastic/i) {next;} 
+
+	  if ($kmonth == 1 && $kday == 12 && $dayofweek == 6 && $version !~ /Trident|1960/i) 
+         {push(@tfer, sprintf("%02i-%02i=$tempname/Epi1-0", $kmonth, $kday));}
 
 	  if ($dayname[0] =~ /Epi([2-5])/i) {$epi2flag = $1;} 
       if ($dayname[0] =~ /Epi6/i) {$epi2flag = 0;}
@@ -375,7 +382,8 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
 	  if ($dayofweek == 0 && $sday =~ /11-02/) {push(@tfer, "11-03=11-02"); next;}
 	  if ($day == 13 && $tname =~ /Epi1/i && $version !~ /1955|1960/i) 
 	      {push(@tfer, "01-12=Tempora/Epi1-0"); next;}
-      if ($trank[2] >= 6 && $srank[2] >= 6) {push(@collect, "$sortnum;;$sday"); next;}
+      if ($trank[2] >= 6 && $srank[2] >= 6  && ($saint{Rule} !~ /Festum Domini/i || $tempora{Rule} !~ /Festum Domini/i ||
+	     $version !~ /1960/)) {push(@collect, "$sortnum;;$sday"); next; }
 	    if ($version =~ /(1955|1960)/) {next;}
 
       if ($trank[2] > 5.5) {push(@collect, "$sortnum;;$sday");}

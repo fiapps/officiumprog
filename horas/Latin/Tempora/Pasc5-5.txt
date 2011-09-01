@@ -13,9 +13,9 @@ Feria Te Deum
 [Lectio1]
 Incipit Epistola secunda beati Petri Apostoli
 !2 Pet 1:1-4
-1 Simon Petrus, servus et apostolus Jesu Christi, iis qui coaequalem nobiscum sortiti sunt fidem in justitia Dei nostri, et Salvatoris Jesu Christi.
+1 Simon Petrus, servus et Apostolus Jesu Christi, iis qui coaequalem nobiscum sortiti sunt fidem in justitia Dei nostri, et Salvatoris Jesu Christi.
 2 Gratia vobis, et pax adimpleatur in cognitione Dei, et Christi Jesu Domini nostri:
-3 Quomodo omnia nobis divinae virtutis suae, quae ad vitam et pietatem donata sunt, per cognitionem ejus, qui vocavit nos propria gloria, et virtute,
+3 quomodo omnia nobis divinae virtutis suae, quae ad vitam et pietatem donata sunt, per cognitionem ejus, qui vocavit nos propria gloria, et virtute,
 4 per quem maxima, et pretiosa nobis promissa donavit: ut per haec efficiamini divinae consortes naturae: fugientes ejus, quae in mundo est, concupiscentiae corruptionem.
 
 [Responsory1]
@@ -27,7 +27,7 @@ Incipit Epistola secunda beati Petri Apostoli
 6 in scientia autem abstinentiam, in abstinentia autem patientiam, in patientia autem pietatem,
 7 in pietate autem amorem fraternitatis, in amore autem fraternitatis caritatem.
 8 Haec enim si vobiscum adsint, et superent, non vacuos nec sine fructu vos constituent in Domini nostri Jesu Christi cognitione.
-9 Cui enim non praesto sunt haec, caecus est, et manu tentans, oblivionem accipiens purgationis veterum suorum delictorum.
+9 cui enim non praesto sunt haec, caecus est, et manu tentans, oblivionem accipiens purgationis veterum suorum delictorum.
 
 [Responsory2]
 @Tempora/Pasc5-4:Responsory2
@@ -47,10 +47,10 @@ Incipit Epistola secunda beati Petri Apostoli
 [Lectio4]
 Sermo sancti Leonis Papae.
 !Serm. 2. de Ascensione Domini.
-Sacramentum, dilectissimi salutis nostrae, quam pretio sanguinis sui universitatis Conditor estimavit, a die corporalis ortus usque ad exitum passionis, per dispensationem humilitatis impletum est. Et licet multa, etiam in forma servi, divinitatis signa radiaverint: proprie tamen illius temporis actio ad demonstrandam suscepti hominis pertinuit veritatem. Post passionem vero ruptis mortis vinculis, quae vim suam in eum, qui peccati erat nescius, incedendo perdiderat; infirmitas in virtutem, mortalitas in immortalitatem, contumelia transivit in gloriam: quam Dominus Jesus Christus in multis manifestisque documentis, multorum declaravit aspectibus, donec triumphum victoriae, quem reportarat a mortuis, inferret et caelis.
+Sacramentum, dilectissimi salutis nostrae, quam pretio sanguinis sui universitatis Conditor aestimavit, a die corporalis ortus usque ad exitum passionis, per dispensationem humilitatis impletum est. Et licet multa, etiam in forma servi, divinitatis signa radiaverint: proprie tamen illius temporis actio ad demonstrandam suscepti hominis pertinuit veritatem. Post passionem vero ruptis mortis vinculis, quae vim suam in eum, qui peccati erat nescius, incedendo perdiderat; infirmitas in virtutem, mortalitas in immortalitatem, contumelia transivit in gloriam: quam Dominus Jesus Christus in multis manifestisque documentis, multorum declaravit aspectibus, donec triumphum victoriae, quem reportarat a mortuis, inferret et caelis.
 
 [Lectio5]
-Sicut ergo in solemnitate paschali resurrectio Domini fuit nobis causa laetandi: ita ascensio ejus in caelos praesentium nobis est materia gaudiorum, recolentibus illum diem, et rite venerantibus, quo naturae nostrae humilitas in Christo super omnem caeli militiam, super omnes ordines Angelorum, et ultra omnium altitudinem potestatum, ad Dei Patris est provecta consessum. Quo ordine operum divinorum nos fundati, nos aedificati sumus: ut mirabilior fieret gratia dei, cum remotis a conspectu hominum, quae merito reverentiam sui sentiebantur indicere, fides non deficeret, spes non fluctuaret, caritas non teperet.
+Sicut ergo in solemnitate paschali resurrectio Domini fuit nobis causa laetandi: ita ascensio ejus in caelos praesentium nobis est materia gaudiorum, recolentibus illum diem, et rite venerantibus, quo naturae nostrae humilitas in Christo super omnem caeli militiam, super omnes ordines Angelorum, et ultra omnium altitudinem potestatum, ad Dei Patris est provecta consessum. Quo ordine operum divinorum nos fundati, nos aedificati sumus: ut mirabilior fieret gratia Dei, cum remotis a conspectu hominum, quae merito reverentiam sui sentiebantur indicere, fides non deficeret, spes non fluctuaret, caritas non teperet.
 
 [Lectio6]
 Magnarum hic vigor est mentium, et valde fidelium lumen est animarum, incunctanter credere, quae corporeo non videntur intuitu, et ibi figere desiderium, quo nequeas inferre conspectum. Haec autem pietas unde in nostris cordibus nasceretur, aut quomodo quisquam justificaretur per fidem, si in iis tantum salus nostra consisteret, quae obtutibus subjacerent? Unde et illi viro, qui de resurrectione Christi videbatur ambigere, nisi in ipsius carne vestigia passionis et visu explorasset et tactu: Quia vidisti me, inquit Dominus, credidisti: beati qui non viderunt, et crediderunt.
@@ -62,7 +62,7 @@ In illo tempore: Recumbentibus undecim discipulis, apparuit illis Jesus: et expr
 _
 !De Homilia sancti Gregorii Papae.
 !Ex eadem Homilia 29.
-Qui crediderit, et baptizatus fuerit, salvus erit: qui vero non crediderit, Condemnabit Fortasse unusquisque apud semetipsum dicat: Ego jam credidi, salvus ero. Verum dicit, si fidem operibus tenet. Vera etenim fides est, quae in hoc, quod verbis dicit, moribus non contradicit. Hinc est enim quod de quibusdam falsis fidelibus Paulus dicit: Qui confitentur se nosse Deum, factis autem negant. Hinc Joannes ait: Qui dicit se nosse Deum, et mandata ejus non custodit, mendax est.
+Qui crediderit, et baptizatus fuerit, salvus erit: qui vero non crediderit, condemnabitur. Fortasse unusquisque apud semetipsum dicat: Ego jam credidi, salvus ero. Verum dicit, si fidem operibus tenet. Vera etenim fides est, quae in hoc, quod verbis dicit, moribus non contradicit. Hinc est enim quod de quibusdam falsis fidelibus Paulus dicit: Qui confitentur se nosse Deum, factis autem negant. Hinc Joannes ait: Qui dicit se nosse Deum, et mandata ejus non custodit, mendax est.
 
 [Lectio8]
 Quod cum ita sit, fidei nostrae veritatem in vitae nostrae consideratione debemus agnoscere. Tunc enim veraciter fideles sumus, si quod verbis promittimus, operibus complemus. In die quippe baptismatis, omnibus nos antiqui hostis operibus, atque omnibus pompis abrenuntiare promisimus. Itaque unusquisque vestrum ad considerationem suam mentis oculos reducat; et si servat post baptismum, quod ante baptismum spopondit, certus jam, quia fidelis est, gaudeat.

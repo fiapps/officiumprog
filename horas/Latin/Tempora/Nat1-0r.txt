@@ -11,7 +11,7 @@ Psalmi Dominica
 
 [Capitulum Vespera]
 !Gal 1:1-2
-v. Fratres: Quanto tempore haeres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
+v. Fratres: Quanto tempore heres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
 $Deo gratias
 
 [Versum 1]
@@ -63,7 +63,7 @@ Ne autem infirmitatis nostrae perturbemur angustiis, evangelicae nos et propheti
 R. Beata viscera Mariae Virginis, quae portaverunt aeterni Patris Filium: et beata ubera, quae lactaverunt Christum Dominum:
 * Qui hodie pro salute mundi de Virgine nasci dignatus est.
 V. Dies sanctificatus illuxit nobis: venite Gentes, et adorate Dominum
-R. Qu hodie pro salute mundi de Virgine nasci dignatus est.
+R. Qui hodie pro salute mundi de Virgine nasci dignatus est.
 &Gloria
 R. Qui hodie pro salute mundi de Virgine nasci dignatus est.
 
@@ -99,7 +99,7 @@ Prophetavit itaque Simeon, prophetaverat virgo, prophetaverat copulata conjugio;
 
 [Capitulum Laudes]
 !Gal 1:1-2
-v. Fratres: Quanto tempore haeres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
+v. Fratres: Quanto tempore heres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
 $Deo gratias
 
 [Versum 2]
@@ -111,7 +111,7 @@ Dum medium silentium * tenerent omnia, et nox in suo cursu medium iter perageret
 
 [Capitulum Tertia]
 !Gal 1:1-2
-v. Fratres: Quanto tempore haeres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
+v. Fratres: Quanto tempore heres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
 $Deo gratias
 
 [Capitulum Sexta]
@@ -121,7 +121,7 @@ $Deo gratias
 
 [Capitulum Nona]
 !Gal 4:7
-v. Itaque jam non est servus, sed filius: quod si filius, et haeres per Deum.
+v. Itaque jam non est servus, sed filius: quod si filius, et heres per Deum.
 $Deo gratias
 
 [Versum 3]

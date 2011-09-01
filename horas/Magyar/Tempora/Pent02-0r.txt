@@ -25,6 +25,12 @@ Olvasmány Sámuel elsõ könyvébõl
 2 A filiszteusok Afek közelében táboroztak. A filiszteusok csatasorba álltak Izrael ellen. Nehéz küzdelem volt, és Izrael vereséget szenvedett a filiszteusoktól: mintegy négyezer ember elesett a nyílt mezõn a csatában.
 3 Amikor a nép visszatért a táborba, Izrael fiainak vénei így szóltak: "Miért engedte meg ma az Úr, hogy a filiszteusok legyõzzenek bennünket? Ide hozzuk Silóból Istenünk ládáját, akkor eljön közénk, és kiszabadít minket ellenségeink kezébõl."
 
+[Responsory1]
+R. Prepare your hearts unto the Lord, and serve Him Only
+* And He will deliver you out of the hand of your enemies.
+V. Return unto Him with all your hearts, and put away the strange gods from among you.
+R. And He will deliver you out of the hand of your enemies.
+
 [Lectio2]
 !1 Sam 4:4-6
 4 A nép tehát elküldött Silóba, és elhozatta onnan a Seregek Urának ládáját, aki a kerubok fölött trónol. Éli két fia, Hofni és Pinchász kísérte a ládát.
@@ -38,6 +44,14 @@ Olvasmány Sámuel elsõ könyvébõl
 9 Szedjétek hát össze minden erõtöket, és legyetek férfiak, filiszteusok, nehogy a héberek szolgaságába kerüljetek, amint õk voltak a ti szolgaságotokban. Bizonyuljatok férfinak és harcoljatok!"
 10 A filiszteusok küzdöttek, és Izrael fiai vereséget szenvedtek. Menekültek, ki-ki a maga városába. Vereségük nagyon súlyos volt: Izrael fiai közül harmincezer gyalogos elesett.
 11 Az Isten ládáját is zsákmányul ejtették, és Élinek mindkét fia meghalt, Hofni is, Pinchász is.
+
+[Responsory3]
+R. The Lord That delivered me out of the mouth of the lion, and out of the paw of the bear
+* He will deliver me out of the hand of mine enemies.
+V. God hath sent forth His mercy and His truth, and delivered my soul from among the lion's whelps.
+R. He will deliver me out of the hand of mine enemies.
+&Gloria
+R. He will deliver me out of the hand of mine enemies.
 
 [Lectio4]
 From the Sermons of St John Chrysostom Patriarch of Constantinople.

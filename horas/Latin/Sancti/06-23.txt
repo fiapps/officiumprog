@@ -14,7 +14,7 @@ Laudes 2
 [Lectio1]
 Lectio sancti Evangelii secundum Lucam.
 !Luke 1:5-17
-Fuit in diebus Herodis, regis Judeae, sacerdos quidam nomine Zacharias de vice Abia; et uxor illius de filiabus Aaron, et nomen ejus Elisabeth. Et reliqua.
+Fuit in diebus Herodis, regis Judaeae, sacerdos quidam nomine Zacharias de vice Abia; et uxor illius de filiabus Aaron, et nomen ejus Elisabeth. Et reliqua.
 _
 !Homilia sancti Ambrosii Episcopi.
 !Liber 1. in Lucam.
@@ -24,8 +24,8 @@ Docet nos Scriptura divina non solum mores in iis qui praedicabiles sunt, sed et
 Et uxor, inquit, illi de filiabus Aaron. Non solum igitur a parentibus, sed etiam a majoribus sancti Joannis nobilitas propagatur, non saeculari potestate sublimis, sed religionis successione venerabilis. Tales enim majores habere debuit praenuntius Christi: ut non repente conceptam, sed a majoribus acceptam, et ipso infusam jure naturae, praedicare fidem Dominici videretur adventus. Erant, inquit, ambo justi ante Deum, incedentes in omnibus mandatis et justificationibus Domini sine querela. Quid ad hoc referunt, qui peccatis suis solatia praeferentes, sine peccatis frequentibus hominem putant esse non posse: et utuntur versiculo, quia scriptum est in Job: Nemo mundus a sorde, nec si unius diei vita ejus sit in terra?
 
 [Lectio3]
-Quibus respondendum est, prius ut quid sit hominem sine peccato esse, definiant: utrum numquam omnino peccasse, an desisse peccare. Si enim hoc putant sine peccato esse, numquam omnino peccasse; et ipse consentio. Omnes enim peccaverunt, et egent gloria Dei. Sin autem eum qui veterem errorem correxerit, et in eam se vitae transformaverit qualitatem, ut temperet a peccato, negant abstinere a delictis: non possum in eorum convenire sententiam, cum legamus: Quia sic Dominus dilexit Ecclesiam, ut exhibeat ipsam sibi gloriosam, et non habentem maculam, aut rugam, aut aliquid ejusmodi, sed ut sit sancta et immaculata.
+Quibus respondendum est, prius ut quid sit hominem sine peccato esse, definiant: utrum numquam omnino peccasse, an desiisse peccare. Si enim hoc putant sine peccato esse, numquam omnino peccasse; et ipse consentio. Omnes enim peccaverunt, et egent gloria Dei. Sin autem eum qui veterem errorem correxerit, et in eam se vitae transformaverit qualitatem, ut temperet a peccato, negant abstinere a delictis: non possum in eorum convenire sententiam, cum legamus: quia Sic Dominus dilexit Ecclesiam, ut exhibeat ipsam sibi gloriosam, et non habentem maculam, aut rugam, aut aliquid ejusmodi, sed ut sit sancta et immaculata.
 
 [Oratio]
-Praesta, quaesumus omnipotens Deus: ut familia tua per viam salutis incedat; et beati Joannis Praecursoris hortamenta sectando, ad eum quem praedixit, secura perveniat
-$Per Dominum
+Præsta, quæsumus, omnípotens Deus : ut família tua per viam salútis incédat ; et beáti Joánnis Præcursóris hortaménta sectándo, ad eum quem prædíxit, secúra pervéniat, Dóminum nostrum Jesum Christum, Fílium tuum:
+$Qui tecum

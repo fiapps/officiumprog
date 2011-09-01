@@ -13,8 +13,8 @@ Hymnus Tertia
 No commemoration
 
 [Ant Matutinum]
-Suddenly there came a sound from heaven * as of a I rushing mighty wind. Alleluia, Alleluia;;47
-Strengthen, O I God, that which Thou hast wrought for us, * because of thy holy Temple at Jerusalem. Alleluia, Alleluia;;67
+Suddenly there came a sound from heaven * as of a rushing mighty wind. Alleluia, Alleluia;;47
+Strengthen, O God, that which Thou hast wrought for us, * because of thy holy Temple at Jerusalem. Alleluia, Alleluia;;67
 Send forth thy Spirit, and they shall be created * and Thou shalt renew the face of the earth. Alleluia, Alleluia;;103
 V. The Comforter, Who is the Holy Ghost Alleluia.
 R. He shall teach you all things Alleluia.
@@ -54,7 +54,7 @@ boast the name of Christian enter in by the Door. Some there are, and their numb
 [Ant 2]
 I am the Door * saith the Lord by Me if any man enter in, he shall be saved, and shall find pasture. Alleluia.
 
-[Oratio 2]
+[Oratio]
 O Lord, we beseech thee, that thy Holy Spirit may dwell in us in much power, mercifully cleansing our hearts, and shielding us from all things hurtful.
 $Per Dominum eiusdem
 

@@ -1,5 +1,5 @@
  [Rank]
-Feria Tertia in Rogationibus;;Feria;;1
+Feria Tertia in Rogationibus;;Feria;;1.6
 
 [Rank1960]
 Feria Tertia infra Hebdomadam V post Octavam Paschae;;Feria;;1
@@ -51,7 +51,7 @@ R. O let me not wander from thy commandments Alleluia, Alleluia.
 14 If you be reproached for the name of Christ, you shall be blessed: for that which is of the honour, glory, and power of God, and that which is his Spirit, resteth upon you.
 15 But let none of you suffer as a murderer, or a thief, or a railer, or a coveter of other men's things.
 16 But if as a Christian, let him not be ashamed, but let him glorify God in that name.
-17 For the time is, that judgment should begin at the house of God. And if first at us, what shall be the end of them that believe not the gospel of God?
+17 For the time is, that judgment should begin at the house of God. 
 
 [Responsory3]
 R. Let now the redeemed of the Lord Alleluia

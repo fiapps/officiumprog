@@ -12,8 +12,8 @@ Incipiunt Parabolae Salomonis.
 2 ad sciendam sapientiam et disciplinam;
 3 ad intelligenda verba prudentiae, et suscipiendam eruditionem doctrinae, justitiam, et judicium, et aequitatem:
 4 ut detur parvulis astutia, adolescenti scientia et intellectus.
-5 Audiens sapiens, sapientior erit, et intelligens gubernacula possidebit.
-6 Animadvertet parabolam et interpretationem, verba sapientum et aenigmata eorum.
+5 Audiens sapiens, sapientior erit, et intelligens gubernacula possidebit;
+6 animadvertet parabolam et interpretationem, verba sapientum et aenigmata eorum.
 
 [Responsory1]
 R. In principio Deus antequam terram faceret, priusquam abyssos constitueret, priusquam produceret fontes aquarum.
@@ -23,11 +23,11 @@ R. Antequam montes collocarentur, ante omnes colles generavit me Dominus.
 
 [Lectio2]
 !Prov 1:7-14
-7 Timor Domini principium sapientiae; sapientiam atque doctrinam stulti despiciunt.
+7 Timor Domini principium sapientiae; Sapientiam atque doctrinam stulti despiciunt.
 8 Audi, fili mi, disciplinam patris tui, et ne dimittas legem matris tuae:
 9 ut addatur gratia capiti tuo, et torques collo tuo.
-10 Fili mi, si te lactaverint peccatores, ne acquiescas eis.
-11 Si dixerint: Veni nobiscum, insidiemur sanguini; abscondamus tendiculas contra insontem frustra;
+10 Fili mi, si te lactaverint peccatores, ne acquiescas eis;
+11 si dixerint: Veni nobiscum, insidiemur sanguini; abscondamus tendiculas contra insontem frustra;
 12 deglutiamus eum sicut infernus viventem, et integrum quasi descendentem in lacum;
 13 omnem pretiosam substantiam reperiemus; implebimus domos nostras spoliis:
 14 sortem mitte nobiscum, marsupium unum sit omnium nostrum:
@@ -40,7 +40,7 @@ R. Superborum et sublimium colla propria virtute calcavi.
 
 [Lectio3]
 !Prov 1:15-19
-15 fili mi, ne ambules cum eis; prohibe pedem tuum a semitis eorum:
+15 Fili mi, ne ambules cum eis; prohibe pedem tuum a semitis eorum:
 16 pedes enim illorum ad malum currunt, et festinant ut effundant sanguinem.
 17 Frustra autem jacitur rete ante oculos pennatorum.
 18 Ipsi quoque contra sanguinem suum insidiantur, et moliuntur fraudes contra animas suas.
@@ -57,7 +57,7 @@ R. Ut sciam quid acceptum sit coram te omni tempore.
 [Lectio4]
 Ex Tractatu sancti Ambrosii Episcopi in Psalmum centesimum decimum octavum.
 !Serm. 5. vers. 6.
-Initium esse sapientiae timorem Domini, dicit Propheta. Quid est autem initium sapientiae, nisi saeculo renuntiare? Quia sapere saecularia, stultitia est. Denique sapientiam hujus mundi, stultitiam esse apud Deum, Apostolus dicit. Sed et ipse timor Domini, nisi secundum scientiam sit, nihil prodest, imo obest plurimum. Siquidem Judaei habent zelum Dei: sed quia non habent secundum scientiam, in ipso zelo et timore majorem contrahunt divinitatis offensam. Quod circumcidunt infantulos suos, quod sabbata custodiunt, timorem Dei habent: sed quia nesciunt legem spiritalem esse, circumcidunt corpus, non cor suum.
+Initium esse sapientiae timorem Domini, dicit propheta. Quid est autem initium sapientiae, nisi saeculo renuntiare? Quia sapere saecularia, stultitia est. Denique sapientiam hujus mundi, stultitiam esse apud Deum, Apostolus dicit. Sed et ipse timor Domini, nisi secundum scientiam sit, nihil prodest, immo obest plurimum. Siquidem Judaei habent zelum Dei: sed quia non habent secundum scientiam, in ipso zelo et timore majorem contrahunt divinitatis offensam. Quod circumcidunt infantulos suos, quod sabbata custodiunt, timorem Dei habent: sed quia nesciunt legem spiritalem esse, circumcidunt corpus, non cor suum.
 
 [Responsory4]
 R. Da mihi Domine sedium tuarum assistricem sapientiam, et noli me reprobare a pueris tuis:
@@ -66,7 +66,7 @@ V. Mitte illam de sede magnitudinis tuae, ut mecum sit, et mecum laboret.
 R. Quoniam servus tuus sum ego, et filius ancillae tuae.
 
 [Lectio5]
-Et quid de Judaeis dico? Sunt etiam in nobis qui habent timorem Dei, sed non secundum scientiam, statuentes duriora praecepta, quae non possit humana conditio sustinere. Timor in eo est, quia videntur sibi consulere disciplinae, opus virtutis exigere: sed inscitia in eo est, quia non compatuintur naturae, non aestimant possibilitatem. Non sit ergo irrationabilis timor. Etenim vera sapientia a timore Dei incipit; nec est sapientia spiritalis sine timore Dei: ita timor sine sapientia esse non debet.
+Et quid de Judaeis dico? Sunt etiam in nobis qui habent timorem Dei, sed non secundum scientiam, statuentes duriora praecepta, quae non possit humana conditio sustinere. Timor in eo est, quia videntur sibi consulere disciplinae, opus virtutis exigere: sed inscitia in eo est, quia non compatiuntur naturae, non aestimant possibilitatem. Non sit ergo irrationabilis timor. Etenim vera sapientia a timore Dei incipit; nec est sapientia spiritalis sine timore Dei: ita timor sine sapientia esse non debet.
 
 [Responsory5]
 R. Initium sapientiae timor Domini:

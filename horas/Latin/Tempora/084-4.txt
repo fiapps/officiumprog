@@ -1,10 +1,10 @@
 [Lectio1]
 De libro Ecclesiastici.
 !Sir 3:22-26
-22 Altiora te ne quaesieris, et fortiora te ne scrutatus fueris: sed quae praecepit tibi Deus, illa cogita semper, et in pluribus operibus ejus ne fueris curiosus.
-23 Non est enim tibi necessarium ea, quae abscondita sunt, videre oculis tuis.
-24 In supervacuis rebus noli scrutari multipliciter, et in pluribus operibus ejus non eris curiosus.
-25 Plurima enim super sensum hominum ostensa sunt tibi:
+22 Altiora te ne quaesieris, et fortiora te ne scrutatus fueris: sed quae praecepit tibi Deus, illa cogita semper, et in pluribus operibus ejus ne fueris curiosus,
+23 non est enim tibi necessarium ea, quae abscondita sunt, videre oculis tuis.
+24 In supervacuis rebus noli scrutari multipliciter, et in pluribus operibus ejus non eris curiosus;
+25 plurima enim super sensum hominum ostensa sunt tibi:
 26 multos quoque supplantavit suspicio illorum, et in vanitate detinuit sensus illorum.
 
 [Responsory1]

@@ -8,7 +8,7 @@ Oratio Dominica
 De Isaia Propheta
 !Isa 19:1-2
 1 Onus Ægypti. Ecce Dominus ascendet super nubem levem, et ingredietur Ægyptum, et commovebuntur simulacra Ægypti a facie ejus, et cor Ægypti tabescet in medio ejus,
-2 et concurrere faciam Ægyptios adversus Ægyptios; et pugnabit vir contra fratrem suum, et vir contra amicum suum, civitas adversus civitatem, regnum adversus regnum.
+2 Et concurrere faciam Ægyptios adversus Ægyptios; et pugnabit vir contra fratrem suum, et vir contra amicum suum, civitas adversus civitatem, regnum adversus regnum.
 
 [Responsory1]
 @Tempora/Adv2-0:Responsory1
@@ -18,7 +18,7 @@ De Isaia Propheta
 3 Et dirumpetur spiritus Ægypti in visceribus ejus, et consilium ejus praecipitabo; et interrogabunt simulacra sua, et divinos suos, et pythones, et ariolos.
 4 Et tradam Ægyptum in manu dominorum crudelium, et rex fortis dominabitur eorum, ait Dominus Deus exercituum.
 5 Et arescet aqua de mari, et fluvius desolabitur atque siccabitur.
-6 Et deficient flumina, attenuabuntur et siccabuntur rivi aggerum, calamus et juncus marcescet.
+6 Et deficient flumina, attenuabuntur et siccabuntur rivi aggerum.
 
 [Responsory2]
 @Tempora/Adv2-0:Responsory2

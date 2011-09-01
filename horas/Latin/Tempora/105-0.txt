@@ -6,10 +6,10 @@ V. Vespertina oratio ascendat ad te Domine.
 R. Et descendat super nos misericordia tua.
 
 [Lectio1]
-De libro secundo Maccabeorum
+De libro secundo Machabaeorum
 !2 Mac 6:18-22
 18 Igitur Eleazarus, unus de primoribus scribarum, vir aetate provectus, et vultu decorus, aperto ore hians compellebatur carnem porcinam manducare.
-19 At ille gloriosissimam mortem magis quam odibilem vitam complectens, voluntarie praeibat ad supplicium.
+19 at ille gloriosissimam mortem magis quam odibilem vitam complectens, voluntarie praeibat ad supplicium.
 20 Intuens autem quemadmodum oporteret accedere, patienter sustinens, destinavit non admittere illicita propter vitae amorem.
 21 Hi autem qui astabant, iniqua miseratione commoti propter antiquam viri amicitiam, tollentes eum secreto rogabant afferri carnes quibus vesci ei licebat, ut simularetur manducasse sicut rex imperaverat de sacrificii carnibus,
 22 ut hoc facto, a morte liberaretur: et propter veterem viri amicitiam, hanc in eo faciebant humanitatem.
@@ -18,14 +18,13 @@ De libro secundo Maccabeorum
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!2 Mac 6:23-29
+!2 Mac 6:23-28
 23 At ille cogitare cœpit aetatis ac senectutis suae eminentiam dignam, et ingenitae nobilitatis canitiem, atque a puero optimae conversationis actus: et secundum sanctae et a Deo conditae legis constituta, respondit cito, dicens praemitti se velle in infernum.
 24 Non enim aetati nostrae dignum est, inquit, fingere: ut multi adolescentium, arbitrantes Eleazarum nonaginta annorum transisse ad vitam alienigenarum,
-25 et ipsi propter meam simulationem, et propter modicum corruptibilis vitae tempus decipiantur, et per hoc maculam atque execrationem meae senectuti conquiram.
+25 et ipsi propter meam simulationem, et propter modicum corruptibilis vitae tempus decipiantur, et per hoc maculam atque exsecrationem meae senectuti conquiram.
 26 Nam etsi in praesenti tempore suppliciis hominum eripiar, sed manum Omnipotentis nec vivus, nec defunctus, effugiam.
 27 Quam ob rem fortiter vita excedendo, senectute quidem dignus apparebo:
 28 adolescentibus autem exemplum forte relinquam, si prompto animo ac fortiter pro gravissimis ac sanctissimis legibus honesta morte perfungar. His dictis, confestim ad supplicium trahebatur.
-29 Hi autem qui eum ducebant, et paulo ante fuerant mitiores, in iram conversi sunt propter sermones ab eo dictos, quos illi per arrogantiam prolatos arbitrabantur.
 
 [Responsory2]
 @Tempora/101-0:Responsory2
@@ -33,8 +32,8 @@ De libro secundo Maccabeorum
 [Lectio3]
 !2 Mac 7:1-5
 1 Contigit autem et septem fratres una cum matre sua apprehensos compelli a rege edere contra fas carnes porcinas, flagris et taureis cruciatos.
-2 Unus autem ex illis, qui erat primus, sic ait: Quid quaeris, et quid vis discere a nobis? parati sumus mori, magis quam patrias Dei leges praevaricari.
-3 Iratus itaque rex, jussit sartagines et ollas aeneas succendi: quibus statim succensis,
+2 Unus autem ex illis, qui erat primus, sic ait: Quid quaeris, et quid vis discere a nobis? Parati sumus mori, magis quam patrias Dei leges praevaricari.
+3 Iratus itaque rex, jussit sartagines et ollas aeneas succendi: Quibus statim succensis,
 4 jussit ei qui prior fuerat locutus amputari linguam, et cute capitis abstracta, summas quoque manus et pedes ei praescindi, ceteris ejus fratribus et matre inspicientibus.
 5 Et cum jam per omnia inutilis factus esset, jussit ignem admoveri, et adhuc spirantem torreri in sartagine: in qua cum diu cruciaretur, ceteri una cum matre invicem se hortabantur mori fortiter,
 
@@ -42,8 +41,9 @@ De libro secundo Maccabeorum
 @Tempora/101-0:Responsory3
 
 [Lectio4]
-Sermo sancti Gregdrii Nazianzeni.
-v. Oremus 20. de Machabieis. Eleazarus primitiae eorum qui hic ante Christum sunt passi, quemadmodum post Christum Stephanus. Is vir et sacerdos et senex, canus capillis, canus et prudentia, prius quidem pro populo sacrificabat et orabat: nunc autem semetipsum hostiam obtulit Deo perfectissimam ad totius populi expiationem, faustum certaminis initium, ad quod loquens pariter ac tacens cohortabatur. Obtulit autem et filios septem, suae fructus disciplinae, hostiam viventem, sanctam, beneplacitam Deo, omni legali sacrificio splendidiorem et puridrem: quae sunt enim filiorum, ad patrem referri, aequissimum ac justissimum est.
+Sermo sancti Gregorii Nazianzeni.
+!Sermo 20. de Machabieis. 
+Eleazarus primitiae eorum qui hic ante Christum sunt passi, quemadmodum post Christum Stephanus. Is vir et sacerdos et senex, canus capillis, canus et prudentia, prius quidem pro populo sacrificabat et orabat: nunc autem semetipsum hostiam obtulit Deo perfectissimam ad totius populi expiationem, faustum certaminis initium, ad quod loquens pariter ac tacens cohortabatur. Obtulit autem et filios septem, suae fructus disciplinae, hostiam viventem, sanctam, beneplacitam Deo, omni legali sacrificio splendidiorem et puridrem: quae sunt enim filiorum, ad patrem referri, aequissimum ac justissimum est.
 
 [Responsory4]
 @Tempora/101-0:Responsory4

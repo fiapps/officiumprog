@@ -533,8 +533,8 @@ V. Udíts fel minket irgalmaddal
 R. Hogy ujjongjunk és örüljünk ezentúl minden nap.
 
 [Day6 Vespera]
-!2 Cor. 1, 3-4
-v. Áldott legyen az Isten, Urunk Jézus Krisztus Atyja, az irgalom Atyja és a minden vigasztalás Istene! Õ megvigasztal minket minden szomorúságunkban 
+!Rom 11:33
+v. O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways! 
 $Deo gratias
 
 [Hymnus Day6 Vespera]
@@ -1462,7 +1462,6 @@ Mindnyájon szent angyalok és arkangyalok, könyörögjetek érettünk!
 Mindnyajan szellemi seregek, könyörögjetek  érettünk!
 _
 Keresztelõ Szent János, könyörögj érettünk!
-Szent József, könyörögj érettünk!
 Mindnyájan szent pátriárkák és próféták,
 könyörögjetek érettünk!
 Szent Péter, könyörögj érettünk!

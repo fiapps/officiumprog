@@ -36,7 +36,7 @@ Amen.
 R. Thanks be to God
 _
 V. Arise, O Christ, and help us.
-R. And deliver us for your name's sake.
+R. And deliver us for thy name's sake.
 
 !!Preces
 v. Lord have mercy on us, Christ have mercy on us, Lord have mercy on us 
@@ -61,7 +61,7 @@ _
 V. Lord, please, bless me.
 Benedictio. May Almighty God arrange our deeds and our day in His peace. Amen.
 
-&regula
+®ula
 
 #Conclusio
 &Dominus_vobiscum

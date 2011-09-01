@@ -29,12 +29,6 @@ Hac die, quam fecit Dominus, Solemnitas solemnitatum, et Pascha nostrum: Resurre
 
 [Pasc1-0]
 Dominica in Albis in Octava Paschae.
- 
-[Pasc2-3]
-Solemnitas sancti Joseph, Sponsi beatae Mariae Virginis, Confessoris et universalis Ecclesiae Patroni.
-
-[Pasc3-3]
-Octava Solemnitatis sancti Joseph, Sponsi beatae Mariae Virginis, Confessoris et universalis Ecclesiae Patroni. 
 
 [Pasc5-1] 
 Romae Litaniae minores ad sanctam Mariam Majorem.

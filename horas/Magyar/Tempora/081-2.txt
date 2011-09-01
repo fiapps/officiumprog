@@ -28,13 +28,7 @@ R. For they shall be an ornament of grace unto thine head.
 @Tempora/081-0:Responsory5
 
 [Lectio3]
-!Prov 5:14-23
-14 Kicsi híja volt és majdnem rosszul jártam az egybesereglett közösség el&#337;tt."
-15 A saját ciszternádból igyad a vizet, csak azt, ami a saját kutadban buzog fel.
-16 Forrásaid ne csorduljanak ki, patakjaid vize se ömöljön a közösség terére.
-17 Egyes-egyedül a tieid legyenek, és rajtad kívül senki máséi.
-18 Legyenek áldottak a forrásaid, örülj ifjúkori feleségednek:
-19 kecses szarvasün&#337; és bájos zerge! Veled beszélgessen, nyugodj meg a keblén, és szerelmét&#337;l légy szüntelen részeg.
+!Prov 5:20-23
 20 Miért kellene, fiam, másba bolondulnod, idegen n&#337; testét ölelgetned?
 21 Mindenkinek útját tisztán látja az Úr, szemmel tartja az ösvényeidet.
 22 Saját gaztettei fogják meg a gonoszt, a saját b&#369;nének hurka kötözi meg.

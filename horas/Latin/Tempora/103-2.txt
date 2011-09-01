@@ -1,9 +1,9 @@
 [Lectio1]
-De libro primo Maccabeorum
+De libro primo Machabaeorum
 !1 Mac 12:1-4
 1 Et vidit Jonathas quia tempus eum juvat, et elegit viros, et misit eos Romam statuere et renovare cum eis amicitiam:
 2 et ad Spartiatas, et ad alia loca misit epistolas secundum eamdem formam:
-3 et abierunt Romam, et intraverunt curiam, et dixerunt: Jonathas summus sacerdos, et gens Judaeorum miserunt nos, ut renovaremus amicitiam et societatem secundum pristinum.
+3 Et abierunt Romam, et intraverunt curiam, et dixerunt: Jonathas summus sacerdos, et gens Judaeorum miserunt nos, ut renovaremus amicitiam et societatem secundum pristinum.
 4 Et dederunt illis epistolas ad ipsos per loca, ut deducerent eos in terram Juda cum pace.
 
 [Responsory1]

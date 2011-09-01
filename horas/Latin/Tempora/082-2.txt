@@ -2,13 +2,13 @@
 De libro Ecclesiastae.
 !Eccl 3:1-8
 1 Omnia tempus habent, et suis spatiis transeunt universa sub caelo.
-2 Tempus nascendi, et tempus moriendi; tempus plantandi, et tempus evellendi quod plantatum est.
-3 Tempus occidendi, et tempus sanandi; tempus destruendi, et tempus aedificandi.
-4 Tempus flendi, et tempus ridendi; tempus plangendi, et tempus saltandi.
-5 Tempus spargendi lapides, et tempus colligendi, tempus amplexandi, et tempus longe fieri ab amplexibus.
-6 Tempus acquirendi, et tempus perdendi; tempus custodiendi, et tempus abjiciendi.
-7 Tempus scindendi, et tempus consuendi; tempus tacendi, et tempus loquendi.
-8 Tempus dilectionis, et tempus odii; tempus belli, et tempus pacis.
+2 Tempus nascendi, et tempus moriendi; tempus plantandi, et tempus evellendi quod plantatum est;
+3 tempus occidendi, et tempus sanandi; tempus destruendi, et tempus aedificandi.
+4 tempus flendi, et tempus ridendi; tempus plangendi, et tempus saltandi;
+5 tempus spargendi lapides, et tempus colligendi, tempus amplexandi, et tempus longe fieri ab amplexibus;
+6 tempus acquirendi, et tempus perdendi; tempus custodiendi, et tempus abjiciendi;
+7 tempus scindendi, et tempus consuendi; tempus tacendi, et tempus loquendi;
+8 tempus dilectionis, et tempus odii; tempus belli, et tempus pacis.
 
 [Responsory1]
 @Tempora/081-2:Responsory1

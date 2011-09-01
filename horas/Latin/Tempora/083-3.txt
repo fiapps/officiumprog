@@ -3,10 +3,10 @@ De libro Sapientiae.
 !Sap 7:1-6
 1 Sum quidem et ego mortalis homo, similis omnibus, et ex genere terreni illius qui prior factus est: et in ventre matris figuratus sum caro;
 2 decem mensium tempore coagulatus sum in sanguine: ex semine hominis, et delectamento somni conveniente.
-3 Et ego natus accepi communem aërem, et in similiter factam decidi terram, et primam vocem similem omnibus emisi plorans.
-4 In involumentis nutritus sum, et curis magnis:
-5 nemo enim ex regibus aliud habuit nativitatis initium.
-6 Unus ergo introitus est omnibus ad vitam, et similis exitus.
+3 et ego natus accepi communem aërem, et in similiter factam decidi terram, et primam vocem similem omnibus emisi plorans,
+4 in involumentis nutritus sum, et curis magnis:
+5 Nemo enim ex regibus aliud habuit nativitatis initium;
+6 unus ergo introitus est omnibus ad vitam, et similis exitus.
 
 [Responsory1]
 @Tempora/081-0:Responsory7
@@ -16,7 +16,7 @@ De libro Sapientiae.
 7 Propter hoc optavi, et datus est mihi sensus; et invocavi, et venit in me spiritus sapientiae:
 8 et praeposui illam regnis et sedibus, et divitias nihil esse duxi in comparatione illius.
 9 Nec comparavi illi lapidem pretiosum, quoniam omne aurum in comparatione illius arena est exigua, et tamquam lutum aestimabitur argentum in conspectu illius.
-10 Super salutem et speciem dilexi illam, et proposui pro luce habere illam, quoniam inextinguibile est lumen illius.
+10 Super salutem et speciem dilexi illam, et proposui pro luce habere illam, quoniam inexstinguibile est lumen illius.
 
 [Responsory2]
 @Tempora/081-1:Responsory2

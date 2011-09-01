@@ -91,7 +91,7 @@ sub setcell {
 	  }
 	}
   }
-  
+
   our $wrapper = Text::Wrapper->new();
   my $asearchind = $searchind;
   my $acolumn = $column;
@@ -121,6 +121,8 @@ sub setcell {
   my $refnum = 0;
   $tagnum = 0;
  
+ 
+ #$text =~ s/({:.*?:})\s*/$1/sg;
  my @text = split("\n", $text);
  for ($speechind = 0; $speechind < @text; $speechind++) {
   
@@ -176,7 +178,7 @@ sub setcell_rut {
   my $text = shift;    
   my $linewidth = shift;
   my $cellind = shift;		
-	
+
 
   if ($text =~ /(lll[0-9]+ )/) { 
 
@@ -211,14 +213,14 @@ sub setcell_rut {
 	  if ($only || $column == $vcol) {  
 	    if ($str =~ /^[a-z]$/i || $str =~ /\%[a-z áéíóöõúüûÁÉÍÓÖÔÚÜÛ]+\%/i ||
 	      $str =~ /([\!\#]H[iy]mn|\&lectio|\&antiphona_finalis)/i) {$speecharray[$cellind] .= $str;}
-		  if ($str =~ /\{\:.*?\:\}/) {$speecharray[$cellind] .= $&;}
+		  if ($str =~ /\{\:.*?\:\}/) {$speecharray[$cellind] .= $&; }
 	  }
- 	  cellout($cell, $str, $newlinewidth, "tag$tagnum");
-  	$ind2 = $cell->index(insert);	
-	  my @ind1 = split('\.', $ind1);
-	  my @ind2 = split('\.', $ind2);
-	  if ($fontsize > $blackfontsize + .5) {$addheight += ($fontsize / $blackfontsize - 1);}	 
 
+      cellout($cell, $str, $newlinewidth, "tag$tagnum");
+      $ind2 = $cell->index(insert);	
+      my @ind1 = split('\.', $ind1);
+      my @ind2 = split('\.', $ind2);
+      if ($fontsize > $blackfontsize + .5) {$addheight += ($fontsize / $blackfontsize - 1);}	 
   }
 
   if ($only || $column == $vcol) {$speecharray[$cellind] .= $after; }
@@ -239,10 +241,9 @@ sub cellout {
   my $newlinewidth = shift;
   my $tag = shift;	
   
-  
   if (!$tag) {$text =~ s/Ant\.//g;}
   $text =~ s/\`//g;
-  $text =~ s/\{\:.*?\:\}\s*//sg; 
+  $text =~ s/\s*\{\:.*?\:\}\s*//g; 
   if ($text =~ /^\n/) {	 $text = '_' . $text;}
   $text =~ s/^ /\_/;
   $text =~ s/ $/_/;
@@ -798,7 +799,7 @@ sub speakit {
   	  if ($voicehold || $stopvoice) {return;}
     } 
 
-    if ($t[$i] =~ /\{\:(.*?)\:\}/) {
+    if ($t[$i] =~ /\{\:(.*?)\:\}/) { 
 	    $tfile = $1; 
         if ($tfile =~ /^[A]*pc/) {$canticum = 1; $tfile =~ s/^([A]*)pc/$1p/;}
 		else {$canticum = 0;}

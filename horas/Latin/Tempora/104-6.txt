@@ -1,10 +1,10 @@
 [Lectio1]
-De libro secundo Maccabeorum
+De libro secundo Machabaeorum
 !2 Mac 6:1-4
-1 Sed non post multum temporis, misit rex senem quemdam Antiochenum, qui compelleret Judaeos ut se transferrent a patriis et Dei legibus:
+1 Sed non post multum temporis, misit rex Antiochus senem quemdam Antiochenum, qui compelleret Judaeos ut se transferrent a patriis et Dei legibus:
 2 contaminare etiam quod in Jerosolymis erat templum, et cognominare Jovis Olympii: et in Garizim, prout erant hi qui locum inhabitabant, Jovis hospitalis.
 3 Pessima autem et universis gravis erat malorum incursio:
-4 nam templum luxuria et comessationibus gentium erat plenum, et scortantium cum meretricibus: sacratisque aedibus mulieres se ultro ingerebant, intro ferentes ea quae non licebat.
+4 nam templum luxuria et comessationibus Gentium erat plenum, et scortantium cum meretricibus: sacratisque aedibus mulieres se ultro ingerebant, intro ferentes ea quae non licebat.
 
 [Responsory1]
 @Tempora/101-0:Responsory7
@@ -12,10 +12,10 @@ De libro secundo Maccabeorum
 [Lectio2]
 !2 Mac 6:5-9
 5 Altare etiam plenum erat illicitis, quae legibus prohibebantur.
-6 Neque autem sabbata custodiebantur, neque dies solemnes patrii servabantur, nec simpliciter Judaeum se esse quisquam confitebatur.
+6 neque autem sabbata custodiebantur, neque dies solemnes patrii servabantur, nec simpliciter Judaeum se esse quisquam confitebatur.
 7 Ducebantur autem cum amara necessitate in die natalis regis ad sacrificia: et cum Liberi sacra celebrarentur, cogebantur hedera coronati Libero circuire.
-8 Decretum autem exiit in proximas gentilium civitates, suggerentibus Ptolemaeis, ut pari modo et ipsi adversus Judaeos agerent, ut sacrificarent:
-9 eos autem qui nollent transire ad instituta gentium, interficerent: erat ergo videre miseriam.
+8 Decretum autem exiit in proximas Gentilium civitates, suggerentibus Ptolemaeis, ut pari modo et ipsi adversus Judaeos agerent, ut sacrificarent:
+9 eos autem qui nollent transire ad instituta Gentium, interficerent: erat ergo videre miseriam.
 
 [Responsory2]
 @Tempora/101-1:Responsory2

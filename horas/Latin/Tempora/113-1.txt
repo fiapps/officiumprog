@@ -12,11 +12,11 @@ De Daniele Propheta
 
 [Lectio2]
 !Dan 2:36-40
-36 Hoc est somnium: interpretationem quoque ejus dicemus coram te, rex.
+36 Hoc est somnium: Interpretationem quoque ejus dicemus coram te, rex.
 37 Tu rex regum es: et Deus caeli regnum, et fortitudinem, et imperium, et gloriam dedit tibi:
-38 et omnia, in quibus habitant filii hominum, et bestiae agri: volucres quoque caeli dedit in manu tua, et sub ditione tua universa constituit: tu es ergo caput aureum.
+38 et omnia, in quibus habitant filii hominum, et bestiae agri: volucres quoque caeli dedit in manu tua, et sub dicione tua universa constituit: tu es ergo caput aureum.
 39 Et post te consurget regnum aliud minus te argenteum: et regnum tertium aliud aereum, quod imperabit universae terrae.
-40 Et regnum quartum erit velut ferrum: quomodo ferrum comminuit, et domat omnia, sic comminuet, et conteret omnia haec.
+40 Et regnum quartum erit velut ferrum: Quomodo ferrum comminuit, et domat omnia, sic comminuet, et conteret omnia haec.
 
 [Responsory2]
 @Tempora/111-1:Responsory2
@@ -25,7 +25,7 @@ De Daniele Propheta
 !Dan 2:41-44
 41 Porro quia vidisti pedum, et digitorum partem testae figuli, et partem ferream, regnum divisum erit: quod tamen de plantario ferri orietur, secundum quod vidisti ferrum mistum testae ex luto.
 42 Et digitos pedum ex parte ferreos, et ex parte fictiles: ex parte regnum erit solidum, et ex parte contritum.
-43 Quod autem vidisti ferrum mistum testae ex luto, commiscebuntur quidem humano semine, sed non adhaerebunt sibi, sicut ferrum misceri non potest testae.
+43 Quod autem vidisti ferrum mistum testae ex luto, commiscebuntur quidem humano semine, sed non adhaerebunt sibi, sicuti ferrum misceri non potest testae.
 44 In diebus autem regnorum illorum suscitabit Deus caeli regnum, quod in aeternum non dissipabitur, et regnum ejus alteri populo non tradetur: comminuet autem, et consumet universa regna haec, et ipsum stabit in aeternum.
 
 [Responsory3]

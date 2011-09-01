@@ -10,6 +10,7 @@ Lectio1 tempora
 Doxology=Epi
 9 lectiones
 Feria Te Deum
+CPapaM=Hyginum;
 
 [Lectio1]
 De Epistola ad Romanos.
@@ -76,3 +77,14 @@ Omnes nationes * venient a longe, portantes munera sua, alleluia.
 
 [Ant 3]
 Omnes de Saba * venient, aurum et thus deferentes, alleluia, alleluia.
+
+
+[Commemoratio 3]
+!Commemoratio S. Hygini Papae et Martyris
+@Commune/C2:Oratio proper
+_
+$Oremus
+Infirmitatem nostram respice, omnipotens Deus: et quia pondus proprie actionis
+gravat, beati Hyginum Martyris tui atque Pontificis intercessio gloriosa nos
+protegat.
+$Per Dominum

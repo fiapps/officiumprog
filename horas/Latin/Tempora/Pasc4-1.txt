@@ -30,7 +30,7 @@ R. A Domino, alleluia, alleluia.
 [Responsory2]
 R. Cantate Domino, alleluia:
 * Psalmum dicite ei, alleluia.
-V. Afferte Domino gloriam et honorem, afterte Domino gloriam nomini ejus.
+V. Afferte Domino gloriam et honorem, afferte Domino gloriam nomini ejus.
 R. Psalmum dicite ei, alleluia.
 &Gloria
 R. Psalmum dicite ei, alleluia.
@@ -39,7 +39,7 @@ R. Psalmum dicite ei, alleluia.
 !Jas 1:25-27
 25 Qui autem perspexerit in legem perfectam libertatis, et permanserit in ea, non auditor obliviosus factus, sed factor operis: hic beatus in facto suo erit.
 26 Si quis autem putat se religiosum esse, non refrenans linguam suam, sed seducens cor suum, hujus vana est religio.
-27 Religio munda et immaculata apud Deum et Patrem, haec est: visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc saeculo.
+27 Religio munda et immaculata apud Deum et Patrem, haec est: Visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc saeculo.
 
 [Responsory3]
 R. Narrabo nomen tuum fratribus meis, alleluia:

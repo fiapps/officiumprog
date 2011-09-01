@@ -15,8 +15,8 @@ De libro tertio Regum.
 
 [Lectio2]
 !1 Kgs 3:7-9
-7 Et nunc Domine Deus, tu regnare fecisti servum tuum pro David patre meo: ego autem sum puer parvulus, et ignorans egressum et introitum meum.
-8 Et servus tuus in medio est populi quem elegisti, populi infiniti, qui numerari et supputari non potest prae multitudine.
+7 Et nunc Domine Deus, tu regnare fecisti servum tuum pro David patre meo: Ego autem sum puer parvulus, et ignorans egressum et introitum meum.
+8 et servus tuus in medio est populi quem elegisti, populi infiniti, qui numerari et supputari non potest prae multitudine.
 9 Dabis ergo servo tuo cor docile, ut populum tuum judicare possit, et discernere inter bonum et malum. Quis enim poterit judicare populum istum, populum tuum hunc multum?
 
 [Responsory2]

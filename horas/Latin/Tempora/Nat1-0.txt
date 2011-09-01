@@ -19,7 +19,7 @@ De fructu * ventris tui ponam super sedem tuam;;131
 
 [Capitulum Vespera]
 !Gal 1:1-2
-v. Fratres: Quanto tempore haeres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
+v. Fratres: Quanto tempore heres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
 $Deo gratias
 
 [Versum 1]
@@ -66,7 +66,7 @@ Ne autem infirmitatis nostrae perturbemur angustiis, evangelicae nos et propheti
 R. Beata viscera Mariae Virginis, quae portaverunt aeterni Patris Filium: et beata ubera, quae lactaverunt Christum Dominum:
 * Qui hodie pro salute mundi de Virgine nasci dignatus est.
 V. Dies sanctificatus illuxit nobis: venite Gentes, et adorate Dominum
-R. Qu hodie pro salute mundi de Virgine nasci dignatus est.
+R. Qui hodie pro salute mundi de Virgine nasci dignatus est.
 &Gloria
 R. Qui hodie pro salute mundi de Virgine nasci dignatus est.
 
@@ -77,7 +77,7 @@ In illo tempore: Erat Joseph, et Maria mater Jesu, mirantes super his, quae dice
 _
 Homilia sancti Ambrosii Episcopi.
 !Lib. 2. in cap. 2. Lucae, prope finem.
-Vides liberem in omnes gratiam, Domini generatione diffusam et prophetiam incredulis negatam esse, non justis. Ecce et Simeon prophetat, in ruinam et resurrectionem plurimorum venisse Dominum Jesum Christum, ut justorum, iniquorumque merita discernat; et pro nostrorum qualitate factorum, judex verus et justus aut supplicia decernat, aut praemia.
+Vides uberem in omnes gratiam, Domini generatione diffusam et prophetiam incredulis negatam esse, non justis. Ecce et Simeon prophetat, in ruinam et resurrectionem plurimorum venisse Dominum Jesum Christum, ut justorum, iniquorumque merita discernat; et pro nostrorum qualitate factorum, judex verus et justus aut supplicia decernat, aut praemia.
 
 [Responsory7]
 R. Verbum caro factum est, et habitavit in nobis:
@@ -102,7 +102,7 @@ Prophetavit itaque Simeon, prophetaverat virgo, prophetaverat copulata conjugio;
 
 [Capitulum Laudes]
 !Gal 1:1-2
-v. Fratres: Quanto tempore haeres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
+v. Fratres: Quanto tempore heres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
 $Deo gratias
 
 [Versum 2]
@@ -114,11 +114,11 @@ Dum medium silentium * tenerent omnia, et nox in suo cursu medium iter perageret
 
 [Lectio Prima]
 !Gal 4:7
-v. Itaque jam non est servus, sed filius: quod si filius, et haeres per Deum.
+v. Itaque jam non est servus, sed filius: quod si filius, et heres per Deum.
 
 [Capitulum Tertia]
 !Gal 1:1-2
-v. Fratres: Quanto tempore haeres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
+v. Fratres: Quanto tempore heres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre.
 $Deo gratias
 
 [Capitulum Sexta]
@@ -128,7 +128,7 @@ $Deo gratias
 
 [Capitulum Nona]
 !Gal 4:7
-v. Itaque jam non est servus, sed filius: quod si filius, et haeres per Deum.
+v. Itaque jam non est servus, sed filius: quod si filius, et heres per Deum.
 $Deo gratias
 
 [Versum 3]

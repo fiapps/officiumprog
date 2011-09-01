@@ -1,11 +1,11 @@
 [Lectio1]
 De libro Job
 !Job 28:12-16
-12 Sapientia vero ubi invenitur? et quis est locus intelligentiae?
+12 Sapientia ubi invenitur? et quis est locus intelligentiae?
 13 Nescit homo pretium ejus, nec invenitur in terra suaviter viventium.
 14 Abyssus dicit: Non est in me, et mare loquitur: Non est mecum.
-15 Non dabitur aurum obrizum pro ea, nec appendetur argentum in commutatione ejus.
-16 Non conferetur tinctis Indiae coloribus, nec lapidi sardonycho pretiosissimo vel sapphiro.
+15 Non dabitur aurum obrizum pro ea, nec appendetur argentum in commutatione ejus;
+16 non conferetur tinctis Indiae coloribus, nec lapidi sardonycho pretiosissimo vel sapphiro.
 
 [Responsory1]
 @Tempora/091-0:Responsory4
@@ -20,12 +20,12 @@ De libro Job
 22 Perditio et mors dixerunt: Auribus nostris audivimus famam ejus.
 
 [Responsory2]
-@Tempora/091-0:Responsory5 =
+@Tempora/091-0:Responsory5
 
 [Lectio3]
 !Job 28:23-28
-23 Deus intelligit viam ejus, et ipse novit locum illius.
-24 Ipse enim fines mundi intuetur, et omnia quae sub caelo sunt respicit.
+23 Deus intelligit viam ejus, et ipse novit locum illius;
+24 ipse enim fines mundi intuetur, et omnia quae sub caelo sunt respicit.
 25 Qui fecit ventis pondus, et aquas appendit in mensura.
 26 Quando ponebat pluviis legem, et viam procellis sonantibus:
 27 tunc vidit illam et enarravit, et praeparavit, et investigavit.

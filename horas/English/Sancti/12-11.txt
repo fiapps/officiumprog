@@ -13,12 +13,13 @@ vide C4;
 OPapaC=Damasus;
 Doxology=Nat
 Omit Preces
+Commemoratio3
 
 [Oratio]
 Aeternal Shepherd, do thou look with favor upon thy flock. Guard and keep it for evermore through blessed Damasus, thy Supreme Pontiff, whom thou didst choose to be the chief shepherd of the whole Church
 $Per Dominum
 
-[Commemoratio]
+[Commemoratio 2]
 !Commemoratio Die infra Octavam Immaculatae Conceptionis B.M.V.
 @Sancti/12-08:Oratio
 

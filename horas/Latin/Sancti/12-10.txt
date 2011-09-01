@@ -4,7 +4,7 @@ De III die Infra Octavam Concept. Immac. Beatae Mariae Virginis;;Semiduplex;;2.5
 [Rule]
 vide Sancti/12-08;
 9 lectiones;
-CPapaM=Melchiadis;
+CPapaM=Melchiadem;
 Doxology=Nat
 
 [Lectio4]

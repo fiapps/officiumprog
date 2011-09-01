@@ -2,14 +2,14 @@
 SS. Apostolorum Petri et Pauli;;Duplex I classis cum octava communi;;6.5;;ex C1
 
 [Rank1960]
-SS. Apostolorum Petri et Pauli;;Duplex 1 classis;;6;;vide C1
+SS. Apostolorum Petri et Pauli;;Duplex 1 classis;;6;;ex C1
 
 [Rule]
 vide C1;
 9 lectiones
 Psalmi Dominica
 Antiphonas horas
-no commemoratio
+nor commemoratio
 
 [Ant Vespera]
 Petrus et Joannes * ascendebant in templum ad horam orationis nonam.;;109
@@ -26,15 +26,15 @@ $Deo gratias
 [Hymnus Vespera]
 {:H-Decoralux:}v. Decora lux aeternitatis, auream
 Diem beatis irrigavit ignibus,
-Apostolorum quae coronat principes,
+Apostolorum quae coronat Principes,
 Reisque in astra liberam pandit viam.
 _
-Mundi magister, atque caeli janitor,
+Mundi Magister, atque caeli Janitor,
 Romae parentes, arbitrique gentium,
 Per ensis ille, hic per crucis victor necem
 Vitae senatum laureati possident.
 _
-O Roma felix, quae duorum principum
+O Roma felix, quae duorum Principum
 Es consecrata glorioso sanguine:
 Horum cruore purpurata ceteras
 Excellis orbis una pulchritudines.
@@ -46,7 +46,7 @@ Per universa saeculorum saecula.
 Amen.
 
 [Ant 1]
-Tu es pastor ovium * princeps Apostolorum: tibi traditae sunt claves regni caelorum.
+Tu es Pastor ovium * Princeps Apostolorum: tibi traditae sunt claves regni caelorum.
 
 [Oratio]
 Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti: da Ecclesiae tuae, eorum in omnibus sequi praeceptum, per quos religionis sumpsit exordium.
@@ -69,9 +69,9 @@ R. Et claves regni caelorum tradidi tibi.
 
 [Lectio2]
 !Acts 3:6-10
-6 Petrus autem dixit: Argentum et aurum non est mihi: quod autem habeo, hoc tibi do: in nomine Jesu Christi Nazareni surge, et ambula.
+6 Petrus autem dixit: Argentum et aurum non est mihi: quod autem habeo, hoc tibi do: In nomine Jesu Christi Nazareni surge, et ambula.
 7 Et apprehensa manu ejus dextera, allevavit eum, et protinus consolidatae sunt bases ejus et plantae.
-8 Et exiliens stetit, et ambulabat: et intravit cum illis in templum ambulans, et exiliens, et laudans Deum.
+8 Et exsiliens stetit, et ambulabat: et intravit cum illis in templum ambulans, et exsiliens, et laudans Deum.
 9 Et vidit omnis populus eum ambulantem et laudantem Deum.
 10 Cognoscebant autem illum, quod ipse erat qui ad eleemosynam sedebat ad Speciosam portam templi: et impleti sunt stupore et extasi in eo quod contigerat illi.
 
@@ -85,9 +85,9 @@ R. Et animam meam pono pro te.
 !Acts 3:11-16
 11 Cum teneret autem Petrum et Joannem, cucurrit omnis populus ad eos ad porticum quae appellatur Salomonis, stupentes.
 12 Videns autem Petrus, respondit ad populum: Viri Israëlitae, quid miramini in hoc, aut nos quid intuemini, quasi nostra virtute aut potestate fecerimus hunc ambulare?
-13 Deus Abraham, et Deus Isaac, et Deus Jacob, Deus patrum nostrorum glorificavit filium suum Jesum, quem vos quidem tradidistis, et negastis ante faciem Pilati, judicante illo dimitti.
-14 Vos autem sanctum et justum negastis, et petistis virum homicidam donari vobis:
-15 auctorem vero vitae interfecistis, quem Deus suscitavit a mortuis, cujus nos testes sumus.
+13 Deus Abraham, et Deus Isaac, et Deus Jacob, Deus patrum nostrorum glorificavit Filium suum Jesum, quem vos quidem tradidistis, et negastis ante faciem Pilati, judicante illo dimitti.
+14 Vos autem Sanctum et Justum negastis, et petistis virum homicidam donari vobis:
+15 Auctorem vero vitae interfecistis, quem Deus suscitavit a mortuis, cujus nos testes sumus.
 16 Et in fide nominis ejus, hunc quem vos vidistis et nostis, confirmavit nomen ejus: et fides, quae per eum est, dedit integram sanitatem istam in conspectu omnium vestrum.
 
 [Responsory3]
@@ -101,7 +101,7 @@ R. Et tibi dabo claves regni caelorum.
 [Lectio4]
 Sermo sancti Leonis Papae.
 !Sermone 1. in natali Apost. Petri et Pauli.
-Omnium quidem sanctarum solemnitatum, dilectissimi, totus mundus est particeps, et unius fidei pietas exigit, ut quidquid pro salute universorum gestum recolitur, communibus ubique gaudiis celebretur. Verumtamen hodierna festivitas, praeter illam reverentiam, quam toto terrarum orbe promeruit, speciali et propria nostrae Urbis exsultatione veneranda est, ut ubi praecipuorum Apostolorum glorificatus est exitus, ibi in die martyri eorum sit laetitiae principatus. Isti enim sunt viri, per quos tibi Evangelium Christi Roma resplenduit, et quae eras magistra erroris, facta es discipula veritatis.
+Omnium quidem sanctarum solemnitatum, dilectissimi, totus mundus est particeps, et unius fidei pietas exigit, ut quidquid pro salute universorum gestum recolitur, communibus ubique gaudiis celebretur. Verumtamen hodierna festivitas, praeter illam reverentiam, quam toto terrarum orbe promeruit, speciali et propria nostrae Urbis exsultatione veneranda est, ut ubi praecipuorum Apostolorum glorificatus est exitus, ibi in die martyrii eorum sit laetitiae principatus. Isti enim sunt viri, per quos tibi Evangelium Christi Roma resplenduit, et quae eras magistra erroris, facta es discipula veritatis.
 
 [Responsory4]
 R. Domine, si tu es, jube me venire ad te super aquas.
@@ -119,10 +119,10 @@ V. Angelus Domini astitit, et lumen refulsit in habitaculo carceris, percussoque
 R. Quia ceciderunt catenae de manibus tuis.
 
 [Lectio6]
-Disposito namque divinitus operi maxime congruebat, ut multa regna uno confoederarentur imperio, et cito pervios haberet populos praedicatio generalis, quos unius teneret regimen civitatis. Haec autem civitas ignorans suae provectionis auctorem, cum pene omnibus dominaretur gentibus, omnium gentium serviebat erroribus: et magnam sibi videbatur assumpsisse religionem quia nullam respuebat falsitatem. Unde quantum erat per diabolum tenacius illigata, tantum per Christum est mirabilius absoluta.
+Disposito namque divinitus operi maxime congruebat, ut multa regna uno confoederarentur imperio, et cito pervios haberet populos praedicatio generalis, quos unius teneret regimen civitatis. Haec autem civitas ignorans suae provectionis auctorem, cum pene omnibus dominaretur gentibus, omnium gentium serviebat erroribus: et magnam sibi videbatur assumpsisse religionem quia nullam respuerat falsitatem. Unde quantum erat per diabolum tenacius illigata, tantum per Christum est mirabilius absoluta.
 
 [Responsory6]
-R. Tu es pastor ovium, princeps Apostolorum: tibi tradidit Deus omnia regna mundi:
+R. Tu es pastor ovium, Princeps Apostolorum: tibi tradidit Deus omnia regna mundi:
 * Et ideo tibi traditae sunt claves regni caelorum.
 V. Quodcumque ligaveris super terram, erit ligatum et in caelis: et quodcumque solveris super terram, erit solutum et in caelis.
 R. Et ideo tibi traditae sunt claves regni caelorum.
@@ -153,10 +153,10 @@ R. Quem dicunt homines esse Filium hominis? dixit Jesus discipulis suis. Respond
 V. Beatus es Simon Bar-Jona, quia caro et sanguis non revelavit tibi, sed Pater meus, qui est in caelis.
 R. Et ego dico tibi, quia tu es Petrus, et super hanc petram aedificabo Ecclesiam meam.
 &Gloria
-R. Et ego dico tibi, quia tu es Petrum, et super hanc petram aedificabo Ecclesiam meam.
+R. Et ego dico tibi, quia tu es Petrus, et super hanc petram aedificabo Ecclesiam meam.
 
 [Lectio9]
-Respondens autem Jesus, dixit ei: Beatus es Simon Bar-Jona. Testimonio de se Apostoli reddit vicem. Petrus dixerat: Tu es Christus Filius Dei vivi: mercedem recepit vera confessio: Beatus es Simon Bar-Jona. Quare? Quia non revelavit tibi caro et sanguis sed revelavit Pater. Quod caro et sanguis revelare non potuit, Spiritus sancti gratia revelatum est. Ergo ex confessione sortitur vocabulum, quod revelationem ex Spiritu sancto habeat, cujus et filius appellandus sit. Siquidem Bar-Jona in nostra lingua sonat, filius columbae.
+Respondens autem Jesus, dixit ei: Beatus es Simon Bar-Jona. Testimonio de se Apostoli reddit vicem. Petrus dixerat: Tu es Christus Filius Dei vivi: mercedem recepit vera confessio: Beatus es Simon Bar-Jona. Quare? Quia non revelavit tibi caro et sanguis sed revelavit Pater. Quod caro et sanguis revelare non potuit, Spiritus Sancti gratia revelatum est. Ergo ex confessione sortitur vocabulum, quod revelationem ex Spiritu Sancto habeat, cujus et filius appellandus sit. Siquidem Bar-Jona in nostra lingua sonat, Filius columbae.
 &teDeum
 
 [Ant Laudes]
@@ -172,12 +172,12 @@ v. Misit Herodes rex manus, ut affligeret quosdam de Ecclesia. Occidit autem Jac
 $Deo gratias
 
 [Hymnus Laudes]
-{:H-BeatepastorPetre:}v. Beate pastor Petre clemens accipe
+{:H-BeatepastorPetre:}v. Beate Pastor Petre clemens accipe
 Voces precantum, criminumque vincula
 Verbo resolve, cui potestas tradita,
 Aperire terris caelum, apertum claudere.
 _
-Egregie doctor Paule mores instrue,
+Egregie Doctor Paule mores instrue,
 Et nostra tecum pectora in caelum trahe:
 Velata dum meridiem cernat fides,
 Et solis instar sola regnet caritas.
@@ -193,7 +193,7 @@ Quodcumque * ligaveris super terram, erit ligatum et in caelis: et quodcumque so
 
 [Lectio Prima]
 !Act 12:11
-Et Petrus ad se reversus, dixit: Nunc scio vere, quia misit Dominus Angelum suum, et eripuit me de manu Herodis, et de omni exspectatione plebis Judeorum.
+Et Petrus ad se reversus, dixit: Nunc scio vere, quia misit Dominus Angelum suum, et eripuit me de manu Herodis, et de omni exspectatione plebis Judaeorum.
 
 [Capitulum Tertia]
 !Acts 12:1-3
@@ -201,24 +201,24 @@ v. Misit Herodes rex manus, ut affligeret quosdam de Ecclesia. Occidit autem Jac
 $Deo gratias
 
 [Responsory Tertia]
-R.br. In omnem terram * exivit sonus eorum.
-R. In omnem terram * exivit sonus eorum.
+R.br. In omnem terram * Exivit sonus eorum.
+R. In omnem terram * Exivit sonus eorum.
 V. Et in fines orbis terrae verba eorum.
 R. Exivit sonus eorum.
 &Gloria
-R.In omnem terram * exivit sonus eorum.
+R. In omnem terram * Exivit sonus eorum.
 _
 V. Constitues eos principes super omnem terram.
 R. Memores erunt nominis tui Domine.
 
 [Capitulum Sexta]
 !Act 12:5
-v. Petrus quidem servabatur in carcere. Oratio autem fiebat sine intermissione ab Ecclesia ad Deum pro eo.
+v. Petrus quidem servabatur in carcere; oratio autem fiebat sine intermissione ab Ecclesia ad Deum pro eo.
 $Deo gratias
 
 [Responsory Sexta]
 R.br. Constitues eos principes * Super omnem terram.
-R.Constitues eos principes * Super omnem terram.
+R. Constitues eos principes * Super omnem terram.
 V. Memores erunt nominis tui Domine.
 R. Super omnem terram.
 &Gloria
@@ -229,7 +229,7 @@ R. Nimis confortatus est principatus eorum.
 
 [Capitulum Nona]
 !Act 12:11
-v. Et Petrus ad se reversus, dixit: Nunc scio vere, quia misit Dominus Angelum suum, et eripuit me de manu Herodis, et de omni exspectatione plebis Judeorum.
+v. Et Petrus ad se reversus, dixit: Nunc scio vere, quia misit Dominus Angelum suum, et eripuit me de manu Herodis, et de omni exspectatione plebis Judaeorum.
 $Deo gratias
 
 [Responsory Nona]
@@ -255,37 +255,37 @@ V. Annuntiaverunt opera Dei.
 R. Et facta ejus intellexerunt.
 
 [Ant 3]
-Hodie Simon Petrus * ascendit crucis patibulum, alleluia: hodie clavicularius regni gaudens migravit ad Christum: hodie Paulus Apostolus, lumen orbis terrae inclinato capite pro Christi nomine martyrio coronatus est, alleluia.
+Hodie * Simon Petrus ascendit crucis patibulum, alleluia: hodie clavicularius regni gaudens migravit ad Christum: hodie Paulus Apostolus, lumen orbis terrae inclinato capite pro Christi nomine martyrio coronatus est, alleluia.
 
 [Octava 1]
-!Commemoratio Octavae Ss. Apostoly Petri et Pauli
-Ant. Petrus Apostolus, * et Paulus Doctor Gentium, ipsi nos docuerunt legem tuam
-Domine.
+!Commemoratio Octavae Ss. Apostoli 
+Ant. Petrus Apostolus, * et Paulus doctor Gentium, ipsi nos docuerunt legem tuam Domine.
 _
 V. Constitues eos principes super omnem terram.
 R. Memores erunt nominis tui Domine.
 _
-v. Oremus Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti: da Ecclesiae tuae, eorum in omnibus sequi praeceptum, per quos religionis sumpsit exordium.
+v. Oremus 
+Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti: da Ecclesiae tuae, eorum in omnibus sequi praeceptum, per quos religionis sumpsit exordium.
 $Per Dominum
 
-[Octava 1]
+[Octava 11]
 !Commemoratio Octavae S. Petri.
-Ant. Tu es Pastor ovium * Princeps Apostolorum, tibi traditae sunt claves regni
-caelorum
+Ant. Tu es Pastor ovium * Princeps Apostolorum, tibi traditae sunt claves regni caelorum
 _
 V. Tu es Petrus.
 R. Et super hanc petram aedificabo Ecclesiam meam.
 _
-v. Oremus. Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti: da Ecclesiae tuae, eorum in omnibus sequi praeceptum, per quos religionis sumpsit exordium.
+v. Oremus. 
+Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti: da Ecclesiae tuae, eorum in omnibus sequi praeceptum, per quos religionis sumpsit exordium.
 !Qui vivis
 
 [Octava 2]
 !Commmemoratio Octavae Ss. Apost.
-Ant. Gloriosi principes terrae, quomodo in vita sua dilexerunt se, ita et in
-morte non sunt separati.
+Ant. Gloriosi principes terrae, quomodo in vita sua dilexerunt se, ita et in morte non sunt separati.
 _
 V. In omnem terram exivit sonus eorum.
 R. Et in fines orbis terrae verba eorum.
 _
-v. Oremus. Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti: da Ecclesiae tuae, eorum in omnibus sequi praeceptum, per quos religionis sumpsit exordium.
+v. Oremus. 
+Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti: da Ecclesiae tuae, eorum in omnibus sequi praeceptum, per quos religionis sumpsit exordium.
 $Per Dominum

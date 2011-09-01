@@ -1,11 +1,11 @@
 [Lectio1]
 De libro Sapientiae.
 !Sap 9:13-19
-13 Quis enim hominum poterit scire consilium Dei? aut quis poterit cogitare quid velit Deus?
+13 Quis hominum poterit scire consilium Dei? aut quis poterit cogitare quid velit Deus?
 14 Cogitationes enim mortalium timidae, et incertae providentiae nostrae;
 15 corpus enim quod corrumpitur aggravat animam, et terrena inhabitatio deprimit sensum multa cogitantem.
 16 Et difficile aestimamus quae in terra sunt, et quae in prospectu sunt invenimus cum labore: quae autem in caelis sunt, quis investigabit?
-17 Sensum autem tuum, quis sciet, nisi tu dederis sapientiam, et miseris spiritum sanctum tuum de altissimis,
+17 Sensum autem tuum, quis sciet, nisi tu dederis sapientiam, et miseris Spiritum Sanctum tuum de altissimis,
 18 et sic correctae sint semitae eorum qui sunt in terris, et quae tibi placent didicerint homines?
 19 Nam per sapientiam sanati sunt quicumque placuerunt tibi, Domine, a principio.
 
@@ -14,7 +14,7 @@ De libro Sapientiae.
 
 [Lectio2]
 !Sap 10:1-5
-1 Haec illum qui primus formatus est a Deo patre orbis terrarum, cum solus esset creatus, custodivit,
+1 Haec illum qui primus formatus est a Deo pater orbis terrarum, cum solus esset creatus, custodivit,
 2 et eduxit illum a delicto suo, et dedit illi virtutem continendi omnia.
 3 Ab hac ut recessit injustus in ira sua, per iram homicidii fraterni deperiit.
 4 Propter quem cum aqua deleret terram, sanavit iterum sapientia, per contemptibile lignum justum gubernans.

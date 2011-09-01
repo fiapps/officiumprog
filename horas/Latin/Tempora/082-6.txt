@@ -1,7 +1,7 @@
 [Lectio1]
 De libro Ecclesiastae.
 !Eccl 7:1-3
-1 Quid necesse est homini majora se quaerere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suae, et tempore quod velut umbra praeterit? aut quis ei poterit indicare quod post eum futurum sub sole sit?
+1 Quid necesse est homini majora se quaerere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suae, et tempore quod velut umbra praeterit? Aut quis ei poterit indicare quid post eum futurum sub sole sit?
 2 Melius est nomen bonum quam unguenta pretiosa, et dies mortis die nativitatis.
 3 Melius est ire ad domum luctus quam ad domum convivii; in illa enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit.
 
@@ -13,9 +13,9 @@ De libro Ecclesiastae.
 4 Melior est ira risu, quia per tristitiam vultus corrigitur animus delinquentis.
 5 Cor sapientium ubi tristitia est, et cor stultorum ubi laetitia.
 6 Melius est a sapiente corripi, quam stultorum adulatione decipi;
-7 quia sicut sonitus spinarum ardentium sub olla, sic risus stulti. Sed et hoc vanitas.
+7 quia sicut sonitus spinarum ardentium sub olla, sic risus stulti; sed et hoc vanitas.
 8 Calumnia conturbat sapientem, et perdet robur cordis illius.
-9 Melior est finis orationis quam principium. Melior est patiens arrogante.
+9 Melior est finis orationis quam principium, melior est patiens arrogante.
 
 [Responsory2]
 @Tempora/081-1:Responsory2

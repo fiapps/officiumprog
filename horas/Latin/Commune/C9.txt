@@ -38,9 +38,7 @@ R. Et clamor meus ad te veniat.
 &Dominus_vobiscum2
 _
 $Oremus
-Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque
-tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper
-optaverunt, piis supplicationibus consequantur:
+Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper optaverunt, piis supplicationibus consequantur:
 $Qui vivis
 
 [Oratio 2]
@@ -55,9 +53,7 @@ R. Et clamor meus ad te veniat.
 &Dominus_vobiscum2
 _
 $Oremus
-Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque
-tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper
-optaverunt, piis supplicationibus consequantur:
+Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper optaverunt, piis supplicationibus consequantur:
 $Qui vivis
 
 [Oratio1]
@@ -88,7 +84,7 @@ Delicta * juventutis meae, et ignorantias meas ne memineris Domine;;24
 Credo videre * bona Domini in terra viventium;;26
 V. Collocet eos Dominus cum principibus.
 R. Cum principibus populi sui.
-Complaceat * tibi Domine,ut eripias me: Domine ad adjuvandum me respice;;39
+Complaceat * tibi Domine, ut eripias me: Domine ad adjuvandum me respice;;39
 Sana Domine * animam meam, quia peccavi tibi;;40
 Sitivit * anima mea ad Deum vivum: quando veniam, et apparebo ante faciem Domini;;41
 V. Ne tradas bestiis animas confitentes tibi.
@@ -96,7 +92,7 @@ R. Et animas pauperum tuorum ne obliviscaris in finem
 
 [Lectio1]
 !Job 7:16-21
-16 Parce mihi, nihil enim sunt dies mei.
+16 Parce mihi, Domine, nihil enim sunt dies mei.
 17 Quid est homo, quia magnificas eum? aut quid apponis erga eum cor tuum?
 18 Visitas eum diluculo, et subito probas illum.
 19 Usquequo non parcis mihi, nec dimittis me ut glutiam salivam meam?
@@ -127,11 +123,10 @@ R. Tu eis Domine dona requiem, et locum indulgentiae.
 
 [Lectio3]
 !Job 10: 8-12
- iii. Job 10. b.
-8 manus tuae plasmaverunt me et fecerunt me totum in circuitu et sic repente praecipitas me
+8 Manus tuae fecerunt me et plasmaverunt me totum in circuitu et sic repente praecipitas me
 9 memento quaeso quod sicut lutum feceris me et in pulverem reduces me
 10 nonne sicut lac mulsisti me et sicut caseum me coagulasti
-11 pelle et carnibus vestisti me et ossibus et nervis conpegisti me
+11 pelle et carnibus vestisti me ossibus et nervis compegisti me
 12 vitam et misericordiam tribuisti mihi et visitatio tua custodivit spiritum meum
 
 [Responsory3]
@@ -144,7 +139,7 @@ R. Quia peccavi nimis in vita mea.
 
 [Lectio4]
 !Job 13:22-28
-22 Voca me, et ego respondebo tibi: aut certe loquar, et tu responde mihi.
+22 Responde mihi:
 23 Quantas habeo iniquitates et peccata? scelera mea et delicta ostende mihi.
 24 Cur faciem tuam abscondis, et arbitraris me inimicum tuum?
 25 Contra folium, quod vento rapitur, ostendis potentiam tuam, et stipulam siccam persequeris:
@@ -176,7 +171,7 @@ R. Miserere mei, dum veneris in novissimo die.
 [Lectio6]
 !Job 14:13-16
 13 Quis mihi hoc tribuat, ut in inferno protegas me, et abscondas me donec pertranseat furor tuus, et constituas mihi tempus in quo recorderis mei?
-14 Putasne mortuus homo rursum vivat? cunctis diebus quibus nunc milito, expecto donec veniat immutatio mea.
+14 Putasne mortuus homo rursum vivat? cunctis diebus quibus nunc milito, exspecto donec veniat immutatio mea.
 15 Vocabis me, et ego respondebo tibi: operi manuum tuarum porriges dexteram.
 16 Tu quidem gressus meos dinumerasti: sed parce peccatis meis.
 
@@ -244,12 +239,12 @@ R. Libera me Domine de morte aeterna in die illa tremenda:
 V. Tremens factus sum ego, et timeo, dum discussio venerit, atque ventura ira.
 R. Quando caeli movendi sunt et terra
 V. Dies illa, dies irae, calamitatis et miseriae, dies magna et amara valde.
-R. Dum veneris judicare saeculum per ignem. &Gloria
+R. Dum veneris judicare saeculum per ignem. 
 &Gloria
-R. Libera me Domine de morte aeterna in die illa tremenda:
+R. Libera me Domine de morte aeterna in die illa tremenda: * Quando caeli movendi sunt et terra: * Dum veneris judicare saeculum per ignem. 
 
 [Ant Laudes]
-Exsultabunt * Domino ossa humiliata;;50
+Exsultabunt Domino * ossa humiliata;;50
 Exaudi Domine * orationem meam: ad te omnis caro veniet;;64
 Me suscepit * dextera tua Domine;;62
 A porta inferi * erue Domine animam meam;;222
@@ -275,7 +270,5 @@ R. Et clamor meus ad te veniat.
 &Dominus_vobiscum2
 _
 $Oremus
-Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque
-tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper
-optaverunt, piis supplicationibus consequantur:
+Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper optaverunt, piis supplicationibus consequantur:
 $Qui vivis

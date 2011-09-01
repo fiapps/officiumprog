@@ -94,7 +94,7 @@ sub popupsetcell {
   my $popupframe = shift;
   my $only = shift;  
 
- if ($lang =~ /Latin/i && $version =~ /1960/) {$text = jtoi($text);}
+ if ($lang =~ /Latin/i) {$text = jtoi($text);}
 
                         
   $wrapper = Text::Wrapper->new();

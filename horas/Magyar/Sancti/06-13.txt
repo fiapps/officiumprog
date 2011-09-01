@@ -5,9 +5,6 @@ S. Antonii de Padua Confessoris;;Duplex;;3;;vide C4a
 vide C4a;
 9 lectiones
 
-[Name]
-Anton
-
 [Oratio]
 O God, make thy Church to be glad at the solemn memorial of thy blessed Confessor Anthony, causing her ever to be strong through thy ghostly succour, and fitting her to relish blessedness at thy right hand for evermore.
 $Per Dominum.

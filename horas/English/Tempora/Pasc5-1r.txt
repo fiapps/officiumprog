@@ -1,5 +1,5 @@
  [Rank]
-Feria Secunda in Rogationibus;;Feria;;1
+Feria Secunda in Rogationibus;;Feria;;1.6
 
 [RankNewcal]
 Feria Secunda infra Hebdomadam V post Octavam Paschae;;Feria;;1
@@ -21,7 +21,8 @@ Lesson from the first letter of St Peter the Apostle
 [Responsory1]
 R. Let now the redeemed of the Lord Alleluia
 * Say Alleluia, Alleluia, Alleluia.
-V. Let them whom He hath redeemed from the hand of the enemy, and gathered them out of the lands. A. Say Alleluia, Alleluia, Alleluia.
+V. Let them whom He hath redeemed from the hand of the enemy, and gathered them out of the lands. 
+R. Say Alleluia, Alleluia, Alleluia.
 
 [Lectio2]
 !1 Pet 2:6-10

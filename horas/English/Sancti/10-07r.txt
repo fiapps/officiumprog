@@ -66,6 +66,7 @@ $Per eumdem
 [Commemoratio]
 !S. Marci Papae
 @Commune/C4:Oratio proper
+_
 $Oremus
 Gratiously hear our supplications, O Lord, and for the sake of thy Blessed Confessor and Bishop Mark, grant to us in thy mercy both pardon and peace.
 $Per Dominum
@@ -129,7 +130,7 @@ Lesson from the book of Ecclesiasticus
 12 Then the creator of all things commanded, and said to me: and he that made me, rested in my tabernacle, 24:13 And he said to me: Let thy dwelling be in Jacob, and thy inheritance in Israel, and take root in my elect. 
 14 From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him. 
 15 And so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem. 
-16 And I took root in an honourable people, and in the portion of mg God his inheritance, and my abode is in the full assembly of saints.
+16 And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints.
 
 [Responsory1]
 R. Take the pleasant harp, in the time appointed, on your solemn feastday

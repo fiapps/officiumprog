@@ -22,7 +22,7 @@ Lesson from the book of Ecclesiasticus
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Sir 16:11-17
+!Sir 14:11-17
 11 My son, if thou have any thing, do good to thyself, and offer to God worthy offerings.
 12 Remember that death is not slow, and that the covenant of hell hath been shown to thee: for the covenant of this world shall surely die.
 13 Do good to thy friend before thou die, and according to thy ability, stretching out thy hand give to the poor.

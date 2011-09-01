@@ -1,13 +1,16 @@
 [Rank]
-S. Bede Venerabilis Pries Confessor;;Duplex majus;;4;;vide C5
+S. Bedae Venerabilis Confessoris et Ecclesiae Doctoris;;Duplex majus;;4;;vide C5a
 
 [RankNewcal]
-S. Bede Venerabilis Pries Confessor;;Duplex optional;;2;;vide C5
+S. Bedae Venerabilis Confessoris et Ecclesiae Doctoris;;Duplex optional;;2;;vide C5a
 
 [Rule]
 vide C5;mtv
 9 lectiones
 CPapaM=Joannem;
+
+[Name]
+Beda
 
 [Oratio]
 Deus qui Ecclesiam tuam beati Bedae Confessoris tui atque Doctoris eruditione clarificas: concede propitius famulis tuis: eius semper illustrari sapientia et meritis adjuvari
@@ -16,9 +19,8 @@ $Per Dominum
 [Commemoratio]
 !Commemoratio S. Iohannis papae et martyris
 @Commune/C2:Oratio proper
-_
 $Oremus
-Gregem tuum Pastor aeterne, placatus intende: et per beatum Joannem Martyrem tuum atque Summum Pontificem perpetua protectione custodi: quem totius Ecclesiae praestitisti esse pastorem
+Gregem tuum Pastor aeterne, placatus intende: et per beatum Joannem Martyrem tuum atque Summum Pontificem, perpetua protectione custodi: quem totius Ecclesiae praestitisti esse pastorem
 $Per Dominum
 
 [Lectio4]

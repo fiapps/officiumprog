@@ -17,7 +17,7 @@ scriptura1960
 Herodes enim tenuit * et ligavit Joannem, et posuit in carcerem propter Herodiadem.
 Domine mi rex, * da mihi in disco caput Joannis Baptistae.
 Puellae saltanti * imperavit mater: Nihil aliud petas, nisi caput Joannis.
-Arguebat Herodem * Joannes propter Herodiadem, quam tulerat fratri suo Philippo uxorem.
+Arguebat * Herodem Joannes propter Herodiadem, quam tulerat fratri suo Philippo uxorem.
 Da mihi in disco * caput Joannis Baptistae: et contristatus est rex propter jusjurandum.
 
 [Ant 1]
@@ -31,13 +31,11 @@ $Qui vivis
 !Commemoratio S. Sabinae Mart.
 @Commune/C7:Oratio proper
 v. Oremus
-Deus, qui inter cetera potentiae tuae miracula, etiam in sexu fragili victoriam
-martyrii contulisti: concede propitius; ut qui beatae Sabinae Martyris tuae natalitia
-colimus, per ejus ad te exempla gradiamur.
+Deus, qui inter cetera potentiae tuae miracula, etiam in sexu fragili victoriam martyrii contulisti: concede propitius; ut qui beatae Sabinae Martyris tuae natalitia colimus, per ejus ad te exempla gradiamur.
 $Per Dominum.
 
 [Lectio1]
-Incipit Jeremias Propheta.
+Incipit liber Jeremiae Prophetae.
 !Jer 1:1-5
 1 Verba Jeremiae filii Helciae, de sacerdotibus qui fuerunt in Anathoth, in terra Benjamin.
 2 Quod factum est verbum Domini ad eum in diebus Josiae filii Amon, regis Juda, in tertiodecimo anno regni ejus.
@@ -62,7 +60,7 @@ R. Quam tulerat fratri suo Philippo uxorem.
 [Responsory2]
 R. Joannes Baptista arguebat Herodem
 * Propter Herodiadem, quam tulerat fratri suo viventi uxorem.
-V. Misso Herodes speculatore, praecepit amputari caput Joannis in carcere.
+V. Misso Herodes spiculatore, praecepit amputari caput Joannis in carcere.
 R. Propter Herodiadem, quam tulerat fratri suo viventi uxorem.
 
 [Lectio3]
@@ -77,7 +75,7 @@ R. Puellae saltanti imperavit mater:
 V. Ait puella matri suae: Quid petam? At illa ait:
 R. Nihil aliud petas, nisi caput Joannis.
 &Gloria
-R. Et contristatus est rex propter jusjurandum, et propter
+R. Et contristatus est rex propter jusjurandum, et propter simul discumbentes. 
 
 [Lectio4]
 Ex libro sancti Ambrosii Episcopi de Virginibus.
@@ -88,7 +86,7 @@ Quoniam beati Joannis Baptistae non strictim praetereunda est recordatio, intere
 @Commune/C2:Responsory2
 
 [Lectio5]
-Cuis non, cum e convivio ad carcerem cursari videret, putaret prophetam jussum esse dimitti? Quis, inquam, cum audisset natalem esse Herodis, solemne convivium, puellae optionem eligendi quod vellet datam, missum ad Joannem ob solutionem non arbitraretur? Quid crudelitati cum deliciis? quid cum funeribus voluptati? Rapitur ad poenam propheta convivali tempore, convivali praecepto, quo non cuperet vel absolvi: perimitur gladio, caput ejus affertur in disco. Hoc crudelitati forculum debebetur, quo insatiata epulis feritas vesceretur.
+Quis non, cum e convivio ad carcerem cursari videret, putaret prophetam jussum esse dimitti? Quis, inquam, cum audisset natalem esse Herodis, solemne convivium, puellae optionem eligendi quod vellet datam, missum ad Joannem ob solutionem non arbitraretur? Quid crudelitati cum deliciis? quid cum funeribus voluptati? Rapitur ad poenam propheta convivali tempore, convivali praecepto, quo non cuperet vel absolvi: perimitur gladio, caput ejus affertur in disco. Hoc crudelitati ferculum debebatur, quo insatiata epulis feritas vesceretur.
 
 [Responsory5]
 R. Iste cognovit justitiam, et vidit mirabilia magna, et exoravit Altissimum
@@ -97,7 +95,7 @@ V. Iste est qui contempsit vitam mundi, et pervenit ad caelestia regna.
 R. Et inventus est in numero sanctorum.
 
 [Lectio6]
-Intuere rex acerbissime tuo spectacula digna convivio. Porrige dexteram, ne quid saevitiae tuae desit, ut inter digitos tuos rivi defluant sacri cruoris. Et quoniam non exsaturari epulis fames, non restingui poculis potuit inauditae saevitiae sitis: bibe sanguinem scaturientibus adhuc venis exsecti capitis profluentem. Cerne oculos in ipsa morte sceleris tui testes, aversantes conspoctum deliciarum. Clauduntur lumina non tam mortis necessitate, quam horrore luxuriae. Os aureum illud exsangue, cujus sententiam ferre nonpoteras, conticescit, et adhuc timetur.
+Intuere rex acerbissime tuo spectacula digna convivio. Porrige dexteram, ne quid saevitiae tuae desit, ut inter digitos tuos rivi defluant sacri cruoris. Et quoniam non exsaturari epulis fames, non restingui poculis potuit inauditae saevitiae sitis: bibe sanguinem scaturientibus adhuc venis exsecti capitis profluentem. Cerne oculos in ipsa morte sceleris tui testes, aversantes conspectum deliciarum. Clauduntur lumina non tam mortis necessitate, quam horrore luxuriae. Os aureum illud exsangue, cujus sententiam ferre non poteras, conticescit, et adhuc timetur.
 
 [Responsory6]
 R. Honestum fecit illum Dominus, et custodivit eum ab inimicis, et a seductoribus tutavit illum:
@@ -110,11 +108,11 @@ R. Et dedit illi claritatem aeternam.
 [Lectio7]
 Lectio sancti Evangelii secundum Marcum.
 !Mark 6:17-29
-In illo tempore: Misit Herodes, ac tenuit Joauem, et vinxit eum in carcere, propter Herodiadem, uxorem Philippi fratris sui, quia duxerat eam. Et reliqua.
+In illo tempore: Misit Herodes, ac tenuit Joannem, et vinxit eum in carcere, propter Herodiadem, uxorem Philippi fratris sui, quia duxerat eam. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
 !Serm. 10. in novis. Serm.
-Cum sanctum Evangelium legeretur, crudele spectaculum ante oculos nostros constitutum est: caput sancti Joannis in disco, feralis missus crudelitatis propter odium veritatis. Puella saltat, et saevit mater: et inter lascivias et delicias convivantium temere juratur, et impie quod juratur, impletur. Factum est Joanni, quod ipse praedixerat. De Domino enim Jesu Christo dixerat: Illum oportet crescere, me autem minui. Iste mimitus est in capite, ille crevit in cruce. Odium peperit veritas. Non potuit aequo animo tolerari, quod homo Dei sanctus monebat: qui utique salutem eorum quaerebat, quos sic monebat. Responderunt illi mala pro bonis.
+Cum sanctum Evangelium legeretur, crudele spectaculum ante oculos nostros constitutum est: caput sancti Joannis in disco, feralis missus crudelitatis propter odium veritatis. Puella saltat, et saevit mater: et inter lascivias et delicias convivantium temere juratur, et impie quod juratur, impletur. Factum est Joanni, quod ipse praedixerat. De Domino enim Jesu Christo dixerat: Illum oportet crescere, me autem minui. Iste minutus est in capite, ille crevit in cruce. Odium peperit veritas. Non potuit aequo animo tolerari, quod homo Dei sanctus monebat: qui utique salutem eorum quaerebat, quos sic monebat. Responderunt illi mala pro bonis.
 
 [Responsory7]
 @Commune/C2:Responsory5
@@ -127,21 +125,21 @@ Quid enim ille diceret, nisi quo plenus erat? Et quid illi responderent, nisi qu
 
 [Lectio93]
 !Commemoratio S. Sabina Martyre.
-Sabina mulier Romana, Valentini viri clarissimi uxor, a Seraphia virgine christianae fidei praeceptis instituta, post sanctae Virginis martyrium collectas ejus reliquias piis exsequiis sepelivit, Quae propter eam causam paulo post Adriano imperatore comprehensa, Elpidio judici sistitur. Cui is: Tu ne illa Sabina et genere et matrimonio nobilissima? At illa, Sum, inquit: sed Domino meo Jesu Christo gratias ago, qui me, intercessione Seraphiae famulae suae, e daemonum potestate liberavit. Quam varie tentatam, ut propositum mutaret, cum a fidei constantia movere non posset, praefectus, pronuntiata sententia quod deos contemneret, capitis damnavit. Ejus corpus a Christianis in eodem sepulcro conditum est, in quo ipsa magistram fidei suae Seraphiam posuerat.
+Sabina mulier Romana, Valentini viri clarissimi uxor, a Seraphia virgine christianae fidei praeceptis instituta, post sanctae Virginis martyrium collectas ejus reliquias piis exsequiis sepelivit, Quae propter eam causam paulo post Hadriano imperatore comprehensa, Elpidio judici sistitur. Cui is: Tu ne illa Sabina et genere et matrimonio nobilissima? At illa, Sum, inquit: sed Domino meo Jesu Christo gratias ago, qui me, intercessione Seraphiae famulae suae, e daemonum potestate liberavit. Quam varie tentatam, ut propositum mutaret, cum a fidei constantia movere non posset, praefectus, pronuntiata sententia quod deos contemneret, capitis damnavit. Ejus corpus a Christianis in eodem sepulcro conditum est, in quo ipsa magistram fidei suae Seraphiam posuerat.
 &teDeum
 
 [Ant Laudes]
 Herodes enim tenuit * et ligavit Joannem, et posuit in carcerem propter Herodiadem.
 Domine mi rex, * da mihi in disco caput Joannis Baptistae.
 Puellae saltanti * imperavit mater: Nihil aliud petas, nisi caput Joannis.
-Arguebat Herodem * Joannes propter Herodiadem, quam tulerat fratri suo Philippo uxorem.
+Arguebat * Herodem Joannes propter Herodiadem, quam tulerat fratri suo Philippo uxorem.
 Da mihi in disco * caput Joannis Baptistae: et contristatus est rex propter jusjurandum.
 
 [Ant 2]
 Misso Herodes * spiculatore, praecepit amputari caput Joannis in carcere. Quo audito, discipuli ejus venerunt, et tulerunt corpus ejus, et posuerunt illud in monumento.
 
 [Ant 3]
-Misit rex * incredulus ministros detestabiles et amputari jussit caput Joannis Baptistae.
+Misit rex incredulus * ministros detestabiles et amputari jussit caput Joannis Baptistae.
 
 [Lectio94]
 Ex libro sancti Ambrósii Epíscopi de Virgínibus Quóniam beáti Joánnis Baptístæ non strictim prætereúnda est recordátio, ínterest ut quis et a quibus et quam ob causam, quo modo et quo témpore sit occísus, advértere debeámus. Ab adúlteris justus occíditur, et a reis in júdicem capitális scéleris poena convértitur. Deínde præmium saltatrícis, mors est Prophétæ. Postrémo (quod étiam omnes bárbari horrére consuevérunt) inter épulas atque convívia consummándæ crudelitátis profértur edíctum; et a convívio ad cárcerem, de cárcere ad convívium ferális flagítii circumfértur obséquium. Quanta in uno facínore sunt crímina!

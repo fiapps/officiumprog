@@ -11,8 +11,8 @@ De libro Judith
 
 [Lectio2]
 !Jdt 8:5-8
-5 Et in superioribus domus suae fecit sibi secretum cubiculum, in quo cum puellis suis clausa morabatur,
-6 et habens super lumbos suos cilicium, jejunabat omnibus diebus vitae suae, praeter sabbata et neomenias et festa domus Israël.
+5 Et in superioribus domus suae fecit sibi secretum cubiculum, in quo cum puellis suis clausa morabatur.
+6 Et habens super lumbos suos cilicium, jejunabat omnibus diebus vitae suae, praeter sabbata et neomenias et festa domus Israël.
 7 Erat autem eleganti aspectu nimis, cui vir suus reliquerat divitias multas, et familiam copiosam, ac possessiones armentis boum, et gregibus ovium plenas.
 8 Et erat haec in omnibus famosissima, quoniam timebat Dominum valde, nec erat qui loqueretur de illa verbum malum.
 
@@ -23,7 +23,7 @@ De libro Judith
 !Jdt 8:9-11
 9 Haec itaque cum audisset quoniam Ozias promisisset quod transacto quinto die traderet civitatem, misit ad presbyteros Chabri et Charmi.
 10 Et venerunt ad illam, et dixit illis: Quod est hoc verbum, in quo consensit Ozias, ut tradat civitatem Assyriis si intra quinque dies non venerit vobis adjutorium?
-11 et qui estis vos, qui tentatis Dominum?
+11 Et qui estis vos, qui tentatis Dominum?
 
 [Responsory3]
 @Tempora/094-0:Responsory6

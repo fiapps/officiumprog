@@ -223,7 +223,7 @@ Húsvéti örömül nekünk,
 Mentsd meg a bûnhalál elôl,
 Kiket az élet újraszült.
 _
-Dicsôség teneked, Urunk,
+* Dicsôség teneked, Urunk,
 Ki holtodból feltámadál,
 Atyának s Szentléleknek is,
 Most és örök idôkön át.

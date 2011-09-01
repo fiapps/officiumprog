@@ -11,7 +11,7 @@ $Qui vivis
 
 [Commemoratio]
 !Commemoratio S. Vitalis Mart.
-@Commune/C2p:Oratio proper
+@Commune/C2:Oratio proper
 $Oremus
 Grant we beseech the almighty God, that we who celebrate the martyrdom of blessed Vitalis, through his intercession be strengtened in your love
 $Per Dominum

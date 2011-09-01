@@ -4,7 +4,7 @@
 # Name : Laszlo Kiss
 # Date : 01-20-08
 # Divine Office
-#generates offices using K1570 kalendaR
+#generates offices using K1570 kalendar
 
 package horas;
 #1;
