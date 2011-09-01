@@ -17,7 +17,7 @@ Let us keep with rejoicing the Conception of the Blessed Virgin Mary, * that she
 
 [Capitulum Vespera]
 !Prov 8:22-24
-v. The Lord possessed me in the beginning of his ways, before he made any thing from the beginning. I was set up from eternity, and of old before the earth was made. The depths were not as yet, and I was already conceived.
+v. Alkotó munkája elején teremtett az Úr, õsidõktõl fogva, mint legelsõ mûvét. Az idõk elõtt alkotott, a kezdet kezdetén, a föld születése elõtt. Amikor létrehozott, még õsvizek sem voltak, és a forrásokból még nem tört elõ víz.
 $Deo gratias
 
 [Versum 1]
@@ -25,14 +25,10 @@ V. This day is the Conception of the holy Virgin Mary.
 R. Whose famous life still sheddeth lustre upon all the Churches.
 
 [Ant 1]
-Let us tell again * of the right worthy Birth of the glorious Virgin Mary, who~
-gained the honour of Motherhood without losing the guilelessness of a Maid.
+Let us tell again * of the right worthy Birth of the glorious Virgin Mary, who gained the honour of Motherhood without losing the guilelessness of a Maid.
 
 [Oratio]
-Grant unto us thy servants, we beseech thee, O Lord, the gift of thy heavenly~
-grace, unto whom Thou didst give the first sight of a Saviour as the offspring~
-of a Blessed Virgin, and grant that this Feast, which they keep in honour of the~
-same Virgin, may avail them unto the increase of peace.
+Grant unto us thy servants, we beseech thee, O Lord, the gift of thy heavenly grace, unto whom Thou didst give the first sight of a Saviour as the offspring of a Blessed Virgin, and grant that this Feast, which they keep in honour of the same Virgin, may avail them unto the increase of peace.
 $Per Dominum
 
 [Invit]
@@ -40,202 +36,91 @@ Let us keep the Birthday of the Virgin Mary. * Let us worship Christ, her Son, a
 
 [Lectio1]
 !Sir 24:5-13
-5 Én a Fölségesnek szájából származtam, elsöszülött vagyok minden teremtmény~
-elött.
-6 Én cselekedtem, hogy az égen elfogyhatlan világosság támadott, és mint köddel,~
-befödöztem az egész földet.
+5 Én a Fölségesnek szájából származtam, elsöszülött vagyok minden teremtmény elött.
+6 Én cselekedtem, hogy az égen elfogyhatlan világosság támadott, és mint köddel, befödöztem az egész földet.
 7 Lakásom a magasban, és királyi székem a felhök oszlopain.
-8 Az ég kerekségét egyedöl keröltem meg, és az örvény mélységét áthatottam, a~
-tenger habjain jártam,
+8 Az ég kerekségét egyedöl keröltem meg, és az örvény mélységét áthatottam, a tenger habjain jártam,
 9 és az egész földön állottam, és minden nép között
 10 és minden nemzet között elsöségem vala;
-11 minden nagy és kicsiny szivét legyöztem erömmel; és mindezekben nyugodalmat~
-kerestem, és az Úr örökségében lett maradásom.
-12 Akkor parancsola és mondá nekem a mindenek Teremtöje, és a ki teremtett engem,~
-megnyugovék hajlékomban,
-13 és mondá nekem: Jákobban lakjál, és Izraelben bírj örökséget, és~
-választottaim között verj gyökeret.
+11 minden nagy és kicsiny szivét legyöztem erömmel; és mindezekben nyugodalmat kerestem, és az Úr örökségében lett maradásom.
+12 Akkor parancsola és mondá nekem a mindenek Teremtöje, és a ki teremtett engem, megnyugovék hajlékomban,
+13 és mondá nekem: Jákobban lakjál, és Izraelben bírj örökséget, és választottaim között verj gyökeret.
 
 [Responsory1]
-R. This day was the Blessed Virgin Mary conceived of the lineage of David.
-* The same is she through whom the salvation of the world hath been manifested~
-before the eyes of all believers. This is she whose glorious life hath given~
-light to the world.
-V. Let us keep with rejoicing the Conception of the Blessed Virgin Mary.
-R. The same is she through whom the salvation of the world hath been manifested~
-before the eyes of all believers. This is she whose glorious life hath given~
-light to the world.
+@Sancti/12-25:Responsory1
 
 [Lectio2]
 !Sir 24:12-21
-14 Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem~
-szönök; és a szent lakhelyen szolgáltam elötte.
-15 És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen~
-megnyugodtam, és Jerusalemben az én hatalmam.
-16 És meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében,~
-mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
-17 Magasra nöttem, mint Libanon hegyén a czedrus, és mint a cziprusfa Sion~
-hegyén;
+14 Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem szönök; és a szent lakhelyen szolgáltam elötte.
+15 És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen megnyugodtam, és Jerusalemben az én hatalmam.
+16 És meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében, mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
+17 Magasra nöttem, mint Libanon hegyén a czedrus, és mint a cziprusfa Sion hegyén;
 18 növekedtem mint a pálma Kádeszben, és mint a rózsaültetvény Jerikóban;
-19 mint a mezökön a szép olajfa, felnöttem, és mint a platanus viz mellett az~
-utczákon.
-20 Mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a~
-jóillat gyönyöröségét;
-21 és mint a storax és galbanus és ónix és mirrha zsengéje, és mint a metszés~
-nélkül folyó illatszer, betöltöm illattal lakhelyemet, és mint vegyítetlen~
-balzsam az én illatom.
+19 mint a mezökön a szép olajfa, felnöttem, és mint a platanus viz mellett az utczákon.
+20 Mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a jóillat gyönyöröségét;
+21 és mint a storax és galbanus és ónix és mirrha zsengéje, és mint a metszés nélkül folyó illatszer, betöltöm illattal lakhelyemet, és mint vegyítetlen balzsam az én illatom.
 
 [Responsory2]
-R. Let us keep right heartily the Birthday of the Most Blessed Virgin Mary,
-* That she may pray for us to our Lord Jesus Christ.
-V. Let us keep with right hearty rejoicing the Conception of the Blessed Virgin~
-Mary.
-R. That she may pray for us to our Lord Jesus Christ.
+@Sancti/12-25:Responsory2
 
 [Lectio3]
 !Sir 24:22-31
-22 És mint a terpentinfa, kiterjesztettem ágaimat, és ágaim pompásak és~
-kedvesek.
-23 Én mint a szöllötö az illat gyönyöröségét termettem, és virágaimból díszes és~
-becses gyümölcs lett.
-24 Én a szép szeretet anyja vagyok, és a félelemé és az ismereté és a szent~
-reménységé.
-25 Nálam az út és igazság minden kegyelme, nálam az élet és erény minden~
-reménysége.
-26 Jöjetek át hozzám mindnyájan, kik engem kívántok, és gyümölcseimböl teljetek~
-el.
-27 Mert az én lelkem édesebb a méznél, és örökségem jobb a színméznél és a lépes~
-méznél.
+22 És mint a terpentinfa, kiterjesztettem ágaimat, és ágaim pompásak és kedvesek.
+23 Én mint a szöllötö az illat gyönyöröségét termettem, és virágaimból díszes és becses gyümölcs lett.
+24 Én a szép szeretet anyja vagyok, és a félelemé és az ismereté és a szent reménységé.
+25 Nálam az út és igazság minden kegyelme, nálam az élet és erény minden reménysége.
+26 Jöjetek át hozzám mindnyájan, kik engem kívántok, és gyümölcseimböl teljetek el.
+27 Mert az én lelkem édesebb a méznél, és örökségem jobb a színméznél és a lépes méznél.
 28 Az én emlékezetem él minden idök nemzedékeiben.
-29 A kik engem esznek, méginkább éheznek; és a kik engem isznak, méginkább~
-szomjaznak.
-30 A ki engem hallgat, nem szégyenöl meg, és a kik általam munkálkodnak, nem~
-vétkeznek.
+29 A kik engem esznek, méginkább éheznek; és a kik engem isznak, méginkább szomjaznak.
+30 A ki engem hallgat, nem szégyenöl meg, és a kik általam munkálkodnak, nem vétkeznek.
 31 A kik fényt derítenek rám, örök életet nyernek.
 
 [Responsory3]
-R. Let us tell again of the right worthy Birth of the Blessed Virgin Mary.
-* The same is she whose lowliness the Lord regarded, she who by the message of~
-an Angel conceived the Saviour of the world.
-V. Let us keep right earnestly the Conception of the most Blessed Virgin Mary.
-R. The same is she whose lowliness the Lord regarded, she who by the message of~
-an Angel conceived the Saviour of the world.
-&Gloria
-R. The same is she whose lowliness the Lord regarded, she who by the message of~
-an Angel conceived the Saviour of the world.
+@Sancti/12-25:Responsory3
 
 [Lectio4]
 From the Sermons of St Austin, Bishop (of Hippo.)
 !18 th on the Saints.
-Dearly beloved brethren, the day for which we have longed, the Feast-day of the~
-Blessed and Worshipful and Alway- Virgin Mary, that day is come. Let our land~
-laugh and sing with merriment, bathed in the glory of this great Virgin's~
-rising. She is the flower of the fields on which the priceless lily of the~
-valleys hath blossomed. This is she whose delivery changed the nature that we~
-draw from our first parents, and cleansed away their offence. At her that~
-dolorous sentence which was pronounced over Eve ended its course to her it was~
-never said "In sorrow thou shalt bring forth children." (Gen. iii. 16.) She~
-brought forth a Child, even the Lord, but she brought Him forth, not in sorrow,~
-but in joy.
+Dearly beloved brethren, the day for which we have longed, the Feast-day of the Blessed and Worshipful and Alway- Virgin Mary, that day is come. Let our land laugh and sing with merriment, bathed in the glory of this great Virgin's rising. She is the flower of the fields on which the priceless lily of the valleys hath blossomed. This is she whose delivery changed the nature that we draw from our first parents, and cleansed away their offence. At her that dolorous sentence which was pronounced over Eve ended its course to her it was never said "In sorrow thou shalt bring forth children." (Gen. iii. 16.) She brought forth a Child, even the Lord, but she brought Him forth, not in sorrow, but in joy.
 
 [Responsory4]
-R. This day was conceived the glorious Virgin Mary, a child of the seed of~
-Abraham, a daughter of the tribe of Judah, a Princess of the lineage of David.
-* This is she whose famous life still sheddeth lustre upon all the Churches.
-V. This day was the Blessed Virgin Mary conceived of the lineage of David.
-R. This is she whose famous life still sheddeth lustre upon all the Churches.
+@Sancti/12-25:Responsory4
 
 [Lectio5]
-Eve wept, but Mary laughed. Eves womb was big with tears, but Mary's womb was~
-big with gladness. Eve gave birth to a sinner, but Mary gave birth to the~
-sinless One. The mother of our race brought punishment into the world, but the~
-Mother of our Lord brought salvation into the world. Eve was the foundress of~
-sin, but Mary was the foundress of righteousness. Eve welcomed death, but Mary~
-helped in life. Eve smote, but Mary healed. For Eves disobedience, Mary offered~
-obedience and for Eves unbelief, Mary offered faith.
+Eve wept, but Mary laughed. Eves womb was big with tears, but Mary's womb was big with gladness. Eve gave birth to a sinner, but Mary gave birth to the sinless One. The mother of our race brought punishment into the world, but the Mother of our Lord brought salvation into the world. Eve was the foundress of sin, but Mary was the foundress of righteousness. Eve welcomed death, but Mary helped in life. Eve smote, but Mary healed. For Eves disobedience, Mary offered obedience and for Eves unbelief, Mary offered faith.
 
 [Responsory5]
-R. Let us keep with rejoicing the Birthday of the Blessed Mary,
-* That she may pray for us to our Lord Jesus Christ.
-V. With all our heart and with all our soul let us sing praise to Christ on this~
-the solemn Feastday of Mary the mighty Mother of God.
-R. That she may pray for us to our Lord Jesus Christ.
+@Sancti/12-25:Responsory5
 
 [Lectio6]
-Let Mary now make a loud noise upon the organ, and between its quick notes let~
-the rattling of the Mother's timbrel be heard. Let the gladsome choirs sing with~
-her, and their sweet hymns mingle with the changing music. Hearken to what a~
-song her timbrel will make accompaniment. She saith " My soul doth magnify the~
-Lord, and my spirit hath rejoiced in God my Saviour. For He hath regarded the~
-lowliness of His hand-maiden, for, behold, from henceforth all generations shall~
-call me blessed for He That is Mighty hath done to me great things." The new~
-miracle of Mary's delivery hath effaced the curse of the frail backslider, and~
-the singing of Mary hath silenced the wailing of Eve.
+Let Mary now make a loud noise upon the organ, and between its quick notes let the rattling of the Mother's timbrel be heard. Let the gladsome choirs sing with her, and their sweet hymns mingle with the changing music. Hearken to what a song her timbrel will make accompaniment. She saith " My soul doth magnify the~
+Lord, and my spirit hath rejoiced in God my Saviour. For He hath regarded the lowliness of His hand-maiden, for, behold, from henceforth all generations shall call me blessed for He That is Mighty hath done to me great things." The new miracle of Mary's delivery hath effaced the curse of the frail backslider, and the singing of Mary hath silenced the wailing of Eve.
 
 [Responsory6]
-R. thy Birth, O Virgin Mother of God, was a message of joy to the whole world
-* For out of thee rose the Sun of righteousness, even Christ our God, Who hath~
-taken away the curse and brought a blessing, confounded death, and given unto us~
-everlasting life.
-V. Blessed art thou among women, and blessed is the Fruit of thy womb.
-R. For out of thee rose the Sun of righteousness, even Christ our God.
-&Gloria
-R. Who hath taken away the curse and brought a blessing, confounded death, and~
-given unto us everlasting life.
+@Sancti/12-25:Responsory6
 
 [Lectio7]
 Evangélium szent Máté Apostol kõnyvébõl
 !Matt 1:1-17
-The Book of the generation of Jesus Christ, the Son of David, the son of~
-Abraham. Abraham begat Isaac, and Isaac begat Jacob. And so on.
+The Book of the generation of Jesus Christ, the Son of David, the son of Abraham. Abraham begat Isaac, and Isaac begat Jacob. And so on.
 _
 Homily by St Jerome, Priest (at Bethlehem.)
 !Bk. i. Comm. on Matth.
-In Isaiah (liii. 8) we read: "Who shall declare His generation?" Let us not~
-think that there is any contradiction between the Prophet and the Evangelist,~
-because the Prophet saith that this thing cannot be done, and the Evangelist~
-beginneth by doing it. The one speaketh of the generation of the Divine (Word by~
-the Eternal Father,) the other of the (family in which the) Incarnation (took~
-place.) Matthew beginneth with carnal things, that by learning of men we may go~
-on to learn of God. " The Son of David, the son of Abraham." The reversal of the~
-order in these clauses is a needful change. If Abraham had been put first and~
-David afterwards, Abraham would have had to be taken again, in order to marshal~
-the pedigree properly.
+In Isaiah (liii. 8) we read: "Who shall declare His generation?" Let us not think that there is any contradiction between the Prophet and the Evangelist, because the Prophet saith that this thing cannot be done, and the Evangelist beginneth by doing it. The one speaketh of the generation of the Divine (Word by the Eternal Father,) the other of the (family in which the) Incarnation (took place.) Matthew beginneth with carnal things, that by learning of men we may go on to learn of God. " The Son of David, the son of Abraham." The reversal of the order in these clauses is a needful change. If Abraham had been put first and David afterwards, Abraham would have had to be taken again, in order to marshal the pedigree properly.
 
 [Responsory7]
 @Sancti/07-02:Responsory7
 
 [Lectio8]
-Matthew first calleth Christ the Son of these twain Abraham and David without~
-making mention of the others, because unto these twain only was promise of~
-Christ made unto Abraham, where it is said "In thy seed " (that is, in Christ)~
-"shall all the nations of the earth be blessed," (Gen. xxii. 18) and unto David,~
-in the words " Of the fruit of thy body will I set upon thy throne." (Ps. cxxxi.~
-11.) "And Judas begat Phares and Zara of Thamar." It is to be remarked that in~
-the genealogy of the Saviour none of the holy women are named, but those women~
-only are named against whom the Scripture hath to say something amiss. He Who~
-came to save sinners was conceived of sinners, that He might wash away all sin.~
-Afterwards are named Ruth, who was a Moabitess, and Bathsheba, who had been the~
-wife of Uriah.
+Matthew first calleth Christ the Son of these twain Abraham and David without making mention of the others, because unto these twain only was promise of Christ made unto Abraham, where it is said "In thy seed " (that is, in Christ) "shall all the nations of the earth be blessed," (Gen. xxii. 18) and unto David, in the words " Of the fruit of thy body will I set upon thy throne." (Ps. cxxxi. 11.) "And Judas begat Phares and Zara of Thamar." It is to be remarked that in the genealogy of the Saviour none of the holy women are named, but those women only are named against whom the Scripture hath to say something amiss. He Who came to save sinners was conceived of sinners, that He might wash away all sin. Afterwards are named Ruth, who was a Moabitess, and Bathsheba, who had been the wife of Uriah.
 
 [Responsory8]
 @Sancti/07-02:Responsory8
 
 [Lectio9]
-Ex Epistola sancti Leonis Papæ ad Pulcheriam Augustam.
-!Epistola 1. ante medium.
-And the fulfilment of the mystery of our atonement, which was ordained from all~
-eternity, was not assisted by any figures because the Holy Spirit had not yet~
-come upon the Virgin, and the power of the Most High had not over-shadowed her:~
-so that Wisdom building herself a house within her undefiled body, the Word~
-became flesh; and the form of God and the form of a slave coming together into~
-one person, the Creator of times was born in time; and He Himself through whom~
-all things were made, was brought forth in the midst of all things. For if the~
-New Man had not been made in the likeness of sinful flesh, and taken on Him our~
-old nature, and being consubstantial with the Father, had deigned to be~
-consubstantial with His mother also, and being alone free from sin, had united~
-our nature to Him the whole human race would be held in bondage beneath the~
-Devil's yoke
+And Jacob begat Joseph. This is one of the passages which the Emperor Julian (the Apostate) put forward against us as an instance of mutual contradiction between the Evangelists, for, whereas Matthew here saith that Jacob begat Joseph, Luke (iii. 23,) saith that Joseph was the son of Heli. Julian understood not the use of Scripture, and that the one was the father of Joseph by nature, and the other according to the Law. We know that Moses, by the command of God, ordained If brethren dwell together, and one of them die and have no child, the wife of the dead shall not marry without, unto a stranger; her husband's brother shall go in unto her, and take her to him to wife, and perform the duty of an husband's brother unto her. And it shall be, that the first-born which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel, (Deut.~
+xxv. 5, 6.) Joseph, the husband of Mary. Let not this title of husband lead thee to form any thought of (completed) wedlock, but remember the use of Scripture to speak of Bridegroom and Bride as Husband and Wife
 &teDeum
 
 [Ant Laudes]
@@ -246,8 +131,7 @@ With all our heart and with all our soul let us sing praise to Christ * on this 
 Let us keep with rejoicing the Conception of the Blessed Virgin Mary, * that she may pray for us to our Lord Jesus Christ.
 
 [Ant 2]
-Let us this day keep solemnly * the Conception of Mary, Mother but still Maiden,~
-her Birth, a step toward the loftiness of her throne. Alleluia.
+Let us this day keep solemnly * the Conception of Mary, Mother but still Maiden, her Birth, a step toward the loftiness of her throne. Alleluia.
 
 [Versum 2]
 V. This day is the Conception of the holy Virgin Mary.
@@ -258,8 +142,5 @@ V. This day is the Conception of the holy Virgin Mary.
 R. Whose famous life still sheddeth lustre upon all the Churches.
 
 [Ant 3]
-thy Birth * O Virgin Mother of God, was a message of joy to the whole world, for~
-out of thee rose the Sun of righteousness, even Christ our God. Who hath taken~
-away the curse and brought a blessing, confounded death, and given unto us~
-everlasting life.
+thy Birth * O Virgin Mother of God, was a message of joy to the whole world, for out of thee rose the Sun of righteousness, even Christ our God. Who hath taken away the curse and brought a blessing, confounded death, and given unto us everlasting life.
 

@@ -7,7 +7,6 @@ De Daniele Propheta
 34 Videbas ita, donec abscissus est lapis de monte sine manibus: et percussit statuam in pedibus ejus ferreis et fictilibus, et comminuit eos.
 35 Tunc contrita sunt pariter ferrum, testa, aes, argentum, et aurum, et redacta quasi in favillam aestivae areae, quae rapta sunt vento, nullusque locus inventus est eis: lapis autem, qui percusserat statuam, factus est mons magnus, et implevit universam terram.
 
-
 [Responsory1]
 @Tempora/111-1:Responsory1
 
@@ -19,7 +18,6 @@ De Daniele Propheta
 39 Et post te consurget regnum aliud minus te argenteum: et regnum tertium aliud aereum, quod imperabit universae terrae.
 40 Et regnum quartum erit velut ferrum: quomodo ferrum comminuit, et domat omnia, sic comminuet, et conteret omnia haec.
 
-
 [Responsory2]
 @Tempora/111-1:Responsory2
 
@@ -29,7 +27,6 @@ De Daniele Propheta
 42 Et digitos pedum ex parte ferreos, et ex parte fictiles: ex parte regnum erit solidum, et ex parte contritum.
 43 Quod autem vidisti ferrum mistum testae ex luto, commiscebuntur quidem humano semine, sed non adhaerebunt sibi, sicut ferrum misceri non potest testae.
 44 In diebus autem regnorum illorum suscitabit Deus caeli regnum, quod in aeternum non dissipabitur, et regnum ejus alteri populo non tradetur: comminuet autem, et consumet universa regna haec, et ipsum stabit in aeternum.
-
 
 [Responsory3]
 @Tempora/111-1:Responsory3

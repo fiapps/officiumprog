@@ -200,7 +200,7 @@ comparabilis sed de mea essentia mihi natus aequalis.
 [Responsory8]
 R. Vidi Dominum facie ad faciem:
 * Et salva facta est anima mea.
-V. Et dixit mihi: Nequaquam vocaberis Jacob, sed Israel erit nomen tuum.
+V. Et dixit mihi: Nequaquam vocaberis Jacob, sed Israël erit nomen tuum.
 R. Et salva facta est anima mea.
 
 [Lectio9]
@@ -230,7 +230,7 @@ multitudine numerari non potest.
 [Ant Laudes]
 Domine * labia mea aperies, et os meum annuntiabit laudem tuam
 Dextera Domini * fecit virtutem: dextera Domini exaltavit me
-Factus est * adjutor meus Dominus
+Factus est * adjutor meus Deus meus
 Trium puerorum * cantemus hymnum, quem cantabant in camino ignis, benedicentes Dominum
 Statuit ea * in aeternum, et in saeculum saeculi; praeceptum posuit et non praeteribit
 

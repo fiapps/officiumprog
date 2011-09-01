@@ -8,8 +8,7 @@ Valentini
 vide C2;
 
 [Oratio]
-Praesta quaesumus omnipontens Deus: ut qui beati Valentini martyris tui natalitia~
-colimus, a cunctis malis imminentibus, eiusque intercessione liberemur.
+Praesta quaesumus omnipontens Deus: ut qui beati Valentini martyris tui natalitia colimus, a cunctis malis imminentibus, eiusque intercessione liberemur.
 $Per Dominum
 
 [Lectio93]

@@ -24,7 +24,7 @@ Amen.
 
 #Psalmi
 
-#Capitulum Responsorium Versum
+#Capitulum Responsorium Versus
 
 #Preces Feriales
 v. Kyrie, eleison. Christe, eleison. Kyrie, eleison.

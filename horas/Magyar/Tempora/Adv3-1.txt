@@ -5,7 +5,7 @@ Feria II infra Hebdomadam III Adventus;;Feria major;;2
 Oratio Dominica
 
 [Lectio1]
-Olvasmány Iziás próféta könyvébõl
+Olvasmány Izaiás próféta könyvébõl
 !Isa 28:1-3
 1 Jaj az efraimi részegek büszke koronájának, ragyogó ékessége hervadó virágának, amely a bortól tántorgók termékeny völgye felett van. 
 2 Íme, egy erõs és hatalmas férfit küld az Úr, aki, mint a jeges förgeteg, mint a romboló szélvész, és mint a hatalmas vizek áradata, lerántja õket hatalmával a földre. 
@@ -34,10 +34,7 @@ Olvasmány Iziás próféta könyvébõl
 @Tempora/Adv3-0:Responsory3
 
 [Ant 2]
-There shall come forth a rod * out of the stem of Jesse, and the whole earth~
-shall be filled with the glory of the Lord, and all flesh shall see the~
-salvation of God.
+There shall come forth a rod * out of the stem of Jesse, and the whole earth shall be filled with the glory of the Lord, and all flesh shall see the salvation of God.
 
 [Ant 3]
-All generations shall call me blessed, * for God hath regarded the lowliness of~
-His hand-maiden.
+All generations shall call me blessed, * for God hath regarded the lowliness of His hand-maiden.

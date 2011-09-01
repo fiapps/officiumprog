@@ -3,7 +3,7 @@
 
 #Psalmi
 
-#Capitulum Responsorium Hymnus Versum
+#Capitulum Responsorium Hymnus Versus
 
 #Canticum Benedictus
 &ant_Benedictus(1)

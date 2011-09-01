@@ -5,7 +5,7 @@ Feria VI infra Hebdomadam IV Adventus;;Feria major;;2
 Oratio Dominica
 
 [Lectio1]
-Olvasmány Iziás próféta könyvébõl
+Olvasmány Izaiás próféta könyvébõl
 !Isa 66:5-8
 5 Halljátok meg az Úr szavát, ti, akik megremegtek a szavára! Azt mondják testvéreitek, akik gyûlölnek, és a nevemért kitaszítanak benneteket: "Mutassa meg dicsõségét az Úr, hadd lássuk örömötöket!" Csakhogy szégyenben maradnak. 
 6 Lárma hangzik a város felõl, zúgás a templom felõl. Az Úr szava hallatszik, aki megfizet ellenségeinek. 
@@ -38,5 +38,4 @@ Olvasmány Iziás próféta könyvébõl
 @Tempora/Adv4-0:Responsory6
 
 [Ant 2]
-Behold, all things are fulfilled * which were spoken by the Angel concerning the~
-Virgin Mary.
+Behold, all things are fulfilled * which were spoken by the Angel concerning the Virgin Mary.

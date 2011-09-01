@@ -7,7 +7,6 @@ De libro primo Maccabeorum
 4 Et recordatus est malitiam filiorum Bean, qui erant populo in laqueum et in scandalum, insidiantes ei in via.
 5 Et conclusi sunt ab eo in turribus, et applicuit ad eos, et anathematizavit eos, et incendit turres eorum igni cum omnibus qui in eis erant.
 
-
 [Responsory1]
 @Tempora/101-2:Responsory1
 
@@ -18,7 +17,6 @@ De libro primo Maccabeorum
 8 et cepit Gazer civitatem et filias ejus, et reversus est in Judaeam.
 9 Et congregatae sunt gentes quae sunt in Galaad adversus Israëlitas, qui erant in finibus eorum, ut tollerent eos: et fugerunt in Datheman munitionem.
 
-
 [Responsory2]
 @Tempora/101-2:Responsory2
 
@@ -28,7 +26,6 @@ De libro primo Maccabeorum
 11 et parant venire, et occupare munitionem, in quam confugimus: et Timotheus est dux exercitus eorum.
 12 Nunc ergo veni, et eripe nos de manibus eorum, quia cecidit multitudo de nobis.
 13 Et omnes fratres nostri, qui erant in locis Tubin, interfecti sunt: et captivas duxerunt uxores eorum, et natos, et spolia, et peremerunt illic fere mille viros.
-
 
 [Responsory3]
 @Tempora/101-2:Responsory3

@@ -15,6 +15,6 @@ $Deus in adjutorium
 #Oratio
 
 #Conclusio
-&Dominus_vobiscumn
+&Dominus_vobiscum
 $Benedicamus Domino.
 $Fidelium animae

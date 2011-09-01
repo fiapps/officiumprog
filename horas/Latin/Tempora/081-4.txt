@@ -1,12 +1,11 @@
 [Lectio1]
-De Parabolis Salomonis. 
+De Parabolis Salomonis.
 !Prov 10:1-5
 1 Filius sapiens laetificat patrem, filius vero stultus mœstitia est matris suae.
 2 Nil proderunt thesauri impietatis, justitia vero liberabit a morte.
 3 Non affliget Dominus fame animam justi, et insidias impiorum subvertet.
 4 Egestatem operata est manus remissa; manus autem fortium divitias parat. Qui nititur mendaciis, hic pascit ventos; idem autem ipse sequitur aves volantes.
 5 Qui congregat in messe, filius sapiens est; qui autem stertit aestate, filius confusionis.
-
 
 [Responsory1]
 @Tempora/081-0:Responsory1
@@ -19,7 +18,6 @@ De Parabolis Salomonis.
 9 Qui ambulat simpliciter ambulat confidenter; qui autem depravat vias suas manifestus erit.
 10 Qui annuit oculo dabit dolorem; et stultus labiis verberabitur.
 
-
 [Responsory2]
 @Tempora/081-0:Responsory2
 
@@ -31,7 +29,6 @@ De Parabolis Salomonis.
 14 Sapientes abscondunt scientiam; os autem stulti confusioni proximum est.
 15 Substantia divitis, urbs fortitudinis ejus; pavor pauperum egestas eorum.
 16 Opus justi ad vitam, fructus autem impii ad peccatum.
-
 
 [Responsory3]
 @Tempora/081-0:Responsory3

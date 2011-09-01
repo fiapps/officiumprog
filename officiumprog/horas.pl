@@ -15,13 +15,13 @@ $a = 1;
 sub horas {
   $command = shift;
   $hora = $command;	
-                   
+
+our $canticum = 0;                   
 $tlang = ($lang1 !~ /Latin/) ? $lang1 : $lang2;    
 %translate = %{setupstring("$datafolder/$tlang/Psalterium/Translate.txt")}; 
 
 %chant = %{setupstring("$datafolder/Latin/Psalterium/Chant.txt")};
 
-                  
 $column = 1;
 if ($Ck) {$version = $version1; setmdir($version); precedence();}
 @script1 = getordinarium($lang1, $command);
@@ -39,7 +39,7 @@ table_start();
 $ind1 = $ind2 = 0;
 $searchind = 0;
 
-if ($version !~ /(Monastic|1955|1960)/i) {ante_post('Ante');}
+if ($version !~ /(Monastic|1570|1955|1960)/i) {ante_post('Ante');}
 else {$searchind++;}
 
 while ($ind1 < @script1 || $ind2 < @script2) {
@@ -51,22 +51,27 @@ while ($ind1 < @script1 || $ind2 < @script2) {
   $column = 1;
   if ($Ck) {$version = $version1;}
   $text1 =  resolve_refs($text1, $lang1);  
-  
+  if ($dayname[0] =~ /Quad/i && !Septuagesima_vesp()) {$text1 =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig;} 
+    
   $text1 =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;  
 
+  if ($lang1 =~ /Latin/i && $version =~ /1960/) {$text1 = jtoi($text1);}
   if ($text1  && $text1 !~ /^\s+$/) {setcell($text1, $lang1);} 
-    
+ 
+   
   if (!$only) {
     $column = 2;        
     if ($Ck) {$version = $version2;}
     $text2 = resolve_refs($text2, $lang2);    
- 	$text2 =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
+    if ($dayname[0] =~ /Quad/i && !Septuagesima_vesp()) {$text2 =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig;} 
 
+ 	$text2 =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
+    if ($lang2 =~ /Latin/i && $version =~ /1960/) {$text2 = jtoi($text2);}
     if ($text2  && $text2 !~ /^\s+$/) {setcell($text2, $lang2);}  
  }
 }
 
-if ($version !~ /(Monastic|1955|1960)/) {ante_post('Post');}
+if ($version !~ /(Monastic|1570|1955|1960)/) {ante_post('Post');}
 else {$searchind++;}
 
 table_end();
@@ -93,8 +98,8 @@ sub getunit {
     if (!$t) {next;}
     last;
   }    
-  if ($dayname[0] !~ /Pasc/i) {$t =~ s/\(Alleluia.*?\)//isg;}
-  else {$t =~ s/\((Alleluia.*?)\)/$1/isg;}
+  if ($dayname[0] !~ /Pasc/i) {$t =~ s/\(Allel[uú][ij]a.*?\)//isg;}
+  else {$t =~ s/\((Allel[uú][ij]a.*?)\)/$1/isg;}
 
   return ($t, $ind);
 }
@@ -271,14 +276,16 @@ sub resolve_refs {
 sub pater_noster {
   $lang = shift;   
   my %prayer = %{setupstring("$datafolder/$lang/Psalterium/Prayers.txt")};
-  my $text = $prayer{'Pater noster'};
+  my $text = $prayer{'Pater_noster1'};
+  return $text;
+
   my @text = split("\n", $text);
   $text[5] =~ s/\~//;
   $text[6] =~ s/\~//;
   $text[6] = "V. $text[6]";
   $text[7] = "R. $text[7]";  
   $text[7] =~ s/~//;
-  $text[8] =~ s/Amen[\.]*//;
+  $text[8] =~ s/[AÁ]men[\.]*//;
   $text = '';
   foreach (@text) {$text .= "$_\n";}    
   return $text; 
@@ -289,7 +296,7 @@ sub pater_noster {
 sub teDeum {
   my $lang = shift;
   my %prayer = %{setupstring("$datafolder/$lang/Psalterium/Prayers.txt")};
-  my $text = $prayer{'Te Deum'};
+  my $text = ($version =~ /1570/ && exists($prayer{'Te DeumO'})) ? $prayer{'Te DeumO'} : $prayer{'Te Deum'};
   $text = "\n_\n!Te Deum\n" . $text;
   return $text; 
 }
@@ -356,7 +363,7 @@ sub Dominus_vobiscum {
     if (!$precesferiales) {$text = "$text[2]\n$text[3]"}
 	else {$text = "$text[4]";}
     $precesferiales = 0;
-  }					   
+  }	
   return $text;
 }
 
@@ -412,7 +419,7 @@ sub psalm {
   my @a = @_;			        
                     
   my ($num, $lang, $antline);	
-  
+
   if (@a < 4) {$num = $a[0]; $lang = $a[1]; $antline = $a[2];}
   else {$num = "$a[0]($a[1]-$a[2])"; $lang = $a[3]; $antline = $a[4];}	  
 
@@ -421,10 +428,15 @@ sub psalm {
 	else {$version = $version2;}
   }
 
-  my $nogloria = 0;     
-  if ($num =~ /^-/) {$num = $'; $nogloria = 1;}		  
-  																	
-  $psalmfolder = ($accented =~ /plane/i) ? 'psalms' : 'psalms1';   
+  my $nogloria = 0; 
+  if ($num =~ /^-/) {
+    $num = $';
+    if (($version =~ /Trident/i && $num =~ /(62|148|149)/) || 
+      ($version =~ /Monastic/i && $num =~ /115/)) {$nogloria = 1;}
+  }		  
+  															
+  #$psalmfolder = ($accented =~ /plain/i) ? 'psalms' : 'psalms1';
+  $psalmfolder = 'psalms1';   
   
   $fname=checkfile($lang, "$psalmfolder/Psalm$a[0].txt"); 
   if ($version =~ /1960/ && $fname =~ /226/) {$fname =~ s/226/226r/;}  
@@ -573,8 +585,8 @@ sub depunct {
 }
 
 sub settone {  	
-  if ((!$Hk && $Tk < 3) || $voicecolumn !~ /chant/i || ($hora =~ /Matutinum/i && 
-    !$chantmatins )) {return '';}
+  if (((!$Hk && $Tk < 3) || $voicecolumn !~ /chant/i  || ($hora =~ /Matutinum/i && 
+    !$chantmatins )) && !$notes) {return '';} 
 			
   my $flag = shift;	
   if (!$flag) {return " {::} ";}
@@ -638,7 +650,7 @@ sub settone {
   my $j = ($hora =~ /(laudes|vespera|matutinum)/i) ? $ind : ($hora =~ /Prima/i) ? 0 :
      ($hora =~ /Tertia/i) ? 1 : ($hora =~ /Sexta/i) ? 2 : ($hora =~ /Nona/i) ? 3 : 4;
   $tone = $a[$j];  
-  return " {:p$tone:} ";
+  return ($flag == 2) ? " {:pc$tone:} " : " {:p$tone:} ";
 }
 
 
@@ -682,7 +694,7 @@ sub setlink {
   if ($name =~ /\&Gloria/ && $rule =~ /Requiem gloria/i) {$name = '$Requiem';}
                              
   if (($name =~ /\&Gloria$/i && $dayname[0] =~ /Quad6/i && $dayofweek > 3 &&
-   !($dayofweek == 6 && $hora =~ /(Vespera|Completorium)/i)) ||
+   !($version !~ /(1955|1960)/i && $dayofweek == 6 && $hora =~ /(Vespera|Completorium)/i)) ||
     ($name =~ /\&Gloria[12]/i && $dayname[0] =~ /(Quad[56])/i)
         && $winner !~ /Sancti/i && $rule !~ /Gloria responsory/i)  {
      $name = 'Gloria omittitur';    
@@ -698,7 +710,7 @@ sub setlink {
   
   if (($name =~ /&Dominus_vobiscum1/i && !$priest  && !preces('Dominicales et Feriales')) ||
   ($name =~ /&Dominus_vobiscum2/i && !$priest )) {
-	$name = 'omit secunda Domine exaudi'; 
+	$name = 'secunda Domine exaudi omittitur'; 
   if ($name !~ /^\#/ && $lang !~ /Latin/i) {$name = translate($name);} 
 	return setfont($smallfont, $name);
   }
@@ -768,8 +780,8 @@ sub ant_Benedictus {
     my %v = %{setupstring("$datafolder/$lang/Psalterium/Major Special.txt")};
     $a = $v{"Adv Ant $day" . "L"};    
   }
-  if ($dayname[0] !~ /Pasc/i) {$a =~ s/\(Alleluia.*?\)//isg;}
-  else {$a =~ s/\((Alleluia.*?)\)/$1/isg;}
+  if ($dayname[0] !~ /Pasc/i) {$a =~ s/\(Allel[uú][ij]a.*?\)//isg;}
+  else {$a =~ s/\((Allel[uú][ij]a.*?)\)/$1/isg;}
   
   my @a = split('\*', $a);
   if ($num == 1 && $duplex < 3 && $version !~ /1960/) {return "Ant. $a[0]";}
@@ -804,8 +816,8 @@ sub ant_Magnificat {
 	  $a = $v{"Adv Ant $day"};
     $num = 2;
   }
-  if ($dayname[0] !~ /Pasc/i) {$a =~ s/\(Alleluia.*?\)//isg;}
-  else {$a =~ s/\((Alleluia.*?)\)/$1/isg;}
+  if ($dayname[0] !~ /Pasc/i) {$a =~ s/\(Allel[uú][ij]a.*?\)//isg;}
+  else {$a =~ s/\((Allel[uú][ij]a.*?)\)/$1/isg;}
 
   my @a = split('\*', $a);
   if ($num == 1 && $duplex < 3 && $version !~ /1960/) {return "Ant. $a[0]";}
@@ -821,13 +833,15 @@ sub canticum {
   $psnum += 230;
 
   my $w = '';
-  $psalmfolder = ($accented =~ /plane/i) ? 'psalms' : 'psalms1';   
+  #$psalmfolder = ($accented =~ /plain/i) ? 'psalms' : 'psalms1';   
+  $psalmfolder = 'psalms1';   
+
   my $fname = checkfile($lang, "$psalmfolder/Psalm$psnum.txt");    
   if (open(INP, $fname)) {
     my @w = <INP>;
     close INP;
     $w[0] =~ s/\!//;  
-    $w .= setfont($redfont, chompd(shift(@w))) . settone(2) . "\n";
+    $w .= setfont($redfont, chompd(shift(@w))) . settone(2) . "\n"; 
     foreach $item (@w) {
       if ($item =~ /^([0-9]+\:)*([0-9]+) /) {
         my $rest = $';
@@ -939,7 +953,7 @@ sub gregor {
  my $sfx1 = ($day > 3 && $day < 21) ? 'th' : (($day %10) == 1) ? 'st' : (($day % 10) == 2) ? 'nd' : (($day % 10)== 3) ? 'rd' : 'th';
  my $sfx2 = ($gday > 3 && $gday < 21) ? 'th' : (($gday %10) == 1) ? 'st' : (($gday % 10) == 2) ? 'nd' : (($gday % 10)== 3) ? 'rd' : 'th';
  $day = $day + 0; 
- if ($lang =~ /Latin/i) {return ("Luna $ordinals[$gday-1] Anno $year Domino\n", ' '); }
+ if ($lang =~ /Latin/i) {return ("Luna $ordinals[$gday-1] Anno $year Domini\n", ' '); }
  else {return ("$months[$month - 1] $day$sfx1 anno Domini $year The $gday$sfx2 Day of Moon", $months[$month-1]);}
 
  #return sprintf("%02i", $gday);
@@ -1065,5 +1079,6 @@ sub setasterisk {
 sub columnsel {
   my $lang = shift;
   if ($Ck) {return ($column == 1) ? 1 : 0;}
-  return ($lang =~ /$lang1/i) ? 1 : 0;
+  return ($lang =~ /^$lang1$/i) ? 1 : 0;
 }
+

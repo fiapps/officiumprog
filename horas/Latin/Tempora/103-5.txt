@@ -6,7 +6,6 @@ De libro primo Maccabeorum
 18 scripserunt ad eum in tabulis aereis, ut renovarent amicitias et societatem quam fecerant cum Juda et cum Jonatha, fratribus ejus.
 19 Et lectae sunt in conspectu ecclesiae in Jerusalem. Et hoc exemplum epistolarum, quas Spartiatae miserunt:
 
-
 [Responsory1]
 @Tempora/101-0:Responsory4
 
@@ -17,7 +16,6 @@ De libro primo Maccabeorum
 22 Et scripsimus quae ab eis erant dicta in conciliis populi, sic: Numenius Antiochi, et Antipater Jasonis filius, legati Judaeorum, venerunt ad nos, renovantes nobiscum amicitiam pristinam.
 23 Et placuit populo excipere viros gloriose, et ponere exemplum sermonum eorum in segregatis populi libris, ut sit ad memoriam populo Spartiatarum. Exemplum autem horum scripsimus Simoni magno sacerdoti.
 
-
 [Responsory2]
 @Tempora/101-0:Responsory5
 
@@ -26,7 +24,6 @@ De libro primo Maccabeorum
 24 Post haec autem misit Simon Numenium Romam, habentem clypeum aureum magnum, pondo minarum mille, ad statuendam cum eis societatem. Cum autem audisset populus Romanus
 25 sermones istos, dixerunt: Quam gratiarum actionem reddemus Simoni, et filiis ejus?
 26 restituit enim ipse fratres suos, et expugnavit inimicos Israël ab eis, et statuerunt ei libertatem, et descripserunt in tabulis aereis, et posuerunt in titulis in monte Sion.
-
 
 [Responsory3]
 @Tempora/101-0:Responsory6

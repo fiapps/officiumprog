@@ -6,7 +6,6 @@ Incipit Jonas Propheta
 3 Et surrexit Jonas, ut fugeret in Tharsis a facie Domini, et descendit in Joppen: et invenit navem euntem in Tharsis, et dedit naulum ejus, et descendit in eam ut iret cum eis in Tharsis a facie Domini.
 4 Dominus autem misit ventum magnum in mare: et facta est tempestas magna in mari, et navis periclitabatur conteri.
 
-
 [Responsory1]
 @Tempora/111-0:Responsory7
 
@@ -15,7 +14,6 @@ Incipit Jonas Propheta
 5 Et timuerunt nautae, et clamaverunt viri ad deum suum, et miserunt vasa quae erant in navi, in mare, ut alleviaretur ab eis; et Jonas descendit ad interiora navis, et dormiebat sopore gravi.
 6 Et accessit ad eum gubernator, et dixit ei: Quid tu sopore deprimeris? surge, invoca Deum tuum, si forte recogitet Deus de nobis, et non pereamus.
 7 Et dixit vir ad collegam suum: Venite et mittamus sortes, et sciamus quare hoc malum sit nobis. Et miserunt sortes, et cecidit sors super Jonam.
-
 
 [Responsory2]
 @Tempora/111-1:Responsory2
@@ -27,7 +25,6 @@ Incipit Jonas Propheta
 10 Et timuerunt viri timore magno, et dixerunt ad eum: Quid hoc fecisti? cognoverunt enim viri quod a facie Domini fugeret, quia indicaverat eis.
 11 Et dixerunt ad eum: Quid faciemus tibi, et cessabit mare a nobis? quia mare ibat, et intumescebat.
 12 Et dixit ad eos: Tollite me, et mittite in mare, et cessabit mare a vobis: scio enim ego quoniam propter me tempestas haec grandis venit super vos.
-
 
 [Responsory3]
 @Tempora/111-1:Responsory3

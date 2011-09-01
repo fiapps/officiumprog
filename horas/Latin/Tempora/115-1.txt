@@ -6,7 +6,6 @@ Incipit Nahum Propheta
 3 Dominus patiens, et magnus fortitudine, et mundans non faciet innocentem. Dominus in tempestate et turbine viae ejus, et nebulae pulvis pedum ejus.
 4 Increpans mare, et exsiccans illud, et omnia flumina ad desertum deducens. Infirmatus est Basan et Carmelus, et flos Libani elanguit.
 
-
 [Responsory1]
 @Tempora/111-1:Responsory1
 
@@ -15,7 +14,6 @@ Incipit Nahum Propheta
 4 Increpans mare, et exsiccans illud, et omnia flumina ad desertum deducens. Infirmatus est Basan et Carmelus, et flos Libani elanguit.
 5 Montes commoti sunt ab eo, et colles desolati sunt: et contremuit terra a facie ejus, et orbis, et omnes habitantes in eo.
 6 Ante faciem indignationis ejus quis stabit? et quis resistet in ira furoris ejus? Indignatio ejus effusa est ut ignis, et petrae dissolutae sunt ab eo.
-
 
 [Responsory2]
 @Tempora/111-1:Responsory2
@@ -26,7 +24,6 @@ Incipit Nahum Propheta
 8 Et in diluvio praetereunte consummationem faciet loci ejus, et inimicos ejus persequentur tenebrae.
 9 Quid cogitatis contra Dominum? Consummationem ipse faciet: non consurget duplex tribulatio,
 10 quia sicut spinae se invicem complectuntur, sic convivium eorum pariter potantium; consumentur quasi stipula ariditate plena.
-
 
 [Responsory3]
 @Tempora/111-1:Responsory3

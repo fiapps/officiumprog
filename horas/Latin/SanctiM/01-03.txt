@@ -6,7 +6,7 @@ Die Tertia Januarii;;Feria;;1.1;;
 [Oratio]
 Deus, qui unigenitum Filium tuum constituisti humani generis Salvatorem, et~
 Jesum vocari jussisti: concede propitius; ut, cujus sanctum nomen veneramur in~
-terris, ejus quoque aspectu perfruamur in coelis.
+terris, ejus quoque aspectu perfruamur in caelis.
 $Per eumdem
 
 [Lectio1]
@@ -42,4 +42,3 @@ De Epistola ad Romanos.
 
 [Responsory3]
 @SanctiM/01-01:Responsory6
-

@@ -6,7 +6,6 @@ De libro Ecclesiastae.
 3 Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum, quo facto opus est sub sole numero dierum vitae suae.
 4 Magnificavi opera mea, aedificavi mihi domos, et plantavi vineas;
 
-
 [Responsory1]
 @Tempora/081-1:Responsory1
 
@@ -16,7 +15,6 @@ De libro Ecclesiastae.
 8 coacervavi mihi argentum et aurum, et substantias regum ac provinciarum; feci mihi cantores et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda;
 9 et supergressus sum opibus omnes qui ante me fuerunt in Jerusalem: sapientia quoque perseveravit mecum.
 
-
 [Responsory2]
 @Tempora/081-1:Responsory2
 
@@ -24,7 +22,6 @@ De libro Ecclesiastae.
 !Eccl 2:10-11
 10 Et omnia quae desideraverunt oculi mei non negavi eis, nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his quae praeparaveram; et hanc ratus sum partem meam si uterer labore meo.
 11 Cumque me convertissem ad universa opera quae fecerant manus meae, et ad labores in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

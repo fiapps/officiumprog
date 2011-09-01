@@ -14,7 +14,6 @@ De epistola ad Galatas
 5 Qui ergo tribuit vobis Spiritum, et operatur virtutes in vobis: ex operibus legis, an ex auditu fidei?
 6 Sicut scriptum est: Abraham credidit Deo, et reputatum est illi ad justitiam:
 
-
 [Responsory1]
 @Tempora/Epi2-1:Responsory1
 
@@ -25,7 +24,6 @@ De epistola ad Galatas
 9 Igitur qui ex fide sunt, benedicentur cum fideli Abraham.
 10 Quicumque enim ex operibus legis sunt, sub maledicto sunt. Scriptum est enim: Maledictus omnis qui non permanserit in omnibus quae scripta sunt in libro legis ut faciat ea.
 
-
 [Responsory2]
 @Tempora/Epi2-1:Responsory2
 
@@ -35,7 +33,6 @@ De epistola ad Galatas
 12 Lex autem non est ex fide, sed: Qui fecerit ea, vivet in illis.
 13 Christus nos redemit de maledicto legis, factus pro nobis maledictum: quia scriptum est: Maledictus omnis qui pendet in ligno:
 14 ut in gentibus benedictio Abrahae fieret in Christo Jesu, ut pollicitationem Spiritus accipiamus per fidem.
-
 
 [Responsory3]
 @Tempora/Epi2-1:Responsory3

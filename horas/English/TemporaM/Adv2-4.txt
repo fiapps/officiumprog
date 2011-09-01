@@ -15,7 +15,7 @@ fight brother against brother, and friend against friend, city against city,~
 kingdom against kingdom.
 
 [Responsory1]
-@TemporaM/Adv1-1:Responsory1
+@TemporaM/Adv2-1:Responsory1
 
 [Lectio2]
 !Isa 19:3-6
@@ -30,7 +30,7 @@ dry.
 be dried up. The reed and the bulrush shall wither away.
 
 [Responsory2]
-@TemporaM/Adv1-1:Responsory2
+@TemporaM/Adv2-1:Responsory2
 
 [Lectio3]
 !Isa 19:11-13
@@ -43,7 +43,7 @@ hosts hath purposed upon Egypt.
 they have deceived Egypt, the stay of the people thereof.
 
 [Responsory3]
-@TemporaM/Adv1-1:Responsory3
+@TemporaM/Adv2-1:Responsory3
 
 [Ant 2]
 O Lord, Thou art He That should come, * for Whom we look, that Thou shouldest~

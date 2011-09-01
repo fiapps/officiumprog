@@ -5,7 +5,7 @@ $Deus in adjutorium
 
 #Psalmi
 
-#Capitulum Responsory Hymnus Versum
+#Capitulum Responsory Hymnus Versus
 
 #Canticum Magnificat
 &ant_Magnificat(1)

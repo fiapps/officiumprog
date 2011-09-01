@@ -25,7 +25,6 @@ De Actibus Apostolorum.
 23 Cum constituissent autem illi diem, venerunt ad eum in hospitium plurimi, quibus exponebat testificans regnum Dei, suadensque eis de Jesu ex lege Moysi et prophetis a mane usque ad vesperam.
 24 Et quidam credebant his quae dicebantur: quidam vero non credebant.
 
-
 [Responsory2]
 @Tempora/Pasc0-1:Responsory2
 
@@ -34,7 +33,7 @@ De Actibus Apostolorum.
 25 Cumque invicem non essent consentientes, discedebant, dicente Paulo unum verbum: Quia bene Spiritus Sanctus locutus est per Isaiam prophetam ad patres nostros,
 26 dicens: Vade ad populum istum, et dic ad eos: Aure audietis, et non intelligetis, et videntes videbitis, et non perspicietis.
 27 Incrassatum est enim cor populi hujus, et auribus graviter audierunt, et oculos suos compresserunt: ne forte videant oculis, et auribus audiant, et corde intelligant, et convertantur, et sanem eos.
-28 Notum ergo sit vobis, quoniam gentibus missum est hoc salutare Dei, et ipsi audient.
+28 Notum ergo sit vobis, quoniam Gentibus missum est hoc salutare Dei, et ipsi audient.
 29 Et cum haec dixisset, exierunt ab eo Judaei, multam habentes inter se quaestionem.
 30 Mansit autem biennio toto in suo conducto: et suscipiebat omnes qui ingrediebantur ad eum,
 31 praedicans regnum Dei, et docens quae sunt de Domino Jesu Christo cum omni fiducia, sine prohibitione.

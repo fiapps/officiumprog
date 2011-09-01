@@ -5,7 +5,7 @@ Feria III infra Hebdomadam IV Adventus;;Feria major;;2
 Oratio Dominica
 
 [Lectio1]
-Olvasmány Iziás próféta könyvébõl
+Olvasmány Izaiás próféta könyvébõl
 !Isa 42:1-4
 1 Nézzétek, a szolgám, akit támogatok, a választottam, akiben kedvem telik. Kiárasztom rá lelkemet, hogy igazságot vigyen a nemzeteknek. 
 2 Nem kiált majd, s nem emeli föl a hangját, szava se hallatszik az utcákon. 

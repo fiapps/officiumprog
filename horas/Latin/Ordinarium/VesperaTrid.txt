@@ -1,13 +1,13 @@
 #Incipit
 $Pater noster
-$Ave  Maria
+$Ave Maria
 $Deus in adjutorium
 &Gloria
 &Alleluia
 
 #Psalmi
 
-#Capitulum Hymnus Versum
+#Capitulum Hymnus Versus
 
 #Canticum Magnificat
 &ant_Magnificat(1)

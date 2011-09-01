@@ -21,6 +21,7 @@ $skeleton = 0;
 $pind1 = 0;
 $pind2 = 0;
 $coupled = 0;
+$compare = 0;
 $wrapper = Text::Wrapper->new();
 $filechanged = 0;
 $expand1 = 0;
@@ -52,8 +53,9 @@ if ($folder2 =~ /Tempora/i && $dayofweek > 0 && $monthday) {$filename2 = $monthd
   'TemporaM','SanctiM','CommuneM','Tabulae','Martyrologium','Martyrologium1','Martyrologium2','program','test');
 @folders2=('Ordinarium','Psalterium','Tempora','Sancti','Commune','psalms','psalms1',
   'Martyrologium','TemporaM','SanctiM','CommuneM','test');
-@languages1 = getdialogcolumn('languages','~',0);
-@languages2 = getdialogcolumn('languages', '~',0);
+
+@languages1 = split(',',$dialog{languages});
+@languages2 = split(',',$dialog{languages});
 unshift(@languages2, 'search');
 unshift(@languages2, 'none');
 
@@ -88,7 +90,7 @@ sub editrut {
   if ($edittop) {$edittop->destroy(); $edittop = '';}
   $mw->idletasks();
 
-  if ($folder1 =~ /program/) {$edit1 = 0; $coupled = 0;}
+  if ($folder1 =~ /program/) {$edit1 = 0; $coupled = 0; $compare = 0;}
   if ($edit1) {$skeleton = 0;}
   if ($folder1 =~ /program/i) {$lang2 = 'none';}
   
@@ -161,6 +163,7 @@ sub editrut {
   my $checkbox = setcheckbox($top3frame, 'Skeleton', \$skeleton);
   $checkbox->configure(-command=>sub{$expand1 = 0; editrut();});
   setcheckbox($top3frame, 'Coupled', \$coupled);
+  setcheckbox($top3frame, 'Compare', \$compare);
   setcheckbox($top3frame, 'Edit', \$edit1);
   if ($savesetup < 2) {setbutton($top3frame, 'Finish', \&closerut, 1);}
   else {
@@ -177,6 +180,11 @@ sub editrut {
 	my $flag = ($search) ? 1 : 0;
 	setbutton($top3frame, 'Next', \&nextrut, $flag);
   }
+
+  $top4frame = $edittop->Frame(-background=>$framecolor)
+    ->pack(-side=>'top');
+   $checklab = $top4frame->Label(-text=>$error)->pack(-side=>'top', -pady=>$pady);
+   configure($checklab, $framecolor, $redfont);
 
 
  $editheight = floor($mw->height * .8);	 
@@ -226,6 +234,7 @@ if (!$skeleton) {
   $cell1->tagConfigure("all", -lmargin1=>10, -lmargin2=>10, -rmargin=>10);
   $cell1->tagAdd("all", '1.0', 'end');
 
+  if ($searchtext) {$search = putaccents($search);} 
   if ($elang2 =~ /search/i) { 
     $txvern = ($searchtext) ? $searchtext :
 	  "Enter search string and optional [key], press Search tab";
@@ -249,35 +258,67 @@ elsif ($folder1 !~ /program/i) {
   while ($ind1 < @txlat || $ind2 < @txvern) {
     ($text1, $ind1) = getunit(\@txlat, $ind1);
     ($text2, $ind2) = getunit(\@txvern, $ind2); 
+    if ($compare) {    
+	  $text1 =~ s/\n[0-9: ]+/\n/;
+	  $text1 =~ s/\n[0-9: ]+/ /g;
+      $text2=~ s/\n[0-9: ]+/\n/;
+      $text2=~ s/\n[0-9: ]+/ /g;
+	  $text1 =~ s/ +/ /g;
+	  $text2 =~ s/ +/ /g;
+    }
 
-	  my $rnum = $pind1;
+	my $rnum = $pind1;
 
     @text1 = split("\n", $text1);
-    editcellout($cell1, "\n", $cellwidth);
+    @text2 = split("\n", $text2);
+    
+	
+	editcellout($cell1, "\n", $cellwidth);
     my $ind = $cell1->index('insert');
-	  
-   
 
     $cell1->tagConfigure("ref$rnum", -font=>"{Arial} 8", -foreground=>$blue);
     $cell1->insert('insert', '  ');
 	  $cell1->insert('insert', "[+]", "ref$rnum");
     $cell1->insert('insert', '  ');
     mouseover($cell1, "ref$rnum");
-	  $cell1->tagBind("ref$rnum", '<ButtonRelease>'=>sub{
-      if ($rnum == $expand1) {$expand1 = 0;}
-      else {$expand1 = $rnum;}
-      editrut();});
-      editcellout($cell1, "$text1[0]\n", $cellwidth);
-    if ($pind1 == $expand1) {for ($ii = 1; $ii < @text1; $ii++) 
-        {editcellout($cell1, "$text1[$ii]\n", $cellwidth);}}
-      
-	  if ($text2) {
-        @text2 = split("\n", $text2);
+	$cell1->tagBind("ref$rnum", '<ButtonRelease>'=>sub{
+    if ($rnum == $expand1) {$expand1 = 0;}
+    else {$expand1 = $rnum;}
+    editrut();});
+    
+	my $t = "$text1[0] "; 
+    if ($compare) {
+	  $t .= lcompare($text1, $text2);
+	  editcellout($cell1, "$t\n", $cellwidth);
+      if ($pind1 == $expand1) {for ($ii = 1; $ii < @text1; $ii++)     
+        {editcellout($cell1, tcompare($text1[$ii], $text2[$ii]) . "\n", $cellwidth);}}
+
+	} else {
+       editcellout($cell1, "$t\n", $cellwidth);
+	   if ($pind1 == $expand1) {
+	     for ($ii = 1; $ii < @text1; $ii++) {editcellout($cell1, "$text1[$ii]\n", $cellwidth);}
+	   }
+    }  
+	if ($text2) {
         editcellout($cell2, "\n", $cellwidth);
-        editcellout($cell2, "$text2[0]\n", $cellwidth);
-        if ($pind1 == $expand1) {for ($ii = 1; $ii < @text2; $ii++) {
-          editcellout($cell2, " $text2[$ii]\n", $cellwidth);}}
-      }
+        my $t = $text2[0];
+        
+        if ($compare) {
+	      $t .= lcompare($text2, $text1);
+	      editcellout($cell2, "$t\n", $cellwidth);
+          if ($pind1 == $expand1) {for ($ii = 1; $ii < @text1; $ii++)     
+            {editcellout($cell2, tcompare($text2[$ii], $text1[$ii]) . "\n", $cellwidth);}}
+
+	    } else {
+           editcellout($cell2, "$t\n", $cellwidth);
+	       if ($pind1 == $expand1) {
+		     for ($ii = 1; $ii < @text1; $ii++) {editcellout($cell2, "$text2[$ii]\n", $cellwidth);}
+		   }	 
+       }  
+		
+    }
+
+
     $pind1++;
   }
 } 
@@ -311,10 +352,10 @@ else {
  
  $editwindow->focus();
 
- if ($error) {
+ #if ($error) {
    my $lab = $edittop->Label(-text=>$error)->pack(-side=>'top', -pady=>$pady);
    configure($lab, $framecolor, $redfont);
- }
+ #}
 
 }
 
@@ -468,12 +509,16 @@ sub adjust {
   } 
 
   $checkerr = "";
-  if ($folder =~ /(Commune|Sancti|Tempora|test)/i) {$checkerr = check(\@t);}
-  $error .= $checkerr;
+  if ($folder =~ /(Commune|Sancti|Tempora|test)/i) {
+    $checkerr = check(\@t);
+    if (!$checkerr) {$checkerr = "$filename1 no error"};
+    $checklab->configure(-text=>$checkerr);
+    $mw->update();
+  }	 
                                     
   #wrap
   @o = splice(@o, @o);
-  $limit = 80;
+  $limit = 10000;
   $break = "~\n";
   $mode = '';
   $t[-1] =~ s/\~//;
@@ -711,6 +756,9 @@ sub seteditcell {
   }
 
   $cell->bind('<MouseWheel>' => sub{edit_scroll($cell);});
+  $cell->tagConfigure('black', -foreground=>$black);
+  $cell->tagConfigure('red', -foreground=>$red);
+
   return ($cell, $linewidth);
 }
 
@@ -724,9 +772,23 @@ sub editcellout {
   my $cell = shift;
   my $text = shift;
   my $linewidth = shift;
+  my $ind;
 
-  my $ind = $cell->index('insert');	  
-  $cell->insert($ind, $text);
+  while ($text =~ /\|(.*?)\|/) {
+    my $o1 = $`;
+	my $o2 = $1;
+	$text = $';   
+
+    if ($o1) {
+	  $ind = $cell->index('insert');	  
+      $cell->insert($ind, $o1, 'black');
+    }
+	$ind = $cell->index('insert');	  
+    $cell->insert($ind, $o2, 'red');
+  }
+
+  $ind = $cell->index('insert');	  
+  $cell->insert($ind, $text, 'black'); 
 }
 
 sub edit_destroy {
@@ -850,4 +912,127 @@ sub get_sday_e {
   if ($version =~ /1960/ && (-e "$datafolder/Latin/Sancti/$fname" . "r.txt")) {return $fname . 'r';}
   if (!(-e "$datafolder/Latin/Sancti/$fname.txt") && $winner =~ /Sancti\/(.*?)\.txt/) {$fname = $1;} 
   return $fname;
+}
+
+sub lcompare {
+  my $t1 = shift;
+  my $t2 = shift;
+  my $str = " (";
+
+  my @t1 = split("\n", $t1);
+  my @t2 = split("\n", $t2);
+  my ($n1, $n2, $i, $j);
+
+  my $sum = 0;
+  my $esum = 0;
+  my $n = @t1;
+  if ($n < @t2) {$n = @t2;}
+
+  for ($i = 1; $i < $n; $i++) {
+    my $l1 = $t1[$i];
+	my @l1 = split(' ', $l1);
+	$n1 = @l1;
+	my $l2 = $t2[$i];
+	my @l2 = split(' ', $l2);
+	$n2 = @l2;
+    my $m = $l1;
+	if ($n2 > $m) {$m = $n2;}
+    $flag = 0;
+	for ($j = 0; $j < $m; $j++) 
+	  {if (deaccent($l1[$j]) ne deaccent($l2[$j])) {$flag++;}} 
+	 
+	if ($n1 == $n2 && !$flag) {$str .= "$n1,";}
+	else {$str .= "|$n1|,";}
+	$sum .= $n1;
+	$esum += $flag;
+  }
+  $n1 = @t1 -1;
+  $n2 = @t2 - 1;
+  if ($n1 == $n2 && !$esum) {$str .= ") $n1";}
+  elsif (!$esum) {$str .= ") |$n1|";}
+  else {$str .= ") $n1 |$esum|";}
+  return $str;
+}
+
+sub tcompare {
+  my $t1 = shift;
+  my $t2 = shift;
+  if (!$t2 || !$t1) {return $t1;} 
+
+  my @t1 = split(' ', $t1);
+  my @t2 = split(' ', $t2); 
+  my $n = @t1;
+  if ($n < @t2) {$n = @t2;}
+  my ($w1, $w2, $i);
+  my $str = '';
+
+  for ($i = 0; $i < $n; $i++) {
+    $w1 = deaccent($t1[$i]);  
+	$w2 = deaccent($t2[$i]);  
+	
+	if ($w1 eq $w2) {$str .= "$t1[$i] ";}
+	else {$str .= "|$t1[$i]| ";}
+ }
+ return $str;
+}
+	
+
+sub deaccent {
+  my $w = shift; 
+
+  $w =~ s/[!@#$%&*()\-_=+,<.>?'";:0-9 ]//g; 
+  
+  $w =~ s/á/a/g;
+  $w =~ s/é/e/g;
+  $w =~ s/í/i/g;
+  $w =~ s/ó/o/g;
+  $w =~ s/ú/u/g;
+  $w =~ s/Á/A/g;
+  $w =~ s/É/E/g;
+  $w =~ s/Í/I/g;
+  $w =~ s/Ó/O/g;
+  $w =~ s/Ú/U/g;
+  $w =~ s/ae/æ/g;
+  $w =~ s/áe/æ/g;
+  $w =~ s/oe/œ/g;
+  $w =~ s/óe/œ/g;
+  $w =~ s/Ae/Æ/g;
+  $w =~ s/Áe/Æ/g;
+  $w =~ s/Oe/Œ/g; 
+  $w =~ s/Óe/Œ/g;
+  $w =~ s/ı/y/g;
+  $w =~ s/([nraeiouáéíóöõúüûÁÉÓÖÔÚÜÛ])i([aeiouáéíóöõúüûÁÉÓÖÔÚÜÛ])/$1j$2/ig;
+  $w =~ s/^i([aeiouAEIOUáéíóöõúüûÁÉÓÖÔÚÜÛ])/j$1/g; 
+  $w =~ s/^I([aeiouAEIOUáéíóöõúüûÁÉÓÖÔÚÜÛ])/J$1/g; 
+  return $w;
+}
+
+
+#áéíóöõúüûÁÉÓÖÔÚÜÛ
+sub putaccents {
+  my $t = shift;
+  $t =~ s/''/ '/;
+  
+  $t =~ s/a'/á/g;
+  $t =~ s/e'/é/g;
+  $t =~ s/i'/í/g;
+  $t =~ s/o'/ó/g;
+  $t =~ s/o:/ö/g;
+  $t =~ s/o"/õ/g;
+  $t =~ s/u'/ú/g;
+  $t =~ s/u:/ü/g;
+  $t =~ s/u"/û/g;
+  $t =~ s/A'/Á/g;
+  $t =~ s/E'/É/g;
+  $t =~ s/&#337;/õ/g;
+  $t =~ s/&#369;/û/g;
+  $t =~ s/O'/Ó/g;
+  $t =~ s/O:'/Ö/g;
+  $t =~ s/O:/Ô/g;
+  $t =~ s/U'/Ú/g;
+  $t =~ s/U:/Ü/g;
+  $t =~ s/U"/Û/g;
+  $t =~ s/y'/ı/g;
+
+  return $t;
 }

@@ -179,7 +179,7 @@ R. Tamquam spiritus vehementi, et replevit totam domum, alleluia, alleluia.
 14 stans autem Petrus cum undecim levavit vocem suam et locutus est eis viri iudaei et qui habitatis Hierusalem universi hoc vobis notum sit et auribus percipite verba mea 
 
 [Responsory2]
-R. Repleti sunt omnes Spiritu sancto: et coeperunt loqui, prout Spiritus sanctus~
+R. Repleti sunt omnes Spiritu sancto: et coeperunt loqui, prout Spiritus Sanctus~
 dabat eloqui illis:
 * Et convenit multitudo dicentium, alleluia.
 V. Loquebantur variis linguis Apostoli magnalia Dei.
@@ -197,7 +197,7 @@ R. Et convenit multitudo dicentium, alleluia.
 20 sol convertetur in tenebras et luna in sanguinem antequam veniat dies Domini magnus et manifestus
 21 et erit omnis quicumque invocaverit nomen Domini salvus erit 
 [Responsory3]
-R. Spiritus sanctus procedens a throno, Apostolorum pectora invisibiliter~
+R. Spiritus Sanctus procedens a throno, Apostolorum pectora invisibiliter~
 penetravit novo sanctificationis signo:
 * Ut in ore eorum omnium genera nascerentur linguarum, alleluia.
 V. Advenit ignis divinus, non comburens, sed illuminans, et tribuit eis~
@@ -213,18 +213,18 @@ Hodiernam solemnitatem, dilectissimi, in precipuis festis esse venerandam, omniu
 
 [Responsory4]
 R. Apparuerunt Apostolis dispertitae linguae tamquam ignis, alleluia:
-* Seditque supra singulos eorum Spiritus sanctus, alleluia, alleluia.
-V. Et coeperunt loqui variis linguis, prout Spiritus sanctus dabat eloqui illis.
-R. Seditque supra singulos eorum Spiritus sanctus, alleluia, alleluia.
+* Seditque supra singulos eorum Spiritus Sanctus, alleluia, alleluia.
+V. Et coeperunt loqui variis linguis, prout Spiritus Sanctus dabat eloqui illis.
+R. Seditque supra singulos eorum Spiritus Sanctus, alleluia, alleluia.
 
 [Lectio5]
 Nam ab illo die, quo dominus super omnem altitudinem caelorum ad dexteram Dei Patris concessurus ascendit, decimus iste est, qui ab eiusdem resurrectione quinquagesimus nobis in eo, a quo coepit, illuxit magna mysteria veterum sacramentorum in se continens et novorum; quibus manifestissime declaratur, et gratiam paenuntiatam fuisse per legem  et legem implementam ese per gratiam.
 
 [Responsory5]
 R. Loquebantur variis linguis Apostoli magnalia Dei,
-* Prout Spiritus sanctus dabat eloqui illis, alleluia.
+* Prout Spiritus Sanctus dabat eloqui illis, alleluia.
 V. Repleti sunt omnes Spiritu sancto, et coeperunt loqui.
-R. Prout Spiritus sanctus dabat eloqui illis, alleluia.
+R. Prout Spiritus Sanctus dabat eloqui illis, alleluia.
 
 [Lectio6]
 Sicut enim Hebreo quondam populo ab Aegyptiis liberato, quinquagesimo die post immolationem agni, Lex data est in monte Sina; ita post passionem, quae verus Dei Agnus occisus est, quinquagesimo a resurrectione eius die in Apostolos plebumque credentium, Spiritus Sanctyus illapsus est, ut facile diligens Christianos agnoscat, initia veteris Testamenti Evangelicis ministrasse principiis, et ab eodem Spiritu conditum foedus secundum, a quo primum fuerat institutum.
@@ -253,10 +253,10 @@ Homilia sancti Gregorii Papae.
 !Homilia 30. in Evangelia.
 Libet, fratres carissimi, evangelicae verba lectionis sub brevitate transcurrere,~
 ut post diutius liceat in contemplatione tantae solemnitatis immorari. Hodie~
-iamque Spiritus sanctus repentino sonitu super discipulos venit, mentesque~
+iamque Spiritus Sanctus repentino sonitu super discipulos venit, mentesque~
 carnalium in sui amorem permutavit, et foris apparentibus linguis igneis, intus~
 facta sunt corda flammantia: quia dum Deum in ignis visione susceperunt, per~
-amorem suaviter arserunt. Ipse namque Spiritus sanctus amor est: unde et Joannes~
+amorem suaviter arserunt. Ipse namque Spiritus Sanctus amor est: unde et Joannes~
 dicit: Deus caritas est. Qui ergo mente integra Deum desiderat, profecto jam~
 habet, quem amat. Neque enim quisquam posset Deum diligere, si eum quem diligit,~
 non haberet.
@@ -279,17 +279,17 @@ Nam qui adhuc per illicita desideria diffluit, profecto Deum non amat: quia ei~
 in sua voluntate contradicit.
 
 [Responsory8]
-R. Spiritus sanctus replevit totam domum, ubi erant Apostoli: et apparuerunt~
+R. Spiritus Sanctus replevit totam domum, ubi erant Apostoli: et apparuerunt~
 illis dispertitae linguae, tamquam ignis, seditque supra singulos eorum:
 * Et repleti sunt omnes Spiritu sancto: et coeperunt loqui variis linguis, prout~
-Spiritus sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
+Spiritus Sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
 V. Dum ergo essent in unum discipuli congregati propter metum Judaeorum, sonus~
 repente de caelo venit super eos.
 R. Et repleti sunt omnes Spiritu sancto: et coeperunt loqui variis linguis,~
-prout Spiritus sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
+prout Spiritus Sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
 &Gloria
 R. Et repleti sunt omnes Spiritu sancto: et coeperunt loqui variis linguis,~
-prout Spiritus sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
+prout Spiritus Sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
 
 [Lectio9]
 Et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus.~
@@ -455,7 +455,7 @@ V. Repleti sunt omnes Spiritu sancto, alleluia.
 R. Et coeperunt loqui, alleluia.
 
 [Ant 3]
-Hodie * completi sunt dies Pentecostes, alleluia: hodie Spiritus sanctus in igne~
+Hodie * completi sunt dies Pentecostes, alleluia: hodie Spiritus Sanctus in igne~
 discipulis apparuit, et tribuit eis charismatum dona: misit eos in universum~
 mundum praedicare, et testificare: qui crediderit, et baptizatus fuerit, salvus~
 erit, alleluia.

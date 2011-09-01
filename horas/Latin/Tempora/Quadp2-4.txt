@@ -8,10 +8,9 @@ Oratio Dominica
 De libro Genesis
 !Gen 9:12-15
 12 Dixitque Deus: Hoc signum fœderis quod do inter me et vos, et ad omnem animam viventem, quae est vobiscum in generationes sempiternas:
-13 arcum meum ponam in nubibus, et erit signum fœderis inter me et inter terram.
+13 Arcum meum ponam in nubibus, et erit signum fœderis inter me et inter terram.
 14 Cumque obduxero nubibus caelum, apparebit arcus meus in nubibus:
 15 et recordabor fœderis mei vobiscum, et cum omni anima vivente quae carnem vegetat: et non erunt ultra aquae diluvii ad delendum universam carnem.
-
 
 [Responsory1]
 @Tempora/Quadp2-0:Responsory1
@@ -22,7 +21,6 @@ De libro Genesis
 21 Bibensque vinum inebriatus est, et nudatus in tabernaculo suo.
 22 Quod cum vidisset Cham, pater Chanaan, verenda scilicet patris sui esse nudata, nuntiavit duobus fratribus suis foras.
 23 At vero Sem et Japheth pallium imposuerunt humeris suis, et incedentes retrorsum, operuerunt verenda patris sui: faciesque eorum aversae erant, et patris virilia non viderunt.
-
 
 [Responsory2]
 @Tempora/Quadp2-0:Responsory2

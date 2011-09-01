@@ -26,14 +26,10 @@ V. Grace is poured into thy lips.
 R. Therefore God hath blessed thee for ever.
 
 [Ant 1]
-Blessed Mother and inviolate Maiden! * glorious Queen of the world! Plead for us~
-with the Lord!
+Blessed Mother and inviolate Maiden! * glorious Queen of the world! Plead for us with the Lord!
 
 [Oratio 1]
-Grant, we beseech thee, O Lord God, unto all thy servants, that they may remain~
-continually in the enjoyment of soundness both of mind and body, and by the~
-glorious intercession of the Blessed Mary, always a Virgin, may be delivered~
-from present sadness, and enter into the joy of thine eternal gladness. Through our Lord Jesus Christ
+Grant, we beseech thee, O Lord God, unto all thy servants, that they may remain continually in the enjoyment of soundness both of mind and body, and by the glorious intercession of the Blessed Mary, always a Virgin, may be delivered from present sadness, and enter into the joy of thine eternal gladness. Through our Lord Jesus Christ
 $Per Dominum
 
 [Oratio 2]
@@ -43,16 +39,13 @@ $Per eumdem
 
 [Special Completorium]
 $Ave Maria
-$Converte
 $Deus in adjutorium
 _
-Ant. Have mercy * on me O Lord, and hear my prayer.
 &psalm(128)
 _
 &psalm(129)
 _
 &psalm(130)
-Ant. Have mercy * on me O Lord, and hear my prayer.
 _
 !Hymnus.
 v. Remember, O creator Lord,
@@ -113,13 +106,9 @@ R. He hath made her to dwell in His tabernacle.
 
 [Lectio1]
 !Sir 24:11-13
-11 And by my power I have trodden under my feet the hearts of all the high and~
-low: and in all these I sought rest, and I shall abide in the inheritance of the~
-Lord.
-12 Then the creator of all things commanded, and said to me: and he that made me,~
-rested in my tabernacle,
-13 And he said to me: Let thy dwelling be in Jacob, and thy inheritance in~
-Israel, and take root in my elect.
+11 And by my power I have trodden under my feet the hearts of all the high and low: and in all these I sought rest, and I shall abide in the inheritance of the Lord.
+12 Then the creator of all things commanded, and said to me: and he that made me, rested in my tabernacle,
+13 And he said to me: Let thy dwelling be in Jacob, and thy inheritance in Israel, and take root in my elect.
 
 [Responsory1]
 R. How holy and how spotless is thy breast
@@ -129,14 +118,11 @@ R. For thou hast borne in thy breast Him Whom the heavens cannot contain.
 
 [Lectio2]
 !Sir 24:15-16
-15 And so was I established in Sion, and in the holy city likewise I rested, and~
-my power was in Jerusalem.
-16 And I took root in an honourable people, and in the portion of my God his~
-inheritance, and my abode is in the full assembly of saints.
+15 And so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem.
+16 And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints.
 
 [Responsory2]
-R. Blessed art thou, O Virgin Mary, who hast carried the Lord, the Maker of the~
-world.
+R. Blessed art thou, O Virgin Mary, who hast carried the Lord, the Maker of the world.
 * Thou hast borne Him Who created thee, and thou abidest a virgin for ever.
 V. Hail, Mary, full of grace, the Lord is with thee.
 R. Thou hast borne him who created thee, and thou abidest a virgin for ever.
@@ -145,18 +131,14 @@ R. Thou hast borne him who created thee, and thou abidest a virgin for ever.
 !Sir 24:17-20
 17 I was exalted like a cedar in Libanus, and as a cypress tree on mount Sion.
 18 I was exalted like a palm tree in Cades, and as a rose plant in Jericho:
-19 As a fair olive tree in the plains, and as a plane tree by the water in the~
-streets, was I exalted.
-20 I gave a sweet smell like cinnamon. and aromatical balm: I yielded a sweet~
-odour like the best myrrh:
+19 As a fair olive tree in the plains, and as a plane tree by the water in the streets, was I exalted.
+20 I gave a sweet smell like cinnamon. and aromatical balm: I yielded a sweet odour like the best myrrh:
 &teDeum
 
 [Responsory3]
 R. O holy Virgin Mary, happy indeed art thou, and right worthy of all praise
 * For out of thee rose the Sun of righteousness, even Christ our God.
-V. Pray for the people, plead for the clergy, make intercession for all women~
-vowed to God. Let all that are making this holy memorial of thee feel the might~
-of thine assistance.
+V. Pray for the people, plead for the clergy, make intercession for all women vowed to God. Let all that are making this holy memorial of thee feel the might of thine assistance.
 R. For out of thee rose the Sun of righteousness
 &Gloria
 R. Even Christ our God.
@@ -170,8 +152,7 @@ Fair and comely art thou, O daughter of Jerusalem, * terrible as a fenced camp s
 
 [Capitulum Laudes]
 !Cant. 6:8
-v. The daughters of Zion saw her, and called her blessed; the queens also, and~
-they praised her.
+v. The daughters of Zion saw her, and called her blessed; the queens also, and they praised her.
 $Deo gratias.
 
 [Hymnus Laudes]
@@ -182,10 +163,7 @@ V. Blessed art thou among women.
 R. And blessed is the Fruit of thy womb.
 
 [Ant 2]
-O Blessed Mary, * Mother of God, Virgin for ever, temple of the Lord, sanctuary~
-of the Holy Ghost, thou, without any ensample before thee, didst make thyself~
-well-pleasing in the sight of our Lord Jesus Christ pray for the people, plead~
-for the clergy, make intercession for all women vowed to God.
+O Blessed Mary, * Mother of God, Virgin for ever, temple of the Lord, sanctuary of the Holy Ghost, thou, without any ensample before thee, didst make thyself well-pleasing in the sight of our Lord Jesus Christ pray for the people, plead for the clergy, make intercession for all women vowed to God.
 
 [Special Prima]
 $Ave Maria
@@ -274,11 +252,7 @@ _
 &Dominus_vobiscum
 _
 v. Let us Pray
-O God, Who, by the fruitful virginity of the Blessed Mary,~
-hast given unto mankind the rewards of everlasting life; grant,~
-we beseech thee,, that we may continually feel the might of~
-her intercession through whom we have worthily received the~
-Author of our life, our Lord Jesus Christ, thy Son:
+O God, Who, by the fruitful virginity of the Blessed Mary, hast given unto mankind the rewards of everlasting life; grant, we beseech thee,, that we may continually feel the might of her intercession through whom we have worthily received the Author of our life, our Lord Jesus Christ, thy Son:
 $Qui tecum
 
 [Special Sexta]

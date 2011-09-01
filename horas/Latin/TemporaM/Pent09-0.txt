@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Ant 1]
-Dum tolleret Dominus * Eliam per turbinem in caelum, Eliseus clamabat: Pater mi, currus Israel, et auriga ejus. 
+Dum tolleret Dominus * Eliam per turbinem in caelum, Eliseus clamabat: Pater mi, currus Israël, et auriga ejus. 
 
 [Versum 1]
 V. Vespertina oratio ascendat ad te Domine. 
@@ -80,11 +80,11 @@ figurata, in nobis, gratia Dei donante, completa sunt.
 [Responsory4]
 R. Percussit Saul mille, et David decem millia:
 * Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit~
-opprobrium ex Israel.
+opprobrium ex Israël.
 V. Nonne iste est David, de quo canebant in choro, dicentes: Saul percussit~
 mille, et David decem millia?
 R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit~
-opprobrium ex Israel.
+opprobrium ex Israël.
 
 [Lectio5]
 Beatus enim Elias typum habuit Domini Salvatoris. Sicut enim Elias a Judaeis~
@@ -96,10 +96,10 @@ Gentium fide reficitur.
 
 [Responsory5]
 R. Montes Gelboe, nec ros nec pluvia veniant super vos
-* Ubi ceciderunt fortes Israel.
+* Ubi ceciderunt fortes Israël.
 V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboe autem~
 transeat.
-R. Ubi ceciderunt fortes Israel.
+R. Ubi ceciderunt fortes Israël.
 
 [Lectio6]
 Corvi enim illi, qui beato Eliae, jubente Domino, ministrabant, Gentium populum~

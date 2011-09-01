@@ -15,7 +15,7 @@ Factus est * repente de caelo sonus advenientis spiritus vehementis, alleluia, a
 ;;67(20-36)
 V. Repleti sunt omnes Spirit Sancto alleluia
 R. Et coeperunt loqui alleluia
-Apparuerunt Apostolis dispertitae linguae tamquam ignis, Seditque supra singulos eorum Spiritus sanctus, alleluia;;68(1-16)
+Apparuerunt Apostolis dispertitae linguae tamquam ignis, Seditque supra singulos eorum Spiritus Sanctus, alleluia;;68(1-16)
 ;;68(17-37)
 ;;69
 ;;70
@@ -50,7 +50,7 @@ potabis eos. Quoniam apud te est fons vitae: et in lumine tuo videbimus lumen?
 R. Disciplinam et sapientiam docuit eos Dominus, alleluia: firmavit in illis~
 gratiam Spiritus sui,
 * Et intellectu implevit corda eorum, alleluia.
-V. Repentino namque sonitu Spiritus sanctus super eos venit
+V. Repentino namque sonitu Spiritus Sanctus super eos venit
 R. Et intellectu implevit corda eorum, alleluia.
 
 [Lectio2]

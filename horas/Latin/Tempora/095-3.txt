@@ -7,7 +7,6 @@ De libro Esther
 4 Ingressae autem sunt puellae Esther et eunuchi, nuntiaveruntque ei. Quod audiens consternata est, et vestem misit, ut ablato sacco induerent eum: quam accipere noluit.
 5 Accitoque Athach eunucho, quem rex ministrum ei dederat, praecepit ei ut iret ad Mardochaeum, et disceret ab eo cur hoc faceret.
 
-
 [Responsory1]
 @Tempora/094-0:Responsory4
 
@@ -20,7 +19,6 @@ De libro Esther
 10 Quae respondit ei, et jussit ut diceret Mardochaeo:
 11 Omnes servi regis, et cunctae, quae sub ditione ejus sunt, norunt provinciae, quod sive vir, sive mulier non vocatus, interius atrium regis intraverit, absque ulla cunctatione statim interficiatur: nisi forte rex auream virgam ad eum tetenderit pro signo clementiae, atque ita possit vivere. Ego igitur quomodo ad regem intrare potero, quae triginta jam diebus non sum vocata ad eum?
 
-
 [Responsory2]
 @Tempora/094-0:Responsory7
 
@@ -32,7 +30,6 @@ De libro Esther
 15 Rursumque Esther haec Mardochaeo verba mandavit:
 16 Vade, et congrega omnes Judaeos quos in Susan repereris, et orate pro me. Non comedatis et non bibatis tribus diebus et tribus noctibus: et ego cum ancillis meis similiter jejunabo, et tunc ingrediar ad regem contra legem faciens, non vocata, tradensque me morti et periculo.
 17 Ivit itaque Mardochaeus, et fecit omnia quae ei Esther praeceperat.
-
 
 [Responsory3]
 @Tempora/095-0:Responsory3

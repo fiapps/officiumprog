@@ -6,7 +6,6 @@ Incipit Habacuc Propheta
 3 Quare ostendisti mihi iniquitatem et laborem, videre praedam et injustitiam contra me? Et factum est judicium, et contradictio potentior.
 4 Propter hoc lacerata est lex, et non pervenit usque ad finem judicium; quia impius praevalet adversus justum, propterea egreditur judicium perversum.
 
-
 [Responsory1]
 @Tempora/111-2:Responsory1
 
@@ -16,7 +15,6 @@ Incipit Habacuc Propheta
 6 Quia ecce ego suscitabo Chaldaeos, gentem amaram et velocem, ambulantem super latitudinem terrae, ut possideat tabernacula non sua.
 7 Horribilis et terribilis est: ex semetipsa judicium et onus ejus egredietur.
 
-
 [Responsory2]
 @Tempora/111-2:Responsory2
 
@@ -25,7 +23,6 @@ Incipit Habacuc Propheta
 8 Leviores pardis equi ejus, et velociores lupis vespertinis: et diffundentur equites ejus: equites namque ejus de longe venient; volabunt quasi aquila festinans ad comedendum.
 9 Omnes ad praedam venient, facies eorum ventus urens; et congregabit quasi arenam captivitatem.
 10 Et ipse de regibus triumphabit, et tyranni ridiculi ejus erunt; ipse super omnem munitionem ridebit, et comportabit aggerem, et capiet eam.
-
 
 [Responsory3]
 @Tempora/111-2:Responsory3

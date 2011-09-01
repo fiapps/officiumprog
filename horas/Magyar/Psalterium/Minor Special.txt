@@ -86,7 +86,7 @@ R. És irgalmazz nekem
 R. Szabadíts meg engem Uram * és irgalmazz nekem
 _
 V. Tisztíts meg mindentõl, ami rejtve maradt!
-R. Orizd meg szolgádat a kevélységtõl!
+R. örizd meg szolgádat a kevélységtõl!
 
 [Adv Tertia]
 !Jer 23:5
@@ -110,12 +110,12 @@ v. Az õ napjaiban megszabadul Júda, és biztonságban él Izrael. Ez lesz a neve, a
 $Deo gratias
 
 [Responsory Adv Sexta]
-R.br. Mutasd meg, Uram * irgalmadat.
-R. Mutasd meg, Uram * irgalmadat.
+R.br. Mutasd meg, Uram * irgalmadat`.
+R. Mutasd meg, Uram * irgalmadat`.
 V. Mutasd meg a te orczádat, és megszabadúlunk.
-R. Irgalmadat.
+R. Irgalmadat`.
 &Gloria
-R. Mutasd meg, Uram * irgalmadat.
+R. Mutasd meg, Uram * irgalmadat`.
 _
 V. Mutasd meg, Uram, nekünk irgalmasságodat;
 R. És szabadításodat adjad nekünk. .
@@ -126,12 +126,12 @@ v. Az Úr megkönyörül Jákobon, ismét kiválasztja Izraelt, s nyugalmat ad nekik fö
 $Deo gratias
 
 [Responsory Adv Nona]
-R.br. Az Úr feltámad, * feletted Jeruzsalem
-R. Az Úr feltámad, * feletted Jeruzsalem
+R.br. Az Úr feltámad, * feletted Jeruzsálem
+R. Az Úr feltámad, * feletted Jeruzsálem
 V. És dicsõsége feletted leszen.
-R. Feletted Jeruzsalem
+R. Feletted Jeruzsálem
 &Gloria
-R. Az Úr feltámad, * feletted Jeruzsalem
+R. Az Úr feltámad, * feletted Jeruzsálem
 _
 V. Jöjj el Urunk, ne késsél.
 R. Felejts el néped bûneit.
@@ -176,7 +176,7 @@ $Deo gratias
 [Responsory Quad Nona]
 R.br Igazsága irányít * és megvédelmez téged.
 R. Igazsága irányít * és megvédelmez téged.
-V. Nem kell félned az éji sötéttõl.t
+V. Nem kell félned az éji sötéttõl
 R. Megvédelmez téged.
 &Gloria
 R. Igazsága irányít * és megvédelmez téged.
@@ -324,7 +324,7 @@ v. Éljetek istenfélelemben zarándoklástok idején. Hisz tudjátok, hogy nem veszen
 $Deo gratias
 _
 V. Tisztíts meg mindentõl, ami rejtve maradt!
-R. Orizd meg szolgádat a kevélységtõl!
+R. örizd meg szolgádat a kevélységtõl!
 
 [Adv TertiaM]
 !Jer 23:5
@@ -350,7 +350,7 @@ v. Az Úr megkönyörül Jákobon, ismét kiválasztja Izraelt, s nyugalmat ad nekik fö
 $Deo gratias
 
 [Responsory Adv NonaM]
-V. Az Úr feltámad, * feletted Jeruzsalem
+V. Az Úr feltámad, * feletted Jeruzsálem
 R. És dicsõsége feletted leszen.
 
 [Quad TertiaM]
@@ -378,7 +378,7 @@ $Deo gratias
 
 [Responsory Quad NonaM]
 V. Igazsága irányít * és megvédelmez téged.
-R. Nem kell félned az éji sötéttõl.t
+R. Nem kell félned az éji sötéttõl
 
 [Quad5 TertiaM]
 !Jer 17:13

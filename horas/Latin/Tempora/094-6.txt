@@ -4,7 +4,6 @@ De libro Judith
 22 Et factum est post haec, omnis populus post victoriam venit in Jerusalem adorare Dominum: et mox ut purificati sunt, obtulerunt omnes holocausta, et vota, et repromissiones suas.
 23 Porro Judith universa vasa bellica Holofernis, quae dedit illi populus, et conopeum quod ipsa sustulerat de cubili ipsius, obtulit in anathema oblivionis.
 
-
 [Responsory1]
 @Tempora/094-0:Responsory7
 
@@ -15,7 +14,6 @@ De libro Judith
 26 Erat enim virtuti castitas adjuncta, ita ut non cognosceret virum omnibus diebus vitae suae, ex quo defunctus est Manasses vir ejus.
 27 Erat autem, diebus festis, procedens cum magna gloria.
 
-
 [Responsory2]
 @Tempora/093-0:Responsory7
 
@@ -25,7 +23,6 @@ De libro Judith
 29 Luxitque illam omnis populus diebus septem.
 30 In omni autem spatio vitae ejus non fuit qui perturbaret Israël, et post mortem ejus annis multis.
 31 Dies autem victoriae hujus festivitatis ab Hebraeis in numero sanctorum dierum accipitur, et colitur a Judaeis ex illo tempore usque in praesentem diem.
-
 
 [Responsory3]
 @Tempora/094-0:Responsory3

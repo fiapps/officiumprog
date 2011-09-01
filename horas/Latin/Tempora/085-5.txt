@@ -7,7 +7,6 @@ De libro Ecclesiastici.
 4 Quasi rhomphaea bis acuta omnis iniquitas: plagae illius non est sanitas.
 5 Objurgatio et injuriae annullabunt substantiam, et domus quae nimis locuples est annullabitur superbia: sic substantia superbi eradicabitur.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory4
 
@@ -18,7 +17,6 @@ De libro Ecclesiastici.
 8 Notus a longe potens lingua audaci, et sensatus scit labi se ab ipso.
 9 Qui aedificat domum suam impendiis alienis, quasi qui colligat lapides suos in hieme.
 10 Stupa collecta synagoga peccantium, et consummatio illorum flamma ignis.
-
 
 [Responsory2]
 @Tempora/081-0:Responsory5
@@ -31,7 +29,6 @@ De libro Ecclesiastici.
 14 Non erudietur qui non est sapiens in bono.
 15 Est autem sapientia quae abundat in malo, et non est sensus ubi est amaritudo.
 16 Scientia sapientis tamquam inundatio abundabit, et consilium illius sicut fons vitae permanet.
-
 
 [Responsory3]
 @Tempora/081-0:Responsory6

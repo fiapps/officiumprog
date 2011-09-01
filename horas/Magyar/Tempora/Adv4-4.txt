@@ -5,7 +5,7 @@ Feria V infra Hebdomadam IV Adventus;;Feria major;;2
 Oratio Dominica
 
 [Lectio1]
-Olvasmány Iziás próféta könyvébõl
+Olvasmány Izaiás próféta könyvébõl
 !Isa 64:1-4
 1 mint ahogy a láng felgyújtja a rõzsét, és ahogy a tûz felforralja a vizet. Így neved ismertté válna ellenségeid elõtt, és a nemzetek megrendülnének színed elõtt. 
 2 Mert te olyan csodákat teszel, amilyeneket senki se várt, 

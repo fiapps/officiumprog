@@ -6,12 +6,11 @@ Oratio Dominica
 
 [Lectio1]
 De libro tertio Regum.
-!1 Kgs 4:21-24 
+!1 Kgs 4:21-24
 21 Salomon autem erat in ditione sua, habens omnia regna a flumine terrae Philisthiim usque ad terminum Ægypti: offerentium sibi munera, et servientium ei cunctis diebus vitae ejus.
 22 Erat autem cibus Salomonis per dies singulos triginta cori similae, et sexaginta cori farinae,
 23 decem boves pingues, et viginti boves pascuales, et centum arietes, excepta venatione cervorum, caprearum, atque bubalorum, et avium altilium.
 24 Ipse enim obtinebat omnem regionem quae erat trans flumen, a Thaphsa usque ad Gazan, et cunctos reges illarum regionum: et habebat pacem ex omni parte in circuitu.
-
 
 [Responsory1]
 @Tempora/Pent01-1:Responsory1
@@ -24,7 +23,6 @@ De libro tertio Regum.
 28 Hordeum quoque, et paleas equorum et jumentorum, deferebant in locum ubi erat rex, juxta constitutum sibi.
 29 Dedit quoque Deus sapientiam Salomoni, et prudentiam multam nimis, et latitudinem cordis quasi arenam quae est in littore maris.
 
-
 [Responsory2]
 @Tempora/Pent01-1:Responsory2
 
@@ -35,7 +33,6 @@ De libro tertio Regum.
 32 Locutus est quoque Salomon tria millia parabolas: et fuerunt carmina ejus quinque et mille.
 33 Et disputavit super lignis a cedro quae est in Libano, usque ad hyssopum quae egreditur de pariete: et disseruit de jumentis, et volucribus, et reptilibus, et piscibus.
 34 Et veniebant de cunctis populis ad audiendam sapientiam Salomonis, et ab universis regibus terrae qui audiebant sapientiam ejus.
-
 
 [Responsory3]
 @Tempora/Pent01-1:Responsory3

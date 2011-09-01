@@ -1,6 +1,5 @@
 [Ant 1]
-In omnibus his * non peccavit Job labiis suis neque stultum aliquid contra Deum~
-locutus est
+In omnibus his * non peccavit Job labiis suis neque stultum aliquid contra Deum locutus est
 
 [Versum 1]
 V. Vespertina oratio ascendat ad te Domine.
@@ -15,7 +14,6 @@ De libro Job
 4 Sapiens corde est, et fortis robore: quis restitit ei, et pacem habuit?
 5 Qui transtulit montes, et nescierunt hi quos subvertit in furore suo.
 
-
 [Responsory1]
 @Tempora/091-0:Responsory1
 
@@ -26,7 +24,6 @@ De libro Job
 8 Qui extendit caelos solus, et graditur super fluctus maris.
 9 Qui facit Arcturum et Oriona, et Hyadas et interiora austri.
 10 Qui facit magna, et incomprehensibilia, et mirabilia, quorum non est numerus.
-
 
 [Responsory2]
 @Tempora/091-0:Responsory2
@@ -41,7 +38,6 @@ De libro Job
 16 Et cum invocantem exaudierit me, non credo quod audierit vocem meam.
 17 In turbine enim conteret me, et multiplicabit vulnera mea, etiam sine causa.
 
-
 [Responsory3]
 @Tempora/091-0:Responsory3
 
@@ -49,40 +45,19 @@ De libro Job
 Ex libro Moralium sancti Gregorii Papae.
 !Lib. 9. Cap. 2.
 Vere scio quod ita sit, et
-1 quod non justificabitur homo compositus Deo. Homo quippe Deo non compositus~
-justitiam percipit, compositus amittit: quia quisquis se auctori bonorum~
-comparat, bono se, quod acceperat, privat. Qui enim accepta bona sibi arrogat,~
-suis contra Deum donis pugnat. Unde ergo despectus erigitur, dignum est ut~
-erectus inde destruatur. Sanctus autem vir, quia omne virtutis nostrae meritum,~
-esse vitium conspicit, si ab interno arbitro districte judicetur, recte~
-subjungit: Si voluerit contendere cum eo, non poterit respondere ei unum pro~
-mille.
+1 quod non justificabitur homo compositus Deo. Homo quippe Deo non compositus justitiam percipit, compositus amittit: quia quisquis se auctori bonorum comparat, bono se, quod acceperat, privat. Qui enim accepta bona sibi arrogat, suis contra Deum donis pugnat. Unde ergo despectus erigitur, dignum est ut erectus inde destruatur. Sanctus autem vir, quia omne virtutis nostrae meritum, esse vitium conspicit, si ab interno arbitro districte judicetur, recte subjungit: Si voluerit contendere cum eo, non poterit respondere ei unum pro mille.
 
 [Responsory4]
 @Tempora/091-0:Responsory4
 
 [Lectio5]
-In Scriptura sancta millenarius numerus pro universitate solet intelligi. Hinc~
-etenim Psalmista ait: Verbi, quod mandavit in mille generationes: cum profecto~
-constet, quod ab ipso mundi exordio usque ad Redemptoris adventum per~
-Evangelistam non amplius quam septuaginta et septem propagines numerentur. Quid~
-ergo in millenario numero nisi ad proferendam novam sobolem perfecta universitas~
-praescitae generationis exprimitur? Hinc et per Joannem dicitur: Et regnabunt~
-cum eo mille annis: quia videlicet segnum sanctae Ecclesiae universitatis~
-perfectione solidatur.
+In Scriptura sancta millenarius numerus pro universitate solet intelligi. Hinc etenim Psalmista ait: Verbi, quod mandavit in mille generationes: cum profecto constet, quod ab ipso mundi exordio usque ad Redemptoris adventum per Evangelistam non amplius quam septuaginta et septem propagines numerentur. Quid ergo in millenario numero nisi ad proferendam novam sobolem perfecta universitas praescitae generationis exprimitur? Hinc et per Joannem dicitur: Et regnabunt cum eo mille annis: quia videlicet segnum sanctae Ecclesiae universitatis perfectione solidatur.
 
 [Responsory5]
 @Tempora/091-0:Responsory5
 
 [Lectio6]
-Quia vero monas decies multiplicata in denarium ducitur, denarius per semetipsum~
-ductus in centenarium dilatatur; qui rursus per denarium ductus, in millenarium~
-tenditur: cum ab uno incipimus, ut ad millenarium veniamus, quid hoc loco unius~
-appellatione, nisi bene vivendi initium: quid millenarii numeri amplitudine,~
-nisi eiusdem bonae vitae perfectio designatur? Cum Deo autem contendere, est,~
-non ei tribuere sed sibi gloriam suae virtutis arrogare. Sed sanctus vir~
-conspiciat, quia et qui summa jam dona percepit, si de acceptis extdllitur,~
-cuncta quae acceperat, amittit.
+Quia vero monas decies multiplicata in denarium ducitur, denarius per semetipsum ductus in centenarium dilatatur; qui rursus per denarium ductus, in millenarium tenditur: cum ab uno incipimus, ut ad millenarium veniamus, quid hoc loco unius appellatione, nisi bene vivendi initium: quid millenarii numeri amplitudine, nisi eiusdem bonae vitae perfectio designatur? Cum Deo autem contendere, est, non ei tribuere sed sibi gloriam suae virtutis arrogare. Sed sanctus vir conspiciat, quia et qui summa jam dona percepit, si de acceptis extdllitur, cuncta quae acceperat, amittit.
 
 [Responsory6]
 @Tempora/091-0:Responsory6

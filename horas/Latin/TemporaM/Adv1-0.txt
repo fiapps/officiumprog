@@ -46,19 +46,19 @@ non cognovit, et populus meus non intellexit.
 R. Aspiciens a longe, ecce video Dei potentiam venientem, et nebulam totam~
 terram tegentem.
 * Ite obviam ei, et dicite: * Nuntia nobis si tu es ipse, * Qui regnaturus es in~
-populo Israel.
+populo Israël.
 V. Quique terrigenae et filii hominum simul in unum dives et pauper.
 R. Ite obviam ei, et dicite.
-V. Qui regis Israel. intende, qui deducis velut ovem Joseph.
+V. Qui regis Israël. intende, qui deducis velut ovem Joseph.
 R. Nuntia nobis, si tu es ipse.
 V. Tollite portas principes vestras et elevamini portae aeternales, et introibit~
 Rex gloriae.
-R. Qui regnaturus es in populo Israel.
+R. Qui regnaturus es in populo Israël.
 &Gloria
 R. Aspiciens a longe, ecce video Dei potentiam venientem, et nebulam totam~
 terram tegentem.
 * Ite obviam ei, et dicite: * Nuntia nobis si tu es ipse, * Qui regnaturus es in~
-populo Israel.
+populo Israël.
 
 [Lectio2]
 !Isa 1:4-6
@@ -71,7 +71,7 @@ et omne cor mœrens.
 plaga tumens, non est circumligata, nec curata medicamine, neque fota oleo.
 
 [Responsory2]
-R. Aspiciebam in visu noctis, et ecce in mibibus coeli Filius hominis veniebat:~
+R. Aspiciebam in visu noctis, et ecce in mibibus caeli Filius hominis veniebat:~
 et datum est ei regnum, et honor:
 * Et omnis populus, tribus, et linguae servient ei.
 V. Potestas ejus, potestas aeterna, quae non auferetur: et regnum ejus, quod non~
@@ -110,11 +110,11 @@ vicinus.
 
 [Responsory4]
 R. Ave Maria, gratia plena, Dominus tecum:
-* Spiritus sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: quod~
+* Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: quod~
 enim ex te nascetur Sanctum, vocabitur Filius Dei.
 V. Quomodo fiet istud, quoniam virum non cognosco? Et respondens Angelus, dixit~
 ei.
-R. Spiritus sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: quod~
+R. Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: quod~
 enim ex te nascetur Sanctum, vocabitur Filius Dei.
 
 [Lectio5]
@@ -145,7 +145,7 @@ sanctis, et in deliciis laetetur aeternis.
 [Responsory6]
 R. Obsecro Domine, mitte quem missurus es: vide afflictionem populi tui:
 * Sicut locutus es, veni, * Et libera nos.
-V. Qui regis Israel intende, qui deducis velut ovem Joseph, qui sedes super~
+V. Qui regis Israël intende, qui deducis velut ovem Joseph, qui sedes super~
 Cherubim.
 R. Sicut locutus es, veni, * Et libera nos.
 &Gloria
@@ -198,7 +198,7 @@ jam aeris immutatione colligimus.
 R. Ecce dies veniunt, dicit Dominus, et suscitabo David germen justum et~
 regnabit Rex, et sapiens erit, et faciet judicium et justitiam in terra
 * Et hoc est nomen quod vocabunt eum: * Dominus justus noster.
-V. In diebus illis salvabitur Juda, et Israel habitabit confidenter.
+V. In diebus illis salvabitur Juda, et Israël habitabit confidenter.
 R. Et hoc est nomen quod vocabunt eum
 &Gloria
 R. Dominus justus noster.
@@ -224,7 +224,7 @@ R. Domine Deus virtutum
 R. Veni ad liberandum nos, Domine Deus virtutum
 
 [Ant 2]
-Spiritus sanctus * in te descendet, Maria: ne timeas, habebis in utero Filium~
+Spiritus Sanctus * in te descendet, Maria: ne timeas, habebis in utero Filium~
 Dei, alleluia
 
 [Capitulum Tertia]

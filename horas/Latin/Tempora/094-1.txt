@@ -6,7 +6,6 @@ De libro Judith
 3 Et miserunt in omnem Samariam per circuitum usque Jericho, et praeoccupaverunt omnes vertices montium:
 4 et muris circumdederunt vicos suos, et congregaverunt frumenta in praeparationem pugnae.
 
-
 [Responsory1]
 @Tempora/094-0:Responsory1
 
@@ -17,7 +16,6 @@ De libro Judith
 7 Et fecerunt filii Israël secundum quod constituerat eis sacerdos Domini Eliachim.
 8 Et clamavit omnis populus ad Dominum instantia magna, et humiliaverunt animas suas in jejuniis et orationibus, ipsi et mulieres eorum.
 
-
 [Responsory2]
 @Tempora/093-0:Responsory7
 
@@ -27,7 +25,6 @@ De libro Judith
 10 et clamaverunt ad Dominum Deum Israël unanimiter ne darentur in praedam infantes eorum, et uxores eorum in divisionem, et civitates eorum in exterminium, et sancta eorum in pollutionem, et fierent opprobrium gentibus.
 11 Tunc Eliachim sacerdos Domini magnus circuivit omnem Israël, allocutusque est eos,
 12 dicens: Scitote quoniam exaudiet Dominus preces vestras, si manentes permanseritis in jejuniis et orationibus in conspectu Domini.
-
 
 [Responsory3]
 @Tempora/094-0:Responsory3

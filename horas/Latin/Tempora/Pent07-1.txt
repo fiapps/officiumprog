@@ -22,7 +22,6 @@ De libro tertio Regum.
 34 Et ungat eum ibi Sadoc sacerdos et Nathan propheta in regem super Israël: et canetis buccina, atque dicetis: Vivat rex Salomon.
 35 Et ascendetis post eum, et veniet, et sedebit super solium meum, et ipse regnabit pro me: illique praecipiam ut sit dux super Israël et super Judam.
 
-
 [Responsory2]
 @Tempora/Pent01-3:Responsory2
 
@@ -31,7 +30,6 @@ De libro tertio Regum.
 38 Descendit ergo Sadoc sacerdos, et Nathan propheta, et Banaias filius Jojadae, et Cerethi, et Phelethi: et imposuerunt Salomonem super mulam regis David, et adduxerunt eum in Gihon.
 39 Sumpsitque Sadoc sacerdos cornu olei de tabernaculo, et unxit Salomonem: et cecinerunt buccina, et dixit omnis populus: Vivat rex Salomon.
 40 Et ascendit universa multitudo post eum, et populus canentium tibiis, et laetantium gaudio magno: et insonuit terra a clamore eorum.
-
 
 [Responsory3]
 @Tempora/Pent01-3:Responsory3

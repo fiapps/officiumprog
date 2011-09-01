@@ -44,7 +44,7 @@ repererit: sola sine comite, sola sine teste, ne quo degenere depravaretur~
 affatu, ab Angelo salutatur.
 
 [Responsory2]
-R. Orietur stella ex Jacob, et exsurget homo de Israel, et confringet omnes~
+R. Orietur stella ex Jacob, et exsurget homo de Israël, et confringet omnes~
 duces alienigenarum:
 * Et erit omnis terra possessio ejus.
 V. Adorabunt eum omnes reges terrae, omnes gentes servient ei.
@@ -52,7 +52,7 @@ R. Et erit omnis terra possessio ejus.
 
 [Lectio3]
 Tanti namque mandati mysterium non hominis fuit, sed Angeli ore promendum. Hodie~
-primum auditur: Spiritus sanctus superveniet in te. Et auditur, et creditur.~
+primum auditur: Spiritus Sanctus superveniet in te. Et auditur, et creditur.~
 Denique, Ecce, inquit, ancilla Domini: contingat mihi secundum verbum tuum. Vide~
 humilitatem, vide devotionem. Ancillam se dicit Domini, quae mater eligitur, nec~
 repentino exaltata promisso est.

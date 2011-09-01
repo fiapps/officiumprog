@@ -8,7 +8,6 @@ De Parabolis Salomonis.
 5 Pedes ejus descendunt in mortem, et ad inferos gressus illius penetrant.
 6 Per semitam vitae non ambulant; vagi sunt gressus ejus et investigabiles.
 
-
 [Responsory1]
 R. Praebe fili cor mihi, et oculi tui vias meas custodiant:
 * Ut addatur gratia capiti tuo.
@@ -25,7 +24,6 @@ R. Ut addatur gratia capiti tuo.
 12 Cur detestatus sum disciplinam, et increpationibus non acquievit cor meum,
 13 nec audivi vocem docentium me, et magistris non inclinavi aurem meam?
 
-
 [Responsory2]
 @Tempora/081-0:Responsory5
 
@@ -41,7 +39,6 @@ R. Ut addatur gratia capiti tuo.
 21 Respicit Dominus vias hominis, et omnes gressus ejus considerat.
 22 Iniquitates suas capiunt impium, et funibus peccatorum suorum constringitur.
 23 Ipse morietur, quia non habuit disciplinam, et in multitudine stultitiae suae decipietur.
-
 
 [Responsory3]
 @Tempora/081-0:Responsory6

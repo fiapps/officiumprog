@@ -13,7 +13,6 @@ De libro primo Regum.
 4 Ipse dissipavit excelsa, et contrivit statuas, et succidit lucos, confregitque serpentem aeneum quem fecerat Moyses: siquidem usque ad illud tempus filii Israël adolebant ei incensum: vocavitque nomen ejus Nohestan.
 5 In Domino Deo Israël speravit: itaque post eum non fuit similis ei de cunctis regibus Juda, sed neque in his qui ante eum fuerunt:
 
-
 [Responsory1]
 @Tempora/Pent01-3:Responsory1
 
@@ -24,7 +23,6 @@ De libro primo Regum.
 7 Unde et erat Dominus cum eo, et in cunctis ad quae procedebat, sapienter se agebat. Rebellavit quoque contra regem Assyriorum, et non servivit ei.
 8 Ipse percussit Philisthaeos usque ad Gazam, et omnes terminos eorum, a turre custodum usque ad civitatem munitam.
 
-
 [Responsory2]
 @Tempora/Pent01-3:Responsory2
 
@@ -34,7 +32,6 @@ De libro primo Regum.
 10 et cepit. Nam post annos tres, anno sexto Ezechiae, id est nono anno Osee regis Israël, capta est Samaria:
 11 et transtulit rex Assyriorum Israël in Assyrios, collocavitque eos in Hala et in Habor fluviis Gozan in civitatibus Medorum:
 12 quia non audierunt vocem Domini Dei sui, sed praetergressi sunt pactum ejus: omnia quae praeceperat Moyses servus Domini non audierunt, neque fecerunt.
-
 
 [Responsory3]
 @Tempora/Pent01-3:Responsory3

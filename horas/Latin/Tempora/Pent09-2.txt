@@ -5,7 +5,7 @@ Feria tertia infra Hebdomadam IX post Octavam Pentecostes;;Feria;;1
 Oratio Dominica
 
 [Lectio1]
-De libro quarto Regum. 
+De libro quarto Regum.
 !2 Kgs 3:6-9
 6 Egressus est igitur rex Joram in die illa de Samaria, et recensuit universum Israël.
 7 Misitque ad Josaphat regem Juda, dicens: Rex Moab recessit a me: veni mecum contra eum ad praelium. Qui respondit: Ascendam: qui meus est, tuus est: populus meus, populus tuus, et equi mei, equi tui.
@@ -20,7 +20,7 @@ De libro quarto Regum.
 10 Dixitque rex Israël: Heu ! heu ! heu ! congregavit nos Dominus tres reges ut traderet in manus Moab.
 11 Et ait Josaphat: Estne hic propheta Domini, ut deprecemur Dominum per eum? Et respondit unus de servis regis Israël: Est hic Eliseus filius Saphat, qui fundebat aquam super manus Eliae.
 12 Et ait Josaphat: Est apud eum sermo Domini. Descenditque ad eum rex Israël, et Josaphat rex Juda, et rex Edom.
-13 Dixit autem Eliseus ad regem Israël: Quid mihi et tibi est? vade ad prophetas patris tui et matris tuae. 
+13 Dixit autem Eliseus ad regem Israël: Quid mihi et tibi est? vade ad prophetas patris tui et matris tuae.
 
 [Responsory2]
 @Tempora/Pent03-2Feria:Responsory2
@@ -34,6 +34,5 @@ De libro quarto Regum.
 17 Haec enim dicit Dominus: Non videbitis ventum, neque pluviam: et alveus iste replebitur aquis, et bibetis vos, et familiae vestrae, et jumenta vestra.
 18 Parumque est hoc in conspectu Domini: insuper tradet etiam Moab in manus vestras.
 
-
 [Responsory3]
-@Tempora/Pent03-2Feria:Responsory3 
+@Tempora/Pent03-2Feria:Responsory3

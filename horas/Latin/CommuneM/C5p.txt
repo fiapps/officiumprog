@@ -168,13 +168,13 @@ alteram adscriptus est civitatem, nempe Dei: et digressus ab hac Ecclesia, ad~
 illam pervenit, quae est primogenitorum descriptorum in caelis: ac relictis~
 hisce festis, transiit ad celebritatem Angelorum. Etenim quod et civitas sursum~
 sit, et Ecclesia, et celebritas, audi Paulum dicentem: Accessistis ad civitatem~
-Dei viventis, Jerusalem coelestem, et Ecclesiam primitivorum, qui conscripti~
+Dei viventis, Jerusalem caelestem, et Ecclesiam primitivorum, qui conscripti~
 sunt in caelis, et ad multorum millium Angelorum frequentiam.
 
 [Responsory6]
 R. Iste homo perfecit omnia quae locutus est ei Deus, et dixit ad eum: Ingredere in requiem meam:
 * Quia te vidi justum coram me ex omnibus gentibus. Alleluia
-V. Iste est qui contempsit vitam mundi, et pervenit ad coelestia regna.
+V. Iste est qui contempsit vitam mundi, et pervenit ad caelestia regna.
 R. Quia te vidi justum coram me ex omnibus gentibus. Alleluia
 &Gloria
 R. Quia te vidi justum coram me ex omnibus gentibus. Alleluia
@@ -313,7 +313,7 @@ V. Justum deduxit Dominus per vias rectas.
 R. Et ostendit illi regnum Dei. Alleluia
 
 [Ant 3]
-Hic vir despiciens * mundum et terrena, triumphans, divitias coelo condidit ore,~
+Hic vir despiciens * mundum et terrena, triumphans, divitias caelo condidit ore,~
 manu. Alleluia.
 
 [LectioE]

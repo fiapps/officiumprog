@@ -34,7 +34,7 @@ Diem beatis irrigavit ignibus,
 Apostolorum quae coronat principes,
 Reisque in astra liberam pandit viam.
 _
-Mundi magister, atque coeli janitor,
+Mundi magister, atque caeli janitor,
 Romae parentes, arbitrique gentium,
 Per ensis ille, hic per crucis victor necem
 Vitae senatum laureati possident.
@@ -52,7 +52,7 @@ Amen.
 
 [Ant 1]
 Tu es pastor ovium * princeps Apostolorum: tibi traditae sunt claves regni~
-coelorum.
+caelorum.
 
 [Oratio]
 Deus, qui hodiernam diem Apostolorum tuorum Petri et Pauli martyrio consecrasti:~
@@ -75,10 +75,10 @@ eleemosynam acciperet.
 [Responsory1]
 R. Simon Petre, antequam de navi vocarem te, novi te, et super plebem meam~
 principem te constitui:
-* Et claves regni coelorum tradidi tibi.
+* Et claves regni caelorum tradidi tibi.
 V. Quodcumque ligaveris super terram, erit ligatum et in caelis: et quodcumque~
 solveris super terram, erit solutum et in caelis.
-R. Et claves regni coelorum tradidi tibi.
+R. Et claves regni caelorum tradidi tibi.
 
 [Lectio2]
 !Acts 3:6-10
@@ -120,12 +120,12 @@ omnium vestrum.
 [Responsory3]
 R. Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam, et portae~
 inferi non praevalebunt adversus eam:
-* Et tibi dabo claves regni coelorum.
+* Et tibi dabo claves regni caelorum.
 V. Quodcumque ligaveris super terram, erit ligatum et in caelis: et quodcumque~
 solveris super terram, erit solutum et in caelis.
-R. Et tibi dabo claves regni coelorum.
+R. Et tibi dabo claves regni caelorum.
 &Gloria
-R. Et tibi dabo claves regni coelorum.
+R. Et tibi dabo claves regni caelorum.
 
 [Lectio4]
 Sermo sancti Leonis Papae.
@@ -149,7 +149,7 @@ R. Et extendens manum apprehendit eum, et dixit Jesus: Modicae fidei, quare~
 dubitasti?
 
 [Lectio5]
-Isti sunt patres tui, verique pastores, qui te regnis coelestibus inserendam~
+Isti sunt patres tui, verique pastores, qui te regnis caelestibus inserendam~
 multo melius multoque felicius condiderunt, quam illi, quorum studio prima~
 moenium tuorum fundamenta locata sunt: ex quibus is, qui tibi nomen dedit,~
 fraterna te caede foedavit. Isti sunt, qui te ad. hanc gloriam provexerunt, ut~
@@ -179,12 +179,12 @@ per Christum est mirabilius absoluta.
 [Responsory6]
 R. Tu es pastor ovium, princeps Apostolorum: tibi tradidit Deus omnia regna~
 mundi:
-* Et ideo tibi traditae sunt claves regni coelorum.
+* Et ideo tibi traditae sunt claves regni caelorum.
 V. Quodcumque ligaveris super terram, erit ligatum et in caelis: et quodcumque~
 solveris super terram, erit solutum et in caelis.
-R. Et ideo tibi traditae sunt claves regni coelorum.
+R. Et ideo tibi traditae sunt claves regni caelorum.
 &Gloria
-R. Et ideo tibi traditae sunt claves regni coelorum.
+R. Et ideo tibi traditae sunt claves regni caelorum.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.

@@ -9,7 +9,6 @@ De libro Sapientiae.
 18 et sic correctae sint semitae eorum qui sunt in terris, et quae tibi placent didicerint homines?
 19 Nam per sapientiam sanati sunt quicumque placuerunt tibi, Domine, a principio.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory1
 
@@ -21,7 +20,6 @@ De libro Sapientiae.
 4 Propter quem cum aqua deleret terram, sanavit iterum sapientia, per contemptibile lignum justum gubernans.
 5 Haec et in consensu nequitiae, cum se nationes contulissent, scivit justum, et conservavit sine querela Deo, et in filii misericordia fortem custodivit.
 
-
 [Responsory2]
 @Tempora/081-0:Responsory2
 
@@ -31,7 +29,6 @@ De libro Sapientiae.
 7 quibus in testimonium nequitiae fumigabunda constat deserta terra, et incerto tempore fructus habentes arbores: et incredibilis animae memoria stans figmentum salis.
 8 Sapientiam enim praetereuntes, non tantum in hoc lapsi sunt ut ignorarent bona, sed et insipientiae suae reliquerunt hominibus memoriam, ut in his quae peccaverunt nec latere potuissent.
 9 Sapientia autem hos qui se observant a doloribus liberavit.
-
 
 [Responsory3]
 @Tempora/081-0:Responsory3

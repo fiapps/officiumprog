@@ -13,33 +13,31 @@ Quorum Festum
 
 [Ant Vespera]
 Stetit Angelus * juxta aram templi, habens thuribulum aureum in manu sua. (Alleluia.)
-Dum praeliaretur * Michael Archangelus cum dracone, audita est vox dicentium: Salus Deo nostro. (Alleluia.)
-Archangele Michael, * constitui te principem super omnes animas suscipiendas. (Alleluia.)
+Dum praeliaretur * Michaël Archangelus cum dracone, audita est vox dicentium: Salus Deo nostro. (Alleluia.)
+Archangele Michaël, * constitui te principem super omnes animas suscipiendas. (Alleluia.)
 Angeli Domini * Dominum benedicite in aeternum. (Alleluia.)
-Angeli, Archangeli, * Throni, et Dominationes, Principatus, et Potestates, Virtutes coelorum, laudate Dominum de caelis. (Alleluia.)
+Angeli, Archangeli, * Throni, et Dominationes, Principatus, et Potestates, Virtutes caelorum, laudate Dominum de caelis. (Alleluia.)
 
 [Capitulum Vespera]
 !Rev 1:1-2
-v. Significavit Deus quae oportet fieri cito, loquens per Angelum suum servo suo~
-Joanni, qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi,~
-quaecumque vidit.
+v. Significavit Deus quae oportet fieri cito, loquens per Angelum suum servo suo Joanni, qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi, quaecumque vidit.
 $Deo gratias
 
 [Hymnus Vespera]
 v. Te, splendor et virtus Patris,
 Te vita, Jesu, cordium,
 Ab ore qui pendent tuo,
-Laudamus inter angelos.
+Laudamus inter Angelos.
 _
 Tibi mille densa millium
 Ducum corona militat:
 Sed explicat victor crucem
-Michael salutis signifer.
+Michaël salutis signifer.
 _
 Draconis hic dirum caput
 In ima pellit tartara,
 Ducemque cum rebellibus
-Coelesti ab arce fulminat.
+Caelesti ab arce fulminat.
 _
 Contra ducem superbiae
 Sequamur hunc nos principem,
@@ -47,7 +45,7 @@ Ut detur ex Agni throno
 Nobis corona gloriae.
 _
 Deo Patri sit gloria,
-Qui nos redemit Filius
+Qui quos redemit Filius
 Et Sanctus unxit Spiritus
 Per Angelos custodiat
 Amen.
@@ -57,14 +55,10 @@ V. Stetit Angelus juxta aram templi. (Alleluia.)
 R. Habens thuribulum aureum in manu sua. (Alleluia.)
 
 [Ant 1]
-Dum sacrum mysterium * cerneret Joannes, Archangelus Michael tuba cecinit:~
-Ignosce Domine Deus noster, qui aperis librum, et solvis signacula ejus.~
-(Alleluia.)
+Dum sacrum mysterium * cerneret Joannes, Archangelus Michaël tuba cecinit: Ignosce Domine Deus noster, qui aperis librum, et solvis signacula ejus. (Alleluia.)
 
 [Oratio]
-Deus, qui miro ordine Angelorum ministeria hominumque dispensas: concede~
-propitius; ut a quibus tibi ministrantibus in coelo semper assistitur, ab his in~
-terra vita nostra muniatur.
+Deus, qui miro ordine Angelorum ministeria hominumque dispensas: concede propitius; ut a quibus tibi ministrantibus in caelo semper assistitur, ab his in terra vita nostra muniatur.
 $Per Dominum
 
 [Invit]
@@ -74,37 +68,34 @@ Regem Archangelorum Dominum, * Venite adoremus. (Alleluia.)
 @Sancti/05-08:Hymnus Vespera
 
 [Ant Matutinum]
-Concussum est mare, et contremuit terra, ubi Archangelus Michael descendebat de coelo. (Alleluia);;8
+Concussum est mare, * et contremuit terra, ubi Archangelus Michaël descendebat de caelo. (Alleluia);;8
 ;;10
 ;;14
 V. Stetit Angelus juxta aram templi, alleluia.
 R. Habens thuribulum aureum in manu sua, alleluia.
-Michael Archangele, veni in adjutorium populo Dei, alleluia;;18
+Michaël Archangele, * veni in adjutorium populo Dei, alleluia;;18
 ;;23
 ;;33
 V. Ascendit fumus aromatum in conspectu Domini, alleluia.
 R. De manu Angeli, alleluia.
-Angelus Archangelus Michael, Dei nuntius pro animabus justis, alleluia, alleluia;;95
+Angelus Archangelus Michaël, * Dei nuntius pro animabus justis, alleluia, alleluia;;95
 ;;96
 ;;102
 V. In conspectu Angelorum psallam tibi Deus meus, alleluia.
-R. Adordbo ad templum sanctum tuum, et confitebor nominituo, alleluia.
+R. Adorabo ad templum sanctum tuum, et confitebor nomini tuo, alleluia.
 
 [Lectio1]
 De Daniele Propheta.
 !Dan 7:9-11
 9 Aspiciebam donec throni positi sunt, et antiquus dierum sedit. Vestimentum ejus candidum quasi nix, et capilli capitis ejus quasi lana munda: thronus ejus flammae ignis: rotae ejus ignis accensus.
-10 Fluvius igneus rapidusque egrediebatur a facie ejus. Millia millium ministrabant ei, et decies millies centena millia assistebant ei: judicium sedit, et libri aperti sunt.
-11 Aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur: et vidi quoniam interfecta esset bestia, et perisset corpus ejus, et traditum esset ad comburendum igni:
+10 Fluvius igneus rapidusque egrediebatur a facie ejus; millia millium ministrabant ei, et decies millies centena millia assistebant ei. Judicium sedit, et libri aperti sunt.
+11 Aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur: et vidi quoniam interfecta esset bestia, et periisset corpus ejus, et traditum esset ad comburendum igni:
 
 [Responsory1]
-R. Factum est silentium in coelo, dum comitteret bellum draco cum Michaele~
-Archangelo:
-* Audita est vox millia millium dicentium: Salus, honor et virtus omnipotenti~
-Deo. (Alleluia.)
+R. Factum est silentium in caelo, dum committeret bellum draco cum Michaële Archangelo:
+* Audita est vox millia millium dicentium: Salus, honor et virtus omnipotenti Deo. (Alleluia.)
 V. Millia millium ministrabant ei, et decies centena millia assistebant ei.
-R. Audita est vox millia millium dicentium: Salus, honor et virtus omnipotenti~
-Deo. (Alleluia.)
+R. Audita est vox millia millium dicentium: Salus, honor et virtus omnipotenti Deo. (Alleluia.)
 
 [Lectio2]
 !Dan 10:4-8
@@ -115,11 +106,9 @@ Deo. (Alleluia.)
 8 Ego autem relictus solus vidi visionem grandem hanc: et non remansit in me fortitudo, sed et species mea immutata est in me, et emarcui, nec habui quidquam virium.
 
 [Responsory2]
-R. Stetit Angelus juxta aram templi, habens thuribulum aureum in manu sua, et~
-data sunt ei incensa multa:
+R. Stetit Angelus juxta aram templi, habens thuribulum aureum in manu sua, et data sunt ei incensa multa:
 * Et ascendit fumus aromatum de manu Angeli in conspectu Domini. (Alleluia.)
-V. In conspectu Angelorum psallam tibi: adorabo ad templum sanctum tuum, et~
-confitebor nomini tuo Domine.
+V. In conspectu Angelorum psallam tibi: adorabo ad templum sanctum tuum, et confitebor nomini tuo Domine.
 R. Et ascendit fumus aromatum de manu Angeli in conspectu Domini. (Alleluia.)
 
 [Lectio3]
@@ -134,105 +123,64 @@ R. Et ascendit fumus aromatum de manu Angeli in conspectu Domini. (Alleluia.)
 [Responsory3]
 R. In conspectu Angelorum psallam tibi, et adorabo ad templum sanctum tuum:
 * Et confitebor nomini tuo Domine. (Alleluia.)
-V. Super misericordia tua et veritate tua: quoniam magnificasti super nos nomen~
-sanctum tuum.
+V. Super misericordia tua et veritate tua: quoniam magnificasti super nos nomen sanctum tuum.
 R. Et confitebor nomini tuo Domine. (Alleluia.)
 &Gloria
 R. Et confitebor nomini tuo Domine. (Alleluia.)
 
 [Lectio4]
-Beatum Michaelem Archangelum saepius hominibus apparuisse, et sacrorum librorum~
-auctoritate, et veteri sanctorum traditione comprobatur. Quam ob rem multis in~
-locis facti memoria celebratur. Eum ut olim synagoga Judaeorum, sic nunc~
-custodem et patronum, Dei veneratur Ecclesia. Gelasio autem primo Pontifice~
-Maximo, in Apulia in vertice Gargani montis, ad cujus radices incolunt Sipontini,~
-Archangeli Michaelis fuit illustris apparitio.
+Beatum Michaëlem Archangelum saepius hominibus apparuisse, et sacrorum librorum auctoritate, et veteri Sanctorum traditione comprobatur. Quam ob rem multis in locis facti memoria celebratur. Eum ut olim synagoga Judaeorum, sic nunc custodem et patronum, Dei veneratur Ecclesia. Gelasio autem primo Pontifice maximo, in Apulia in vertice Gargani montis, ad cujus radices incolunt Sipontini, Archangeli Michaëlis fuit illustris apparitio.
 
 [Responsory4]
-R. Hic est Michael Archangelus, princeps militiae Angelorum,
-* Cujus honor praestat beneficia populorum, et oratio perducit ad regna coelorum.~
-(Alleluia.)
-V. Archangelus Michael praepesitus paradisi, quem honorificant Angelorum cives.
-R. Cujus honor praestat beneficia populorum, et oratio perducit ad regna~
-coelorum. (Alleluia.)
+R. Hic est Michaël Archangelus, princeps militiae Angelorum,
+* Cujus honor praestat beneficia populorum, et oratio perducit ad regna caelorum. (Alleluia.)
+V. Archangelus Michaël praepositus paradisi, quem honorificant Angelorum cives.
+R. Cujus honor praestat beneficia populorum, et oratio perducit ad regna caelorum. (Alleluia.)
 
-[Lectio04]
-Beátum Michaélem Archángelum sæpius homínibus apparuísse, et sacrórum Librórum auctoritáte et véteri Sanctórum traditióne comprobátur. Quam ob rem multis in locis facti memória celebrátur. Eum, ut olim synagóga Judæórum, sic nunc custódem et patrónum Dei venerátur Ecclésia. Gelásio autem primo, Pontífice máximo, in Apúlia in vértice Gargáni montis, ad cujus radíces íncolunt Sipontíni, Archángeli Michaélis fuit illústris apparítio. Nec ita multo post Bonifátius Papa, Romæ in summo circo, sancti Michaélis ecclésiam dedicávit tértio Kaléndas Octóbris ; quo die étiam ómnium Angelórum memóriam Ecclésia célebrat. Hodiérnus autem dies Archángeli Michaélis apparitióne consecrátus est.
+[Lectio94]
+Beátum Michaélem Archángelum sæpius homínibus apparuísse, et sacrórum librórum auctoritáte et véteri Sanctórum traditióne comprobátur. Quam ob rem multis in locis facti memória celebrátur. Eum, ut olim synagóga Judæórum, sic nunc custódem et patrónum Dei venerátur Ecclésia. Gelásio autem primo, Pontífice máximo, in Apúlia in vértice Gargáni montis, ad cujus radíces íncolunt Sipontíni, Archángeli Michaélis fuit illústris apparítio. Nec ita multo post Bonifátius Papa, Romæ in summo circo, sancti Michaélis ecclésiam dedicávit tértio Kaléndas Octóbris; quo die étiam ómnium Angelórum memóriam Ecclésia célebrat. Hodiérnus autem dies Archángeli Michaélis apparitióne consecrátus est.
 &teDeum
 
 [Lectio5]
-Factum est enim, ut ex gregibus armentorum Gargani cujusdam taurus longe~
-discederet: quem diu conquisitum, in aditu speluncae haerentem invenerunt. Cum~
-vero quidam ex illis, ut taurum configeret, sagittam emisisset, retorta sagitta~
-in ipsum recidit sagittarium. Quae res cum praesentes, ac deinceps ceteros tanto~
-timore affecisset, ut ad eam speluncam propius accedere nemo auddret, Sipontini~
-episcopum consulunt: qui, indicto trium dierum jejunio et oratione, rem a Deo~
-respondit quaeri oportere.
+Factum est enim, ut ex gregibus armentorum Gargani cujusdam taurus longe discederet: quem diu conquisitum, in aditu speluncae haerentem invenerunt. Cum vero quidam ex illis, ut taurum configeret, sagittam emisisset, retorta sagitta in ipsum recidit sagittarium. Quae res cum praesentes, ac deinceps ceteros tanto timore affecisset, ut ad eam speluncam propius accedere nemo auderet, Sipontini episcopum consulunt: qui, indicto trium dierum jejunio et oratione, rem a Deo respondit quaeri oportere.
 
 [Responsory5]
-R. Venit Michael Archangelus cum multitudine Angelorum, cui tradidit Deus animas~
-sanctorum,
+R. Venit Michaël Archangelus cum multitudine Angelorum, cui tradidit Deus animas Sanctorum,
 * Ut perducat eas in paradisum exsultationis. (Alleluia.)
-V. Emitte Domine Spiritum sanctum tuum de caelis, spiritum sapientiae et~
-intellectus.
+V. Emitte Domine Spiritum sanctum tuum de caelis, spiritum sapientiae et intellectus.
 R. Ut perducat eas in paradisum exsultationis. (Alleluia.)
 
 [Lectio6]
-Post triduum Michael Archangelus episcopum monet, in sua tutela esse eum locum,~
-eoque indicio demonstrasse, velle ibi cul tum Deo in sui et Angelorum memoriam~
-adhiberi. Quare episcopus una cum civibus ad eam speluncam ire pergit. Quam cum~
-in templi cujusdam similitudinem conformatam vidissent, locum illum divinis~
-officiis celebrare coeperunt: qui multis postea miraculis illustratus est. Nec~
-ita multo post Bonifacius Papa Romae in summo circo sancti Michaelis ecclesiam~
-dedicavit tertio Kalendas Octobris: quo die etiam omnium Angelorum memoriam~
-Ecclesia celebrat. Hodiernus autem dies Archangeli Michaelis apparitione~
-consecratus est.
+Post triduum Michaël Archangelus episcopum monet, in sua tutela esse eum locum, eoque indicio demonstrasse, velle ibi cultum Deo in sui et Angelorum memoriam adhiberi. Quare episcopus una cum civibus ad eam speluncam ire pergit. Quam cum in templi cujusdam similitudinem conformatam vidissent, locum illum divinis officiis celebrare coeperunt: qui multis postea miraculis illustratus est. Nec ita multo post Bonifatius Papa Romae in summo circo sancti Michaëlis ecclesiam dedicavit tertio Kalendas Octobris: quo die etiam omnium Angelorum memoriam Ecclesia celebrat. Hodiernus autem dies Archangeli Michaëlis apparitione consecratus est.
 
 [Responsory6]
-R. In tempore illo consurget Michael, qui stat pro filiis vestris:
-* Et veniet tempus, quale non fuit, ex quo gentes esse coeperunt, usque ad illud.~
-(Alleluia.)
-V. In tempore illo salvabitur populus tuus omnis, qui inventus fuerit scriptus~
-in libro vitae.
-R. Et veniet tempus, quale non fuit, ex quo gentes esse coeperunt, usque ad~
-illud. (Alleluia.)
+R. In tempore illo consurget Michaël, qui stat pro filiis vestris:
+* Et veniet tempus, quale non fuit, ex quo gentes esse coeperunt, usque ad illud. (Alleluia.)
+V. In tempore illo salvabitur populus tuus omnis, qui inventus fuerit scriptus in libro vitae.
+R. Et veniet tempus, quale non fuit, ex quo gentes esse coeperunt, usque ad illud. (Alleluia.)
 &Gloria
-R. Et veniet tempus, quale non fuit, ex quo gentes esse coeperunt, usque ad~
-illud. (Alleluia.)
+R. Et veniet tempus, quale non fuit, ex quo gentes esse coeperunt, usque ad illud. (Alleluia.)
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
 !Matt 18:1-10
-In illo tempore: Accesserunt discipuli ad Jesum, dicentes: Quis, putas, major~
-est in regno coelorum? Et reliqua.
+In illo tempore: Accesserunt discipuli ad Jesum, dicentes: Quis, putas, major est in regno caelorum? Et reliqua.
 _
 Homilia sancti Hilarii Episcopi.
 !Comment in Matth. can. 18.
-Nonnisi reversos in naturam puerorum introire regnum coelorum Dominus docet: id~
-est, per simplicitatem puerilem vitia corporum nostrorum animaeque revocanda.~
-Pueros autem credentes omnes per audientiae fidem nuncupavit. Hi enim patrem~
-sequuntur, matrem amant, proximo velle malum nesciunt, curam opum negligunt: non~
-insolescunt, non oderunt, non mentuintur, dictis credunt, et quod audiunt, verum~
-habent. Revertendum igitur est ad simplicitatem infantium, quia in ea collocati,~
-speciem humilitatis dominicae circumferemus.
+Nonnisi reversos in naturam puerorum introire regnum caelorum Dominus docet: id est, per simplicitatem puerilem vitia corporum nostrorum animaeque revocanda. Pueros autem credentes omnes per audientiae fidem nuncupavit. Hi enim patrem sequuntur, matrem amant, proximo velle malum nesciunt, curam opum negligunt: non insolescunt, non oderunt, non mentiuntur, dictis credunt, et quod audiunt, verum habent. Revertendum igitur est ad simplicitatem infantium, quia in ea collocati, speciem humilitatis Dominicae circumferemus.
 
 [Responsory7]
-R. In conspectu Gentium nolite timere: vos enim in cordibus vestris adorate et~
-timete Dominum:
+R. In conspectu Gentium nolite timere: vos enim in cordibus vestris adorate et timete Dominum:
 * Angelus enim ejus vobiscum est. (Alleluia.)
 V. Stetit Angelus juxta aram templi, habens thuribulum aureum in manu sua.
 R. Angelus enim ejus vobiscum est. (Alleluia.)
 
 [Lectio8]
-Vae huic mundo ab scandalis. Humilitas passionis scandalum mundo est. In hoc~
-enim maxime ignorantia detinetur humana, quod sub deformitate crucis, aeternae~
-gloriae Dominum noluit accipere. Et quid mundo tam periculosum, quam non~
-recepisse Christum? Ideo vero necesse esse ait venire scandala: quia ad~
-sacramentum reddendae nobis aeternitatis omnis in eo passionis humilitas esset~
-explenda.
+Vae huic mundo a scandalis. Humilitas passionis scandalum mundo est. In hoc enim maxime ignorantia detinetur humana, quod sub deformitate crucis, aeternae gloriae Dominum noluit accipere. Et quid mundo tam periculosum, quam non recepisse Christum? Ideo vero necesse esse ait venire scandala: quia ad sacramentum reddendae nobis aeternitatis omnis in eo passionis humilitas esset explenda.
 
 [Responsory8]
-R. Michael Archangelus venit in adjutorium populo Dei,
+R. Michaël Archangelus venit in adjutorium populo Dei,
 * Stetit in auxilium pro animabus justis. (Alleluia.)
 V. Stetit Angelus juxta aram templi, habens thuribulum aureum in manu sua.
 R. Stetit in auxilium pro animabus justis. (Alleluia.)
@@ -240,59 +188,49 @@ R. Stetit in auxilium pro animabus justis. (Alleluia.)
 R. Stetit in auxilium pro animabus justis. (Alleluia.)
 
 [Lectio9]
-Videte ne contemnatis unum de pusillis istis qui credunt in me. Aptissimum~
-vinculum mutui amoris imposuit, ad eos praecipue qui vere in Domino~
-credidissent. Pusillorum enim Angeli quotidie Deum vident: quia Filius hominis~
-venit salvare quae perdita sunt. Ergo et Filius hominis salvat, et Deum Angeli~
-vident, et Angeli pusillorum praesunt fidelium orationibus. Praeesse Angelos~
-absoluta auctoritas est. Salvatorum igitur per Christum orationes Angeli~
-quotidie Deo offerunt. Ergo periculose ille contemnitur, cujus desideria, ac~
-postulationes ad aeternum, et invisibilem Deum ambitioso Angelorum famulatu ac~
-ministerio pervehuntur.
+Videte ne contemnatis unum de pusillis istis qui credunt in me. Aptissimum vinculum mutui amoris imposuit, ad eos praecipue qui vere in Domino credidissent. Pusillorum enim Angeli quotidie Deum vident: quia Filius hominis venit salvare quae perdita sunt. Ergo et Filius hominis salvat, et Deum Angeli vident, et Angeli pusillorum praesunt fidelium orationibus. Praeesse Angelos absoluta auctoritas est. Salvatorum igitur per Christum orationes Angeli quotidie Deo offerunt. Ergo periculose ille contemnitur, cujus desideria, ac postulationes ad aeternum, et invisibilem Deum ambitioso Angelorum famulatu ac ministerio pervehuntur.
 &teDeum
 
 [Ant Laudes]
 Stetit Angelus * juxta aram templi, habens thuribulum aureum in manu sua. (Alleluia.)
-Dum praeliaretur * Michael Archangelus cum dracone, audita est vox dicentium: Salus Deo nostro. (Alleluia.)
-Archangele Michael, * constitui te principem super omnes animas suscipiendas. (Alleluia.)
+Dum praeliaretur * Michaël Archangelus cum dracone, audita est vox dicentium: Salus Deo nostro. (Alleluia.)
+Archangele Michaël, * constitui te principem super omnes animas suscipiendas. (Alleluia.)
 Angeli Domini * Dominum benedicite in aeternum. (Alleluia.)
-Angeli, Archangeli, * Throni, et Dominationes, Principatus, et Potestates, Virtutes coelorum, laudate Dominum de caelis. (Alleluia.)
+Angeli, Archangeli, * Throni, et Dominationes, Principatus, et Potestates, Virtutes caelorum, laudate Dominum de caelis. (Alleluia.)
 
 [Capitulum Laudes]
 !Rev 1:1-2
-v. Significavit Deus quae oportet fieri cito, loquens per Angelum suum servo suo~
-Joanni, qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi,~
-quaecumque vidit.
+v. Significavit Deus quae oportet fieri cito, loquens per Angelum suum servo suo Joanni, qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi, quaecumque vidit.
 $Deo gratias
 
 [Hymnus Laudes]
-v. Christe, sanctorum decus angelorum,
+v. Christe, sanctorum decus Angelorum,
 Gentis humanae Sator et Redemptor,
-Coelitum nobis tribuas beatas
+Caelitum nobis tribuas beatas
 Scandere sedes.
 _
-Angelus pacis Michael in aedes
-Coelitus nostras veniat serenae
+Angelus pacis Michaël in aedes
+Caelitus nostras veniat serenae
 Auctor ut pacis lacrimosa in orcum
 Bella releget.
 _
 Angelus fortis Gabriel, ut hostes
-Pellat antiquos, et amica coelo,
+Pellat antiquos, et amica caelo,
 Quae triumphator statuit per orbem,
 Templa revisat.
 _
 Angelus nostrae medicus salutis,
-Adsit e caelo Raphael, ut omnes
+Adsit e caelo Raphaël, ut omnes
 Sanet aegrotos, dubiosque vitae
 Dirigat actus.
 _
 Virgo dux pacis, Genitrixque lucis,
-Et sacer nobis chorus angelorum
+Et sacer nobis chorus Angelorum
 Semper assistat, simul et micantis
-Regia coeli.
+Regia caeli.
 _
 Praestet hoc nobis Deitas beata
-Patris ac Nati pariterque sancti
+Patris ac Nati pariterque Sancti
 Spiritus, cujus resonat per omnem
 Gloria mundum.
 Amen.
@@ -302,19 +240,15 @@ V. Stetit Angelus juxta aram templi. (Alleluia.)
 R. Habens thuribulum aureum in manu sua. (Alleluia.)
 
 [Ant 2]
-Factum est * silentium in caelo, dum draco committeret bellum: et Michael~
-pugnavit cum eo, et fecit victoriam. (Alleluia.)
+Factum est * silentium in caelo, dum draco committeret bellum: et Michaël pugnavit cum eo, et fecit victoriam. (Alleluia.)
+
 [Lectio Prima]
 !Rev 12:7-8
-v. Factum est praelium magnum in coelo: Michael, et Angeli ejus praeliabantur~
-cum dracone, et draco pugnabat, et angeli ejus et non praevaluerunt, neque locus~
-inventus est eorum amplius in coelo.
+v. Factum est praelium magnum in caelo: Michaël, et Angeli ejus praeliabantur cum dracone, et draco pugnabat, et angeli ejus et non praevaluerunt, neque locus inventus est eorum amplius in caelo.
 
 [Capitulum Tertia]
 !Rev 1:1-2
-v. Significavit Deus quae oportet fieri cito, loquens per Angelum suum servo suo~
-Joanni, qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi,~
-quaecumque vidit.
+v. Significavit Deus quae oportet fieri cito, loquens per Angelum suum servo suo Joanni, qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi, quaecumque vidit.
 $Deo gratias
 
 [Responsory Tertia]
@@ -330,9 +264,7 @@ R. De manu Angeli, alleluia.
 
 [Capitulum Sexta]
 !Rev 5:11-12
-v. Audivi vocem Angelorum multorum in circuitu throni, et animalium, et~
-seniorum: et erat numerus eorum millia millium, voce magna dicentium: Salus Deo~
-nostro.
+v. Audivi vocem Angelorum multorum in circuitu throni, et animalium, et seniorum: et erat numerus eorum millia millium, voce magna dicentium: Salus Deo nostro.
 $Deo gratias
 
 [Responsory Sexta]
@@ -343,31 +275,28 @@ R. Alleluia, alleluia.
 &Gloria
 R. Ascendit fumus aromatum in conspectu Domini, * Alleluia, alleluia.
 _
-V. In conspectu Angelorum psallam tibi Dominus, allelluja.
+V. In conspectu Angelorum psallam tibi Deus meus, allelluja.
 R. Adorabo ad templum sanctum tuum, et confitebor nomini tuo, alleluia.
 
 [Capitulum Nona]
 !Rev 12:7-8
-v. Factum est praelium magnum in coelo: Michael, et Angeli ejus praeliabantur cum~
-dracone, et draco pugnabat, et angeli ejus et non praevaluerunt, neque locus~
-inventus est eorum amplius in coelo.
+v. Factum est praelium magnum in caelo: Michaël, et Angeli ejus praeliabantur cum dracone, et draco pugnabat, et angeli ejus et non praevaluerunt, neque locus inventus est eorum amplius in caelo.
 $Deo gratias
 
 [Responsory Nona]
-R.br. In conspectu Angelorum psallam tibi Deus meus * Allelluja, alleluia.
-R. In conspectu Angelorum psallam tibi Deus meus * Allelluja, alleluia.
+R.br. In conspectu Angelorum psallam tibi Deus meus * Alleluja, alleluia.
+R. In conspectu Angelorum psallam tibi Deus meus * Alleluja, alleluia.
 V. Adorabo ad templum sanctum tuum, et confitebor nomini tuo.
-R. Psallam tibi Deus meus * Alleluia, alleluia.
+R. Alleluia, alleluia.
 &Gloria
-R. In conspectu Angelorum psallam tibi Deus meus * Allelluja, alleluia.
+R. In conspectu Angelorum psallam tibi Deus meus * Alleluja, alleluia.
 _
-V. Adorate Deum. (Alleluia.)
-R. Omnes Angeli ejus. (Alleluia.)
+V. Adorate Deum. Alleluia.
+R. Omnes Angeli ejus. Alleluia.
 
 [Versum 3]
-V. In conspectu Angelorum psallam tibi Deus meus. (Alleluia.)
-R. Adorabo ad templum sanctum tuum, et confitebor nomini tuo. (Alleluia.)
+V. In conspectu Angelorum psallam tibi Deus meus. Alleluia.
+R. Adorabo ad templum sanctum tuum, et confitebor nomini tuo. Alleluia.
 
 [Ant 3]
-Princeps gloriosissime * Michael Archangele, esto memor nostri: hic, et ubique~
-semper precare pro nobis Filium Dei, alleluia. (Alleluia.)
+Princeps gloriosissime * Michaël Archangele, esto memor nostri: hic, et ubique semper precare pro nobis Filium Dei, alleluia. Alleluia.

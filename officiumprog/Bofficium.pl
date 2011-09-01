@@ -29,6 +29,7 @@ $debug = '';
 our $Tk = 0;
 our $Hk = 0;
 our $Ck = 0;
+our $notes = 0;
 our $missa = 0;
 our $version = 'Divino Afflatu';
 @versions = ('Trident 1570', 'Trident 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1960 Newcalendar');

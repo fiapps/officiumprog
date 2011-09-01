@@ -41,12 +41,12 @@ R. S mindörökké zengje dicséreted!
 Ne irigyeld * aki boldogul megszegve a törvényt;;36(1-15)
 A bûnös karja eltörik *  ám az igazat az Úr támogatja;;36(16-29)
 Nézd az ártatlant * tekints az igazra;;36(30-40)  
-V. Bízzál az Úrban és kövesd az útját *
+V. Bízzál az Úrban és kövesd az útját 
 R. O megõriz a gonosztól s õ felemel, hogy tiéd legyen a föld
 Ne büntess engem * felindulásodban;;37(1-11)
 Siess segítségemre * Uram, üdvösségem;;37(12-23)
 Vedd le rólam * csapásaidat;;38
-V. Istenem, ne zárkózz el síró szavam elõl *
+V. Istenem, ne zárkózz el síró szavam elõl 
 R. Elõtted csak jövevény vagyok, zarándok,
 
 [Day3]
@@ -91,10 +91,10 @@ V. Kérésem nem vetette el
 R. Irgalmasságát nem vonta meg tõlem.
 Fölkel az Isten * ellenségei szétszóródnak;;67(1-11)
 Isten a mi üdvösségünk Istene * a Hatalmas megóv a haláltól;;67(12-24)
-A magasságban * áldjátok Istent az Urat;;67(25-36)
+Templomaiban * áldjátok Istent az Urat;;67(25-36)
 V. Félelmetes az Isten az õ szent helyén
 R. Izrael Istene, õ ad népének erõt és hatalmat
-Ments meg, Istenem, a víz már torkomig ér;;68(1-13)
+Ments meg, Istenem, * a víz már torkomig ér;;68(1-13)
 Ellenségeimtõl * ments meg Uram;;68(14-29)
 Keressétek az Urat * és élni fog lelketek;;68(30-37)
 V. Dicsõítem Isten nevét énekemben
@@ -113,7 +113,7 @@ V. Júdát választotta ki magának
 R. Sion hegyét, melyet szeretett.
 Neved dicsõségéért * ments meg minket, Istenünk, bocsásd meg, bûneinket;;78
 Én vagyok az Ur * Izrael Istene, aki kihoztalak téged Egyiptom földjérõl;;80
-Ne hallgass Istenem * ellensegeid fennen hordják fejüket;;82
+Ne hallgass Istenem * ellenségeid fennen hordják fejüket;;82
 V. Hadd ismerjenek meg téged, akinek neve: Úr
 R. Az egész világon egyedül te vagy fölséges.
 
@@ -145,43 +145,43 @@ Christ our King cometh, * Whom John preached, saying Behold the Lamb That should
 Behold, I come * quickly, saith the Lord, and My reward is with Me, to give every man according as his work shall be;;9(12-21)
 V. Send forth the Lamb, O Lord, the ruler of the land. 
 R. From the Rock of the wilderness unto the mount of the daughter of Zion. 
-The Angel Gabriel spake unto Mary, saying: Hail, thou that art full of grace, the Lord is with thee: blessed art thou among women;;9(22-32)
-Mary said: What manner of salutation is this? My soul is troubled. Shall I bear the King? And will He not break the seal of my virginity?;;9(33-39)
+The Angel Gabriel * spake unto Mary, saying: Hail, thou that art full of grace, the Lord is with thee: blessed art thou among women;;9(22-32)
+Mary said: * What manner of salutation is this? My soul is troubled. Shall I bear the King? And will He not break the seal of my virginity?;;9(33-39)
 The King, * even the Most High, cometh therefore let the hearts of men be purified to go forth to meet Him, for, behold, He will come and will not tarry;;10
 V. The Lord cometh out of His holy place. 
 R. He will come and save His people. 
 
 [Adv 0 Versum]
-V. Egredietur Dominus Deus loco sancto suo
-R. Veniet ut salvet populum suum
+V. For behold the Lord will come out of his place
+R. He comes to save his people
 
 [Adv 1 Versum]
-V. Ex Sion species decorum eius
-R. Deus noster manifeste veniet
+V. From Sion, from the place of his greatness
+R. Our God shall come manifestly
 
 [Adv 2 Versum]
-V. Emitte Agnum Domine, dominatorem terrae
-R. De petra deserti ad montem filiae Sion
+V. Send forth, O Lord, the lamb, the ruler of the earth, 
+R. From Petra of the desert, to the mount of the daughter of Sion.
 
 [Adv 3 Versum]
-V. Egredietur Dominus de loco sancto suo
-R. Veniet ut salvet populum suum
+V. The Lord will come out of his place
+R. He comes to save his people
 
 [Adv 4 Versum]
-V. Ex Sion species decorus eius
-R. Deus noster manifeste veniet
+V. From Sion, from the place of his greatness
+R. Our God shall come manifestly
 
 [Adv 5 Versum]
-V. Emitte Agnum Domine, dominatorem terrae
-R. De porta deserti ad montem filiae Sion
+V. Send forth, O Lord, the lamb, the ruler of the earth, 
+R. From Petra of the desert, to the mount of the daughter of Sion.
 
 [Adv 6 Versum]
-V. Egredietur Dominus de loco sancto suo
-R. Veniet ut salvet populum suum
+V. The Lord will come out of his place
+R. He comes to save his people
 
 [Nat24 Versum]
-V. Hodie scietis qua veniet Dominus
-R. Et mane videbitis gloriam eius
+V. Today you will know that the Lord is coming
+R. At the morning you will see His glory
 
 [Quad 0 Versum]
 V. Paizs gyanánt vesz téged körûl az õ igazsága; 
@@ -196,7 +196,7 @@ V. Feltámadott az Úr a sirból. Alleluja
 R. Aki érettünk a keresztfán függött. Alleluja
 
 [Quad 1 Versum]
-V. Megszabadított engem * a vadászok tõrétõl.
+V. Megszabadított engem a vadászok tõrétõl.
 R. És az éles szavaktól
 
 [Quad5 1 Versum]
@@ -276,8 +276,8 @@ R. Aki érettünk a keresztfán függött. Alleluja
 Alleluia * Kit keresel, asszony? alleluia: élot a holtak kozott? alleluia, alleluia.
 ;;
 ;;
-V. Valoban feltamadt az Ur, alleluia.
-R. Es megjelent Simonnak, alleluia.
+V. Valóban feltámadt az Úr, alleluia.
+R. És megjelent Simonnak, alleluia.
 Alleluia * Ne félj, Mária, alleluia: feltamadott az Ur, alleluia, alleluia.
 ;;
 ;;

@@ -6,7 +6,7 @@ Feria Secunda infra Hebdomadam IV in Quadragesima;;Feria major;;2
 [Lectio1]
 Lectio sancti Evangelii secundum Joannem.
 !John 2:13-25.
-In illo tempore: Prope erat Pascha Judaeorum, et ascendit Jesus Hierosolymam: et~
+In illo tempore: Prope erat Pascha Judaeorum, et ascendit Jesus Jerosolymam: et~
 invenit in templo vendentes boves, et oves, et columbas. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
@@ -35,7 +35,7 @@ sunt (quae enim honeste emuntur, non illicite venduntur) expulit tamen, et non~
 est passus domum orationis fieri domum negotiationis?
 
 [Responsory2]
-R. Audi Israel praecepta Domini, et ea in corde tuo quasi in libro scribe:
+R. Audi Israël praecepta Domini, et ea in corde tuo quasi in libro scribe:
 * Et dabo tibi terram fluentem lac et mel.
 V. Observa fugitur, et audi vocem meam: et inimicus ero inimicis tuis.
 R. Et dabo tibi terram fluentem lac et mel.

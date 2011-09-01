@@ -50,7 +50,7 @@ Quod solus e sinu Patris
 Mundi salus adveneris.
 _
 Hunc astra, tellus, aequora,
-Hunc omne quod coelo subest,
+Hunc omne quod caelo subest,
 Salutis Auctorem novae
 Novo salutat cantico.
 _
@@ -97,7 +97,7 @@ ob diem natális tui
 hymnum novum concínimus.
 _
 Iesu, tibi sit glória,
-qui natus est de Vírgine,
+qui natus es de Vírgine,
 cum Patre et almo Spíritu,
 in sempitérna sæcula. 
 Amen.
@@ -130,7 +130,7 @@ Suscepimus * Deus misericordiam tuam in medio templi tui;;47
 Orietur * in diebus Domini abundantia pacis, et dominabitur;;71
 V. Tamquam sponsus.
 R. Dominus procedens de thalamo suo.
-Veritas de terra * orta est, et justitia de coelo prospexit;;84
+Veritas de terra * orta est, et justitia de caelo prospexit;;84
 Ipse invocabit * me, alleluia: Pater meus es tu, alleluia;;88
 Laetantur caeli, * et exsultet terra ante faciem Domini, quoniam venit;;95
 In principio * et ante saecula Deus erat Verbum: ipse natus est nobis Salvator mundi;;96
@@ -161,13 +161,13 @@ Consiliarius, Deus, Fortis, Pater futuri saeculi, Princeps pacis.
 
 [Responsory1]
 R. Hodie nobis caelorum Rex de Virgine nasci dignatus est, ut hominem perditum~
-ad coelestia regna revocaret:
+ad caelestia regna revocaret:
 * Gaudet exercitus Angelorum: quia salus aeterna humano generi apparuit.
 V. Gloria in excelsis Deo, et in terra pax hominibus bonae voluntatis.
 R. Gaudet exercitus Angelorum: quia salus aeterna humano generi apparuit.
 &Gloria
 R. Hodie nobis caelorum Rex de Virgine nasci dignatus est, ut hominem perditum~
-ad coelestia regna revocaret: * Gaudet exercitus Angelorum: quia salus aeterna~
+ad caelestia regna revocaret: * Gaudet exercitus Angelorum: quia salus aeterna~
 humano generi apparuit.
 
 [Lectio2]
@@ -190,11 +190,11 @@ Vere fœnum est populus:
 aeternum.
 
 [Responsory2]
-R. Hodie nobis de coelo pax vera descendit:
-* Hodie per totum mundum melliflui facti sunt coeli.
+R. Hodie nobis de caelo pax vera descendit:
+* Hodie per totum mundum melliflui facti sunt caeli.
 V. Hodie illuxit nobis dies redemptionis novae, reparationis antiquae,~
 felicitatis aeternae.
-R. Hodie per totum mundum melliflui facti sunt coeli.
+R. Hodie per totum mundum melliflui facti sunt caeli.
 
 [Lectio3]
 !Isa 52:1-6
@@ -276,18 +276,18 @@ translatus es in Dei lumen et regnum.
 
 [Responsory6]
 R. Sancta et immaculata virginitas, quibus te laudibus eiferam nescio:
-* Quia quem coeli capere non poterant, tuo gremio contulisti.
+* Quia quem caeli capere non poterant, tuo gremio contulisti.
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem coeli capere non poterant, tuo gremio contulisti.
+R. Quia quem caeli capere non poterant, tuo gremio contulisti.
 &Gloria
-R. Quia quem coeli capere non poterant, tuo gromio contulisti.
+R. Quia quem caeli capere non poterant, tuo gromio contulisti.
 
 [Benedictio3]
 A vinculis peccatorum nostrorum absolvat nos omnipotens et misericors Dominus. Amen.
 Jube domne benedicere.
 Evangelica lectio sit nobis salus et protectio. Amen.
 Per Evangelica dicta deleantur nostra relicta. Amen.
-Verba Sancti Evangelii, doceat nos Christus Filii Dei. Amen.
+Verba Sancti Evangelii, doceat nos Christus Filius Dei. Amen.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
@@ -304,7 +304,7 @@ Domino mundus describitur, nisi hoc, quod aperte monstratur, quia ille apparebat
 in carne, qui electos suos adscriberet in aeternitate? Quo contra de reprobis~
 per prophetam dicitur: Deleantur de libro viventium, et cum justis non~
 scribantur. Qui bene etiam in Bethlehem nascitur. Bethlehem quippe domus panis~
-interpretatur. Ipse namque est, qui ait: Ego sum panis vivus, qui de coelo~
+interpretatur. Ipse namque est, qui ait: Ego sum panis vivus, qui de caelo~
 descendi. Locus ergo, in quo Dominus nascitur, domus panis antea vocatus est:~
 quia futurum profecto erat, ut ille ibi per materiam carnis appareret, qui~
 electorum mentes interna satietate reficeret. Qui non in parentum domo, sed in~
@@ -422,7 +422,7 @@ Praesepe non abhorruit:
 Et lacte modico pastus est,
 Per quem nec ales esurit.
 _
-Gaudet chorus coelestium,
+Gaudet chorus caelestium,
 Et Angeli canunt Deo;
 Palamque fit pastoribus
 Pastor, Creator omnium.
@@ -488,7 +488,7 @@ Apud Dominum * misericordia, et copiosa apud eum redemptio;;129
 [Capitulum Vespera 3]
 !Heb 1:1-2
 v. Multifariam, multisque modis olim Deus loquens patribus in prophetis:~
-novissime diebus istis locutus est nobis in Filio, quem constituit haeredem~
+novissime diebus istis locutus est nobis in Filio, quem constituit heredem~
 universorum, per quem fecit et saecula.
 $Deo gratias
 _

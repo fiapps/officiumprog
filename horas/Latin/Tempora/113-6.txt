@@ -7,7 +7,6 @@ De Daniele Propheta
 4 Et oravi Dominum Deum meum, et confessus sum, et dixi: Obsecro, Domine Deus magne et terribilis, custodiens pactum, et misericordiam diligentibus te, et custodientibus mandata tua:
 5 peccavimus, iniquitatem fecimus, impie egimus, et recessimus: et declinavimus a mandatis tuis ac judiciis.
 
-
 [Responsory1]
 @Tempora/111-0:Responsory7
 
@@ -18,7 +17,6 @@ De Daniele Propheta
 23 Ab exordio precum tuarum egressus est sermo: ego autem veni ut indicarem tibi, quia vir desideriorum es: tu ergo animadverte sermonem, et intellige visionem.
 24 Septuaginta hebdomades abbreviatae sunt super populum tuum et super urbem sanctam tuam, ut consummetur praevaricatio, et finem accipiat peccatum, et deleatur iniquitas, et adducatur justitia sempiterna, et impleatur visio et prophetia, et ungatur Sanctus sanctorum.
 
-
 [Responsory2]
 @Tempora/111-1:Responsory2
 
@@ -27,7 +25,6 @@ De Daniele Propheta
 25 Scito ergo, et animadverte: ab exitu sermonis, ut iterum aedificetur Jerusalem, usque ad christum ducem, hebdomades septem, et hebdomades sexaginta duae erunt: et rursum aedificabitur platea, et muri in angustia temporum.
 26 Et post hebdomades sexaginta duas occidetur christus: et non erit ejus populus qui eum negaturus est. Et civitatem et sanctuarium dissipabit populus cum duce venturo: et finis ejus vastitas, et post finem belli statuta desolatio.
 27 Confirmabit autem pactum multis hebdomada una: et in dimidio hebdomadis deficiet hostia et sacrificium: et erit in templo abominatio desolationis: et usque ad consummationem et finem perseverabit desolatio.
-
 
 [Responsory3]
 @Tempora/111-1:Responsory3

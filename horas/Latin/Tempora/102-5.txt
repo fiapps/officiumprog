@@ -17,7 +17,6 @@ De libro primo Maccabeorum
 10 Et surrexerunt, et venerunt cum exercitu magno in terram Juda: et miserunt nuntios, et locuti sunt ad Judam et ad fratres ejus verbis pacificis in dolo.
 11 Et non intenderunt sermonibus eorum: viderunt enim quia venerunt cum exercitu magno.
 
-
 [Responsory2]
 @Tempora/101-0:Responsory5
 
@@ -29,7 +28,6 @@ De libro primo Maccabeorum
 15 et locutus est cum eis verba pacifica, et juravit illis, dicens: Non inferemus vobis malum, neque amicis vestris.
 16 Et crediderunt ei: et comprehendit ex eis sexaginta viros, et occidit eos in una die, secundum verbum quod scriptum est:
 17 Carnes sanctorum tuorum, et sanguinem ipsorum effuderunt in circuitu Jerusalem, et non erat qui sepeliret.
-
 
 [Responsory3]
 @Tempora/101-0:Responsory6

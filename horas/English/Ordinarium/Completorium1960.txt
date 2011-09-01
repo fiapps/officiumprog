@@ -25,7 +25,7 @@ $Deus in adjutorium
 
 #Psalmi
 
-#Hymnus
+#Hymn
 v. Before the ending of the day,
 Creator of the world, we pray
 That with thy wonted favor thou
@@ -42,7 +42,7 @@ Who, with the Holy Ghost and thee,
 Doth live and reign eternally.
 Amen.
 
-#Capitulum Responsory Versum
+#Capitulum Responsory Versus
 !Jer 14:9
 v. But thou, O Lord, art among us,~
 and thy name is called upon by us,~
@@ -59,7 +59,7 @@ _
 V. Keep us, Lord, as the apple of thine eye. 
 R. Protect us under the shadow of thy wings.
 
-#Canticum Nunc dimittis
+#Canticle Nunc dimittis
 Ant. Protect us, * Lord, while we are awake and safeguard us while we sleep;~
 that we may keep watch with Christ, and rest in peace.
 &canticum(3)

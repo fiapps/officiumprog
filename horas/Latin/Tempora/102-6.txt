@@ -6,7 +6,6 @@ De libro primo Maccabeorum
 3 et quanta fecerunt in regione Hispaniae, et quod in potestatem redegerunt metalla argenti et auri, quae illic sunt, et possederunt omnem locum consilio suo, et patientia:
 4 locaque quae longe erant valde ab eis, et reges, qui supervenerant eis ab extremis terrae, contriverunt, et percusserunt eos plaga magna: ceteri autem dant eis tributum omnibus annis.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory7
 
@@ -19,7 +18,6 @@ De libro primo Maccabeorum
 21 Et placuit sermo in conspectu eorum.
 22 Et hoc rescriptum est quod rescripserunt in tabulis aereis, et miserunt in Jerusalem, ut esset apud eos ibi memoriale pacis et societatis:
 
-
 [Responsory2]
 @Tempora/101-1:Responsory2
 
@@ -30,7 +28,6 @@ De libro primo Maccabeorum
 25 auxilium feret gens Judaeorum, prout tempus dictaverit, corde pleno:
 26 et praeliantibus non dabunt, neque subministrabunt triticum, arma, pecuniam, naves, sicut placuit Romanis: et custodient mandata eorum, nihil ab eis accipientes.
 27 Similiter autem et si genti Judaeorum prius acciderit bellum, adjuvabunt Romani ex animo, prout eis tempus permiserit:
-
 
 [Responsory3]
 @Tempora/101-1:Responsory3

@@ -1,6 +1,12 @@
 [Rank]
 Beatae Mariae Virginis Regina;;Duplex II classis;;5;;ex C11
 
+[Rank1960]
+Beatae Mariae Virginis Regina;;Duplex II classis;;5;;ex C11
+
+[RankNewcal]
+Beatae Mariae Virginis Regina;;Duplex;;3;;ex C11
+
 [Rule]
 ex C1;
 9 lectiones
@@ -219,8 +225,7 @@ R. Sharing in his passion, the Queen of the whole world. (Alleluia)
 
 [Capitulum Sexta]
 !Sir 24, 9-11
-v. In omni terra steti et in omni populo, et in omni gente primatum habui, et~
-omnium excellentium et humilium corda virtute calcavi.
+v. In omni terra steti et in omni populo, et in omni gente primatum habui, et omnium excellentium et humilium corda virtute calcavi.
 $Deo gratias
 
 [Responsory Sexta]
@@ -255,5 +260,4 @@ V. The Virgin Mary ascended to heaven. (Alleluia)
 R. With Christ she reigns for ever (Alleluia)
 
 [Ant 3]
-Beata Mater * et intacta Virgo Maria, gloriosa Regina mundi, intercede pro nobis~
-ad Dominum (Alleluia)
+Beata Mater * et intacta Virgo Maria, gloriosa Regina mundi, intercede pro nobis ad Dominum (Alleluia)

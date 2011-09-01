@@ -20,15 +20,14 @@ Stella ista * sicut flamma coruscat, et Regem regum Deum demonstrat: Magi eam vi
 
 [Capitulum Vespera]
 !Isa 60:1
-v. Surge, illuminare Jerusalem, quia venit lumen tuum, et gloria Domini super te~
-orta est
+v. Surge, illuminare Jerusalem, quia venit lumen tuum, et gloria Domini super te orta est
 $Deo gratias
 
 [Hymnus Vespera]
 {:H-CrudelisHerodes:}v. Crudelis Herodes, Deum
 Regem venire quid times?
 Non eripit mortalia,
-Qui regna dat coelestia.
+Qui regna dat caelestia.
 _
 Ibant magi, quam viderant,
 Stellam sequentes praeviam:
@@ -36,7 +35,7 @@ Lumen requirunt lumine:
 Deum fatentur munere.
 _
 Lavacra puri gurgitis
-Coelestis Agnus attigit:
+Caelestis Agnus attigit:
 Peccata, quae non detulit,
 Nos abluendo sustulit.
 _
@@ -56,13 +55,10 @@ V. Reges Tharsis et insulae munera offerent.
 R. Reges Arabum et Saba dona adducent.
 
 [Ant 1]
-Magi videntes * stellam, dixerunt ad invicem: Hoc signum magni Regis est: eamus~
-et inquiramus eum, et offeramus ei munera, aurum, thus, et myrrham, alleluia.
+Magi videntes * stellam, dixerunt ad invicem: Hoc signum magni Regis est: eamus et inquiramus eum, et offeramus ei munera, aurum, thus, et myrrham, alleluia.
 
 [Oratio]
-Deus, qui hodierna die Unigenitum tuum Gentibus stella duce revelasti: concede~
-propitius; ut qui jam te ex fide cognovimus, usque ad contemplandam speciem tuae~
-celsitudinis perducamur.
+Deus, qui hodierna die Unigenitum tuum Gentibus stella duce revelasti: concede propitius; ut qui jam te ex fide cognovimus, usque ad contemplandam speciem tuae celsitudinis perducamur.
 $Per eumdem
 
 [Hymnus Matutinum]
@@ -99,24 +95,17 @@ De Isaia Propheta.
 3 Inclinate aurem vestram, et venite ad me; audite, et vivet anima vestra, et feriam vobiscum pactum sempiternum, misericordias David fideles.
 4 Ecce testem populis dedi eum, ducem ac praeceptorem gentibus.
 
-
 [Responsory11]
-R. Hodie in Jordane baptizato Domino aperti sunt caeli, et sicut columba super~
-eum Spiritus mansit, et vox Patris intonuit:
+R. Hodie in Jordane baptizato Domino aperti sunt caeli, et sicut columba super eum Spiritus mansit, et vox Patris intonuit:
 * Hic est Filius meus dilectus, in quo mihi bene complacui.
-V. Descendit Spiritus sanctus corporali specie sicut columba in ipsum, et vox de~
-coelo facta est.
+V. Descendit Spiritus Sanctus corporali specie sicut columba in ipsum, et vox de caelo facta est.
 R. Hic est Filius meus dilectus, in quo mihi bene complacui.
 
 [Responsory1]
-R. Tria sunt munera pretiosa, quae obtulerunt Magi Domino in die ista, et habent~
-in se divina mysteria:
-* In auro, ut ostendatur Regis potentia: in thure, Sacerdotem magnum considera:~
-et in myrrha, Dominicam sepulturam.
-V. Salutis nostrae auctorem Magi venerati sunt in cunabulis, et de thesauris~
-suis mysticas ei munerum species obtulerunt.
-R. In auro, ut ostendatur Regis potentia: in thure, Sacerodtem magnum considera:~
-et in myrrha, Dominicam sepulturam.
+R. Tria sunt munera pretiosa, quae obtulerunt Magi Domino in die ista, et habent in se divina mysteria:
+* In auro, ut ostendatur Regis potentia: in thure, Sacerdotem magnum considera: et in myrrha, Dominicam sepulturam.
+V. Salutis nostrae auctorem Magi venerati sunt in cunabulis, et de thesauris suis mysticas ei munerum species obtulerunt.
+R. In auro, ut ostendatur Regis potentia: in thure, Sacerdotem magnum considera: et in myrrha, Dominicam sepulturam.
 
 [Lectio2]
 !Isa 60:1-6
@@ -127,11 +116,10 @@ et in myrrha, Dominicam sepulturam.
 5 Tunc videbis, et afflues; mirabitur et dilatabitur cor tuum: quando conversa fuerit ad te multitudo maris; fortitudo gentium venerit tibi.
 6 Inundatio camelorum operiet te, dromedarii Madian et Epha; omnes de Saba venient, aurum et thus deferentes, et laudem Domino annuntiantes.
 
-
 [Responsory2]
-R. In columbae specie Spiritus sanctus visus est, Paterna vox audita est:
+R. In columbae specie Spiritus Sanctus visus est, Paterna vox audita est:
 * Hic est Filius meus dilectus, in quo mihi bene complacui.
-V. Coeli aperti sunt super eum, et vox Patris intonuit.
+V. Caeli aperti sunt super eum, et vox Patris intonuit.
 R. Hic est Filius meus dilectus, in quo mihi bene complacui.
 
 [Lectio3]
@@ -143,24 +131,15 @@ R. Hic est Filius meus dilectus, in quo mihi bene complacui.
 [Responsory3]
 R. Reges Tharsis et insulae munera offerent:
 * Reges Arabum et Saba dona Domino Deo adducent.
-V. Omnes de Saba venient, aurum et thus deferentes.  
+V. Omnes de Saba venient, aurum et thus deferentes.
 R. Reges Arabum et Saba dona Domino Deo adducent.
-&Gloria Patri
+&Gloria
 R. Reges Arabum et Saba dona Domino Deo adducent.
 
 [Lectio4]
 Sermo sancti Leonis Papae.
 !Sermo 2. de Epiphania.
-Gaudete in Domino, dilectissimi, iterum dico, gaudete: quoniam brevi intervallo~
-temporis, post solemnitatem Nativitatis Christi, festivitas declarationis ejus~
-illuxit: et quem in illo die Virgo peperit, in hoc mundus agnovit. Verbum enim~
-caro factum, sic susceptionis nostrae temperavit exordia, ut natus Jesus et~
-credentibus manifestus, et persequentibus esset occultus. Jam tunc ergo caeli~
-enarraverunt gloriam Dei, et in omnem terram sonus veritatis exivit, quando et~
-pastoribus exercitus Angelorum Salvatoris editi annuntiator apparuit, et Magos~
-ad eum adorandum praevia stella perduxit: ut a solis ortu usque ad occasum veri~
-Regis generatio coruscaret, cum rerum fidem et regna Orientis per Magos~
-discerent, et Romanum imperium non lateret.
+Gaudete in Domino, dilectissimi, iterum dico, gaudete: quoniam brevi intervallo temporis, post solemnitatem Nativitatis Christi, festivitas declarationis ejus illuxit: et quem in illo die Virgo peperit, in hoc mundus agnovit. Verbum enim caro factum, sic susceptionis nostrae temperavit exordia, ut natus Jesus et credentibus manifestus, et persequentibus esset occultus. Jam tunc ergo caeli enarraverunt gloriam Dei, et in omnem terram sonus veritatis exivit, quando et pastoribus exercitus Angelorum Salvatoris editi annuntiator apparuit, et Magos ad eum adorandum praevia stella perduxit: ut a solis ortu usque ad occasum veri Regis generatio coruscaret, cum rerum fidem et regna Orientis per Magos discerent, et Romanum imperium non lateret.
 
 [Responsory4]
 R. Illuminare, illuminare Jerusalem, quia venit lux tua:
@@ -169,37 +148,19 @@ V. Et ambulabunt Gentes in lumine tuo, et reges in splendore ortus tui.
 R. Et gloria Domini super te orta est.
 
 [Lectio5]
-Nam et saevitia Herodis volens primordia suspecti sibi Regis exstinguere, huic~
-dispensationi nesciens serviebat: ut dum atroci intentus facinori, ignotum sibi~
-puerum indiscreta infantium caede persequitur, annuntiatum caelitus dominatoris~
-ortum insignior ubique fama loqueretur: quam promptiorem ad narrandum,~
-diligentioremque faciebat et supernae significationis novitas, et cruentissimi~
-persecutoris impietas. Tunc autem etiam Aegypto Salvator illatus est, ut gens~
-antiquis erroribus dedita, jam ad vicinam salutem per occultam gratiam~
-signaretur: et quae nondum ejecerat ab animo superstitionem, jam hospitio~
-reciperet veritatem.
+Nam et saevitia Herodis volens primordia suspecti sibi Regis exstinguere, huic dispensationi nesciens serviebat: ut dum atroci intentus facinori, ignotum sibi puerum indiscreta infantium caede persequitur, annuntiatum caelitus dominatoris ortum insignior ubique fama loqueretur: quam promptiorem ad narrandum, diligentioremque faciebat et supernae significationis novitas, et cruentissimi persecutoris impietas. Tunc autem etiam Aegypto Salvator illatus est, ut gens antiquis erroribus dedita, jam ad vicinam salutem per occultam gratiam signaretur: et quae nondum ejecerat ab animo superstitionem, jam hospitio reciperet veritatem.
 
 [Responsory5]
-R. Omnes de Saba venient, aurum et thus deferentes, et laudem Domino~
-annuntiantes
+R. Omnes de Saba venient, aurum et thus deferentes, et laudem Domino annuntiantes
 * Alleluia, alleluia, alleluia.
 V. Reges Tharsis et insulae munera offerent, reges Arabum et Saba dona adducent.
 R. Alleluia, alleluia, alleluia.
 
 [Lectio6]
-Agnoscamus ergo, dilectissimi, in Magis adoratoribus Christi, vocationis~
-nostrae fideique primitias: et exsultantibus animis beatae spei initia~
-celebremus. Exinde enim in aeternam haereditatem coepimus introire: exinde nobis~
-Christum loquentia Scripturarum arcana patuerunt, et veritas, quam Judaeorum~
-obcaecatio non recipit, omnibus nationibus lumen suum invexit. Honoretur itaque a~
-nobis sacratissimus dies, in quo salutis nostrae Auctor apparuit: et quem Magi~
-infantem venerati sunt in cunabulis, nos omnipotentem adoremus in coelis. Ac~
-sicut illi de thesauris suis mysticas Domino munerum species obtulerunt, ita et~
-nos de cordibus nostris, quae Deo sunt digna, promamus.
+Agnoscamus ergo, dilectissimi, in Magis adoratoribus Christi, vocationis nostrae fideique primitias: et exsultantibus animis beatae spei initia celebremus. Exinde enim in aeternam hereditatem coepimus introire: exinde nobis Christum loquentia Scripturarum arcana patuerunt, et veritas, quam Judaeorum obcaecatio non recipit, omnibus nationibus lumen suum invexit. Honoretur itaque a nobis sacratissimus dies, in quo salutis nostrae Auctor apparuit: et quem Magi infantem venerati sunt in cunabulis, nos omnipotentem adoremus in caelis. Ac sicut illi de thesauris suis mysticas Domino munerum species obtulerunt, ita et nos de cordibus nostris, quae Deo sunt digna, promamus.
 
 [Responsory6]
-R. Magi veniunt ab Oriente Jerosolymam, quaerentes, et dicentes: Ubi est qui~
-natus est, cujus stellam vidimus?
+R. Magi veniunt ab Oriente Jerosolymam, quaerentes, et dicentes: Ubi est qui natus est, cujus stellam vidimus?
 * Et venimus adorare Dominum.
 V. Vidimus stellam ejus in Oriente.
 R. Et venimus adorare Dominum.
@@ -212,63 +173,31 @@ Venite adoremus eum: quia ipse est Dominus Deus noster;;94
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
 !Matt 2:1-12
-Cum natus esset Jesus in Bethlehem Juda in diebus Herodis regis, ecce Magi ab~
-Oriente venerunt Jerosolymam, dicentes: Ubi est qui natus est Rex Judaeorum? Et~
-reliqua.
+Cum natus esset Jesus in Bethlehem Juda in diebus Herodis regis, ecce Magi ab Oriente venerunt Jerosolymam, dicentes: Ubi est qui natus est Rex Judaeorum? Et reliqua.
 _
 Homilia sancti Gregorii Papae.
 !Homilia 10. in Evang.
-Sicut in lectione evangelica, fratres carissimi, audistis, coeli Rege nato, rex~
-terrae turbatus est: quia nimirum terrena altitudo confunditur, cum celsitudo~
-coelestis aperitur. Sed quaerendum nobis est, quidnam sit, quod, Redemptore nato,~
-pastoribus in Judaea Angelus apparuit, atque ad adorandum hunc ab Oriente Magos~
-non Angelus, sed stella perduxit? Quia videlicet Judaeis, tamquam ratione~
-utentibus, rationale animal, id est, Angelus praedicare debuit: Gentiles vero,~
-quia uti ratione nesciebant, ad cognoscendum Dominum non per vocem, sed per signa~
-perducuntur. Unde etiam per Paulum dicitur: Prophetiae fidelibus datae sunt, non~
-infidelibus: signa autem infidelibus, non fidelibus. Quia et illis prophetiae~
-tamquam fidelibus, non infidelibus: et istis signa tamquam infidelibus, non~
-fidelibus data sunt.
+Sicut in lectione evangelica, fratres carissimi, audistis, caeli Rege nato, rex terrae turbatus est: quia nimirum terrena altitudo confunditur, cum celsitudo caelestis aperitur. Sed quaerendum nobis est, quidnam sit, quod, Redemptore nato, pastoribus in Judaea Angelus apparuit, atque ad adorandum hunc ab Oriente Magos non Angelus, sed stella perduxit? Quia videlicet Judaeis, tamquam ratione utentibus, rationale animal, id est, Angelus praedicare debuit: Gentiles vero, quia uti ratione nesciebant, ad cognoscendum Dominum non per vocem, sed per signa perducuntur. Unde etiam per Paulum dicitur: Prophetiae fidelibus datae sunt, non infidelibus: signa autem infidelibus, non fidelibus. Quia et illis prophetiae tamquam fidelibus, non infidelibus: et istis signa tamquam infidelibus, non fidelibus data sunt.
 
 [Responsory7]
-R. Stella, quam viderant Magi in Oriente, antecedebat eos, donec venirent ad~
-locum, ubi puer erat.
+R. Stella, quam viderant Magi in Oriente, antecedebat eos, donec venirent ad locum, ubi puer erat.
 * Videntes autem eam, gavisi sunt gaudio magno.
-V. Et intrantes domum, invenerunt puerum cum Maria matre ejus, et procidentes~
-adoraverunt eum.
+V. Et intrantes domum, invenerunt puerum cum Maria matre ejus, et procidentes adoraverunt eum.
 R. Videntes autem eam, gavisi sunt gaudio magno.
 
 [Lectio8]
-Et notandum, quod Redemptorem nostrum, cum jam perfectae esset aetatis, eisdem~
-Gentilibus Apostoli praedicant, eumque parvulum, et necdum per humani corporis~
-officium loquentem, stella Gentibus denuntiat: quia nimirum rationis ordo~
-poscebat, ut et loquentem jam Dominum loquentes nobis praedicatores~
-innotescerent, et necdum loquentem elementa muta praedicarent. Sed in omnibus~
-signis, quae vel nascente Domino, vel moriente eo monstrata sunt, considerandum~
-nobis est, quanta fuerit in quorumdam Judaeorum corde duritia, qui hunc nec per~
-prophetiae donum, nec per miracula agnoverunt.
+Et notandum, quod Redemptorem nostrum, cum jam perfectae esset aetatis, eisdem Gentilibus Apostoli praedicant, eumque parvulum, et necdum per humani corporis officium loquentem, stella Gentibus denuntiat: quia nimirum rationis ordo poscebat, ut et loquentem jam Dominum loquentes nobis praedicatores innotescerent, et necdum loquentem elementa muta praedicarent. Sed in omnibus signis, quae vel nascente Domino, vel moriente eo monstrata sunt, considerandum nobis est, quanta fuerit in quorumdam Judaeorum corde duritia, qui hunc nec per prophetiae donum, nec per miracula agnoverunt.
 
 [Responsory8]
 R. Videntes stellam Magi, gavisi sunt gaudio magno:
-* Et intrantes domum invenerunt puerum cum Maria matre ejus, et procidentes~
-adoraverunt eum: * Et apertis thesauris suis obtulerunt ei munera, aurum, thus,~
-et myrrham.
-V. Stella, quam viderant Magi in Oriente, antecedebat eos, usque dum veniens~
-staret supra ubi erat puer.
-R. Et intrantes domum invenerunt puerum cum Maria matre ejus, et procidentes~
-adoraverunt eum:
+* Et intrantes domum invenerunt puerum cum Maria matre ejus, et procidentes adoraverunt eum: * Et apertis thesauris suis obtulerunt ei munera, aurum, thus, et myrrham.
+V. Stella, quam viderant Magi in Oriente, antecedebat eos, usque dum veniens staret supra ubi erat puer.
+R. Et intrantes domum invenerunt puerum cum Maria matre ejus, et procidentes adoraverunt eum:
 &Gloria
 R. Et apertis thesauris suis obtulerunt ei munera, aurum, thus, et myrrham.
 
 [Lectio9]
-Omnia quippe elementa auctorem suum venisse testata sunt. Ut enim de eis quiddam~
-usu humano loquar: Deum hunc caeli esse cognoverunt, quia protinus stellam~
-miserunt. Mare cognovit, quia sub plantis ejus se calcabile praebuit. Terra~
-cognovit, quia eo moriente contremuit. Sol cognovit, quia lucis suae radios~
-abscondit. Saxa et parietes cognoverunt, quia tempore mortis ejus scissa sunt.~
-Infernus agnovit, quia hos, quos tenebat mortuos, reddidit. Et tamen hunc, quem~
-Dominum omnia insensibilia elementa senserunt, adhuc infidelium Judaeorum corda~
-Deum esse minime cognoscunt, et duriora saxis, scindi ad poenitendum nolunt.
+Omnia quippe elementa auctorem suum venisse testata sunt. Ut enim de eis quiddam usu humano loquar: Deum hunc caeli esse cognoverunt, quia protinus stellam miserunt. Mare cognovit, quia sub plantis ejus se calcabile praebuit. Terra cognovit, quia eo moriente contremuit. Sol cognovit, quia lucis suae radios abscondit. Saxa et parietes cognoverunt, quia tempore mortis ejus scissa sunt. Infernus agnovit, quia hos, quos tenebat mortuos, reddidit. Et tamen hunc, quem Dominum omnia insensibilia elementa senserunt, adhuc infidelium Judaeorum corda Deum esse minime cognoscunt, et duriora saxis, scindi ad poenitendum nolunt.
 &teDeum
 
 [Ant Laudes]
@@ -280,14 +209,13 @@ Stella ista * sicut flamma coruscat, et Regem regum Deum demonstrat: Magi eam vi
 
 [Capitulum Laudes]
 !Isa 60:1
-v. Surge, illuminare Jerusalem, quia venit lumen tuum, et gloria Domini super~
-te orta est.
+v. Surge, illuminare Jerusalem, quia venit lumen tuum, et gloria Domini super te orta est.
 $Deo gratias
 
 [Hymnus Laudes]
 {:H-Osolamagnarum:}v. O sola magnarum urbium
 Major Bethlem, cui contigit
-Ducem salutis coelitus
+Ducem salutis caelitus
 Incorporatum gignere.
 _
 Quem stella, quae solis rotam
@@ -303,7 +231,7 @@ _
 Regem Deumque annuntiant
 Thesaurus, et fragrans odor
 Thuris Sabaei, ac myrrheus
-Pulvis sepulchrum praedocet.
+Pulvis sepulcrum praedocet.
 _
 Jesu, tibi sit gloria,
 Qui apparuisti gentibus,
@@ -316,19 +244,15 @@ V. Adorate Deum, alleluia
 R. Omnes Angeli ejus, alleluia.
 
 [Ant 2]
-Hodie * caelesti sponso juncta est Ecclesia, quoniam in Jordane lavit Christus~
-ejus crimina: currunt cum muneribus Magi ad regales nuptias, et ex aqua facto~
-vino laetantur convivae, alleluia.
+Hodie * caelesti sponso juncta est Ecclesia, quoniam in Jordane lavit Christus ejus crimina: currunt cum muneribus Magi ad regales nuptias, et ex aqua facto vino laetantur convivae, alleluia.
 
 [Lectio Prima]
 !Isa 60:6
-v. Omnes de Saba venient, aurum et thus deferentes, et laudem Domino~
-annuntiantes.
+v. Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.
 
 [Capitulum Tertia]
 !Isa 60:1
-v. Surge, illuminare Jerusalem, quia venit lumen tuum, et gloria Domini super~
-te orta est.
+v. Surge, illuminare Jerusalem, quia venit lumen tuum, et gloria Domini super te orta est.
 $Deo gratias
 
 [Responsory Tertia]
@@ -344,8 +268,7 @@ R. Aurum et thus deferentes, alleluia.
 
 [Capitulum Sexta]
 !Isa 60:4
-v. Leva in circuitu oculos tuos, et vide: omnes isti congregati sunt, venerunt~
-tibi: filii tui de longe venient, et filiae tuae de latere surgent.
+v. Leva in circuitu oculos tuos, et vide: omnes isti congregati sunt, venerunt tibi: filii tui de longe venient, et filiae tuae de latere surgent.
 $Deo gratias
 
 [Responsory Sexta]
@@ -361,8 +284,7 @@ R. In aula sancta ejus, alleluia.
 
 [Capitulum Nona]
 !Isa 60:6
-v. Omnes de Saba venient, aurum et thus deferentes, et laudem Domino~
-annuntiantes.
+v. Omnes de Saba venient, aurum et thus deferentes, et laudem Domino annuntiantes.
 $Deo gratias
 
 [Responsory Nona]
@@ -377,6 +299,4 @@ V. Adorate Deum, alleluia.
 R. Omnes Angeli ejus, alleluia.
 
 [Ant 3]
-Tribus miraculis * ornatum diem sanctum colimus: hodie stella Magos duxit ad~
-praesepium: hodie vinum ex aqua factum est ad nuptias: hodie in Jordane a Joanne~
-Christus baptizari voluit, ut salvaret nos, alleluia.
+Tribus miraculis * ornatum diem sanctum colimus: hodie stella Magos duxit ad praesepium: hodie vinum ex aqua factum est ad nuptias: hodie in Jordane a Joanne Christus baptizari voluit, ut salvaret nos, alleluia.

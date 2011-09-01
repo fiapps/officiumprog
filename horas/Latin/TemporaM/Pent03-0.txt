@@ -54,7 +54,7 @@ R. Et unxit me unctione misericordiae suae.
 !1 Sam 9:26-27; 10:1
 26 Cumque mane surrexissent, et jam elucesceret, vocavit Samuel Saulem in solario, dicens: Surge, et dimittam te. Et surrexit Saul: egressique sunt ambo, ipse videlicet, et Samuel.
 27 Cumque descenderent in extrema parte civitatis, Samuel dixit ad Saul: Dic puero ut antecedat nos et transeat: tu autem subsiste paulisper, ut indicem tibi verbum Domini.
-1 Tulit autem Samuel lenticulam olei, et effudit super caput ejus: et deosculatus est eum, et ait: Ecce unxit te Dominus super haereditatem suam in principem, et liberabis populum suum de manibus inimicorum ejus qui in circuitu ejus sunt. Et hoc tibi signum, quia unxit te Deus in principem.
+1 Tulit autem Samuel lenticulam olei, et effudit super caput ejus: et deosculatus est eum, et ait: Ecce unxit te Dominus super hereditatem suam in principem, et liberabis populum suum de manibus inimicorum ejus qui in circuitu ejus sunt. Et hoc tibi signum, quia unxit te Deus in principem.
 
 [Responsory3]
 R. Dominus, qui eripuit me de ore leonis, et de manu bestiae liberavit me,
@@ -81,11 +81,11 @@ praedicationis gratiam designat, quae electorum mentes illuminat.
 [Responsory4]
 R. Percussit Saul mille, et David decem millia:
 * Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit~
-opprobrium ex Israel.
+opprobrium ex Israël.
 V. Nonne iste est David, de quo canebant in choro, dicentes: Saul percussit~
 mille, et David decem millia?
 R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit~
-opprobrium ex Israel.
+opprobrium ex Israël.
 
 [Lectio5]
 Quia vero vulnera per oleum curantur, hoc profecto insinuat, quod detergenda~
@@ -98,10 +98,10 @@ peccatorum factores tergat, et aegras mentes saluti restituat.
 
 [Responsory5]
 R. Montes Gelboe, nec ros nec pluvia veniant super vos,
-* Ubi ceciderunt fortes Israel.
+* Ubi ceciderunt fortes Israël.
 V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboe autem~
 transeat.
-R. Ubi ceciderunt fortes Israel.
+R. Ubi ceciderunt fortes Israël.
 
 [Lectio6]
 Sed lenticula Saul lingitur, non pro praesignanda doctrina, sed ad exprimenda~
@@ -172,7 +172,7 @@ vulneris tumorem premit.
 R. Duo Seraphim clamabant alter ad alterum:
 * Sanctus, sanctus, sanctus Dominus Deus Sabaoth: * Plena est omnis terra gloria~
 ejus.
-V. Tres sunt qui testimonium dant in caelo, Pater, Verbum, et Spiritus sanctus:~
+V. Tres sunt qui testimonium dant in caelo, Pater, Verbum, et Spiritus Sanctus:~
 et hi tres unum sunt.
 R. Sanctus, sanctus, sanctus Dominus Deus Sabaoth:
 &Gloria

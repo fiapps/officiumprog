@@ -7,7 +7,6 @@ De libro Job
 4 Dies ille vertatur in tenebras: non requirat eum Deus desuper, et non illustretur lumine.
 5 Obscurent eum tenebrae et umbra mortis; occupet eum caligo, et involvatur amaritudine.
 
-
 [Responsory1]
 @Tempora/091-0:Responsory7
 
@@ -18,7 +17,6 @@ De libro Job
 8 Maledicant ei qui maledicunt diei, qui parati sunt suscitare Leviathan.
 9 Obtenebrentur stellae caligine ejus; expectet lucem, et non videat, nec ortum surgentis aurorae.
 10 Quia non conclusit ostia ventris qui portavit me, nec abstulit mala ab oculis meis.
-
 
 [Responsory2]
 @Tempora/091-1:Responsory2
@@ -31,7 +29,6 @@ De libro Job
 14 cum regibus et consulibus terrae, qui aedificant sibi solitudines;
 15 aut cum principibus qui possident aurum, et replent domos suas argento;
 16 aut sicut abortivum absconditum non subsisterem, vel qui concepti non viderunt lucem.
-
 
 [Responsory3]
 @Tempora/091-0:Responsory3

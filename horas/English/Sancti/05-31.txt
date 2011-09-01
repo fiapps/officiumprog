@@ -199,8 +199,7 @@ O worthy Queen of the world, * Mary ever-Virgin, intercede for our peace and sal
 [Commemoratio]
 !Commemoratio S. Petronella Virginis
 !@Commune/C6:Oratio proper
-Hear us O God our savior, that we who are gladdened by the Festival of blessed~
-Virgin Petronille may learn from it piety and devotion
+Hear us O God our savior, that we who are gladdened by the Festival of blessed Virgin Petronille may learn from it piety and devotion
 $Per Dominum
 
 [Lectio Prima]

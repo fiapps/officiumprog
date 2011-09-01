@@ -5,7 +5,7 @@ Ss. Alexandri et Sociorum Martyrum;;Simplex;;1.1;;vide C3
 vide C3;
 
 [Ant 2]
-Filiae Jerusalem, venite, et videte Martyres cum coronis, quibus coronavit~
+Filiae Jerusalem, * venite, et videte Martyres cum coronis, quibus coronavit~
 eos Dominus in die solemnitatis et laetitiae, alleluia, alleluia
 
 [Versum 2]

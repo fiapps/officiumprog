@@ -5,7 +5,7 @@ Feria V infra Hebdomadam III Adventus;;Feria major;;2
 Oratio Dominica
 
 [Lectio1]
-Olvasmány Iziás próféta könyvébõl
+Olvasmány Izaiás próféta könyvébõl
 !Isa 33:1-2
 1 Jaj neked, pusztító, aki még nem pusztultál el! Jaj neked, te kifosztatlanul maradt fosztogató! Ha majd végzel a pusztítással, elpusztítanak, és ha beteltél a fosztogatással, téged is kifosztanak. 
 2 Uram, irgalmazz nekünk, mert benned remélünk! Reggelente légy erõs karunk, és gyámolunk a szükség idején. 
@@ -13,8 +13,7 @@ Olvasmány Iziás próféta könyvébõl
 [Responsory1]
 R. The Lord shall go forth and fight against the nations.
 * And His feet shall stand upon the mount of Olives on the east.
-V. And it shall be exalted above the hills, and all nations shall flow unto~
-it.
+V. And it shall be exalted above the hills, and all nations shall flow unto it.
 R. And His feet shall stand upon the mount of Olives on the east.
 
 
@@ -40,19 +39,14 @@ R. Made an High Priest for ever after the order of Melchisedek.
 
 [Responsory3]
 R. The Gentiles shall see thy Righteous One, and all kings thy Glorious one.
-* And thou shalt be called by a new name, which the mouth of the Lord hath~
-named.
-V. Thou shalt also be a crown of glory in the hand of the Lord, and a royal~
-diadem in the hand of thy God.
-R. And thou shalt be called by a new name, which the mouth of the Lord hath~
-named.
+* And thou shalt be called by a new name, which the mouth of the Lord hath named.
+V. Thou shalt also be a crown of glory in the hand of the Lord, and a royal diadem in the hand of thy God.
+R. And thou shalt be called by a new name, which the mouth of the Lord hath named.
 &Gloria
-R. And thou shalt be called by a new name, which the mouth of the Lord hath~
-named.
+R. And thou shalt be called by a new name, which the mouth of the Lord hath named.
 
 [Ant 2]
 Let your soul watch, * the Lord our God is nigh at hand.
 
 [Ant 3]
-Rejoice ye with Jerusalem, * and be glad with her, all ye that love her for~
-ever.
+Rejoice ye with Jerusalem, * and be glad with her, all ye that love her for ever.

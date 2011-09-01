@@ -19,7 +19,6 @@ De Epistola prima beati Petri Apostoli
 4 Ad quem accedentes lapidem vivum, ab hominibus quidem reprobatum, a Deo autem electum, et honorificatum:
 5 et ipsi tamquam lapides vivi superaedificamini, domus spiritualis, sacerdotium sanctum, offerre spirituales hostias, acceptabiles Deo per Jesum Christum.
 
-
 [Responsory1]
 R. Dicant nunc, qui redempti sunt, alleluia,
 * A Domino, alleluia, alleluia.
@@ -33,7 +32,6 @@ R. A Domino, alleluia, alleluia.
 8 et lapis offensionis, et petra scandali, his qui offendunt verbo, nec credunt in quo et positi sunt.
 9 Vos autem genus electum, regale sacerdotium, gens sancta, populus acquisitionis: ut virtutes annuntietis ejus qui de tenebris vos vocavit in admirabile lumen suum.
 10 Qui aliquando non populus, nunc autem populus Dei: qui non consecuti misericordiam, nunc autem misericordiam consecuti.
-
 
 [Responsory2]
 R. Cantate Domino, alleluia:
@@ -51,7 +49,6 @@ R. Psalmum dicite ei, alleluia.
 16 quasi liberi, et non quasi velamen habentes malitiae libertatem, sed sicut servi Dei.
 17 Omnes honorate: fraternitatem diligite: Deum timete: regem honorificate.
 
-
 [Responsory3]
 R. Narrabo nomen tuum fratribus meis, alleluia:
 * In medio Ecclesiae laudabo te, alleluia, alleluia.
@@ -61,18 +58,15 @@ R. In medio Ecclesiae laudabo te, alleluia, alleluia.
 R. In medio Ecclesiae laudabo te, alleluia, alleluia.
 
 [Ant 2]
-Petite, et accipietis: * quaerite, et invenietis: pulsate, et aperietur vobis,~
-alleluia.
+Petite, et accipietis: * quaerite, et invenietis: pulsate, et aperietur vobis, alleluia.
 
 [Oratio 2]
-Praesta quaesumus omnipotens Deus: ut qui in afflictione nostra de tua pietate~
-confidimus; contra adversa omnia tua semper protectione muniamur.
+Praesta quaesumus omnipotens Deus: ut qui in afflictione nostra de tua pietate confidimus; contra adversa omnia tua semper protectione muniamur.
 $Per Dominum.
 
 [Ant 3]
 Ipse enim Pater amat * vos, quia vos me amastis, et credidistis, alleluia.
 
 [Oratio 3]
-Deus, a quo bona cuncta procedunt, largire supplicibus tuis: ut cogitemus te~
-inspirante, quae recta sunt; et te gubernante, eadem faciamus.
+Deus, a quo bona cuncta procedunt, largire supplicibus tuis: ut cogitemus te inspirante, quae recta sunt; et te gubernante, eadem faciamus.
 $Per Dominum

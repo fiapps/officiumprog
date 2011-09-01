@@ -15,7 +15,6 @@ De libro Genesis
 20 Et facti sunt omnes dies Jared nongenti sexaginta duo anni, et mortuus est.
 21 Porro Henoch vixit sexaginta quinque annis, et genuit Mathusalam.
 
-
 [Responsory1]
 @Tempora/Quadp1-0:Responsory7
 
@@ -27,7 +26,6 @@ De libro Genesis
 25 Vixit quoque Mathusala centum octoginta septem annis, et genuit Lamech.
 26 Et vixit Mathusala, postquam genuit Lamech, septingentis octoginta duobus annis, et genuit filios et filias.
 27 Et facti sunt omnes dies Mathusala nongenti sexaginta novem anni, et mortuus est.
-
 
 [Responsory2]
 @Tempora/Quadp1-0:Responsory8

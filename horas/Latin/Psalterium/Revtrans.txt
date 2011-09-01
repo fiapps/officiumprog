@@ -48,6 +48,9 @@ $Domine labia
 [Deus in adjutorium]
 $Deus in adjutorium
 
+[Deus in adiutorium]
+$Deus in adiutorium
+
 [Tu autem]
 $Tu autem
 

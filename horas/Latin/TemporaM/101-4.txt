@@ -15,7 +15,7 @@ De libro primo Maccabeorum
 [Lectio2]
 !1 Mac 2:55-63
 55 Jesus dum implevit verbum, factus est dux in Israël.
-56 Caleb dum testificatur in ecclesia, accepit haereditatem.
+56 Caleb dum testificatur in ecclesia, accepit hereditatem.
 57 David in sua misericordia consecutus est sedem regni in saecula.
 58 Elias, dum zelat zelum legis, receptus est in caelum.
 59 Ananias et Azarias et Misaël credentes, liberati sunt de flamma.

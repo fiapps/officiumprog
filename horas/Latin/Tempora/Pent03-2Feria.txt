@@ -16,10 +16,8 @@ De libro primo Regum.
 [Responsory1]
 R. Domine, si conversus fuerit populus tuus, et oraverit ad sanctuarium tuum:
 * Tu exaudies de caelo Domine, et libera eos de manibus inimicorum suorum.
-V. Si peccaverit in te populus tuus, et conversus egerit poenitentiam,~
-veniensque oraverit in isto loco. 
-R. Tu exaudies de caelo Domine, et libera eos~
-de manibus inimicorum suorum.
+V. Si peccaverit in te populus tuus, et conversus egerit poenitentiam, veniensque oraverit in isto loco.
+R. Tu exaudies de caelo Domine, et libera eos de manibus inimicorum suorum.
 
 [Lectio2]
 !1 Sam 12:6-9
@@ -30,27 +28,22 @@ de manibus inimicorum suorum.
 
 [Responsory2]
 R. Factum est, dum tolleret Dominus Eliam per turbinem in caelum,
-* Eliseus clamabat, dicens: Pater mi, pater mi, currus Israel, et auriga ejus.
-V. Cumque pergerent, et incedentes sermocinarentur, ecce currus igneus et equi~
-ignei diviserunt utrumque, et ascendit Elias per turbinem in caelum.
-R. Eliseus clamabat, dicens: Pater mi, pater mi, currus Israel, et auriga ejus.
+* Eliseus clamabat, dicens: Pater mi, pater mi, currus Israël, et auriga ejus.
+V. Cumque pergerent, et incedentes sermocinarentur, ecce currus igneus et equi ignei diviserunt utrumque, et ascendit Elias per turbinem in caelum.
+R. Eliseus clamabat, dicens: Pater mi, pater mi, currus Israël, et auriga ejus.
 
 [Lectio3]
 !1 Sam 12:10-14
 10 Postea autem clamaverunt ad Dominum, et dixerunt: Peccavimus, quia dereliquimus Dominum, et servivimus Baalim et Astaroth: nunc ergo erue nos de manu inimicorum nostrorum, et serviemus tibi.
 11 Et misit Dominus Jerobaal, et Badan, et Jephte, et Samuel, et eruit vos de manu inimicorum vestrorum per circuitum, et habitastis confidenter.
 12 Videntes autem quod Naas rex filiorum Ammon venisset adversum vos, dixistis mihi: Nequaquam, sed rex imperabit nobis: cum Dominus Deus vester regnaret in vobis.
-13 nunc ergo praesto est rex vester quem elegistis et petistis ecce dedit vobis Dominus regem 
-14 si timueritis Dominum et servieritis ei et audieritis vocem eius et non exasperaveritis os Domini eritis et vos et rex qui imperat vobis sequentes Dominum Deum vestrum 
+13 nunc ergo praesto est rex vester quem elegistis et petistis ecce dedit vobis Dominus regem
+14 si timueritis Dominum et servieritis ei et audieritis vocem eius et non exasperaveritis os Domini eritis et vos et rex qui imperat vobis sequentes Dominum Deum vestrum
 
 [Responsory3]
-R. Ego te tuli de domo patris tui, dicit Dominus, et posui te pascere gregem~
-populi mei:
+R. Ego te tuli de domo patris tui, dicit Dominus, et posui te pascere gregem populi mei:
 * Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.
-V. Fecique tibi nomen grande, juxta nomen magnorum qui sunt in terra: et requiem~
-dedi tibi ab omnibus inimicis tuis.
-R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in~
-aeternum.
+V. Fecique tibi nomen grande, juxta nomen magnorum qui sunt in terra: et requiem dedi tibi ab omnibus inimicis tuis.
+R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.
 &Gloria
-R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in~
-aeternum.
+R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.

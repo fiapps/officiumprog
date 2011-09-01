@@ -35,7 +35,7 @@ Most és örök idôkön át.
 
 #Psalmi
 
-#Capitulum Responsory Versum
+#Capitulum Responsory Versus
 R. Istennek legyen hála
 _
 R.br. Krisztus, az élõ Isten Fia, irgalmazz nekünk. * Alleluia, alleluia.

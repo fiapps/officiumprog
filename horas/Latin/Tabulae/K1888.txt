@@ -117,7 +117,7 @@
 06-19=06-19=S. Julianae de Falconeriis Virginae=3=Ss. Gervasii et Protasii Mart=1=
 06-20=06-20=S. Sylverii Papae et Martyri=1=
 06-21=06-21=S. Alosii Gonzage Confessoris=3=
-06-22=06-22=S. Paulini episcopi et Confessoris=1=
+06-22=06-22t=S. Paulini episcopi et Confessoris=1=
 06-23=06-23=Vigilia S. Johannis Baptistae=1.5=
 06-24=06-24=In Nativitate S. Johannis Baptistae=6=cum Octave commune 
 06-25=06-25=S. Gulielmi Abbatis=3=

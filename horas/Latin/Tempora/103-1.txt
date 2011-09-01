@@ -7,7 +7,6 @@ De libro primo Maccabeorum
 31 Et suscepit Jonathas tempore illo principatum, et surrexit loco Judae fratris sui.
 32 Et cognovit Bacchides, et quaerebat eum occidere.
 
-
 [Responsory1]
 @Tempora/101-1:Responsory1
 
@@ -18,7 +17,6 @@ De libro primo Maccabeorum
 35 Et Jonathas misit fratrem suum ducem populi, et rogavit Nabuthaeos amicos suos, ut commodarent illis apparatum suum, qui erat copiosus.
 36 Et exierunt filii Jambri ex Madaba, et comprehenderunt Joannem et omnia quae habebat, et abierunt habentes ea.
 
-
 [Responsory2]
 @Tempora/101-1:Responsory2
 
@@ -28,7 +26,6 @@ De libro primo Maccabeorum
 38 Et recordati sunt sanguinis Joannis fratris sui: et ascenderunt, et absconderunt se sub tegumento montis.
 39 Et elevaverunt oculos suos, et viderunt: et ecce tumultus, et apparatus multus: et sponsus processit, et amici ejus, et fratres ejus obviam illis cum tympanis, et musicis, et armis multis.
 40 Et surrexerunt ad eos ex insidiis, et occiderunt eos, et ceciderunt vulnerati multi, et residui fugerunt in montes: et acceperunt omnia spolia eorum:
-
 
 [Responsory3]
 @Tempora/101-1:Responsory3

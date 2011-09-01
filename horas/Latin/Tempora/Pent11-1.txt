@@ -13,7 +13,6 @@ De libro quarto Regum.
 4 Vade ad Helciam sacerdotem magnum, ut confletur pecunia quae illata est in templum Domini, quam collegerunt janitores templi a populo:
 5 deturque fabris per praepositos domus Domini, qui et distribuant eam his qui operantur in templo Domini, ad instauranda sartatecta templi:
 
-
 [Responsory1]
 @Tempora/Pent03-1Feria:Responsory1
 
@@ -22,7 +21,6 @@ De libro quarto Regum.
 8 Dixit autem Helcias pontifex ad Saphan scribam: Librum legis reperi in domo Domini. Deditque Helcias volumen Saphan, qui et legit illud.
 9 Venit quoque Saphan scriba ad regem, et renuntiavit ei quod praeceperat, et ait: Conflaverunt servi tui pecuniam quae reperta est in domo Domini, et dederunt ut distribueretur fabris a praefectis operum templi Domini.
 10 Narravit quoque Saphan scriba regi, dicens: Librum dedit mihi Helcias sacerdos. Quem cum legisset Saphan coram rege,
-
 
 [Responsory2]
 @Tempora/Pent03-1Feria:Responsory2
@@ -33,7 +31,6 @@ De libro quarto Regum.
 11 et audisset rex verba libri legis Domini, scidit vestimenta sua.
 12 Et praecepit Helciae sacerdoti, et Ahicam filio Saphan, et Achobor filio Micha, et Saphan scribae, et Asaiae servo regis, dicens:
 13 Ite et consulite Dominum super me, et super populo, et super omni Juda, de verbis voluminis istius, quod inventum est: magna enim ira Domini succensa est contra nos, quia non audierunt patres nostri verba libri hujus, ut facerent omne quod scriptum est nobis.
-
 
 [Responsory3]
 @Tempora/Pent03-1Feria:Responsory3

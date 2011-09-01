@@ -43,8 +43,8 @@ post nos. Discipuli illo adhuc tempore mysteria Domini nescientes, vel~
 misericordia commuti, rogabant pro Chananaea muliere, quam alter Evangelista~
 Syrophoenissam appellat: vel importunitate ejus carere cupientes, quia non ut~
 clementem, sed ut durum medicum crebrius inclamaret. Ipse autem respondens ait:~
-Non sum missus, nisi ad oves quae perierunt domus Israel. Non quo et ad Gentes~
-non missus sit, sed quo primum missus sit ad Israel: ut illis non recipientibus~
+Non sum missus, nisi ad oves quae perierunt domus Israël. Non quo et ad Gentes~
+non missus sit, sed quo primum missus sit ad Israël: ut illis non recipientibus~
 Evangelium, justa fieret ad Gentes transmigratio.
 
 [Responsory3]
@@ -63,7 +63,7 @@ $Per Dominum
 O mulier * magna est fides tua: fiat tibi sicut petisti
 
 [Oratio 3]
-Da, quaesumus, Domine,  populis Christianis: et, quae profitentur, agnoscere et coeleste munus diligere, quod frequentant.
+Da, quaesumus, Domine,  populis Christianis: et, quae profitentur, agnoscere et caeleste munus diligere, quod frequentant.
 $Per Dominum
 
 [LectioE]

@@ -10,7 +10,7 @@ De libro primo Maccabeorum
 
 
 [Responsory1]
-R. Hic est fratrum amator, et populi Israel:
+R. Hic est fratrum amator, et populi Israël:
 * Hic est qui multum orat pro populo, et universa sancta civitate Jerusalem.
 V. Vir iste in populo suo mitissimus apparuit.
 R. Hic est qui multum orat pro populo, et universa sancta civitate Jerusalem.
@@ -20,7 +20,7 @@ R. Hic est qui multum orat pro populo, et universa sancta civitate Jerusalem.
 7 Et dixit Mathathias: Vae mihi ! ut quid natus sum videre contritionem populi mei, et contritionem civitatis sanctae, et sedere illic, cum datur in manibus inimicorum?
 8 Sancta in manu extraneorum facta sunt: templum ejus sicut homo ignobilis.
 9 Vasa gloriae ejus captiva abducta sunt: trucidati sunt senes ejus in plateis, et juvenes ejus ceciderunt in gladio inimicorum.
-10 Quae gens non haereditavit regnum ejus et non obtinuit spolia ejus?
+10 Quae gens non hereditavit regnum ejus et non obtinuit spolia ejus?
 
 
 [Responsory2]

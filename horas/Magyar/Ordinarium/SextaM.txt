@@ -5,7 +5,7 @@ $Deus in adjutorium
 
 #Hymnus {:H-Sexta:}
 v. Igaz Isten, hatalmas Úr,
-Ki az idôket forgatod,
+Ki az idôket forgatod,`
 A reggelt felragyogtatod`
 És lángoltatod a delet:
 _
@@ -22,7 +22,7 @@ Mindörökön uralkodó.
 
 #Psalmi
 
-#Capitulum Versum
+#Capitulum Versus
 _
 v. Uram irgalmazz nekünk. Krisztus kegyelmezz nekünk. Uram irgalmazz nekünk. 
 &pater_noster

@@ -20,7 +20,7 @@ De libro quarto Regum.
 27 Dixit itaque Dominus: Etiam Judam auferam a facie mea, sicut abstuli Israël: et projiciam civitatem hanc quam elegi Jerusalem, et domum de qua dixi: Erit nomen meum ibi.
 28 Reliqua autem sermonum Josiae, et universa quae fecit, nonne haec scripta sunt in libro verborum dierum regum Juda?
 29 In diebus ejus ascendit Pharao Nechao rex Ægypti contra regem Assyriorum ad flumen Euphraten, et abiit Josias rex in occursum ejus: et occisus est in Mageddo cum vidisset eum.
-30 Et portaverunt eum servi sui mortuum de Mageddo: et pertulerunt in Jerusalem, et sepelierunt eum in sepulchro suo. Tulitque populus terrae Joachaz filium Josiae: et unxerunt eum, et constituerunt eum regem pro patre suo.
+30 Et portaverunt eum servi sui mortuum de Mageddo: et pertulerunt in Jerusalem, et sepelierunt eum in sepulcro suo. Tulitque populus terrae Joachaz filium Josiae: et unxerunt eum, et constituerunt eum regem pro patre suo.
 
 
 [Responsory2]
@@ -28,7 +28,7 @@ De libro quarto Regum.
 
 [Lectio3]
 !2 Kgs 23:30-34
-30 Et portaverunt eum servi sui mortuum de Mageddo: et pertulerunt in Jerusalem, et sepelierunt eum in sepulchro suo. Tulitque populus terrae Joachaz filium Josiae: et unxerunt eum, et constituerunt eum regem pro patre suo.
+30 Et portaverunt eum servi sui mortuum de Mageddo: et pertulerunt in Jerusalem, et sepelierunt eum in sepulcro suo. Tulitque populus terrae Joachaz filium Josiae: et unxerunt eum, et constituerunt eum regem pro patre suo.
 31 Viginti trium annorum erat Joachaz cum regnare cœpisset, et tribus mensibus regnavit in Jerusalem: nomen matris ejus Amital filia Jeremiae de Lobna.
 32 Et fecit malum coram Domino, juxta omnia quae fecerant patres ejus.
 33 Vinxitque eum Pharao Nechao in Rebla, quae est in terra Emath, ne regnaret in Jerusalem: et imposuit mulctam terrae centum talentis argenti, et talento auri.

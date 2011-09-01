@@ -11,7 +11,6 @@ De libro primo Regum.
 7 Et praecinebant mulieres, ludentes, atque dicentes: Percussit Saul mille, et David decem millia.
 8 Iratus est autem Saul nimis, et displicuit in oculis ejus sermo iste: dixitque: Dederunt David decem millia, et mihi mille dederunt: quid ei superest, nisi solum regnum?
 
-
 [Responsory1]
 @Tempora/Pent01-3:Responsory1
 
@@ -23,7 +22,6 @@ De libro primo Regum.
 12 Et timuit Saul David, eo quod Dominus esset cum eo, et a se recessisset.
 13 Amovit ergo eum Saul a se, et fecit eum tribunum super mille viros: et egrediebatur, et intrabat in conspectu populi.
 
-
 [Responsory2]
 @Tempora/Pent01-3:Responsory2
 
@@ -33,7 +31,6 @@ De libro primo Regum.
 15 Vidit itaque Saul quod prudens esset nimis, et cœpit cavere eum.
 16 Omnis autem Israël et Juda diligebat David: ipse enim ingrediebatur et egrediebatur ante eos.
 17 Dixitque Saul ad David: Ecce filia mea major Merob: ipsam dabo tibi uxorem: tantummodo esto vir fortis, et praeliare bella Domini. Saul autem reputabat, dicens: Non sit manus mea in eum, sed sit super eum manus Philisthinorum.
-
 
 [Responsory3]
 @Tempora/Pent01-3:Responsory3

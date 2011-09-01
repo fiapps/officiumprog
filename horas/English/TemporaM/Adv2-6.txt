@@ -14,16 +14,14 @@ of strangers, to be no city, and to be no more built up for ever.
 3 Therefore shall a strong people praise thee, the city of mighty nations shall~
 fear thee.
 4 Because thou hast been a strength to the poor, a strength to the needy in his~
-distress: a refuge from the whirlwind, a shadow from the heat. For the blast of~
-the mighty is like a whirlwind beating against a wall.
+distress: a refuge from the whirlwind, a shadow from the heat. 
 
 [Responsory1]
-@TemporaM/Adv1-0:Responsory7
+@TemporaM/Adv2-0:Responsory7
 
 [Lectio2]
 !Isa 25:4-7
-4 Because thou hast been a strength to the poor, a strength to the needy in his~
-distress: a refuge from the whirlwind, a shadow from the heat. For the blast of~
+4 For the blast of~
 the mighty is like a whirlwind beating against a wall.
 5 Thou shalt bring down the tumult of strangers, as heat in thirst: and as with~
 heat under a burning cloud, thou shalt make the branch of the mighty to wither~
@@ -35,7 +33,7 @@ the lees.
 were tied, and the web that he over all nations.
 
 [Responsory2]
-@TemporaM/Adv1-0:Responsory8
+@TemporaM/Adv2-0:Responsory8
 
 [Lectio3]
 !Isa 25:8-12
@@ -54,7 +52,7 @@ dashing of his hands.
 be pulled down to the ground, even to the dust.
 
 [Responsory3]
-@TemporaM/Adv1-0:Responsory9
+@TemporaM/Adv2-0:Responsory9
 
 [Ant 2]
 The Lord shall lift up a standard * unto the nations, and shall gather together~

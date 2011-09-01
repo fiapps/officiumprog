@@ -12,10 +12,7 @@ ex C11;
 My heart hath rejoiced in the Lord, * and my horn is exalted in my God:  because I have joyed in thy salvation.
 
 [Oratio]
-Almighty everlasting God, who hast prepared in the heart of Blessed Virgin Mary a~
-worthy dwelling of the Holy Ghost, grant favourably to us that we may keep the~
-feast of the same immaculate Heart devoutly, and may be able to leave according~
-to thy heart.
+Almighty everlasting God, who hast prepared in the heart of Blessed Virgin Mary a worthy dwelling of the Holy Ghost, grant favourably to us that we may keep the feast of the same immaculate Heart devoutly, and may be able to leave according to thy heart.
 $Per Dominum eiusdem
 
 [Commemoratio 2]
@@ -51,9 +48,7 @@ The burden and yoke which our Lord imposed on St. John, that he take care of his
 [Responsory7]
 R. O Holy Virgin Mary, happy indeed art thou, and right worthy of all praise
 * For out of thee rose the Sun of righteousness, even Christ our God.
-V. Pray for the people, plead for the clergy, make intercession for all women~
-vowed to God. May all that are keeping this thine solemn Commemoration feel the might~
-of thine assistance.
+V. Pray for the people, plead for the clergy, make intercession for all women vowed to God. May all that are keeping this thine solemn Commemoration feel the might of thine assistance.
 R. For out of thee rose the Sun of righteousness, even Christ our God.
 
 [Lectio8]
@@ -64,21 +59,10 @@ How secure shall we be under the protection of such a Mother?  Who will dare to 
 
 [Lectio93]
 !Commemoratio Ss. Mart. Timotheo, Hippolyto et Symphoriano.
-Tlimotheus Antiochenus, Romam veniens, Melchiade Summo Pontifice, cum per annum~
-ibi Christi fidem praedicasset, a Tarquinio Urbis praefecto conjicitur in~
-vincula: et post diuturnas carceris aerumnas ad idola perducitur, ut eis~
-sacrificet. Quam impietatem summa libertate detestatus, acerbissime caeditur, et~
+Tlimotheus Antiochenus, Romam veniens, Melchiade Summo Pontifice, cum per annum ibi Christi fidem praedicasset, a Tarquinio Urbis praefecto conjicitur in vincula: et post diuturnas carceris aerumnas ad idola perducitur, ut eis sacrificet. Quam impietatem summa libertate detestatus, acerbissime caeditur, et~
 excarnificatum corpus viva calce perfunditur. In quibus aliusque suppliciis~
 constans Martyr capite plectitur. Corpus via Ostiensi prope sepulchrum beati~
-Pauli Apostoli sepelitur. Quo die etiam, Alexandro imperatore, apud Ostia~
-Tiberina Hippolytus episcopus Portuensis ob praeclaram fidei confessionem~
-manibus pedibusque ligatis, in altam foveam aquis plenam praecipitatus, martyrio~
-coronatus est, et ibidem a Christianis sepultus. Quo item die, Aureliano~
-imperatore, propter eamdem fidem Augustini Symphorianus adolescens varie tortus~
-est. Qui dum ad ultimum supplicium duceretur, matrem ita clamantem audiens: Nate,~
-nate, memento aeternae vitae, caelum suspice, etibi regnantem intuere: tibi enim~
-vita non eripitur, sed mutatur in melius: fortiter Jesu Christi causa carnifici~
-collum praebuit.
+Pauli Apostoli sepelitur. Quo die etiam, Alexandro imperatore, apud Ostia Tiberina Hippolytus episcopus Portuensis ob praeclaram fidei confessionem manibus pedibusque ligatis, in altam foveam aquis plenam praecipitatus, martyrio coronatus est, et ibidem a Christianis sepultus. Quo item die, Aureliano imperatore, propter eamdem fidem Augustini Symphorianus adolescens varie tortus est. Qui dum ad ultimum supplicium duceretur, matrem ita clamantem audiens: Nate, nate, memento aeternae vitae, caelum suspice, etibi regnantem intuere: tibi enim vita non eripitur, sed mutatur in melius: fortiter Jesu Christi causa carnifici collum praebuit.
 &teDeum
 
 [Ant 2]

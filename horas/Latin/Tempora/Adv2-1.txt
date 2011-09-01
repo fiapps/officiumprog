@@ -10,7 +10,7 @@ De Isaia Propheta
 1 Onus Babylonis, quod vidit Isaias, filius Amos.
 2 Super montem caliginosum levate signum: exaltate vocem, levate manum, et ingrediantur portas duces.
 3 Ego mandavi sanctificatis meis, et vocavi fortes meos in ira mea, exsultantes in gloria mea.
-4 Vox multitudinis in montibus, quasi populorum frequentium; vox sonitus regum, gentium congregatarum. 
+4 Vox multitudinis in montibus, quasi populorum frequentium; vox sonitus regum, gentium congregatarum.
 
 [Responsory1]
 @Tempora/Adv1-1:Responsory1
@@ -23,7 +23,6 @@ De Isaia Propheta
 7 Propter hoc omnes manus dissolventur, et omne cor hominis contabescet,
 8 et conteretur. Torsiones et dolores tenebunt; quasi parturiens dolebunt: unusquisque ad proximum suum stupebit, facies combustae vultus eorum.
 
-
 [Responsory2]
 @Tempora/Adv1-1:Responsory2
 
@@ -33,12 +32,11 @@ De Isaia Propheta
 10 Quoniam stellae caeli, et splendor earum, non expandent lumen suum; obtenebratus est sol in ortu suo, et luna non splendebit in lumine suo.
 11 Et visitabo super orbis mala, et contra impios iniquitatem eorum; et quiescere faciam superbiam infidelium, et arrogantiam fortium humiliabo.
 
-
 [Responsory3]
 @Tempora/Adv1-1:Responsory3
 
 [Ant 2]
-De coelo veniet * Dominator Dominus, et in manu ejus honor et imperium.
+De caelo veniet * Dominator Dominus, et in manu ejus honor et imperium.
 
 [Ant 3]
 Ecce veniet Rex * Dominus terrae et ipse auferet jugum captivitatis nostrae.

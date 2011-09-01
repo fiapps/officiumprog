@@ -64,7 +64,7 @@ capiunt: nec quisquam interiorum potest esse particeps Christi.
 [Lectio9]
 Vocavit, inquit, discipulos suos, et elegit duodecim ex ipsis, quos ad~
 propagandum auxilium salutis humanae per terrarum orbem satores fidei~
-destinaret. Simul adverte coeleste consilium: non sapientes aliquos, non divites,~
+destinaret. Simul adverte caeleste consilium: non sapientes aliquos, non divites,~
 non nobiles, sed piscatores et publicanos, quos dirigeret, elegit: ne traduxisse~
 prudentia, ne redemisse divitiis, ne potentiae nobilitatisque auctoritate~
 traxisse aliquos ad suam gratiam videretur, ut veritatis ratio, non~

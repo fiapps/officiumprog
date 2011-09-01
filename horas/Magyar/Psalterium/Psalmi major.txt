@@ -1,9 +1,9 @@
 [Day0 Laudes1]
-Alleluia * Fönségbe öltözött az Úr, hatalommal övezte fel magát. alleluia, alleluia;;92
-Ujjongjatok * Istenemnek, földek mind, alleluia;;99
-Magasztallak * egész életemen át, s nevedben emelem imára kezem, alleluia;;62
-Három ifjút * a király parancsára a tüzes kemencébe vetettek; nem féltek a lángoktól, igy énekeltek: Áldott * legyen az Isten, alleluia;;210
-Alleluia * áldjátok az Urat az égben, alleluia, alleluia;;148
+Alleluia` * Fönségbe öltözött az Úr, hatalommal övezte fel magát. alleluia, alleluia;;92
+Ujjongjatok` * Istenemnek, földek mind, alleluia;;99
+Magasztallak` * egész életemen át, s nevedben emelem imára kezem, alleluia;;62
+Három ifjút * a király parancsára a tüzes kemencébe vetettek; nem féltek a lángoktól, igy énekeltek: Áldott legyen az Isten, alleluia;;210
+Alleluia` * áldjátok az Urat az égben, alleluia, alleluia;;148
 
 [Day0 Laudes2]
 ;;50
@@ -108,7 +108,7 @@ Magasztaljátok az Urat * Istenünket, boruljatok le szent hegyén;;98
 Ments meg ellenségeimtõl * Uram, hozzád menekültem;;142
 Kegyelmedet * Uram, kiárasztottad földedre, néped bûnét megbocsátottad;;84
 Izraelnek minden nemzetsége * gyõzelmet és dicsõséget arat az Úrban;;215
-Áldjad * az Urat, Jeruzsalem;;147
+Áldjad * az Urat, Jeruzsálem;;147
 
 [Day5 Laudes2]
 Az alázatos és töredelmes * szívet nem veted meg Istenem;;50
@@ -134,7 +134,7 @@ Minden lélek * dicsérje az Urat;;150
 [Day6 Laudes2]
 Jóságodban, Uram * légy kegyes Sionhoz;;50
 Az Úr igazságos * igazságtalanság nincsen benne;;91
-Orizd meg életem * hogy ne féljek az ellenségtõl;;63
+örizd meg életem * hogy ne féljek az ellenségtõl;;63
 Adj Uram igazságot szolgáidnak * könyörülj meg földed népén;;226
 Dicsérjétek * az Urat hatalmas tetteiért, dicsérjétek nagyságának teljességéért;;150
 
@@ -271,7 +271,7 @@ The law was given by Moses, * but grace and truth came by Jesus Christ.
 
 [Day3 Laudes3]
 The Prophets foretold * that the Saviour should be born of the Virgin Mary. 
-The Spirit of the Lord * is upon me, because me hath anointed me to preach the Gospel to the poor. 
+The Spirit of the Lord * is upon me, because he hath anointed me to preach the Gospel to the poor. 
 For Zion's sake * will I not hold my peace, until her Righteous One goeth forth as brightness. 
 Behold, the Lord cometh, * to sit among princes, and to inherit the throne of glory. 
 Tell it out among the people, * and say Behold, God, our Saviour cometh. 

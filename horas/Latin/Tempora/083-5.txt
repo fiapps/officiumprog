@@ -5,7 +5,6 @@ De libro Sapientiae.
 2 sed aut ignem, aut spiritum, aut citatum aërem, aut gyrum stellarum, aut nimiam aquam, aut solem et lunam, rectores orbis terrarum deos putaverunt.
 3 Quorum si specie delectati, deos putaverunt, sciant quanto his dominator eorum speciosior est: speciei enim generator haec omnia constituit.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory4
 
@@ -16,7 +15,6 @@ De libro Sapientiae.
 6 Sed tamen adhuc in his minor est querela; et hi enim fortasse errant, Deum quaerentes, et volentes invenire.
 7 Etenim cum in operibus illius conversentur inquirunt, et persuasum habent quoniam bona sunt quae videntur.
 
-
 [Responsory2]
 @Tempora/081-0:Responsory5
 
@@ -25,7 +23,6 @@ De libro Sapientiae.
 8 Iterum autem nec his debet ignosci.
 9 Si enim tantum potuerunt scire ut possent aestimare saeculum, quomodo hujus Dominum non facilius invenerunt?
 10 Infelices autem sunt, et inter mortuos spes illorum est, qui appellaverunt deos opera manuum hominum: aurum et argentum, artis inventionem, et similitudines animalium, aut lapidem inutilem, opus manus antiquae.
-
 
 [Responsory3]
 @Tempora/081-0:Responsory6

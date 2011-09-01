@@ -17,7 +17,7 @@ him that calleth for his money, so with him that oweth.
 spoiled: for the Lord hath spoken this word.
 
 [Responsory1]
-@TemporaM/Adv1-0:Responsory4
+@TemporaM/Adv2-0:Responsory4
 
 [Lectio2]
 !Isa 24:4-6
@@ -31,7 +31,7 @@ sin: and therefore they that dwell therein shall be mad, and few men shall be~
 left.
 
 [Responsory2]
-@TemporaM/Adv1-0:Responsory5
+@TemporaM/Adv2-0:Responsory5
 
 [Lectio3]
 !Isa 24:7-16
@@ -52,13 +52,10 @@ grapes, when the vintage is ended.
 be glorified, they shall make a joyful noise from the sea.
 15 Therefore glorify ye the Lord in instruction: the name of the Lord God of~
 Israel in the islands of the sea.
-16 From the ends of the earth we have heard praises, the glory of the just one.~
-And I said: My secret to myself, my secret to myself, woe is me: the~
-prevaricators have prevaricated, and with the prevarication of transgressors~
-they have prevaricated.
+16 From the ends of the earth we have heard praises, the glory of the Just one.
 
 [Responsory3]
-@TemporaM/Adv1-0:Responsory6
+@TemporaM/Adv2-0:Responsory6
 
 [Ant 2]
 Say * Ye that are of a fearful heart, be strong; behold, the Lord our God will~

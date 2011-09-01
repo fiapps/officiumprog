@@ -22,7 +22,7 @@ Factus est * repente de caelo sonus advenientis spiritus vehementis, alleluia, a
 ;;104(22-45) 
 V. Repleti sunt omnes Spirit Sancto alleluia
 R. Et coeperunt loqui alleluia
-Apparuerunt Apostolis dispertitae linguae tamquam ignis, Seditque supra singulos eorum Spiritus sanctus, alleluia;;105(1-28)
+Apparuerunt Apostolis dispertitae linguae tamquam ignis, Seditque supra singulos eorum Spiritus Sanctus, alleluia;;105(1-28)
 ;;105(29-44)
 ;;106(1-24)
 ;;106(25-43)
@@ -46,7 +46,7 @@ advenerat: sed prior sanari debuit, qui prior creatus est; nec praetermitti illa
 quae mobilitate magis animi, quam pravitate peccaverat.
 
 [Responsory1]
-R. Repleti sunt omnes Spiritu sancto, et coeperunt loqui, prout Spiritus sanctus~
+R. Repleti sunt omnes Spiritu sancto, et coeperunt loqui, prout Spiritus Sanctus~
 dabat eloqui illis:
 * Et convenit multitudo dicentium, alleluia.
 V. Loquebantur variis linguis Apostoli magnalia Dei.

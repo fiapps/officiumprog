@@ -17,35 +17,33 @@ Et ipse Jesus * erat incipiens quasi annorum triginta, ut putabatur filius Josep
 
 [Capitulum Vespera]
 !Gen 49:26
-v. Benedictiones patris tui confortatae sunt benedictionibus patrum ejus: donec~
-veniret desiderium collium aeternorum: fiant in capite Joseph, et in vertice~
-Nazaraei inter fratres suos.
+v. Benedictiones patris tui confortatae sunt benedictionibus patrum ejus: donec veniret desiderium collium aeternorum: fiant in capite Joseph, et in vertice Nazaraei inter fratres suos.
 $Deo gratias
 
 [Hymnus Vespera]
-v. Te, Joseph, celebrent agmina caelitum 
-Te cuncti resonent christiadum chori 
-Qui clarus meritis, junctus es inclytae 
+v. Te, Joseph, celebrent agmina caelitum
+Te cuncti resonent christiadum chori
+Qui clarus meritis, junctus es inclytae
 Casto foedere Virgini.
 _
-Almo cum tumidam germine conjugem 
-Admirans, dubio tangeris anxius, 
-Afflatu superi flaminis angelus 
+Almo cum tumidam germine conjugem
+Admirans, dubio tangeris anxius,
+Afflatu superi flaminis angelus
 Conceptum puerum docet.
 _
-Tu natum Dominum stringis ad exteras, 
+Tu natum Dominum stringis ad exteras,
 Aegypti profugum tu sequeris plagas:
-Amissum Solymis quaeris et invenis, 
+Amissum Solymis quaeris et invenis,
 Miscens gaudia fletibus.
 _
-Post mortem reliquos sors pia consecrat, 
-Palmamque emeritos gloria suscipit: 
+Post mortem reliquos sors pia consecrat,
+Palmamque emeritos gloria suscipit:
 Tu vivens, superis par, frueris Deo,
 Mira sorte beatior.
 _
-Nobis summa Trias parce precantibus: 
-Da Joseph meritis sidera scandere, 
-Ut tandem liceat nos tibi perpetim, 
+Nobis summa Trias parce precantibus:
+Da Joseph meritis sidera scandere,
+Ut tandem liceat nos tibi perpetim,
 Gratum promere canticum. Amen.
 
 [Versum 1]
@@ -53,13 +51,10 @@ V. Constituit eum dominum domus suae, alleluia.
 R. Et principem omnis possessionis suae, alleluia.
 
 [Ant 1]
-Cum esset desponsata * Mater Jesu Maria Joseph, antequam convenirent, inventa~
-est in utero habens de Spiritu sancto, alleluia.
+Cum esset desponsata * Mater Jesu Maria Joseph, antequam convenirent, inventa est in utero habens de Spiritu Sancto, alleluia.
 
 [Oratio]
-Deus, qui ineffabili providentia beatum Joseph sanctissimae Genitricis tuge~
-sponsum eligere dignatus es: praesta, quaesumus; ut quem protectorem veneramur~
-in terris, intercessorem habere mereamur in caelis:
+Deus, qui ineffabili providentia beatum Joseph sanctissimae Genitricis tuge sponsum eligere dignatus es: praesta, quaesumus; ut quem protectorem veneramur in terris, intercessorem habere mereamur in caelis:
 $Qui vivis
 
 [Invit]
@@ -74,12 +69,12 @@ Angelus Domini apparuit in somnis Joseph, dicens: Surge, et accipe puerum et mat
 ;;3
 V. Confitebor nomini tuo, alleluia.
 R. Quoniam adjutor et protector factus es mihi, alleluia.
-Angelus Domini apparuit in somnis Joseph, dicens: Surge, et accipe puerum et matrem ejus, vade in terram Israel: defuncti sunt enim qui quaerebant animam pueri, alleluia;;4
+Angelus Domini apparuit in somnis Joseph, dicens: Surge, et accipe puerum et matrem ejus, vade in terram Israël: defuncti sunt enim qui quaerebant animam pueri, alleluia;;4
 ;;5
 ;;6
 V. Respice de caelo, et vide, et visita vineam istam, alleluia.
 R. Et perfice eam, alleluia.
-Consurgens Joseph accepit puerum et matrem ejus, et venit in terram Israel: et habitavit in civitate quae vocatur Nazareth, alleluia;;14
+Consurgens Joseph accepit puerum et matrem ejus, et venit in terram Israël: et habitavit in civitate quae vocatur Nazareth, alleluia;;14
 ;;20
 ;;23
 V. Invocavi Dominum, Patrem Domini mei, alleluia.
@@ -114,8 +109,7 @@ R. Quibus ille respondit: Ite ad Joseph, alleluia.
 [Responsory2]
 R. Fecit me Deus quasi patrem regis, et dominum universae domus ejus:
 * Exaltavit me, ut salvos faceret multos populos, alleluia.
-V. Venite ad me, et ego dabo vobis omnia bona Aegypti, ut comedatis medullam~
-terrae.
+V. Venite ad me, et ego dabo vobis omnia bona Aegypti, ut comedatis medullam terrae.
 R. Exaltavit me, ut salvos faceret multos populos, alleluia.
 
 [Lectio3]
@@ -128,11 +122,9 @@ R. Exaltavit me, ut salvos faceret multos populos, alleluia.
 49 Tantaque fuit abundantia tritici, ut arenae maris coaequaretur, et copia mensuram excederet.
 
 [Responsory3]
-R. Jam Isetus moriar, quia vidi faciem tuam, et superstitem te relinquo. Non sum~
-fraudatus aspectu tuo:
+R. Jam Isetus moriar, quia vidi faciem tuam, et superstitem te relinquo. Non sum fraudatus aspectu tuo:
 * Insuper ostendit mihi Dominus semen tuum, alleluia.
-V. Qui pascit me ab adolescentia mea, benedicat pueris istis, et invocetur super~
-eos nomen meum.
+V. Qui pascit me ab adolescentia mea, benedicat pueris istis, et invocetur super eos nomen meum.
 R. Insuper ostendit mihi Dominus semen tuum, alleluia.
 &Gloria
 R. Insuper ostendit mihi Dominus semen tuum, alleluia.
@@ -140,16 +132,7 @@ R. Insuper ostendit mihi Dominus semen tuum, alleluia.
 [Lectio4]
 Sermo sancti Bernardini Senensis.
 !Serm. 1. de S. Joseph.
-Omnium singularium gratiarum alicui rationabili creaturae communicatarum~
-generalis regula est, quod, quandocumque divina gratia eligit aliquem ad aliquam~
-gratiam singularem, seu ad aliquem sublimem statum, omnia charismata donet, quae~
-illi personae sic electae, et ejus officio necessaria sunt, atque illam copiose~
-decorant. Quod maxime verificatum est in sancto Joseph, putativo patre Domini~
-nostri Jesu Christi, et vero sponso Reginae mundi et Dominae Angelorum, qui ab~
-aeterno Patre electus est fidelis nutritius, atque custos principalium~
-thesaurorum suorum, scilicet Filii ejus et sponsae suae: quod officium~
-fidelissime prosecutus est. Cui propterea Dominus ait: Serve bone et fidelis,~
-intra in gaudium Domini tui.
+Omnium singularium gratiarum alicui rationabili creaturae communicatarum generalis regula est, quod, quandocumque divina gratia eligit aliquem ad aliquam gratiam singularem, seu ad aliquem sublimem statum, omnia charismata donet, quae illi personae sic electae, et ejus officio necessaria sunt, atque illam copiose decorant. Quod maxime verificatum est in sancto Joseph, putativo patre Domini nostri Jesu Christi, et vero sponso Reginae mundi et Dominae Angelorum, qui ab aeterno Patre electus est fidelis nutritius, atque custos principalium thesaurorum suorum, scilicet Filii ejus et sponsae suae: quod officium fidelissime prosecutus est. Cui propterea Dominus ait: Serve bone et fidelis, intra in gaudium Domini tui.
 
 [Responsory4]
 R. Dedisti mihi protectionem salutis tuae, et dextera tua suscepit me:
@@ -158,38 +141,16 @@ V. Ego protector tuus sum, et merces tua magna nimis.
 R. Protector meus, et cornu salutis meae, et susceptor meus, alleluia.
 
 [Lectio5]
-Si compares eum ad totam Ecclesiam Christi, nonne iste est homo electus et~
-specialis, per quem et sub quo Christus est ordinate et honeste introductus in~
-mundum? Si ergo Virgini Matri tota Ecclesia sancta debitrix est, quia per eam~
-Christum suscipere digna facta est: sic profecto post eam huic debet gratiam et~
-reverentiam singularem. Ipse enim est clavis veteris testamenti, in qua~
-patriarchalis et prophetalis dignitas promissum consequitur fructum. Porro hic~
-est solus, qui corporaliter possedit, quod eis divina dignatio repromisit.~
-Merito igitur figuratur per illum patriarcham Joseph, qui populis frumenta~
-servavit. Sed et hic illum praecellit, quia non solum Aegyptus panem corporalis~
-vitae, sed omnibus electis panem de caelo, qui caelestem vitam tribuit, cum~
-multa solertia enutrivit.
+Si compares eum ad totam Ecclesiam Christi, nonne iste est homo electus et specialis, per quem et sub quo Christus est ordinate et honeste introductus in mundum? Si ergo Virgini Matri tota Ecclesia sancta debitrix est, quia per eam Christum suscipere digna facta est: sic profecto post eam huic debet gratiam et reverentiam singularem. Ipse enim est clavis veteris testamenti, in qua patriarchalis et prophetalis dignitas promissum consequitur fructum. Porro hic est solus, qui corporaliter possedit, quod eis divina dignatio repromisit. Merito igitur figuratur per illum patriarcham Joseph, qui populis frumenta servavit. Sed et hic illum praecellit, quia non solum Aegyptus panem corporalis vitae, sed omnibus electis panem de caelo, qui caelestem vitam tribuit, cum multa solertia enutrivit.
 
 [Responsory5]
-R. Statuet filios suos sub tegmine illius, et sub ramis ejus morabitur:~
-protegetur sub tegmine illius a fervore:
+R. Statuet filios suos sub tegmine illius, et sub ramis ejus morabitur: protegetur sub tegmine illius a fervore:
 * Et in gloria ejus requiescet, alleluia.
 V. Sperate in eo, omnis congregatio populi: effundite coram illo corda vestra.
 R. Et in gloria ejus requiescet, alleluia.
 
 [Lectio6]
-Profecto dubitandum non est, quod Christus familiaritatem, reverentiam, atque~
-sublimissimam dignitatem, quam illi exhibuit, dum ageret in humanis, tamquam~
-filius patri suo, in caelis utique non negavit, quin potius complevit et~
-consummavit. Unde non immerito in verbo proposito a Domino subinfertur: Intra in~
-gaudium Domini tui. Unde, licet gaudium aeternae beatitudinis in cor hominis~
-intret, maluit tamen Dominus ei dicere: Intra in gaudium: ut mystice innuatur,~
-quod gaudium illud non solum in eo sit intra, sed undique illum circumdans et~
-absorbens, et ipsum velut abyssus infinita submergens. Memento igitur nostri,~
-beate Joseph, et tuae orationis suffragio apud tuum putativum Filium intercede:~
-sed et beatissimam Virginem sponsam tuam nobis propitiam redde, quae Mater est~
-ejus, qui cum Patre et Spiritu sancto vivit et regnat per infinita saecula~
-saeculorum. Amen.
+Profecto dubitandum non est, quod Christus familiaritatem, reverentiam, atque sublimissimam dignitatem, quam illi exhibuit, dum ageret in humanis, tamquam filius patri suo, in caelis utique non negavit, quin potius complevit et consummavit. Unde non immerito in verbo proposito a Domino subinfertur: Intra in gaudium Domini tui. Unde, licet gaudium aeternae beatitudinis in cor hominis intret, maluit tamen Dominus ei dicere: Intra in gaudium: ut mystice innuatur, quod gaudium illud non solum in eo sit intra, sed undique illum circumdans et absorbens, et ipsum velut abyssus infinita submergens. Memento igitur nostri, beate Joseph, et tuae orationis suffragio apud tuum putativum Filium intercede: sed et beatissimam Virginem sponsam tuam nobis propitiam redde, quae Mater est ejus, qui cum Patre et Spiritu Sancto vivit et regnat per infinita saecula saeculorum. Amen.
 
 [Responsory6]
 R. Si consistant adversum me castra, non timebit cor meum:
@@ -202,55 +163,31 @@ R. Si exsurgat adversum me praelium, in hoc ego sperabo, alleluia.
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
 !Luke 3:21-23
-In illo tempore: Factum est autem, cum baptizaretur omnis populus, et Jesu~
-baptizato, et orante, apertum est caelum. Et reliqua.
+In illo tempore: Factum est autem, cum baptizaretur omnis populus, et Jesu baptizato, et orante, apertum est caelum. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
 !Lib. 2. de Consensu Evang.
-Manifestum est illud quod ait: Ut putabatur fiUus Joseph: propter illos dixisse,~
-qui eum ex Joseph, sicut alii homines nascuntur, natum arbitrantur. Quos autem~
-movet quod alios progenitores Matthaeus enumerat, descendens a David usque ad~
-Joseph, alios autem Lucas ascendens a Joseph usque ad David, facile est ut~
-advertant, duos patres habere potuisse Joseph: unum a quo genitus, alterum a quo~
-fuerit adoptatus. Antiqua est enim consuetudo adoptandi etiam in illo populo Dei,~
-ut sibi filios facerent, quos non ipsi genuissent. Unde intelligitur Lucas~
-patrem Joseph, non a quo genitus, sed a quo fuerat adoptatus, suscepisse in~
-Evangelio suo cujus progenitores sursum versus commemorat, donec exiret ad~
-David.
+Manifestum est illud quod ait: Ut putabatur fiUus Joseph: propter illos dixisse, qui eum ex Joseph, sicut alii homines nascuntur, natum arbitrantur. Quos autem movet quod alios progenitores Matthaeus enumerat, descendens a David usque ad Joseph, alios autem Lucas ascendens a Joseph usque ad David, facile est ut advertant, duos patres habere potuisse Joseph: unum a quo genitus, alterum a quo fuerit adoptatus. Antiqua est enim consuetudo adoptandi etiam in illo populo Dei, ut sibi filios facerent, quos non ipsi genuissent. Unde intelligitur Lucas patrem Joseph, non a quo genitus, sed a quo fuerat adoptatus, suscepisse in Evangelio suo cujus progenitores sursum versus commemorat, donec exiret ad David.
 
 [Responsory7]
-R. Joseph fili David, noli timere accipere Mariam conjugem tuam; quod enim in ea~
-natum est, de Spiritu sancto est: pariet autem filium,
+R. Joseph fili David, noli timere accipere Mariam conjugem tuam; quod enim in ea natum est, de Spiritu Sancto est: pariet autem filium,
 * Et vocabis nomen ejus Jesum, alleluia
 V. Ipse enim salvum faciet populum suum a peccatis eorum.
 R. Et vocabis nomen ejus Jesum, alleluia
 
 [Lectio8]
-Cum enim necesse sit, utroque Evangelista vera narrante, et Matthaeo scilicet et~
-Luca, ut unus eorum ejus patris originem teneret, qui genuerat; alter ejus qui~
-adoptaverat Joseph: quem probabilius intelligimus adoptantis originem tenuisse~
-quam eum, qui noluit Joseph genitum dicere ab illo cujus eum filium esse~
-narrabat? Matthaeus autem dicens: Abraham genuit Isaac, Isaac genuit Jacob,~
-atque ita in hoc verbo, quod est, genuit, perseverans, donec in ultimo diceret,~
-Jacob autem genuit Joseph, satis expressit ad eum patrem se perduxisse originem~
-generantium, a quo Joseph non adoptatus, sed genitus erat.
+Cum enim necesse sit, utroque Evangelista vera narrante, et Matthaeo scilicet et Luca, ut unus eorum ejus patris originem teneret, qui genuerat; alter ejus qui adoptaverat Joseph: quem probabilius intelligimus adoptantis originem tenuisse quam eum, qui noluit Joseph genitum dicere ab illo cujus eum filium esse narrabat? Matthaeus autem dicens: Abraham genuit Isaac, Isaac genuit Jacob, atque ita in hoc verbo, quod est, genuit, perseverans, donec in ultimo diceret, Jacob autem genuit Joseph, satis expressit ad eum patrem se perduxisse originem generantium, a quo Joseph non adoptatus, sed genitus erat.
 
 [Responsory8]
 R. Surge, et accipe puerum et matrem ejus, et fuge in Aegyptum:
 * Et esto ibi usque dum dicam tibi, alleluia.
-V. Ut adimpleretur quod dictum est a Domino per Prophetam dicentem: Ex Aegypto~
-vocavi filium meum.
+V. Ut adimpleretur quod dictum est a Domino per Prophetam dicentem: Ex Aegypto vocavi filium meum.
 R. Et esto ibi usque dum dicam tibi, alleluia.
 &Gloria
 R. Et esto ibi usque dum dicam tibi, alleluia.
 
 [Lectio9]
-Quamquam si etiam Lucas genitum diceret Joseph ab Heli, nec sic nos hoc verbum~
-perturbere deberet, ut aliud crederemus, quam ab uno Evangelista gignentem, ab~
-altero adoptantem patrem fuisse commemoratum. Neque enim absurde quisque dicitur~
-non carne, sed caritate genuisse quem filium sibi adoptaverit At vero etiam nos~
-quibus dedit Deus potestatem filios ejus fieri, de natura atque substantia sua~
-non nos genuit, sicut unicum Filium, sed utique dilectione adoptavit.
+Quamquam si etiam Lucas genitum diceret Joseph ab Heli, nec sic nos hoc verbum perturbere deberet, ut aliud crederemus, quam ab uno Evangelista gignentem, ab altero adoptantem patrem fuisse commemoratum. Neque enim absurde quisque dicitur non carne, sed caritate genuisse quem filium sibi adoptaverit At vero etiam nos quibus dedit Deus potestatem filios ejus fieri, de natura atque substantia sua non nos genuit, sicut unicum Filium, sed utique dilectione adoptavit.
 &teDeum
 
 [Ant Laudes]
@@ -262,36 +199,34 @@ Et ipse Jesus * erat incipiens quasi annorum triginta, ut putabatur filius Josep
 
 [Capitulum Laudes]
 !Gen 49:26
-v. Benedictiones patris tui confortatae sunt benedictionibus patrum ejus: donec~
-veniret desiderium collium aeternorum: fiant in capite Joseph, et in vertice~
-Nazaraei inter fratres suos.
+v. Benedictiones patris tui confortatae sunt benedictionibus patrum ejus: donec veniret desiderium collium aeternorum: fiant in capite Joseph, et in vertice Nazaraei inter fratres suos.
 $Deo gratias
 
 [Hymnus Laudes]
-v. Coelitum Joseph decus, atque nostrae 
+v. Caelitum Joseph decus, atque nostrae
 Certa spes vitae, columenque mundi,
-Quas tibi laeti canimus, benignus 
+Quas tibi laeti canimus, benignus
 Suscipe laudes.
 _
-Te sator rerum statuit pudicae 
-Virginis sponsum, voluitque Verbi 
-Te patrem dici, dedit et ministrum 
+Te sator rerum statuit pudicae
+Virginis sponsum, voluitque Verbi
+Te patrem dici, dedit et ministrum
 Esse salutis.
 _
-Tu Redemptorem stabulo jacentem, 
-Quem chorus vatum cecinit futurum, 
-Aspicis gaudens, humilisque natum 
+Tu Redemptorem stabulo jacentem,
+Quem chorus vatum cecinit futurum,
+Aspicis gaudens, humilisque natum
 Numen adoras.
 _
-Rex Deus regum, Dominator orbis, 
-Cujus ad nutum tremit inferorum 
-Turba, cui pronus famulatur aether, 
+Rex Deus regum, Dominator orbis,
+Cujus ad nutum tremit inferorum
+Turba, cui pronus famulatur aether,
 Se tibi subdit.
 _
-Laus sit excelsae Triadi perennis, 
-Quae tibi praebens superos honores, 
-Det tuis nobis meritis beatae 
-Gaudia vitae. 
+Laus sit excelsae Triadi perennis,
+Quae tibi praebens superos honores,
+Det tuis nobis meritis beatae
+Gaudia vitae.
 Amen.
 
 [Versum 2]
@@ -299,19 +234,15 @@ V. Dedisti mihi protectionem salutis tuae, alleluia.
 R. Et dextera tua suscepit me, alleluia.
 
 [Ant 2]
-Joseph fili David * noli timere accipere Mariam conjugem tuam: quod enim in ea~
-natum est, de Spiritu sancto est, alleluia.
+Joseph fili David * noli timere accipere Mariam conjugem tuam: quod enim in ea natum est, de Spiritu Sancto est, alleluia.
 
 [Lectio Prima]
 !Gen 49:22
-Filius accrescens Joseph, filius accrescens, et decorus aspectu: filise~
-discurrerunt super murum.
+Filius accrescens Joseph, filius accrescens, et decorus aspectu: filise discurrerunt super murum.
 
 [Capitulum Tertia]
 !Gen 49:26
-v. Benedictiones patris tui confortatae sunt benedictionibus patrum ejus: donec~
-veniret desiderium collium aeternorum: fiant in capite Joseph, et in vertice~
-Nazaraei inter fratres suos.
+v. Benedictiones patris tui confortatae sunt benedictionibus patrum ejus: donec veniret desiderium collium aeternorum: fiant in capite Joseph, et in vertice Nazaraei inter fratres suos.
 $Deo gratias
 
 [Responsory Tertia]
@@ -327,8 +258,7 @@ R. Quoniam adjutor et protector factus es mihi, alleluia.
 
 [Capitulum Sexta]
 !Gen 49:25
-v. Deus patris tui erit adjutor tuus, et Omnipotens benedicet tibi~
-benedictionibus caeli desuper.
+v. Deus patris tui erit adjutor tuus, et Omnipotens benedicet tibi benedictionibus caeli desuper.
 $Deo gratias
 
 [Responsory Sexta]
@@ -344,8 +274,7 @@ R. Et florebit in aternum ante Dominum, alleluia.
 
 [Capitulum Nona]
 !Gen 49:22
-v. Filius accrescens Joseph, filius accrescens, et decorus aspectu: filise~
-discurrerunt super murum.
+v. Filius accrescens Joseph, filius accrescens, et decorus aspectu: filise discurrerunt super murum.
 $Deo gratias
 
 [Responsory Nona]
@@ -364,5 +293,4 @@ V. Sub umbra illius, quem desideraveram, sedi, alleluia.
 R. Et fructus ejus dulcis gutturi meo, alleluia.
 
 [Ant 3]
-Fili * quid fecisti nobis sic? Ecce pater tuus et ego dolentes quaerebamus te,~
-alleluia
+Fili * quid fecisti nobis sic? Ecce pater tuus et ego dolentes quaerebamus te, alleluia

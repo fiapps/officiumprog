@@ -24,7 +24,7 @@ $Deo gratias
 [Hymnus Vespera]
 v. Christe, sanctorum decus angelorum,
 Gentis humanae Sator et Redemptor,
-Coelitum nobis tribuas beatas
+Caelitum nobis tribuas beatas
 Scandere sedes.
 _
 Angelus nostrae medicus salutis,
@@ -35,7 +35,7 @@ _
 Virgo dux pacis, Genitrixque lucis,
 Et sacer nobis chorus angelorum
 Semper assistat, simul et micantis
-Regia coeli.
+Regia caeli.
 _
 Praestet hoc nobis Deitas beata
 Patris ac Nati pariterque sancti
@@ -71,7 +71,7 @@ Est hic Sara * Raguelis filia; qae tibi conjugio dabitur, et omnis substantia ei
 Septem viros habuit * quos demonium oppressit; timeo nec mihi simile contingat;;96
 Per tres dies * orationi cum uxore tua vacabis, ut in semine Abrahae benedictionem in filiis consequatis;;102
 V. Apprehendit Angelus Raphael demonium
-R. Et religavit illud in deserto superioris Egypti
+R. Et religavit illud in deserto superioris Aegypti
 
 [Lectio1]
 De libro Tobiae
@@ -83,11 +83,9 @@ De libro Tobiae
 
 [Responsory1]
 R. In illo tempore exauditae sunt preces amborum in conspectu gloriae summi Dei:
-* Et missus est Angelus Domini sanctus Raphael; ut curaret eos ambos, quorum uno~
-tempore sun orationes in conspectu Domini recitate
+* Et missus est Angelus Domini sanctus Raphael; ut curaret eos ambos, quorum uno tempore sun orationes in conspectu Domini recitate
 V. Tobias et Sara in tribulatione positi cum lacrimis orare coeperunt
-R. Et missus est Angelus Domini sanctus Raphael; ut curaret eos ambos, quorum~
-uno tempore sun orationes in conspectu Domini recitate
+R. Et missus est Angelus Domini sanctus Raphael; ut curaret eos ambos, quorum uno tempore sun orationes in conspectu Domini recitate
 
 [Lectio2]
 !Tob 12:5-13
@@ -102,8 +100,7 @@ uno tempore sun orationes in conspectu Domini recitate
 13 Et quia acceptus eras Deo, necesse fuit ut tentatio probaret te.
 
 [Responsory2]
-R. Egressus Tobias invenit juvenem splendidum stantem praecinctum, et quasi~
-paratum ad ambulandum ut salutavit eum et dixit
+R. Egressus Tobias invenit juvenem splendidum stantem praecinctum, et quasi paratum ad ambulandum ut salutavit eum et dixit
 * Unde te habemus bone juvenis?
 V. Et ignorans quod Domini Angelus esset salutavit eum et dixit
 R. Unde te habemus bone juvenis?
@@ -119,7 +116,6 @@ R. Unde te habemus bone juvenis?
 20 Tempus est ergo ut revertar ad eum qui me misit: vos autem benedicite Deum, et narrate omnia mirabilia ejus.
 21 Et cum haec dixisset, ab aspectu eorum ablatus est, et ultra eum videre non potuerunt.
 22 Tunc prostrati per horas tres in faciem, benedixerunt Deum: et exsurgentes narraverunt omnia mirabilia ejus.
-
 
 [Ant Laudes]
 Missus est * angelus Raphael ad Tobiam et Saram, ut curaret eos
@@ -170,7 +166,7 @@ $Deo gratias
 
 [Capitulum Nona]
 !Tob 12:20
-v. Tempus est ergo ut revertar ad eum qui me misit : vos autem benedicite Deum, et narrate omnia mirabilia ejus.
+v. Tempus est ergo ut revertar ad eum qui me misit: vos autem benedicite Deum, et narrate omnia mirabilia ejus.
 $Deo gratias
 
 [Ant 3]

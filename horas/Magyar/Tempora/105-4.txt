@@ -1,32 +1,28 @@
 [Lectio1]
 Olvasmány a Makkabeusok második könyvébõl
-!2 Mac  10:1-5
-1 A Makkabeus és emberei Isten segítségével elfoglalták a szentélyt és a várost. 
-2 Szétrombolták a pogányok oltárait, amelyeket a piacon emeltek, és a berkeket is. 
-3 Megtisztították a templomot, és az égõáldozatok bemutatására új oltárt építettek. Szikrát csiholtak a kõbõl és úgy gyújtottak tüzet. Kétévi szünet után újra mutattak be áldozatot, égettek tömjént és mécsest, és kitették a kenyeret is. 
-4 Amikor ezzel elkészültek, a földre borultak és könyörögtek az Úrhoz, ne engedje, hogy még egyszer ilyen nagy nyomorúság szakadjon rájuk, s ha újra vétkeznek, csak mértékkel büntesse õket, ne szolgáltassa ki õket többé az istenkáromló, barbár pogányoknak. 
-5 Ugyanazon a napon tisztították meg a templomot, amelyen a pogányok meggyalázták, vagyis ugyanúgy Kiszleu hónap huszonötödik napján. 
+!2 Mac  9:1-4
+1 Abban az idõben Antiochusz szégyenszemre kénytelen volt a Perzsiához tartozó részekrõl visszavonulni. 
+2 Behatolt ugyanis Perzepolisz városába, és megkísérelte, hogy kirabolja a templomot és elfoglalja a várost. Emiatt fellázadt a nép, és fegyvert fogott, s le is gyõzte. A vidék lakói menekülésre kényszerítették Antiochuszt, úgyhogy kénytelen volt szégyenletes módon visszavonulni. 
+3 Ekbatana felé tartva, az úton értesült Nikanor és Timóteus csapatainak vereségérõl. 
+4 Nagy haragra gerjedt, és a zsidókon akarta megbosszulni a gyalázatot, amit azok az emberek okoztak, akik menekülésre kényszerítették. Ezért megparancsolta kocsija hajtójának, hogy megállás nélkül hajtson, s (mielõbb) érjen célba, pedig már fenyegette Isten igazságos ítélete. Gõgjében azt mondta: "Jeruzsálemet a zsidók temetõjévé teszem, mihelyt odaérek." 
 
 [Responsory1]
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!2 Mac 10:24-27
-24 Timóteus, akit a zsidók korábban már megvertek, idegenekbõl hatalmas sereget gyûjtött, és Ázsiából tekintélyes számú lovasságot szedett össze. Azt tervezte, hogy fegyverrel elfoglalja Júdeát. 
-25 Közeledtekor Makkabeus hívei Istenhez imádkoztak, hamut szórtak a fejükre, csípõjükre meg vezeklõruhát öltöttek. 
-26 Leborultak az oltár elõtt és könyörögtek, legyen hozzájuk irgalmas, és legyen ellenségüknek ellensége és ellenfelüknek ellenfele, ahogyan a törvény hirdeti. 
-27 Az ima befejeztével fegyvert ragadtak és kivonultak, meglehetõsen messze a várostól. Az ellenség közelében megálltak. 
+!2 Mac 9:5-7
+5 De a mindent látó Úr, Izrael Istene megverte egy gyógyíthatatlan és láthatatlan betegséggel. Alig ejtette ki e szavakat, nyomban elviselhetetlen fájdalmat érzett a beleiben és szörnyû belsõ kínokat. 
+6 Ez igazság szerint történt így, hisz annyi keserves gyötrelmet okozott másoknak. 
+7 Mindazonáltal semmiképp nem akart szakítani gõgjével. Ellenkezõleg, a kevélység teljesen hatalmába kerítette, és haragjában tüzet okádott a zsidókra. Megparancsolta, hogy hajtsanak gyorsabban. De kiesett a robogó kocsiból, és oly szerencsétlenül esett, hogy testének minden tagja kificamodott. 
 
 [Responsory2]
 @Tempora/101-0:Responsory2
 
 [Lectio3]
-!2 Mac 10:28-32
-28 Amikor felvirradt a hajnal, mindkét oldalon megindították a támadást. Egyikük - a bátorságon kívül - Istenbe vetett bizalmát tekintette a szerencse és a gyõzelem zálogának. Másikuknak a szenvedélyük volt vezérük a harcban. 
-29 Már javában tombolt a küzdelem, amikor az ellenség elõtt megjelent az égbõl öt pompás lovas, aranyzablájú lovon, és a zsidók élére állt. 
-30 Ketten közrevették a Makkabeust, védték fegyverükkel, oltalmazták a sebek ellen. Az ellenségre nyilakat és villámokat szórtak, úgyhogy megvakultak, elteltek rémülettel és csatát vesztettek. 
-31 Húszezer-ötszáz katonát, s hatszáz lovast megöltek. 
-32 Maga Timóteus egy Gezer nevû erõdbe menekült. Ez alaposan megerõsített hely volt, s Chereász parancsnoksága alá tartozott. 
+!2 Mac 9:8-10
+8 Aki mérhetetlen gõgjében elõbb azt vélte, hogy parancsolhat a tenger hullámainak, s meg tudja mérni mércével a magas hegyeket, most ott feküdt a földön és óvatosan kellett vinni - az isteni hatalom nyilvánvaló bizonyítékaként. 
+9 Sõt, férgek nyüzsögtek az istentelen szemében, és még életében darabokban szakadt le róla a hús, szörnyû kínok közepette. Rothadása szagától az egész tábor undorodott. 
+10 A mellett az ember mellett, aki nem sokkal elõbb még a csillagokat akarta elérni, nem tudott senki megmaradni rettenetes szaga miatt. 
 
 [Responsory3]
 @Tempora/101-0:Responsory3

@@ -172,7 +172,7 @@ nec laudantem adulatio movet, nec laudatum tentet elatio.
 [Responsory6]
 R. Iste est qui ante Deum magnas virtutes operatus est, et omnis terra doctrina ejus repleta est:
 * Ipse intercedat pro peccatis omnium populorum. Alleluia
-V. Iste est qui contempsit vitam mundi, et pervenit ad coelestia regna.
+V. Iste est qui contempsit vitam mundi, et pervenit ad caelestia regna.
 R. Ipse intercedat pro peccatis omnium populorum.
 &Gloria
 R. Ipse intercedat pro peccatis omnium populorum. Alleluia
@@ -203,8 +203,8 @@ R. Et ad portas paradisi coronavit eum. Alleluia
 
 [Lectio8]
 Quis itaque iste homo est, qui peregre proficiscitur, nisi Redemptor noster, qui~
-in ea carne quam assumpserat, abiit in coelum? Carnis enim locus proprius terra~
-est; quae quasi ad peregrina ducitur, dum per Redemptorem nostrum in coelo~
+in ea carne quam assumpserat, abiit in caelum? Carnis enim locus proprius terra~
+est; quae quasi ad peregrina ducitur, dum per Redemptorem nostrum in caelo~
 collocatur. Sed homo iste peregre proficiscens, servis suis bona sua tradidit,~
 quia fidelibus suis spiritualia dona concessit. Et uni quidem quinque talenta,~
 alii duo, alii vero commisit unum. Quinque etenim sunt corporis sensus, videlicet: visus, auditus, gustus, odoratus, et tactus. Quinque ergo talentis, donum~

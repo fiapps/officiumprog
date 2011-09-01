@@ -29,6 +29,7 @@ $debug = '';
 our $Tk = 0;
 our $Hk = 0;
 our $Ck = 0;
+our $notes = 0;
 our $missa = 0;
 our $officium = 'officium.pl';
 our $version = 'Divino Afflatu';
@@ -81,7 +82,7 @@ getini('horas'); #files, colors
 $setupsave = strictparam('setup');
 $setupsave =~ s/\~24/\"/g;
 
-our ($lang1, $lang2, $expand, $column, $accented);
+our ($lang1, $lang2, $expand, $column, $accented, $local);
 our %translate; #translation of the skeleton label for 2nd language 
 
 #internal script, cookies
@@ -89,8 +90,19 @@ our %translate; #translation of the skeleton label for 2nd language
 if (!$setupsave) {%setup = %{setupstring("$datafolder/horas.setup")};}
 else {%setup = split(';;;', $setupsave);}
 
+opendir(DIR, $datafolder); 
+@a = readdir(DIR);
+close DIR;
+$languages = '';
+foreach $item (@a) {
+  if ($item !~ /\./ && (-d "$datafolder/$item") && $item =~ /^[A-Z]/ && $item !~ /help|ordo/i) 
+    {$languages .= "$item,"}
+}
+$languages =~ s/,$//; 
+$dialog{languages} = $languages; 
+
 if (!$setupsave && !getcookies('horasp', 'parameters')) {setcookies('horasp', 'parameters');}
-if (!$setupsave && !getcookies('horasgo', 'general')) {setcookies('horasgo', 'general');}
+if (!$setupsave && !getcookies('horasgo', 'general')) {setcookies('horasgo', 'general');} 
 
 our $command = strictparam('command');
 our $hora = $command; #Matutinum, Laudes, Prima, Tertia, Sexta, Nona, Vespera, Completorium
@@ -124,6 +136,7 @@ if ($testmode !~ /(Season|Saint|Common)/i) {$testmode = 'regular';}
 our $votive = strictparam('votive');
 $expandnum = strictparam('expandnum');
 
+$notes = strictparam('notes');
 $p = strictparam('priest');
 if ($p) {
   $priest = 1;
@@ -152,14 +165,16 @@ $p = strictparam('expand');
 if ($p) {$expand = $p; $flag = 1;}
 $p = strictparam('accented');
 if ($p) {$accented = $p; $flag = 1;}   
+$p = strictparam('local');
+if ($p) {$local = $p; $flag = 1;}   
 if ($flag) {
-  setsetup('general', $expand, $version, $lang2, $accented);
+  setsetup('general', $expand, $version, $lang2, $accented, $local);
   setcookies('horasgo', 'general');
 }
 if (!$expand) {$expand = 'psalms';}
 if (!$version) {$version = 'Divino Afflatu';}
 if (!$lang2) {$lang2 = 'English';}
-$only = ($lang1 =~ $lang2) ? 1 : 0;
+$only = ($lang1 =~ /^$lang2$/i) ? 1 : 0;
 
 setmdir($version);
 
@@ -197,6 +212,18 @@ if ($date1 eq gettoday() && $command =~ /pray/i && $completed < 8 &&
   setcookie1('completed', $completed);
 }
 for ($i = 1; $i <= $completed; $i++) {$hcolor[$i] = 'maroon';}
+
+my @local = splice(@local, @local);
+#if (opendir(DIR, "$datafolder/Latin/Tabulae")) {
+#  my @a = readdir(DIR);
+#  close DIR;
+#  foreach my $item (@a) {
+#    if ($item =~ /K([A-Z]+)/) {push (@local, $1);}
+#  }
+#  unshift(@local, 'none');
+#}
+
+
 
 #*** print pages (setup, hora=pray, mainpage)  
   #generate HTML
@@ -366,9 +393,11 @@ my $sel11 = ($testmode =~ /Seasonal/i) ? 'SELECTED' : '';
 PrintTag
 }
 
-$chl1 = ($lang2 =~ /Latin/i) ? 'SELECTED' : '';
-$chl2 = ($lang2 =~ /English/i) ? 'SELECTED' : '';
-$chl3 = ($lang2 =~ /Magyar/i) ? 'SELECTED' : '';
+@languages = split(',', $dialog{languages});
+
+@chl = splice(@chl, @chl);
+for ($i = 0; $i < @languages; $i++) {$chl[$i] = ($lang2 =~ /$languages[$i]/i) ? 'SELECTED' : '';}
+
 $sel1 = ''; #($date1 eq gettoday()) ? 'SELECTED' : '';
 $sel2 = ($votive =~ /C8/) ? 'SELECTED' : '';
 $sel3 = ($votive =~ /C9/) ? 'SELECTED' : '';
@@ -382,18 +411,35 @@ $addvotive = ($version !~ /monastic/i) ? "&nbsp;&nbsp;&nbsp;\n" .
   "<OPTION $sel4 VALUE=C12>Parvum B.M.V.\n" .
   "</SELECT>\n" : '';
 
+if (@local) {
+  my @lsel = splice(@lsel, @lsel);
+  for ($i = 0; $i < @local; $i++) {
+    $lsel[$i] = ($local[$i] =~ /$local/i) ? 'SELECTED' : '';
+  } 
+  my $sizelocal = (@local > 7) ? 7 : @local;
+  $addlocal = "&nbsp;&nbsp;&nbsp;\n<SELECT NAME=local SIZE=$sizelocal onclick='parchange()'>\n";
+  for ($i = 0; $i < @local; $i++) {
+    $addlocal .= "<OPTION $lsel[$i] VALUE=$local[$i]>$local[$i]\n";
+  }
+  $addlocal .= "</SELECT>\n";
+}
+
  my $vers = $version;
- $vers =~ s/ /_/g;                     
+ $vers =~ s/ /_/g; 
+ my $llen = @languages;                    
   print << "PrintTag";
 &nbsp;&nbsp;&nbsp;
 <A HREF=# onclick="callmissa();">Sancta Missa</A>
 &nbsp;&nbsp;&nbsp;
-<SELECT NAME=lang2 SIZE=3 onclick="parchange()">
-<OPTION $chl1 VALUE='Latin'>Latin
-<OPTION $chl2 VALUE=English>English
-<OPTION $chl3 VALUE=Magyar>Magyar
+<SELECT NAME=lang2 SIZE=$llen onclick="parchange()">
+PrintTag
+
+for ($i = 0; $i < @languages; $i++) {print "<OPTION $chl[$i] VALUE=$languages[$i]>$languages[$i]\n";}
+
+  print << "PrintTag";
 </SELECT>
-$addvotive<BR>
+$addvotive
+$addlocal<BR>
 <P ALIGN=CENTER><FONT SIZE=-1>
 <A HREF="Cofficium.pl">Compare</A>
 &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -445,6 +491,7 @@ PrintTag
 <INPUT TYPE=HIDDEN NAME=browsertime VALUE="$browsertime">
 <INPUT TYPE=HIDDEN NAME=accented VALUE="$accented">
 <INPUT TYPE=HIDDEN NAME=caller VALUE='0'>
+<INPUT TYPE=HIDDEN NAME='notes' VALUE="$notes">
 </FORM>
 </BODY></HTML>
 PrintTag

@@ -15,15 +15,14 @@ Speciosa * facta es et suavis in deliciis tuis, sancta Dei Genitrix;;147
 
 [Capitulum Vespera]
 !Sir 24:14
-v. Ab initio et ante saecula creata sum, et usque ad futurum saeculum non~
-desinam, et in habitatione sancta coram ipso ministravi.
+v. Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
 
 [Hymnus Vespera]
 {:H-Avemaris:}v. Ave maris stella,
 Dei Mater alma,
 Atque semper Virgo,
-Felix coeli porta.
+Felix caeli porta.
 _
 Sumens illud Ave
 Gabrielis ore,
@@ -61,9 +60,7 @@ V. Dignare me laudare te, Virgo sacrata.
 R. Da mihi virtutem contra hostes tuos.
 
 [Ant 1]
-Sancta Maria * succurre miseris, juva pusillanimes, refove flebiles, ora pro~
-populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes~
-tuum juvamen, quicumque celebrant tuam sanctam festivitatem.
+Sancta Maria * succurre miseris, juva pusillanimes, refove flebiles, ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam festivitatem.
 
 [Invit]
 Sancta Maria Dei Genitrix Virgo,* Intercede pro nobis.
@@ -76,7 +73,7 @@ Claustrum Mariae bajulat.
 _
 Cui luna, sol, et omnia
 Deserviunt per tempora,
-Perfusa coeli gratia,
+Perfusa caeli gratia,
 Gestant puellae viscera.
 _
 Beata Mater munere,
@@ -84,7 +81,7 @@ Cujus supernus artifex
 Mundum pugillo continens,
 Ventris sub arca clausus est.
 _
-Beata coeli nuntio,
+Beata caeli nuntio,
 Foecunda sancto Spiritu,
 Desideratus gentibus,
 Cujus per alvum fusus est.
@@ -122,12 +119,11 @@ De Parabolis Salomonis
 16 per me principes imperant, et potentes decernunt justitiam.
 17 Ego diligentes me diligo, et qui mane vigilant ad me, invenient me.
 
-
 [Responsory1]
 R. Sancta et immaculata virginitas, quibus te laudibus efferam nescio:
-* Quia quem coeli capere non poterant, tuo gremio contulisti.
+* Quia quem caeli capere non poterant, tuo gremio contulisti.
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem coeli capere non poterant, tuo gremio contulisti.
+R. Quia quem caeli capere non poterant, tuo gremio contulisti.
 
 [Lectio2]
 !Prov 8:18-25
@@ -140,10 +136,8 @@ R. Quia quem coeli capere non poterant, tuo gremio contulisti.
 24 Nondum erant abyssi, et ego jam concepta eram: necdum fontes aquarum eruperant,
 25 necdum montes gravi mole constiterant: ante colles ego parturiebar.
 
-
 [Responsory2]
-R. Congratulamini mihi omnes, qui diligitis Dominum, quia cum essem parvula,~
-placui Altissimo:
+R. Congratulamini mihi omnes, qui diligitis Dominum, quia cum essem parvula, placui Altissimo:
 * Et de meis visceribus genui Deum et hominem.
 V. Beatam me dicent omnes generationes, quia ancillam humilem respexit Deus.
 R. Et de meis visceribus genui Deum
@@ -170,30 +164,16 @@ R. Genuisti qui te fecit, et in aeternum permanes Virgo.
 [Lectio4]
 Sermo sancti Joannis Chrysostomi.
 !Apud Metaphrasten.
-Dei Filius non divitem, aut locupletem aliquam feminam sibi matrem elegit, sed~
-beatam Virginem illam, cujus anima virtutibus ornata erat. Cui enim beata Maria~
-supra omnem humanam naturam castitatem servaret, propterea Christum Dominum in~
-ventre concepit. Ad hanc igitur sanctissimam Virginem et Dei Matrem accurrentes,~
-ejus patrocinii utilitatem assequamur. Itaque quaecumque estis virgines, ad~
-Matrem Domini confugite. Illa enim pulcherrimam, pretiosissimam, et~
-incorruptibilem possessionem patrocinio suo vobis conservabit.
+Dei Filius non divitem, aut locupletem aliquam feminam sibi matrem elegit, sed beatam Virginem illam, cujus anima virtutibus ornata erat. Cui enim beata Maria supra omnem humanam naturam castitatem servaret, propterea Christum Dominum in ventre concepit. Ad hanc igitur sanctissimam Virginem et Dei Matrem accurrentes, ejus patrocinii utilitatem assequamur. Itaque quaecumque estis virgines, ad Matrem Domini confugite. Illa enim pulcherrimam, pretiosissimam, et incorruptibilem possessionem patrocinio suo vobis conservabit.
 
 [Responsory4]
-R. Sicut cedrus exaltata sum in Libano, et sicut cypressus in monte Sion: quasi~
-myrrha electa,
+R. Sicut cedrus exaltata sum in Libano, et sicut cypressus in monte Sion: quasi myrrha electa,
 * Dedi suavitatem odoris.
 V. Et sicut cinnamomum et balsamum aromatizans.
 R. Dedi suavitatem odoris.
 
 [Lectio5]
-Magnum revera miraculum, fratres dilectissimi, fuit beata semper Virgo Maria.~
-Quid namque illa majus aut illustrius ullo umquam tempore inventum est, seu~
-aliquando inveniri poterit? Haec elegit sola coelum ac terram amplitudine~
-superavit. Quidnam illa sanctius? Non Prophetae, non Apostoli, non Martyres, non~
-Patriarchae, non Angeli, non Throni, non Dominationes, non Seraphim, non~
-Cherubim: non denique aliud quid piam inter creatas res visibiles aut~
-invisibiles, majus aut excellentius inveniri potest. Eadem ancilla Dei est et~
-mater: eadem Virgo et Genitrix.
+Magnum revera miraculum, fratres dilectissimi, fuit beata semper Virgo Maria. Quid namque illa majus aut illustrius ullo umquam tempore inventum est, seu aliquando inveniri poterit? Haec elegit sola caelum ac terram amplitudine superavit. Quidnam illa sanctius? Non Prophetae, non Apostoli, non Martyres, non Patriarchae, non Angeli, non Throni, non Dominationes, non Seraphim, non Cherubim: non denique aliud quid piam inter creatas res visibiles aut invisibiles, majus aut excellentius inveniri potest. Eadem ancilla Dei est et mater: eadem Virgo et Genitrix.
 
 [Responsory5]
 R. Quae est ista quae processit sicut sol, et formosa tamquam Jerusalem
@@ -202,22 +182,11 @@ V. Et sicut dies verni circumdabant eam flores rosarum et lilia convallium.
 R. Viderunt eam filiae Sion, et beatam dixerunt, et reginae laudaverunt eam.
 
 [Lectio6]
-Haec elegit ejus mater est, qui a Patre ante omne principium genitus fuit, quem~
-Angeli et homines agnoscunt Dominum rerum omnium. Visne cognoscere quanto Virgo~
-haec elegit praestantior sit coelestibus Potentiis? Illae cum timere ac tremore~
-assistunt, faciem velantes suam: haec elegit humanum genus illi offert, quem~
-genuit. Per hanc et peccatorum veniam consequimur. Ave igitur mater, coelum,~
-puella, virgo. thronus, Ecclesiae nostrae decus, gloria et firmamentum, assidue~
-pro nobis precare Jesum Filium tuum, et Dominum nostrum: ut per te misericordiam~
-invenire in die judicii, et quae reposita sunt iis, qui diligunt Deum, bona~
-consequi possimus, gratia et benignitate Domini nostri Jesu Christi: cum quo~
-Patri simul et sancto Spiritui gloria, et honor, et imperium, nunc et semper in~
-saecula saeculorum. Amen.
+Haec elegit ejus mater est, qui a Patre ante omne principium genitus fuit, quem Angeli et homines agnoscunt Dominum rerum omnium. Visne cognoscere quanto Virgo haec elegit praestantior sit caelestibus Potentiis? Illae cum timere ac tremore assistunt, faciem velantes suam: haec elegit humanum genus illi offert, quem genuit. Per hanc et peccatorum veniam consequimur. Ave igitur mater, caelum, puella, virgo. thronus, Ecclesiae nostrae decus, gloria et firmamentum, assidue pro nobis precare Jesum Filium tuum, et Dominum nostrum: ut per te misericordiam invenire in die judicii, et quae reposita sunt iis, qui diligunt Deum, bona consequi possimus, gratia et benignitate Domini nostri Jesu Christi: cum quo Patri simul et sancto Spiritui gloria, et honor, et imperium, nunc et semper in saecula saeculorum. Amen.
 
 [Responsory6]
 R. Ornatam monilibus filiam Jerusalem Dominus concupivit:
-* Et videntes eam filiae Sion, beatissimam praedicaverunt, dicentes: * Unguentum~
-effusum nomen tuum.
+* Et videntes eam filiae Sion, beatissimam praedicaverunt, dicentes: * Unguentum effusum nomen tuum.
 V. Astitit regina a dextris tuis in vestitu deaurato, circumdata varietate.
 R. Et videntes eam filiae Sion, beatissimam praedicaverunt, dicentes:
 &Gloria
@@ -226,41 +195,20 @@ R. Unguentum effusum nomen tuum.
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
 !Luke 11:27-28
-In illo tempore: Loquente Jesu ad turbas, extollens vocem quaedam mulier de~
-turba dixit illi: Beatus venter, qui te portavit. Et reliqua.
+In illo tempore: Loquente Jesu ad turbas, extollens vocem quaedam mulier de turba dixit illi: Beatus venter, qui te portavit. Et reliqua.
 _
 Homilia venerabilis Bedae Presbyteri.
 !Lib 4. cap. 49. in Luc. 11.
-Magnae devotionis et fidei haec elegit mulier ostenditur, quae scribis et~
-pharisaeis Dominum tentantibus simul et blasphemantibus, tanta ejus~
-incarnationem prae omnibus sinceritate cognoscit, tanta fiducia confitetur, ut~
-et praesentium procerum calumniam, et futurorum confundat haereticorum~
-perfidiam. Nam sicut tunc Judaei, sancti Spiritus opera blasphemando verum~
-consubstantialemque Patri Dei Filium negabant: sic haeretici postea negando~
-Mariam semper Virginem, sancti Spiritus operante virtute, nascituro cum humanis~
-membris Unigenito Dei, carnis suae materiam ministrasse, verum~
-consubstantialemque matri Filium hominis fateri non debere dixerunt.
+Magnae devotionis et fidei haec elegit mulier ostenditur, quae scribis et pharisaeis Dominum tentantibus simul et blasphemantibus, tanta ejus incarnationem prae omnibus sinceritate cognoscit, tanta fiducia confitetur, ut et praesentium procerum calumniam, et futurorum confundat haereticorum perfidiam. Nam sicut tunc Judaei, sancti Spiritus opera blasphemando verum consubstantialemque Patri Dei Filium negabant: sic haeretici postea negando Mariam semper Virginem, sancti Spiritus operante virtute, nascituro cum humanis membris Unigenito Dei, carnis suae materiam ministrasse, verum consubstantialemque matri Filium hominis fateri non debere dixerunt.
 
 [Responsory7]
 R. Felix namque es, sacra Virgo Maria, et omni laude dignissima:
 * Quia ex te ortus est sol justitiae, Christus Deus noster.
-V. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu:~
-sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam festivitatem.
+V. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam festivitatem.
 R. Quia ex te ortus est sol justitiae, Christus Deus noster.
 
 [Lectio8]
-Sed si caro Verbi Dei secundum carnem nascentis a carne Virginis matris~
-pronuntiatur extranea, sine causa venter qui eam portasset, libera quae~
-lactassent, beatificantur. Dicit autem Apostolus: Quia misit Deus Filium suum~
-factum ex muliere, factura sub lege. Neque audiendi sunt, qui legendum putant:~
-Natum ex muliere, factum sub lege, sed, Factum ex muliere: quia conceptus ex~
-utero virginali, carnem non de nihilo, non aliunde, sed materna traxit ex carne:~
-alioquin nec vere Filius hominis diceretur, qui originem non haberet ex homine.~
-Et nos igitur his contra Eutychen dictis, extollamus vocem cura Ecclesia~
-catholica, cujus haec mulier typum gessit, extollamus et mentem de medio~
-turbarum, dicamusque Salvatori: Beatus venter qui te portavit, et libera quae~
-suxisti. Vere enim beata parens, quae, sicut quidam ait, Enixa est puerpera~
-Regem, qui coelum terramque tenet per saecula.
+Sed si caro Verbi Dei secundum carnem nascentis a carne Virginis matris pronuntiatur extranea, sine causa venter qui eam portasset, libera quae lactassent, beatificantur. Dicit autem Apostolus: Quia misit Deus Filium suum factum ex muliere, factura sub lege. Neque audiendi sunt, qui legendum putant: Natum ex muliere, factum sub lege, sed, Factum ex muliere: quia conceptus ex utero virginali, carnem non de nihilo, non aliunde, sed materna traxit ex carne: alioquin nec vere Filius hominis diceretur, qui originem non haberet ex homine. Et nos igitur his contra Eutychen dictis, extollamus vocem cura Ecclesia catholica, cujus haec mulier typum gessit, extollamus et mentem de medio turbarum, dicamusque Salvatori: Beatus venter qui te portavit, et libera quae suxisti. Vere enim beata parens, quae, sicut quidam ait, Enixa est puerpera Regem, qui caelum terramque tenet per saecula.
 
 [Responsory8]
 R. Beatam te dicent omnes generationes:
@@ -271,13 +219,7 @@ R. Quia fecit mihi Dominus magna qui potens est, et sanctum nomen ejus.
 R. Quia fecit mihi Dominus magna qui potens est, et sanctum nomen ejus.
 
 [Lectio9]
-Quinimmo beati qui audiunt verbum Dei, et custodiunt. Pulchre Salvator~
-attestationi mulieris annuit, non eam tantummodo quae Verbum Dei corporaliter~
-generare meruerat, sed et omnes qui idem Verbum spiritaliter auditu fidei~
-concipere, et boni operis custodia vel in suo, vel in proxima rura corde parere,~
-et quasi alere studuerint, asseverans esse beatos: quia et eadem Dei Genitrix,~
-et inde quidem beata, quia Verbi incarnandi ministra facta est temporalis; sed~
-inde multo beatior, quia eiusdem semper amandi custos, manebat aeterna.
+Quinimmo beati qui audiunt verbum Dei, et custodiunt. Pulchre Salvator attestationi mulieris annuit, non eam tantummodo quae Verbum Dei corporaliter generare meruerat, sed et omnes qui idem Verbum spiritaliter auditu fidei concipere, et boni operis custodia vel in suo, vel in proxima rura corde parere, et quasi alere studuerint, asseverans esse beatos: quia et eadem Dei Genitrix, et inde quidem beata, quia Verbi incarnandi ministra facta est temporalis; sed inde multo beatior, quia eiusdem semper amandi custos, manebat aeterna.
 &teDeum
 
 [Ant Laudes]
@@ -289,8 +231,7 @@ Speciosa * facta es et suavis in deliciis tuis, sancta Dei Genitrix.
 
 [Capitulum Laudes]
 !Sir 24:14
-v. Ab initio, et ante saecula creata sum, et usque ad futurum saeculum non~
-desinam, et in habitatione sancta coram ipso ministravi.
+v. Ab initio, et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
 
 [Hymnus Laudes]
@@ -302,7 +243,7 @@ _
 Quod Heva tristis abstulit,
 Tu reddis almo germine:
 Intrent ut astra flebiles,
-Coeli recludis cardines.
+Caeli recludis cardines.
 _
 Tu regis alti janua,
 Et aula lucis fulgida:
@@ -312,7 +253,7 @@ _
 Jesu, tibi sit gloria,
 Qui natus es de Virgine,
 Cum Patre, et almo Spiritu
-In sempiterna saecula. 
+In sempiterna saecula.
 Amen.
 
 [Versum 2]
@@ -320,24 +261,19 @@ V. Diffusa est gratia in labiis tuis.
 R. Propterea benedixit te Deus in aeternum.
 
 [Ant 2]
-Beata es Maria, * quae credidisti: perficientur in te, quae dicta sunt tibi a~
-Domino, alleluia.
+Beata es Maria, * quae credidisti: perficientur in te, quae dicta sunt tibi a Domino, alleluia.
 
 [Oratio]
-Concede nos famulos tuos, quaesumus Domine Deus, perpetua mentis et corporis~
-sanitate gaudere: et gloriosa beatae Mariae semper Virginis intercessione, a~
-praesenti liberari tristitia, et aeterna perfrui laetitia.
+Concede nos famulos tuos, quaesumus Domine Deus, perpetua mentis et corporis sanitate gaudere: et gloriosa beatae Mariae semper Virginis intercessione, a praesenti liberari tristitia, et aeterna perfrui laetitia.
 $Per Dominum
 
 [Lectio Prima]
 !Sir 24:19-20
-v. In plateis sicut cinnamomum, et balsamum aromatizans odorem dedi: quasi~
-myrrha electa dedi suavitatem odoris.
+v. In plateis sicut cinnamomum, et balsamum aromatizans odorem dedi: quasi myrrha electa dedi suavitatem odoris.
 
 [Capitulum Tertia]
 !Sir 24:14
-v. Ab initio, et ante saecula creata sum, et usque ad futurum saeculum non~
-desinam, et in habitatione sancta coram ipso ministravi.
+v. Ab initio, et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
 
 [Responsory Tertia]
@@ -353,9 +289,7 @@ R. Deus in medio ejus, non commovebitur.
 
 [Capitulum Sexta]
 !Sir 24:15-16
-v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi,~
-et in Jerusalem potestas mea. Et radicavi in populo honorificato, et in parte~
-Dei mei haereditas illius, et in plenitudine sanctorum detentio mea.
+v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea. Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 $Deo gratias.
 
 [Responsory Sexta]
@@ -371,8 +305,7 @@ R. In tabernaculo suo habitare facit eam.
 
 [Capitulum Nona]
 !Sir 24:19-20
-v. In plateis sicut cinnamomum, et balsamum aromatizans odorem dedi: quasi~
-myrrha electa dedi suavitatem odoris.
+v. In plateis sicut cinnamomum, et balsamum aromatizans odorem dedi: quasi myrrha electa dedi suavitatem odoris.
 $Deo gratias.
 
 [Responsory Nona]

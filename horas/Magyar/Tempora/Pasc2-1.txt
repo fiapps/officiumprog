@@ -34,10 +34,8 @@ Olvasmány az Apostolok Cselekedeibõl
 21 Mert Mózesnek õsi nemzedékek óta hirdetõi vannak a városokban, akik minden szombaton felolvassák a zsinagógákban." 
 
 [Responsory2]
-R. The milk comes from the mouth of the prudent, alleluia:the sweetness of the~
-milk is under their lips, alleluia: 
-* Their lips are like a honeycomb dropping,~
-alleluia, alleluia
+R. The milk comes from the mouth of the prudent, alleluia:the sweetness of the milk is under their lips, alleluia: 
+* Their lips are like a honeycomb dropping, alleluia, alleluia
 V. Wisdom resteth in his heart, and prudentia at the words of his mouth
 R. Their lips are like a honeycomb dropping, alleluia, alleluia
 &Gloria
@@ -61,4 +59,4 @@ R. Their lips are like a honeycomb dropping, alleluia, alleluia.
 Go * into the whole world, alleluia: and teach all the nations, alleluia.
 
 [Ant 3]
-The good shepherd * gives his life to his sheep, alleluia.~
+The good shepherd * gives his life to his sheep, alleluia. 

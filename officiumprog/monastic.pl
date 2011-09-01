@@ -35,7 +35,7 @@ sub psalmi_matutinum_monastic {
   my @psalmi = split("\n", $psalmi{"Daym$dw"});
   setbuild("Psalterium/Psalmi matutinum monastic", "dayM$dw", 'Psalmi ord');
   $comment = 1;
-  my $prefix = 'Antiphonas';
+  my $prefix = ($lang =~ /English/i) ? 'Antiphons' : 'Antiphonae';
            
 
   #** special Adv - Pasc antiphons for Sundays
@@ -68,7 +68,7 @@ sub psalmi_matutinum_monastic {
     my @a = split("\n",$psalmi{"$name $i Versum"});
     $psalmi[6] = $a[0];
     $psalmi[7] = $a[1];
-    setbuild2("Subst Matutitunun Versum $name $dayofweek");
+    setbuild2("Subst Matutitunun Versus $name $dayofweek");
    }
 
   #** Feria VI psalm change if winner has proper antiphons
@@ -236,7 +236,7 @@ sub antetpsalm_mm {
 #*** monstic_lectio3($w, $lang)
 # return the legend if appropriate
 sub monastic_lectio3 {
-  my $w = shift;
+  my $w = shift;  
   my $lang = shift;
   if ($winner !~ /Sancti/i || exists($winner{Lectio3}) || $rank >= 4 ||
     $rule =~ /(9|12) lectio/i) {return $w;}

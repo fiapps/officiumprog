@@ -5,18 +5,16 @@ Feria II infra Hebdomadam I Adventus;;Feria major;;2
 Oratio Dominica
 
 [Lectio1]
-Olvasmány Iziás próféta könyvébõl
+Olvasmány Izaiás próféta könyvébõl
 !Isa 1:16-18
 16 Mosdjatok meg, s tisztuljatok meg. El gonosz tetteitekkel színem elõl, ne tegyetek többé rosszat! 
 17 Tanuljatok meg jót tenni: keressétek az igazságot, segítsétek az elnyomottakat, szolgáltassatok igazságot az árvának, s védelmezzétek az özvegyet. 
 18 Aztán gyertek, s szálljatok velem perbe!" - mondja az Úr. "Ha olyanok volnának is bûneitek, mint a skarlát, fehérek lesznek, mint a hó; és ha olyan vörösek is, mint a bíbor, olyanok lesznek, mint a gyapjú. 
 
 [Responsory1]
-R. Receive, O Virgin Mary, receive the word of the Lord, which is sent thee by~
-His Angel thou shalt conceive, and shalt bring forth God and Man together.
+R. Receive, O Virgin Mary, receive the word of the Lord, which is sent thee by His Angel thou shalt conceive, and shalt bring forth God and Man together.
 * And thou shalt be called blessed among all women.
-V. Thou shalt bring forth a son, and remain a maiden undefiled thou shalt~
-conceive and be a Mother, still Virgin unspotted.
+V. Thou shalt bring forth a son, and remain a maiden undefiled thou shalt conceive and be a Mother, still Virgin unspotted.
 R. And thou shalt be called blessed among all women.
 
 [Lectio2]
@@ -28,8 +26,7 @@ R. And thou shalt be called blessed among all women.
 23 Fejedelmeid lázadókká lettek, tolvajok társaivá. Mindnyájan csak a hasznot lesik, és megvesztegetõ ajándékra vadásznak. Nem szolgáltatnak igazságot az árvának, s az özvegyek ügyével mit sem törõdnek. 
 
 [Responsory2]
-R. Sing, O heavens; and be joyful, O earth; and break forth into singing, O~
-mountains, for our Lord will come
+R. Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains, for our Lord will come
 * And will have mercy on His afflicted.
 V. In His days shall righteousness flourish and abundance of peace.
 R. And will have mercy upon His afflicted.
@@ -44,17 +41,14 @@ R. And will have mercy upon His afflicted.
 
 [Responsory3]
 R. There shall no strangers pass through Jerusalem any more
-* For in that day the mountains shall drop down sweet wine, and the hills shall~
-flow with milk and honey, saith the Lord.
-V. God shall come from Lebanon, and the Holy One from the thick and shady~
-mountain.
-R. For in that day the mountains shall drop down sweet wine, and the hills shall~
-flow with milk and honey, saith the Lord.
+* For in that day the mountains shall drop down sweet wine, and the hills shall flow with milk and honey, saith the Lord.
+V. God shall come from Lebanon, and the Holy One from the thick and shady mountain.
+R. For in that day the mountains shall drop down sweet wine, and the hills shall flow with milk and honey, saith the Lord.
+&Gloria
+R. For in that day the mountains shall drop down sweet wine, and the hills shall flow with milk and honey, saith the Lord.
 
 [Ant 2]
-The angel of the Lord * announced unto Mary, and she conceived of the Holy~
-Ghost. Alleluia.
+The angel of the Lord * announced unto Mary, and she conceived of the Holy Ghost. Alleluia.
 
 [Ant 3]
-Lift up thine eyes, * O Jerusalem, and see that thy King is mighty behold, thy~
-Saviour shall come and loose thee from thy chain.
+Lift up thine eyes, * O Jerusalem, and see that thy King is mighty behold, thy Saviour shall come and loose thee from thy chain.

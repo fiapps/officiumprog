@@ -7,29 +7,23 @@ De libro secundo Maccabeorum
 4 Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent: sed et, siquando peccassent, ut ab ipso mitius corriperentur, et non barbaris ac blasphemis hominibus traderentur.
 5 Qua die autem templum ab alienigenis pollutum fuerat, contigit eadem die purificationem fieri, vigesima quinta mensis qui fuit Casleu.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!2 Mac 10:24-27
-24 At Timotheus, qui prius a Judaeis fuerat superatus, convocato exercitu peregrinae multitudinis, et congregato equitatu Asiano, advenit quasi armis Judaeam capturus.
-25 Machabaeus autem et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis praecincti,
-26 ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit.
-27 Et ita post orationem, sumptis armis, longius de civitate procedentes, et proximi hostibus effecti, resederunt.
-
+!2 Mac 9:5-7
+5 Sed qui universa conspicit Dominus Deus Israël, percussit eum insanabili et invisibili plaga. Ut enim finivit hunc ipsum sermonem, apprehendit eum dolor dirus viscerum, et amara internorum tormenta:
+6 et quidem satis juste, quippe qui multis et novis cruciatibus aliorum torserat viscera, licet ille nullo modo a sua malitia cessaret.
+7 Super hoc autem superbia repletus, ignem spirans animo in Judaeos, et praecipiens accelerari negotium, contigit illum impetu euntem de curru cadere, et gravi corporis collisione membra vexari.
 
 [Responsory2]
 @Tempora/101-0:Responsory2
 
 [Lectio3]
-!2 Mac 10:28-32
-28 Primo autem solis ortu utrique commiserunt: isti quidem victoriae et prosperitatis sponsorem cum virtute Dominum habentes: illi autem ducem belli animum habebant.
-29 Sed cum vehemens pugna esset, apparuerunt adversariis de caelo viri quinque in equis, frenis aureis decori, ducatum Judaeis praestantes:
-30 ex quibus duo Machabaeum medium habentes, armis suis circumseptum incolumem conservabant: in adversarios autem tela et fulmina jaciebant, ex quo et caecitate confusi et repleti perturbatione, cadebant.
-31 Interfecti sunt autem viginti millia quingenti, et equites sexcenti.
-32 Timotheus vero confugit in Gazaram praesidium munitum, cui praeerat Chaereas.
-
+!2 Mac 9:8-10
+8 Isque qui sibi videbatur etiam fluctibus maris imperare, supra humanum modum superbia repletus, et montium altitudines in statera appendere, nunc humiliatus ad terram in gestatorio portabatur, manifestam Dei virtutem in semetipso contestans:
+9 ita ut de corpore impii vermes scaturirent, ac viventis in doloribus carnes ejus effluerent, odore etiam illius et foetore exercitus gravaretur:
+10 et qui paulo ante sidera caeli contingere se arbitrabatur, eum nemo poterat propter intolerantiam foetoris portare.
 
 [Responsory3]
 @Tempora/101-0:Responsory3

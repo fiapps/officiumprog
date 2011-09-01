@@ -7,7 +7,6 @@ De libro Job
 15 Non dabitur aurum obrizum pro ea, nec appendetur argentum in commutatione ejus.
 16 Non conferetur tinctis Indiae coloribus, nec lapidi sardonycho pretiosissimo vel sapphiro.
 
-
 [Responsory1]
 @Tempora/091-0:Responsory4
 
@@ -20,7 +19,6 @@ De libro Job
 21 Abscondita est ab oculis omnium viventium: volucres quoque caeli latet.
 22 Perditio et mors dixerunt: Auribus nostris audivimus famam ejus.
 
-
 [Responsory2]
 @Tempora/091-0:Responsory5 =
 
@@ -32,7 +30,6 @@ De libro Job
 26 Quando ponebat pluviis legem, et viam procellis sonantibus:
 27 tunc vidit illam et enarravit, et praeparavit, et investigavit.
 28 Et dixit homini: Ecce timor Domini, ipsa est sapientia; et recedere a malo, intelligentia.
-
 
 [Responsory3]
 @Tempora/091-0:Responsory6

@@ -11,7 +11,6 @@ De Isaia Propheta
 2 In die illa, erit germen Domini in magnificentia et gloria, et fructus terrae sublimis, et exsultatio his qui salvati fuerint de Israël.
 3 Et erit: omnis qui relictus fuerit in Sion, et residuus in Jerusalem, Sanctus vocabitur, omnis qui scriptus est in vita in Jerusalem.
 
-
 [Responsory1]
 @Tempora/Adv1-1:Responsory1
 
@@ -22,7 +21,6 @@ De Isaia Propheta
 3 Nunc ergo, habitatores Jerusalem et viri Juda, judicate inter me et vineam meam.
 4 Quid est quod debui ultra facere vineae meae, et non feci ei? an quod exspectavi ut faceret uvas, et fecit labruscas?
 
-
 [Responsory2]
 @Tempora/Adv1-0:Responsory2
 
@@ -32,7 +30,6 @@ De Isaia Propheta
 6 Et ponam eam desertam; non putabitur et non fodietur: et ascendent vepres et spinae, et nubibus mandabo ne pluant super eam imbrem.
 7 Vinea enim Domini exercituum domus Israël est; et vir Juda germen ejus delectabile: et exspectavi ut faceret judicium, et ecce iniquitas; et justitiam, et ecce clamor.
 
-
 [Responsory3]
 @Tempora/Adv1-0:Responsory3
 
@@ -40,5 +37,4 @@ De Isaia Propheta
 Benedicta * tu in mulieribus, et benedictus fructus ventris tui.
 
 [Ant 3]
-Expectabo * Dominum Salvatorem meum, et praestolabor eum dum prope est,~
-alleluia.
+Expectabo * Dominum Salvatorem meum, et praestolabor eum dum prope est, alleluia.

@@ -26,28 +26,21 @@ V. Diffusa est gratia in labiis tuis.
 R. Propterea benedixit te Deus in seternum.
 
 [Ant 1]
-The Holy Ghost shall come upon thee, O Mary, * fear not; thou shalt bear in thy~
-womb the Son of God. Alleluia.
+The Holy Ghost shall come upon thee, O Mary, * fear not; thou shalt bear in thy womb the Son of God. Alleluia.
 
 [Oratio]
-Grant, we beseech thee, O Lord God, unto all thy servants, that they may remain~
-continually in the enjoyment of soundness both of mind and body, and by the~
-glorious intercession of the Blessed Mary, always a Virgin, may be delivered~
-from present sadness, and enter into the joy of thine eternal gladness. Through our Lord Jesus Christ
+Grant, we beseech thee, O Lord God, unto all thy servants, that they may remain continually in the enjoyment of soundness both of mind and body, and by the glorious intercession of the Blessed Mary, always a Virgin, may be delivered from present sadness, and enter into the joy of thine eternal gladness. Through our Lord Jesus Christ
 $Qui tecum
 
 [Special Completorium]
 $Ave Maria
-$Converte
 $Deus in adjutorium
 _
-Ant. Have mercy * on me O Lord, and hear my prayer.
 &psalm(128)
 _
 &psalm(129)
 _
 &psalm(130)
-Ant. Have mercy * on me O Lord, and hear my prayer.
 _
 !Hymnus.
 v. Remember, O creator Lord,
@@ -107,66 +100,42 @@ R. He hath made her to dwell in His tabernacle.
 
 [Lectio1]
 !Luke 1:26-28
-26 And in the sixth month, the angel Gabriel was sent from God into a city of~
-Galilee, called Nazareth,
-27 To a virgin espoused to a man whose name was Joseph, of the house of David;~
-and the virgin's name was Mary.
-28 And the angel being come in, said unto her: Hail, full of grace, the Lord is~
-with thee: blessed art thou among women.
+26 And in the sixth month, the angel Gabriel was sent from God into a city of Galilee, called Nazareth,
+27 To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary.
+28 And the angel being come in, said unto her: Hail, full of grace, the Lord is with thee: blessed art thou among women.
 
 [Responsory1]
-R. The angel Gabriel was sent to Mary, a Virgin espoused to Joseph, to bring~
-unto her the word of the Lord and when the Virgin saw the light she was afraid.~
-Fear not, Mary, for thou hast found grace from the Lord.
-* Behold, thou shalt conceive and bring forth a son, and He shall be called the~
-Son of the Highest.
-V. The Lord God shall give unto Him the throne of His father David, and He shall~
-reign over the house of Jacob for ever.
-R. Behold, thou shalt conceive and bring forth a son, and He shall be called the~
-Son of the Highest.
+R. The angel Gabriel was sent to Mary, a Virgin espoused to Joseph, to bring unto her the word of the Lord and when the Virgin saw the light she was afraid. Fear not, Mary, for thou hast found grace from the Lord.
+* Behold, thou shalt conceive and bring forth a son, and He shall be called the Son of the Highest.
+V. The Lord God shall give unto Him the throne of His father David, and He shall reign over the house of Jacob for ever.
+R. Behold, thou shalt conceive and bring forth a son, and He shall be called the Son of the Highest.
 
 [Lectio2]
 !Luke 1:29-33
-29 Who having heard, was troubled at his saying, and thought with herself what~
-manner of salutation this should be.
-30 And the angel said to her: Fear not, Mary, for thou hast found grace with~
-God.
-31 Behold thou shalt conceive in thy womb, and shalt bring forth a son; and thou~
-shalt call his name Jesus.
-32 He shall be great, and shall be called the Son of the most High; and the Lord~
-God shall give unto him the throne of David his father; and he shall reign in~
-the house of Jacob for ever.
+29 Who having heard, was troubled at his saying, and thought with herself what manner of salutation this should be.
+30 And the angel said to her: Fear not, Mary, for thou hast found grace with God.
+31 Behold thou shalt conceive in thy womb, and shalt bring forth a son; and thou shalt call his name Jesus.
+32 He shall be great, and shall be called the Son of the most High; and the Lord God shall give unto him the throne of David his father; and he shall reign in the house of Jacob for ever.
 33 And of his kingdom there shall be no end.
 
 [Responsory2]
 R. Hail Mary, full of grace, the Lord is with thee
-* The Holy Ghost shall come uppon thee, and the power of the highest shall~
-overshadow thee, therefore also the Holy Thing which shall be born of thee shall~
-be called the Son of God
-V. How shall this be, seeing I know not men? And the Angel answered and said~
-unto her
-R. The Holy Ghost shall come uppon thee, and the power of the highest shall~
-overshadow thee, therefore also the Holy Thing which shall be born of thee shall~
-be called the Son of God
+* The Holy Ghost shall come uppon thee, and the power of the highest shall overshadow thee, therefore also the Holy Thing which shall be born of thee shall be called the Son of God
+V. How shall this be, seeing I know not men? And the Angel answered and said unto her
+R. The Holy Ghost shall come uppon thee, and the power of the highest shall overshadow thee, therefore also the Holy Thing which shall be born of thee shall be called the Son of God
 
 [Lectio3]
 !Luke 1:34-38
 34 And Mary said to the angel: How shall this be done, because I know not man?
-35 And the angel answering, said to her: The Holy Ghost shall come upon thee,~
-and the power of the most High shall overshadow thee. And therefore also the~
-Holy which shall be born of thee shall be called the Son of God.
-36 And behold thy cousin Elizabeth, she also hath conceived a son in her old age;~
-and this is the sixth month with her that is called barren:
+35 And the angel answering, said to her: The Holy Ghost shall come upon thee, and the power of the most High shall overshadow thee. And therefore also the Holy which shall be born of thee shall be called the Son of God.
+36 And behold thy cousin Elizabeth, she also hath conceived a son in her old age; and this is the sixth month with her that is called barren:
 37 Because no word shall be impossible with God.
-38 And Mary said: Behold the handmaid of the Lord; be it done to me according to~
-thy word. And the angel departed from her.
+38 And Mary said: Behold the handmaid of the Lord; be it done to me according to thy word. And the angel departed from her.
 
 [Responsory3]
-R. Receive, O Virgin Mary, receive the word of the Lord, which is sent thee by~
-His Angel thou shalt conceive, and shalt bring forth God and Man together.
+R. Receive, O Virgin Mary, receive the word of the Lord, which is sent thee by His Angel thou shalt conceive, and shalt bring forth God and Man together.
 * And thou shalt be called blessed among all women.
-V. Thou shalt bring forth a son, and remain a maiden undefiled thou shalt~
-conceive and be a Mother, still Virgin unspotted.
+V. Thou shalt bring forth a son, and remain a maiden undefiled thou shalt conceive and be a Mother, still Virgin unspotted.
 R. And thou shalt be called blessed among all women.
 &Gloria
 R. And thou shalt be called blessed among all women. (Alleluia.)
@@ -180,10 +149,7 @@ Behold the handmaid of the Lord * be it unto me according to thy word.
 
 [Capitulum Laudes]
 !Isa 11:1-2
-v. And there shall come forth a rod out of the root of Jesse, and a flower shall~
-rise up out of his root. And the spirit of the Lord shall rest upon him: the~
-spirit of wisdom, and of understanding, the spirit of counsel, and of fortitude,~
-the spirit of knowledge, and of godliness.
+v. And there shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root. And the spirit of the Lord shall rest upon him: the spirit of wisdom, and of understanding, the spirit of counsel, and of fortitude, the spirit of knowledge, and of godliness.
 $Deo gratias.
 
 [Hymnus Laudes]
@@ -194,8 +160,7 @@ V. Blessed art thou among women.
 R. And blessed is the Fruit of thy womb.
 
 [Ant 2]
-The Holy Ghost shall come upon thee, O Mary, * fear not; thou shalt bear in thy~
-womb the Son of God. Alleluia.
+The Holy Ghost shall come upon thee, O Mary, * fear not; thou shalt bear in thy womb the Son of God. Alleluia.
 
 [Special Prima]
 $Ave Maria

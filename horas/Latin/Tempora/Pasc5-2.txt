@@ -1,5 +1,6 @@
 [Rank]
 Feria Tertia in Rogationibus;;Feria;;1
+
 [Rank1960]
 Feria Tertia infra Hebdomadam V post Octavam Paschae;;Feria;;1
 
@@ -19,13 +20,13 @@ De Epistola prima beati Petri Apostoli.
 4 In quo admirantur non concurrentibus vobis in eamdem luxuriae confusionem, blasphemantes.
 5 Qui reddent rationem ei qui paratus est judicare vivos et mortuos.
 6 Propter hoc enim et mortuis evangelizatum est: ut judicentur quidem secundum homines in carne, vivant autem secundum Deum in spiritu.
-7 Omnium autem finis appropinquavit. 
+7 Omnium autem finis appropinquavit.
 
 [Responsory1]
 R. In ecclesiis benedicite Deo, alleluia,
-* Domino de fontibus Israel, alleluia, alleluia.
+* Domino de fontibus Israël, alleluia, alleluia.
 V. Psalmum dicite nomini ejus, date gloriam laudi ejus.
-R. Domino de fontibus Israel, alleluia, alleluia.
+R. Domino de fontibus Israël, alleluia, alleluia.
 
 [Lectio2]
 !1 Pet 4:7-11
@@ -34,7 +35,6 @@ R. Domino de fontibus Israel, alleluia, alleluia.
 9 Hospitales invicem sine murmuratione.
 10 Unusquisque, sicut accepit gratiam, in alterutrum illam administrantes, sicut boni dispensatores multiformis gratiae Dei.
 11 Si quis loquitur, quasi sermones Dei: si quis ministrat, tamquam ex virtute, quam administrat Deus: ut in omnibus honorificetur Deus per Jesum Christum: cui est gloria et imperium in saecula saeculorum. Amen.
-
 
 [Responsory2]
 R. In toto corde meo, alleluia, exquisivi te, alleluia:
@@ -65,10 +65,8 @@ R. A Domino, alleluia, alleluia.
 Oportebat * pati Christum, et resurgere a mortuis, alleluia.
 
 [Oratio 2]
-Deus, a quo bona cuncta procedunt, largire supplicibus tuis: ut cogitemus te~
-inspirante, quae recta sunt; recte gubernante, eadem faciamus.
+Deus, a quo bona cuncta procedunt, largire supplicibus tuis: ut cogitemus te inspirante, quae recta sunt; recte gubernante, eadem faciamus.
 $Per Dominum
 
 [Ant 3]
-Exivi a Patre, * et veni in mundum: iterum relinquo mundum, et vado ad Patrem,~
-alleluia.
+Exivi a Patre, * et veni in mundum: iterum relinquo mundum, et vado ad Patrem, alleluia.

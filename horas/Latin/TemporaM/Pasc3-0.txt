@@ -156,7 +156,7 @@ miracula, quia Deus est. Majora quidem miracula sunt, tot quotidie homines nasci
 qui non erant, quam paucos resurrexisse, qui erant: et tamen ista miracula non~
 consideratione comprehensa sunt, sed assiduitate viluerunt. Resurrexit Christus:~
 absoluta est res. Corpus erat, caro erat: pependit in cruce, emisit animam,~
-posita est caro in sepulchro. Exhibuit illam vivam, qui vivebat in illa. Quare~
+posita est caro in sepulcro. Exhibuit illam vivam, qui vivebat in illa. Quare~
 miramur? quare non credimus? Deus est, qui fecit.
 
 [Responsory6]
@@ -185,11 +185,11 @@ aspectibus recessurus: sed quod esset iturus ad Patrem, quod fecit posteaquam~
 resurrexit, et, cum eis per quadraginta dies conversatus, ascendit in caelum.
 
 [Responsory7]
-R. Decantabat populus Israel, alleluia: et universa multitudo Jacob canebat~
+R. Decantabat populus Israël, alleluia: et universa multitudo Jacob canebat~
 legitime:
 * Et David cum cantoribus citharam percutiebat in domo Domini, et laudes Deo~
 canebat, alleluia, alleluia.
-V. Sanctificati sunt ergo sacerdotes et levitae: et universus Israel deducebat~
+V. Sanctificati sunt ergo sacerdotes et levitae: et universus Israël deducebat~
 arcam foederis Domini in jubilo.
 R. Et David cum cantoribus citharam percutiebat in domo Domini, et laudes Deo~
 canebat, alleluia, alleluia.
@@ -238,16 +238,16 @@ v. Carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus~
 desideriis quae militant adversus animam
 $Deo gratias
 _
-R.br. Surrexit Dominus de sepulchro * Alleluia, alleluia
-R. Surrexit Dominus de sepulchro: Alleluia, alleluia
+R.br. Surrexit Dominus de sepulcro * Alleluia, alleluia
+R. Surrexit Dominus de sepulcro: Alleluia, alleluia
 V. Qui pro nobis pependit in ligno
 R. Alleluia, alleluia
 &Gloria
-R. Surrexit Dominus de sepulchro: Alleluia, alleluia
+R. Surrexit Dominus de sepulcro: Alleluia, alleluia
 
 [Versum 2]
 V. In resurrectione tua Christe, alleluia.
-R. Coeli et terra laetentur, alleluia.
+R. Caeli et terra laetentur, alleluia.
 
 [Ant 2]
 Modicum * et non videbitis me, dicit Dominus: iterum modicum, et videbitis' me,~

@@ -29,6 +29,7 @@ $debug = '';
 our $Tk = 0;
 our $Hk = 0;
 our $Ck = 1;
+our $notes = 0;
 our $missa = 0;
 our @ctext1 = splice(@ctext1, @ctext1);
 our @ctext2 = splice(@ctext2, @ctext2);

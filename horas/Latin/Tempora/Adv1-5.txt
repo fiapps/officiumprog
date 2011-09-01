@@ -11,7 +11,6 @@ De Isaia Propheta
 2 Seraphim stabant super illud: sex alae uni, et sex alae alteri; duabus velabant faciem ejus, et duabus velabant pedes ejus, et duabus volabant.
 3 Et clamabant alter ad alterum, et dicebant: Sanctus, sanctus, sanctus Dominus, Deus exercituum; plena est omnis terra gloria ejus.
 
-
 [Responsory1]
 @Tempora/Adv1-0:Responsory4
 
@@ -22,7 +21,6 @@ De Isaia Propheta
 6 Et volavit ad me unus de seraphim, et in manu ejus calculus, quem forcipe tulerat de altari,
 7 et tetigit os meum, et dixit: Ecce tetigit hoc labia tua, et auferetur iniquitas tua, et peccatum tuum mundabitur.
 
-
 [Responsory2]
 @Tempora/Adv1-0:Responsory5
 
@@ -31,7 +29,6 @@ De Isaia Propheta
 8 Et audivi vocem Domini dicentis: Quem mittam? et quis ibit nobis? Et dixi: Ecce ego, mitte me.
 9 Et dixit: Vade, et dices populo huic: Audite audientes, et nolite intelligere; et videte visionem, et nolite cognoscere.
 10 Excaeca cor populi hujus, et aures ejus aggrava, et oculos ejus claude: ne forte videat oculis suis, et auribus suis audiat, et corde suo intelligat, et convertatur, et sanem eum.
-
 
 [Responsory3]
 @Tempora/Adv1-0:Responsory6

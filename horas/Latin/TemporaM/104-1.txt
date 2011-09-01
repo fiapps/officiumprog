@@ -11,7 +11,7 @@ De libro secundo Maccabeorum
 
 [Lectio2]
 !2 Mac 2:4-6
-4 Erat autem in ipsa scriptura, quomodo tabernaculum et arcam jussit propheta divino responso ad se facto comitari secum, usquequo exiit in montem in quo Moyses ascendit, et vidit Dei haereditatem.
+4 Erat autem in ipsa scriptura, quomodo tabernaculum et arcam jussit propheta divino responso ad se facto comitari secum, usquequo exiit in montem in quo Moyses ascendit, et vidit Dei hereditatem.
 5 Et veniens ibi Jeremias, invenit locum speluncae: et tabernaculum, et arcam, et altare incensi intulit illuc, et ostium obstruxit.
 6 Et accesserunt quidam simul, qui sequebantur, ut notarent sibi locum: et non potuerunt invenire.
 

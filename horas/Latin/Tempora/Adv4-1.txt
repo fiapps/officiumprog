@@ -11,7 +11,6 @@ De Isaia Propheta
 9 in quo apprehendi te ab extremis terrae, et a longinquis ejus vocavi te, et dixi tibi: Servus meus es tu: elegi te, et non abjeci te.
 10 Ne timeas, quia ego tecum sum; ne declines, quia ego Deus tuus: confortavi te, et auxiliatus sum tibi, et suscepit te dextera Justi mei.
 
-
 [Responsory1]
 @Tempora/Adv4-0:Responsory1
 
@@ -20,7 +19,6 @@ De Isaia Propheta
 11 Ecce confundentur et erubescent omnes qui pugnant adversum te; erunt quasi non sint, et peribunt viri qui contradicunt tibi.
 12 Quaeres eos, et non invenies, viros rebelles tuos; erunt quasi non sint, et veluti consumptio homines bellantes adversum te.
 13 Quia ego Dominus Deus tuus, apprehendens manum tuam, dicensque tibi: Ne timeas: ego adjuvi te.
-
 
 [Responsory2]
 @Tempora/Adv4-0:Responsory2
@@ -31,10 +29,8 @@ De Isaia Propheta
 15 Ego posui te quasi plaustrum triturans novum, habens rostra serrantia; triturabis montes, et comminues, et colles quasi pulverem pones.
 16 Ventilabis eos, et ventus tollet, et turbo disperget eos; et tu exsultabis in Domino, in Sancto Israël laetaberis.
 
-
 [Responsory3]
 @Tempora/Adv4-0:Responsory3
 
 [Ant 2]
-Dicit Dominus: * Poenitentiam agite: appropinquavit enim regnum coelorum,~
-alleluia.
+Dicit Dominus: * Poenitentiam agite: appropinquavit enim regnum caelorum, alleluia.

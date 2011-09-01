@@ -7,7 +7,7 @@ proprium
 Psalmi Dominica
 Antiphonas horas
 Psalm5 Vespera=116
-Psalm5 Vespera 3=147
+Psalm5 Vespera3=147
 
 [Ant Vespera]
 Who is this that * cometh from Edom, with dyed garments from Bozrah? this, that is glorious in His apparel?
@@ -18,13 +18,10 @@ I have trodden the wine - press alone, and of the people there was none with Me.
 
 [Capitulum Vespera]
 !Heb 9:11-12
-v. Krisztus azonban a ránk váró javak fõpapjaként jött el, s belépett abba a~
-nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem~
-ebbõl a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével~
-lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
+v. Krisztus azonban a ránk váró javak fõpapjaként jött el, s belépett abba a nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem ebbõl a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
 $Deo gratias
 
-Hymnus Vespera]
+[Hymnus Vespera]
 v. With glad and joyous strains now let each street resound,
 And let the laurel wreath each Christian brow entwine;
 With torches waving bright, let old and young go forth,
@@ -66,17 +63,10 @@ V. Being justified by the Blood of Christ
 R. We shall be saved from wrath through Him.
 
 [Ant 1]
-Ye are come * unto Mount Sion and unto the city of the living God, the heavenly~
-Jerusalem, and to Jesus the Mediator of the New Covenant, and to the Blood of~
-sprinkling That speaketh better things than that of Abel
+Ye are come * unto Mount Sion and unto the city of the living God, the heavenly Jerusalem, and to Jesus the Mediator of the New Covenant, and to the Blood of sprinkling That speaketh better things than that of Abel
 
 [Oratio]
-Almighty and Everlasting God, Who hast appointed thine Only -begotten Son to be~
-the Redeemer of the world, and hast been pleased to be reconciled unto us by His~
-Blood,grant us, we beseech thee, so to use this solemn worship of the price of~
-our salvation, that the Power thereof may here on earth keep us from all things~
-that may hurt us, and the purchase of the same may gladden us for ever hereafter~
-in Heaven. 
+Almighty and Everlasting God, Who hast appointed thine Only -begotten Son to be the Redeemer of the world, and hast been pleased to be reconciled unto us by His Blood,grant us, we beseech thee, so to use this solemn worship of the price of our salvation, that the Power thereof may here on earth keep us from all things that may hurt us, and the purchase of the same may gladden us for ever hereafter in Heaven. 
 $Per eumdem
 
 [Invit]
@@ -149,23 +139,14 @@ R. And washed us from our sins in His Own Blood.
 [Lectio1]
 Olvasmány szent Pál apostol Zsidókhoz irott levelébõl
 !Heb 9:11-15
-11 Krisztus azonban a ránk váró javak fõpapjaként jött el, s belépett abba a~
-nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem~
-ebbõl a világból való.
-12 Nem a bakok vagy borjak vérével, hanem saját vérével lépett be egyszer s~
-mindenkorra a szentélybe, és örök megváltást szerzett.
-13 Ha ugyanis a bakok és bikák vére meg az üszõ hamva a tisztátalanokra hintve~
-külsõleg tisztává teszi õket,
-14 mennyivel inkább megtisztítja lelkiismeretünket a holt cselekedetektõl~
-Krisztus vére, aki az örök Lélek által saját magát adta tiszta áldozatul az~
-Istennek, hogy az élõ Istennek szolgáljunk.
-15 Ezért õ új szövetség közvetítõje. Elõbb azonban a régi szövetség korában~
-elkövetett bûnök megváltásáért el kellett szenvednie a halált, hogy a~
-meghívottak elnyerjék az örökké tartó örökséget.
+11 Krisztus azonban a ránk váró javak fõpapjaként jött el, s belépett abba a nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem ebbõl a világból való.
+12 Nem a bakok vagy borjak vérével, hanem saját vérével lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
+13 Ha ugyanis a bakok és bikák vére meg az üszõ hamva a tisztátalanokra hintve külsõleg tisztává teszi õket,
+14 mennyivel inkább megtisztítja lelkiismeretünket a holt cselekedetektõl Krisztus vére, aki az örök Lélek által saját magát adta tiszta áldozatul az Istennek, hogy az élõ Istennek szolgáljunk.
+15 Ezért õ új szövetség közvetítõje. Elõbb azonban a régi szövetség korában elkövetett bûnök megváltásáért el kellett szenvednie a halált, hogy a meghívottak elnyerjék az örökké tartó örökséget.
 
 [Responsory1]
-R. Jesus also, that He might sanctify the people with His own Blood, suffered~
-without the gate.
+R. Jesus also, that He might sanctify the people with His own Blood, suffered without the gate.
 * Let us go forth therefore unto Him without the camp, bearing His reproach.
 V. Ye have not yet resisted unto blood, striving against sin.
 R. Let us go forth therefore unto Him without the gate, bearing His reproach.
@@ -173,44 +154,32 @@ R. Let us go forth therefore unto Him without the gate, bearing His reproach.
 [Lectio2]
 !Heb 9:16-22
 16 Ahol ugyanis van végrendelet, elõbb bizonyítani kell a végrendelkezõ halálát,
-17 hiszen a végrendelet csak halál esetén jogerõs; addig, amíg a végrendelkezõ~
-él, nem érvényes.
+17 hiszen a végrendelet csak halál esetén jogerõs; addig, amíg a végrendelkezõ él, nem érvényes.
 18 Ezért az elsõ szövetséget sem kötötték vér nélkül.
-19 Miután ugyanis Mózes - a törvény elõírása szerint - minden rendelkezést~
-felolvasott az egész nép elõtt, vette a bakok és borjak vérét a vízzel, majd~
-vörös gyapjúval és izsóppal meghintette magát a könyvet és az egész népet,
-20 e szavakkal: "Ez annak a szövetségnek a vére, amelyet az Isten veletek~
-kötött."
+19 Miután ugyanis Mózes - a törvény elõírása szerint - minden rendelkezést felolvasott az egész nép elõtt, vette a bakok és borjak vérét a vízzel, majd vörös gyapjúval és izsóppal meghintette magát a könyvet és az egész népet,
+20 e szavakkal: "Ez annak a szövetségnek a vére, amelyet az Isten veletek kötött."
 21 Azután meghintette vérrel a sátort és az összes istentiszteleti edényt is.
-22 Sõt a törvény szerint majdnem mindent vérrel tisztítanak meg, és vérontás~
-nélkül nincs bûnbocsánat.
+22 Sõt a törvény szerint majdnem mindent vérrel tisztítanak meg, és vérontás nélkül nincs bûnbocsánat.
 
 [Responsory2]
 R. Moses took the blood, and sprinkled all the people
 * Saying This is the blood of the Testament which God hath enjoined unto you.
-V. Through faith he kept the Passover, and the sprinkling of blood, lest he that~
-destroyed the first-born should touch them.
+V. Through faith he kept the Passover, and the sprinkling of blood, lest he that destroyed the first-born should touch them.
 R. Saying This is the blood of the Testament which God hath enjoined unto you.
 
 [Lectio3]
 !Heb 10:19-24
-19 Testvérek, Krisztus véréért megvan tehát a reményünk, hogy beléphetünk a~
-szentélybe.
-20 Ezt az élethez vezetõ új utat a függönyön, vagyis saját testén keresztül~
-nyitotta meg nekünk.
+19 Testvérek, Krisztus véréért megvan tehát a reményünk, hogy beléphetünk a szentélybe.
+20 Ezt az élethez vezetõ új utat a függönyön, vagyis saját testén keresztül nyitotta meg nekünk.
 21 Fõpapunk is van, akit az Isten a népe fölé rendelt.
-22 Járuljunk hát hozzá igaz szívvel, hitbõl fakadó bizalommal, hiszen a szívünk~
-megtisztult a rossz lelkiismerettõl, és testünket is tiszta víz mosta le.
-23 Tartsunk ki rendíthetetlenül reménységünk megvallásában, mert hûséges az, aki~
-az ígéretet tette.
+22 Járuljunk hát hozzá igaz szívvel, hitbõl fakadó bizalommal, hiszen a szívünk megtisztult a rossz lelkiismerettõl, és testünket is tiszta víz mosta le.
+23 Tartsunk ki rendíthetetlenül reménységünk megvallásában, mert hûséges az, aki az ígéretet tette.
 24 Legyen gondunk rá, hogy szeretetre és jótettekre buzdítsuk egymást.
 
 [Responsory3]
 R. Ye, who sometimes were far off, are made nigh by the Blood of Christ.
 * For He is our Peace, Who hath made both one.
-V. It pleased [the Father that in Him should all fulness dwell, and,] having~
-made peace through the Blood of His Cross, by Him to reconcile all things unto~
-Himself, [by Him, I say,] whether they be things in earth or things in heaven.
+V. It pleased [the Father that in Him should all fulness dwell, and,] having made peace through the Blood of His Cross, by Him to reconcile all things unto Himself, [by Him, I say,] whether they be things in earth or things in heaven.
 R. For He is our Peace, Who hath made both one.
 &Gloria
 R. For He is our Peace, Who hath made both one.
@@ -220,58 +189,17 @@ Sermo sancti Joannis Chrysostomi.
 !Homilia 84. in Joannem, cap. 19.
 From the Sermons of St John Chrysostom, Archbishop of Constantinople.
 !Homilia 84. in Joannem, cap. 19.
-Wouldest thou hear the power of the Blood of Christ? Then let us look at the~
-figure thereof, let us call to mind the old type, and tell the story written in~
-the antient Scriptures. The Egyptians would not let God take away Israel His~
-firstborn, And Moses said Thus saith the Lord About midnight will I go out~
-into the midst of Egypt, and all the first-born in the land of Egypt shall die,~
-from the first-born of Pharaoh that sitteth upon his throne unto the first-born~
-of the maid-servant that is behind the mill, and all the first-born of beasts.~
-And there shall be a great cry throughout all the land of Egypt, such as there~
-was none like it, nor shall be like it any more. But against any of the children~
-of Israel shall not a dog move his tongue, against man or beast that ye may~
-know how that the Lord hath put a difference between the Egyptians and Israel.~
-(Ex. xi. 4-7.) Then Moses called for all the elders of Israel, and said unto~
-them Draw out and take you a lamb according to your families and kill the~
-Passover. And ye shall take a bunch of hyssop and dip it in the blood that is in~
-the basin, and strike the lintel and the two side-posts with the blood.. and~
-when He seeth the blood upon the lintel and on the two side-posts, the Lord will~
-pass over the door, and will not suffer the destroyer to come in unto your~
-houses to smite you. (xii. 21-23.) And could the blood of a sheep save a man~
-Yea, in good sooth not because it was blood, but because it represented in a~
-figure the Blood of the Lord.
+Wouldest thou hear the power of the Blood of Christ? Then let us look at the figure thereof, let us call to mind the old type, and tell the story written in the antient Scriptures. The Egyptians would not let God take away Israel His firstborn, And Moses said Thus saith the Lord About midnight will I go out into the midst of Egypt, and all the first-born in the land of Egypt shall die, from the first-born of Pharaoh that sitteth upon his throne unto the first-born of the maid-servant that is behind the mill, and all the first-born of beasts. And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more. But against any of the children of Israel shall not a dog move his tongue, against man or beast that ye may know how that the Lord hath put a difference between the Egyptians and Israel. (Ex. xi. 4-7.) Then Moses called for all the elders of Israel, and said unto them Draw out and take you a lamb according to your families and kill the~
+Passover. And ye shall take a bunch of hyssop and dip it in the blood that is in the basin, and strike the lintel and the two side-posts with the blood.. and when He seeth the blood upon the lintel and on the two side-posts, the Lord will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you. (xii. 21-23.) And could the blood of a sheep save a man Yea, in good sooth not because it was blood, but because it represented in a figure the Blood of the Lord.
 
 [Responsory4]
 R. Pass the time of your sojourning here in fear forasmuch as
 * Ye know that ye were not redeemed with corruptible things, as silver and gold
 V. But with the Precious Blood of Christ, as of a lamb without spot.
-R. Ye know that ye were not redeemed with corruptible things, as silver and~
-gold.
+R. Ye know that ye were not redeemed with corruptible things, as silver and gold.
 
 [Lectio5]
-The statues of monarchs, mindless and speechless images though they be, have~
-sometimes been an helpful refuge to men endowed with soul and reason, not~
-because they are works of the brazier's skill, but because the likeness they~
-bear is a King's. And just so did this unconscious blood deliver the lives of~
-men, not because it was blood, but because it foreshadowed the shedding of the~
-Blood of Jesus. On that night in Egypt, when the destroying Angel saw the blood~
-upon the lintel and on the two side-posts, he passed over the door, and came not~
-in unto the house. Even so now much more will the destroyer of souls flee away~
-when he seeth, not the lintel and the two side-posts sprinkled with the blood of a~
-lamb, but the mouth of the faithful Christian, the living dwelling of the Holy~
-Ghost, shining with the blood of the True Messiah. If the Angel let the type be,~
-how shall not the enemy quail before the Reality Wouldest thou hear more of~
-the power of that Blood I am willing. Consider from what source it welleth,~
-from what fountain it springeth. Its fountain is the Heart of the Lord, pierced~
-for us upon the Cross. Then came the soldiers, and brake the legs of the first,~
-and of the other which was crucified with Him but when they came to Jesus, and~
-saw that He was dead already, they brake not His Legs, but one of the soldiers~
-with a spear pierced His Side, and forthwith came thereout Blood and Water,~
-(John xix, 32-34,) whereof One is a figure of Baptism, and the other of the~
-Sacrament (of the Altar.) One of the soldiers with a spear pierced His Side the veil of the Temple of His~
-Body was rent in twain. (John ii. 19-21, Matth. xxvii. 51.) O how glorious is~
-the treasure that is laid open to me therein How noble the riches that it is~
-my joy there to have found!
+The statues of monarchs, mindless and speechless images though they be, have sometimes been an helpful refuge to men endowed with soul and reason, not because they are works of the brazier's skill, but because the likeness they bear is a King's. And just so did this unconscious blood deliver the lives of men, not because it was blood, but because it foreshadowed the shedding of the Blood of Jesus. On that night in Egypt, when the destroying Angel saw the blood upon the lintel and on the two side-posts, he passed over the door, and came not in unto the house. Even so now much more will the destroyer of souls flee away when he seeth, not the lintel and the two side-posts sprinkled with the blood of a lamb, but the mouth of the faithful Christian, the living dwelling of the Holy Ghost, shining with the blood of the True Messiah. If the Angel let the type be, how shall not the enemy quail before the Reality Wouldest thou hear more of the power of that Blood I am willing. Consider from what source it welleth, from what fountain it springeth. Its fountain is the Heart of the Lord, pierced for us upon the Cross. Then came the soldiers, and brake the legs of the first, and of the other which was crucified with Him but when they came to Jesus, and saw that He was dead already, they brake not His Legs, but one of the soldiers with a spear pierced His Side, and forthwith came thereout Blood and Water, (John xix, 32-34,) whereof One is a figure of Baptism, and the other of the Sacrament (of the Altar.) One of the soldiers with a spear pierced His Side the veil of the Temple of His Body was rent in twain. (John ii. 19-21, Matth. xxvii. 51.) O how glorious is the treasure that is laid open to me therein How noble the riches that it is my joy there to have found!
 
 [Responsory5]
 R. Ye are bought with a great price, therefore
@@ -285,8 +213,7 @@ And so was it done concerning that Lamb : the Jews killed a sheep, and I have le
 [Responsory6]
 R. God commendeth His love toward us
 * In that, while we were yet sinners, in due time Christ died for us.
-V. Much more then being now justified by His Blood, we shall be saved from wrath~
-through Him.
+V. Much more then being now justified by His Blood, we shall be saved from wrath through Him.
 R. In that, while we were yet sinners, in due time Christ died for us.
 &Gloria
 R. In that, while we were yet sinners, in due time Christ died for us.
@@ -294,68 +221,32 @@ R. In that, while we were yet sinners, in due time Christ died for us.
 [Lectio7]
 Evangélium szent János Apostol kõnyvébõl
 !John 19:30-35
-Azon idõben amint Jézus megízlelte az ecetet, így szólt: "Beteljesedett!" Aztán~
-lehajtotta fejét és kilehelte lelkét. És így tovább.
+Azon idõben amint Jézus megízlelte az ecetet, így szólt: "Beteljesedett!" Aztán lehajtotta fejét és kilehelte lelkét. És így tovább.
 _
 Homily by St Austin, Bishop of Hippo.
 !120th Tract on John.
  One of the soldiers with a spear pierced His Side, and forthwith came thereout~
-Blood and Water. The Evangelist speaketh carefully. He saith not that he smote~
-the Side, nor yet that he wounded It, nor yet anything else, but pierced pierced~
-It, to fling wide the entrance unto life, whence flow the Sacraments of the~
-Church, those Sacraments without which there is no entrance unto the life which~
-is life indeed. That Blood which was shed there was shed for the remission of~
-sins, that Water is the water that mantleth in the cup of salvation. Therein are~
-we washed, and thereof do we drink. Of this was it a type when it was said unto~
-Noah The door of the ark shalt thou set in the side thereof.. and of every~
-living thing of all flesh shalt thou bring into the ark.. to keep them alive.~
-(Gen. vi. 16, 19.) A figure this of the Church. Thus was it that the first woman~
-was made from the side of her husband while he slept, and she was called (Eve,~
-which is, being interpreted,) Life, because she was the mother of all living.~
-(Gen. iii. 20.) This name set forth a great good, before it became associated~
-with the bitter fruit of a great evil. And here we have the Second Adam bowing~
-His Head, and the deep sleep of death falling upon Him upon the Cross, and He~
-sleepeth, that the Lord God may take a thing out of His side, and may make~
-thereof a wife for Him. O what a death was His, which quickeneth the dead What~
-is cleaner than His Blood What more health-giving than His wounding
+Blood and Water. The Evangelist speaketh carefully. He saith not that he smote the Side, nor yet that he wounded It, nor yet anything else, but pierced pierced It, to fling wide the entrance unto life, whence flow the Sacraments of the Church, those Sacraments without which there is no entrance unto the life which is life indeed. That Blood which was shed there was shed for the remission of sins, that Water is the water that mantleth in the cup of salvation. Therein are we washed, and thereof do we drink. Of this was it a type when it was said unto Noah The door of the ark shalt thou set in the side thereof.. and of every living thing of all flesh shalt thou bring into the ark.. to keep them alive. (Gen. vi. 16, 19.) A figure this of the Church. Thus was it that the first woman was made from the side of her husband while he slept, and she was called (Eve, which is, being interpreted,) Life, because she was the mother of all living. (Gen. iii. 20.) This name set forth a great good, before it became associated with the bitter fruit of a great evil. And here we have the Second Adam bowing His Head, and the deep sleep of death falling upon Him upon the Cross, and He sleepeth, that the Lord God may take a thing out of His side, and may make thereof a wife for Him. O what a death was His, which quickeneth the dead What is cleaner than His Blood What more health-giving than His wounding
 
 [Responsory7]
 R. This is He That came by Water and Blood, even Jesus Christ
 * Not by Water only, but by Water and Blood.
-V. In that day there shall be a fountain opened to the house of David and to the~
-inhabitants of Jerusalem, for sin and for uncleanness.
+V. In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem, for sin and for uncleanness.
 R. Not by Water only, but by Water and Blood.
 
 [Lectio8]
-Then were being held bondsmen to the devil, slaves to evil spirits. But they~
-have been redeemed from that bondage. They had been able to sell themselves, but~
-they were not able to redeem themselves. A Redeemer came and paid the price for~
-them. He shed His Blood, and at that cost bought the world. Ye ask what He~
-bought Look what He paid, and ye shall see what He bought. Christ's Blood was~
-the price. What is His Blood worth? What, but the whole world What but all men~
-They are very unthankful for His redemption, or very proud, who say that It is~
-only precious enough to buy the Africans, or that they themselves are so~
-precious that It was shed only for them. Let there be an end to such conceit, an~
-end to such vainglory. What He paid, He paid for all.
+Then were being held bondsmen to the devil, slaves to evil spirits. But they have been redeemed from that bondage. They had been able to sell themselves, but they were not able to redeem themselves. A Redeemer came and paid the price for them. He shed His Blood, and at that cost bought the world. Ye ask what He bought Look what He paid, and ye shall see what He bought. Christ's Blood was the price. What is His Blood worth? What, but the whole world What but all men They are very unthankful for His redemption, or very proud, who say that It is only precious enough to buy the Africans, or that they themselves are so precious that It was shed only for them. Let there be an end to such conceit, an end to such vainglory. What He paid, He paid for all.
 
 [Responsory8]
 R. God hath predestinated us unto the adoption of children by Jesus Christ
 * In Whom we have redemption through His Blood.
-V. The forgiveness of sins, according to the riches of His grace, wherein He~
-hath abounded toward us.
+V. The forgiveness of sins, according to the riches of His grace, wherein He hath abounded toward us.
 R. In Whom we have redemption through His Blood.
 &Gloria
 R. In Whom we have redemption through His Blood.
 
 [Lectio9]
-Habuit ille sanguinem, unde nos redimeret; et ad hoc accepit sanguinem, ut esset~
-quem pro nobis redimendis effunderet. Sanguis Domini tui, si vis, datus est pro~
-te. Forte enim dicis: Habuit sanguinem Deus meus, quo me redimeret, sed jam, cum~
-passus est, totum dedit; quid illi remansit, quod det et pro me? Hos est magnum,~
-quia semel dedit, et pro omnibus dedit. Sanguis Christi volenti est salus,~
-nolenti supplicium. Quid ergo dubitas, qui mori non vis, a secunda potius morte~
-liberari? Quia liberaris, si vis tollere crucem tuam, et sequi Dominum; qui ille~
-tulit suam et quaesivit servum
+Habuit ille sanguinem, unde nos redimeret; et ad hoc accepit sanguinem, ut esset quem pro nobis redimendis effunderet. Sanguis Domini tui, si vis, datus est pro te. Forte enim dicis: Habuit sanguinem Deus meus, quo me redimeret, sed jam, cum passus est, totum dedit; quid illi remansit, quod det et pro me? Hos est magnum, quia semel dedit, et pro omnibus dedit. Sanguis Christi volenti est salus, nolenti supplicium. Quid ergo dubitas, qui mori non vis, a secunda potius morte liberari? Quia liberaris, si vis tollere crucem tuam, et sequi Dominum; qui ille tulit suam et quaesivit servum
 &teDeum
 
 [Ant Laudes]
@@ -367,10 +258,7 @@ Blessed are they * that wash their robes in the Blood of the Lamb.
 
 [Capitulum Laudes]
 !Heb 9:11-12
-v. Krisztus azonban a ránk váró javak fõpapjaként jött el, s belépett abba a~
-nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem~
-ebbõl a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével~
-lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
+v. Krisztus azonban a ránk váró javak fõpapjaként jött el, s belépett abba a nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem ebbõl a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
 $Deo gratias
 
 [Hymnus Laudes]
@@ -425,8 +313,7 @@ V. Being justified by the Blood of Christ
 R. We shall be saved from wrath through Him.
 
 [Ant 2]
-The blood shall be * to you for a token, saith the Lord, and when I see the~
-Blood I will pass over you, and the plague shall not be upon you to destroy you.
+The blood shall be * to you for a token, saith the Lord, and when I see the Blood I will pass over you, and the plague shall not be upon you to destroy you.
 
 [Commemoratio 2]
 @Sancti/06-24:Octava
@@ -436,17 +323,11 @@ Thou, who redeemed us with your blood
 
 [Lectio Prima]
 !Heb 9:19-20
-v. Miután ugyanis Mózes - a törvény elõírása szerint - minden rendelkezést~
-felolvasott az egész nép elõtt, vette a bakok és borjak vérét a vízzel, majd~
-vörös gyapjúval és izsóppal meghintette magát a könyvet és az egész népet, e~
-szavakkal: "Ez annak a szövetségnek a vére, amelyet az Isten veletek kötött."
+v. Miután ugyanis Mózes - a törvény elõírása szerint - minden rendelkezést felolvasott az egész nép elõtt, vette a bakok és borjak vérét a vízzel, majd vörös gyapjúval és izsóppal meghintette magát a könyvet és az egész népet, e szavakkal: "Ez annak a szövetségnek a vére, amelyet az Isten veletek kötött."
 
 [Capitulum Tertia]
 !Heb 9:11-12
-v. Krisztus azonban a ránk váró javak fõpapjaként jött el, s belépett abba a~
-nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem~
-ebbõl a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével~
-lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
+v. Krisztus azonban a ránk váró javak fõpapjaként jött el, s belépett abba a nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem ebbõl a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
 $Deo gratias
 
 [Responsory Tertia]
@@ -462,10 +343,7 @@ R. Cleanseth us from all sin.
 
 [Capitulum Sexta]
 !Heb 9:13-14
-v. Ha ugyanis a bakok és bikák vére meg az üszõ hamva a tisztátalanokra hintve~
-külsõleg tisztává teszi õket, mennyivel inkább megtisztítja lelkiismeretünket a~
-holt cselekedetektõl Krisztus vére, aki az örök Lélek által saját magát adta~
-tiszta áldozatul az Istennek, hogy az élõ Istennek szolgáljunk.
+v. Ha ugyanis a bakok és bikák vére meg az üszõ hamva a tisztátalanokra hintve külsõleg tisztává teszi õket, mennyivel inkább megtisztítja lelkiismeretünket a holt cselekedetektõl Krisztus vére, aki az örök Lélek által saját magát adta tiszta áldozatul az Istennek, hogy az élõ Istennek szolgáljunk.
 $Deo gratias
 
 [Responsory Sexta]
@@ -481,10 +359,7 @@ R. And washed us from our sins in His Own Blood.
 
 [Capitulum Nona]
 !Heb 9:19-20
-v. Miután ugyanis Mózes - a törvény elõírása szerint - minden rendelkezést~
-felolvasott az egész nép elõtt, vette a bakok és borjak vérét a vízzel, majd~
-vörös gyapjúval és izsóppal meghintette magát a könyvet és az egész népet, e~
-szavakkal: "Ez annak a szövetségnek a vére, amelyet az Isten veletek kötött."
+v. Miután ugyanis Mózes - a törvény elõírása szerint - minden rendelkezést felolvasott az egész nép elõtt, vette a bakok és borjak vérét a vízzel, majd vörös gyapjúval és izsóppal meghintette magát a könyvet és az egész népet, e szavakkal: "Ez annak a szövetségnek a vére, amelyet az Isten veletek kötött."
 $Deo gratias
 
 [Responsory Nona]
@@ -503,7 +378,5 @@ V. We therefore pray thee, help thy servants
 R. Whom thou hast redeemed with thy precious blood.
 
 [Ant 3]
-This day shall be * unto you for a memorial, and ye shall keep it a Feast to the~
-Lord throughout your generations ye shall keep it a Feast by an ordinance for~
-ever.
+This day shall be * unto you for a memorial, and ye shall keep it a Feast to the Lord throughout your generations ye shall keep it a Feast by an ordinance for ever.
 

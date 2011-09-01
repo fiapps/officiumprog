@@ -11,7 +11,6 @@ De epistola ad Hebreos
 2 Etenim et nobis nuntiatum est, quemadmodum et illis: sed non profuit illis sermo auditus, non admistus fidei ex iis quae audierunt.
 3 Ingrediemur enim in requiem, qui credidimus: quemadmodum dixit: Sicut juravi in ira mea: Si introibunt in requiem meam: et quidem operibus ab institutione mundi perfectis.
 
-
 [Responsory1]
 @Tempora/Epi2-2:Responsory1
 
@@ -21,7 +20,6 @@ De epistola ad Hebreos
 5 Et in isto rursum: Si introibunt in requiem meam.
 6 Quoniam ergo superest introire quosdam in illam, et ii, quibus prioribus annuntiatum est, non introierunt propter incredulitatem:
 7 iterum terminat diem quemdam, Hodie, in David dicendo, post tantum temporis, sicut supra dictum est: Hodie si vocem ejus audieritis, nolite obdurare corda vestra.
-
 
 [Responsory2]
 @Tempora/Epi2-1:Responsory2
@@ -33,7 +31,6 @@ De epistola ad Hebreos
 10 Qui enim ingressus est in requiem ejus, etiam ipse requievit ab operibus suis, sicut a suis Deus.
 11 Festinemus ergo ingredi in illam requiem: ut ne in idipsum quis incidat incredulitatis exemplum.
 12 Vivus est enim sermo Dei, et efficax et penetrabilior omni gladio ancipiti: et pertingens usque ad divisionem animae ac spiritus: compagum quoque ac medullarum, et discretor cogitationum et intentionum cordis.
-
 
 [Responsory3]
 @Tempora/Epi2-1:Responsory3

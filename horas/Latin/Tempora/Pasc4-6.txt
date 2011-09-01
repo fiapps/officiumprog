@@ -1,4 +1,4 @@
- [Rank]
+[Rank]
 Sabbato infra Hebdomadam IV post Octavam Paschae;;Feria;;1
 
 [Rule]
@@ -16,7 +16,6 @@ De Epistola beati Jacobi Apostoli.
 5 Epulati estis super terram, et in luxuriis enutristis corda vestra in die occisionis.
 6 Addixistis, et occidistis justum, et non resistit vobis.
 
-
 [Responsory1]
 R. Deus canticum novum cantabo tibi, alleluia:
 * In psalterio decem chordarum psallam tibi, alleluia, alleluia.
@@ -30,7 +29,6 @@ R. In psalterio decem chordarum psallam tibi, alleluia, alleluia.
 9 Nolite ingemiscere, fratres, in alterutrum, ut non judicemini. Ecce judex ante januam assistit.
 10 Exemplum accipite, fratres, exitus mali, laboris, et patientiae, prophetas qui locuti sunt in nomine Domini.
 11 Ecce beatificamus eos qui sustinuerunt. Sufferentiam Job audistis, et finem Domini vidistis, quoniam misericors Dominus est, et miserator.
-
 
 [Responsory2]
 R. Bonum est confiteri Domino, alleluia:
@@ -47,7 +45,6 @@ R. Et psallere, alleluia.
 14 Infirmatur quis in vobis? inducat presbyteros ecclesiae, et orent super eum, ungentes eum oleo in nomine Domini:
 15 et oratio fidei salvabit infirmum, et alleviabit eum Dominus: et si in peccatis sit, remittentur ei.
 16 Confitemini ergo alterutrum peccata vestra, et orate pro invicem ut salvemini: multum enim valet deprecatio justi assidua.
-
 
 [Responsory3]
 R. Cantate Domino, alleluia:

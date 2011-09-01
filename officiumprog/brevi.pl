@@ -29,6 +29,7 @@ $debug = '';
 our $Tk = 0;
 our $Hk = 0;
 our $Ck = 0;
+our $notes = 0;
 our $missa = 0;
 our $officium = 'brevi.pl';
 our $version = 'Divino Afflatu';
@@ -148,7 +149,7 @@ if ($flag) {
 }
 if (!$expand) {$expand = 'psalms';}
 if (!$lang2) {$lang2 = 'English';}
-$only = ($lang1 =~ /$lang2/) ? 1 : 0;
+$only = ($lang1 =~ /$lang2/i || $lang2 =~ /$lang1/i) ? 1 : 0;
 
 $version = 'Divino Afflatu';
 precedence(); #fills our hashes et variables  

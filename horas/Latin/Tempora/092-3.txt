@@ -2,12 +2,11 @@
 De libro Job
 !Job 31:1-6
 1 Pepigi fœdus cum oculis meis, ut ne cogitarem quidem de virgine.
-2 Quam enim partem haberet in me Deus desuper, et haereditatem Omnipotens de excelsis?
+2 Quam enim partem haberet in me Deus desuper, et hereditatem Omnipotens de excelsis?
 3 Numquid non perditio est iniquo, et alienatio operantibus injustitiam?
 4 Nonne ipse considerat vias meas, et cunctos gressus meos dinumerat?
 5 Si ambulavi in vanitate, et festinavit in dolo pes meus,
 6 appendat me in statera justa, et sciat Deus simplicitatem meam.
-
 
 [Responsory1]
 @Tempora/091-0:Responsory7
@@ -21,7 +20,6 @@ De libro Job
 11 Hoc enim nefas est, et iniquitas maxima.
 12 Ignis est usque ad perditionem devorans, et omnia eradicans genimina.
 
-
 [Responsory2]
 @Tempora/091-1:Responsory2
 
@@ -33,7 +31,6 @@ De libro Job
 16 Si negavi quod volebant pauperibus, et oculos viduae expectare feci;
 17 si comedi buccellam meam solus, et non comedit pupillus ex ea
 18 (quia ab infantia mea crevit mecum miseratio, et de utero matris meae egressa est mecum);
-
 
 [Responsory3]
 @Tempora/091-0:Responsory3

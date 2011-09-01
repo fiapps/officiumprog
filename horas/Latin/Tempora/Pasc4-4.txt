@@ -13,7 +13,6 @@ De Epistola beati Jacobi Apostoli.
 2 In multis enim offendimus omnes. Si quis in verbo non offendit, hic perfectus est vir: potest etiam freno circumducere totum corpus.
 3 Si autem equis frena in ora mittimus ad consentiendum nobis, et omne corpus illorum circumferimus.
 
-
 [Responsory1]
 R. Si oblitus fuero tui, alleluia, obliviscatur mei dextera mea:
 * Adhaereat lingua mea faucibus meis, si non meminero tui, alleluia, alleluia.
@@ -25,7 +24,6 @@ R. Adhaereat lingua mea faucibus meis, si non meminero tui, alleluia, alleluia.
 4 Ecce et naves, cum magnae sint, et a ventis validis minentur, circumferuntur a modico gubernaculo ubi impetus dirigentis voluerit.
 5 Ita et lingua modicum quidem membrum est, et magna exaltat. Ecce quantus ignis quam magnam silvam incendit !
 6 Et lingua ignis est, universitas iniquitatis. Lingua constituitur in membris nostris, quae maculat totum corpus, et inflammat rotam nativitatis nostrae inflammata a gehenna.
-
 
 [Responsory2]
 R. Viderunt te aquae, Deus, viderunt te aquae, et timuerunt:
@@ -43,7 +41,6 @@ R. Multitudo sonitus aquarum vocem dederunt nubes, alleluia, alleluia, alleluia.
 9 In ipsa benedicimus Deum et Patrem: et in ipsa maledicimus homines, qui ad similitudinem Dei facti sunt.
 10 Ex ipso ore procedit benedictio et maledictio. Non oportet, fratres mei, haec ita fieri.
 
-
 [Responsory3]
 R. Narrabo nomen tuum fratribus meis, alleluia:
 * In medio Ecclesiae laudabo te, alleluia, alleluia.
@@ -53,9 +50,7 @@ R. In medio Ecclesiae laudabo te, alleluia, alleluia.
 R. In medio Ecclesiae laudabo te, alleluia, alleluia.
 
 [Ant 2]
-Obtulerunt discipuli * Domino partem piscis assi, et favum mellis, alleluia,~
-alleluia.
+Obtulerunt discipuli * Domino partem piscis assi, et favum mellis, alleluia, alleluia.
 
 [Ant 3]
-Non enim loquetur * a semetipso: sed quaecumque audiet, loquetur: et quae~
-ventura sunt, annuntiabit vobis, alleluia.~
+Non enim loquetur * a semetipso: sed quaecumque audiet, loquetur: et quae ventura sunt, annuntiabit vobis, alleluia.

@@ -57,6 +57,7 @@ use Text::Wrapper;
 our $Tk = 1;
 our $Hk = 0;
 our $Ck = 0;
+our $notes = 0;
 our $missa = 0;
 our $caller = 0; #1=office is called for dirge
 our $caller1 = 0; #actual value of $caller for the case calling Lauds from dirge Matins
@@ -212,7 +213,7 @@ our $psalmnum1 = 0;
 our $psalmnum2 = 0;                           
 our $octavam = ''; #to avoid duplication of commemorations
 
-our $only = ($lang1 =~ /$lang2/) ? 1 : 0;
+our $only = ($lang1 =~ /$lang2/ || $lang2 =~ /$lang1/i) ? 1 : 0;
 our ($priest, $width, $blackfont, $redfont, $smallblack, $smallfont, $titlefont,
   $black, $red, $blue);
 our ($doline, $keyfreq, $dofreq, $basetime,$voweltime, $vowelmod, $mono);
@@ -222,7 +223,7 @@ our $actcell = ($version =~ /(1955|1960)/) ? -3 : -1;
 our ($voice, $voicecontinue, @voicenames, @voicemaxline, @notelines, @speecharray, $speechind, $voiceposadd);
 our $voicelang = ($voicecolumn =~ /\#2/) ? $lang2 : $lang1;
 eval $setup{"Voice$voicelang"};	   
-our @voivedict;
+our @voicedict;
 if (open (INP, "$datafolder/$voicelang/Psalterium/tts.txt")) {
   @voicedict = <INP>;
   close INP
@@ -604,7 +605,7 @@ sub errorTk {
 # saves horas.setup file with the current values
 sub finalsave {
   $geometry = $mw->geometry();
-  setsetup('general', $expand, $version, $testmode, $lang2, $voicecolumn, $completed, $browsertime, 
+  setsetup('general', $expand, $version, $testmode, $local, $lang2, $accented, $voicecolumn, $completed, $browsertime, 
     $geometry, $fpixels, $popupgeo, $setuptab);
   if ($savesetup) {
     savesetuphash('Ahoras', \%setup);

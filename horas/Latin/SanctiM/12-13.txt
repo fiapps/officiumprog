@@ -23,7 +23,7 @@ $Per Dominum
 [Lectio4]
 Luicia virgo Syracusana genere et christiana fide ab infantia nobilis, una cum~
 matre Eutychia, quae sanguinis fluxu laborabat, Catanam ad venerandum corpus~
-beatae Agathae venit: quae ad ejus sepulchrum cum suppliciter orasset, Agathae~
+beatae Agathae venit: quae ad ejus sepulcrum cum suppliciter orasset, Agathae~
 intercessione matri sanitatem impetravit. Statim vero matrem exoravit, ut quam~
 dotem sibi datura esset, Christi pauperibus tribui pateretur. Ut igitur~
 Syracusas rediit, omnem pecuniam, quam ex facultatibus venditis redegerat,~
@@ -46,7 +46,7 @@ laudes, quanto magis ipse eam a sententia avertere conabatur: Cessabunt, inquit,
 verba, cum ventum erit ad verbera. Cui virgo: Dei servis verba deesse non~
 possunt, quibus a Christo Domino dictum est: Cum steteritis ante reges et~
 praesides, nolite cogitare quomodo aut quid loquamini: dabitur enim vobis in~
-illa hora quid loquamini: non enim vos estis qui loquimini, sed Spiritus sanctus,~
+illa hora quid loquamini: non enim vos estis qui loquimini, sed Spiritus Sanctus,~
 qui loquitur in vobis.
 
 [Responsory5]
@@ -56,9 +56,9 @@ V. Pro eo ut me diligerent detrahebant mihi: ego autem orabam.
 R. Et impetravi a Domino inducias martyrii mei.
 
 [Lectio6]
-Quam cum Paschasius interrogasset, Estne in te Spiritus sanctus? respondit:~
+Quam cum Paschasius interrogasset, Estne in te Spiritus Sanctus? respondit:~
 Caste et pie viventes templum sunt Spiritus sancti. At ille: Jubebo te ad~
-lupanar duci, ut te Spiritus sanctus deserat. Cui virgo:Si invitam jusseris~
+lupanar duci, ut te Spiritus Sanctus deserat. Cui virgo:Si invitam jusseris~
 violari, castitas mihi duplicabitur ad coronam. Quare Paschasius ira inflammatus,~
 Luciam eo trahi jussit, ubi ejus virginitas violaretur: sed divinitus factum est,~
 ut firma virgo ita consisteret, ut nulla vi de loco dimoveri posset. Quamobrem~
@@ -85,9 +85,9 @@ impetrávit. Mox bona ómnia quæ in dotem esset acceptúra, a matre impetráta,~
 paupéribus distríbuit. Quare apud Paschásium præféctum, quod Christiána esset,~
 accusáta, nec blandítiis nec minis addúci pótuit, ut idólis sacrificáret. Tunc~
 Paschásius ira inflammátus, Lúciam eo trahi jussit, ubi ejus virgínitas~
-violarétur ; sed divínitus factum est, ut firma Virgo ita consísteret, ut nulla~
+violarétur; sed divínitus factum est, ut firma Virgo ita consísteret, ut nulla~
 vi de loco dimovéri posset. Quam ob rem præféctus circum ipsam ignem accéndi~
-imperávit ; sed cum ne flamma quidem eam læderet, multis torméntis excruciátæ~
+imperávit; sed cum ne flamma quidem eam læderet, multis torméntis excruciátæ~
 guttur gládio transfígitur. Quo vúlnere accépto, Lúcia, prædícens Ecclésiæ~
 tranquillitátem, quæ futúra erat Diocletiáno et Maximiáno mórtuis. Idibus~
 Decémbris spíritum Deo réddidit. Cujus corpus Syracúsis sepúltum, deínde~
@@ -123,7 +123,7 @@ Columna es immobilis * Lucia sponsa Christi: quia omnis plebs te exspectat, ut~
 accipias coronam vitae, alleluia.
 
 [Ant 3]
-Tanto pondere * eam fixit Spiritus sanctus, ut virgo Christi immobilis~
+Tanto pondere * eam fixit Spiritus Sanctus, ut virgo Christi immobilis~
 permaneret.
 
 [LectioE]

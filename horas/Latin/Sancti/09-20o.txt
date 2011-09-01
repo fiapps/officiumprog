@@ -7,8 +7,8 @@ Responsory Feria
 Preces feriales
 Versum Feria
 no Te Deum
-Laudes 2 
+Laudes 2
 
 [Oratio]
 Da quaesumus omnipotens Deus: ut beati Matthei Apostoli tui, quam praevenimus, veneranda solemnitas et devotiones nobis auget ad salutem.
-$Per Dominum 
+$Per Dominum

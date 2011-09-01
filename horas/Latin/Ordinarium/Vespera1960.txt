@@ -5,7 +5,7 @@ $Deus in adjutorium
 
 #Psalmi
 
-#Capitulum Hymnus Versum
+#Capitulum Hymnus Versus
 
 #Canticum Magnificat
 &ant_Magnificat(1)
@@ -49,7 +49,7 @@ R. Amen.
 V. Pro fratribus nostris absentibus.
 R. Salvos fac servos tuos, Deus meus, sperantes in te.
 V. Pro afflictis et captivis.
-R. Libera eos, Deus Israel, ex omnibus tribulationibus suis.
+R. Libera eos, Deus Israël, ex omnibus tribulationibus suis.
 V. Mitte eis, Domine, auxilium de sancto.
 R. Et de Sion tuere eos.
 V. Domine, Deus virtutum, converte nos.

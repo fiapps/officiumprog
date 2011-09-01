@@ -19,7 +19,6 @@ De libro Sapientiae.
 10 Impii autem secundum quae cogitaverunt correptionem habebunt: qui neglexerunt justum, et a Domino recesserunt.
 11 Sapientiam enim et disciplinam qui abjicit infelix est: et vacua est spes illorum, et labores sine fructu, et inutilia opera eorum.
 
-
 [Responsory2]
 @Tempora/081-1:Responsory2
 
@@ -31,7 +30,6 @@ De libro Sapientiae.
 19 Induet pro thorace justitiam, et accipiet pro galea judicium certum;
 20 sumet scutum inexpugnabile aequitatem.
 21 Acuet autem duram iram in lanceam, et pugnabit cum illo orbis terrarum contra insensatos.
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

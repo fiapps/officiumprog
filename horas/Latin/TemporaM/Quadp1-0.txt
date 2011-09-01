@@ -52,7 +52,7 @@ quae erant super firmamentum. Et factum est ita.
 secundus.
 
 [Responsory1]
-R. In principio creavit Deus coelum et terram, et fecit in ea hominem,
+R. In principio creavit Deus caelum et terram, et fecit in ea hominem,
 * Ad imaginem et similitudinem suam.
 V. Formavit igitur Deus hominem de limo terrae et inspiravit in faciem ejus~
 spiraculum vitae.
@@ -110,7 +110,7 @@ reptili, quod movetur in terra.
 R. Formavit Dominus hominem de limo terrae
 * Et inspiravit in faciem ejus spiraculum vitae, et factus est homo in animam~
 viventem.
-V. In principio fecit Deus coelum et terram et plasmavit in ea hominem.
+V. In principio fecit Deus caelum et terram et plasmavit in ea hominem.
 R. Et inspiravit in faciem ejus spiraculum vitae, et factus est homo in animam~
 viventem.
 &Gloria
@@ -177,12 +177,12 @@ R. Et vocavit nomen ejus Virago quia de viro sumpta est.
 Lectio sancti Evangelii secundum Matthaeum.
 !Matt 20:1-16
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Simile est regnum~
-coelorum homini patrifamilias, qui exiit primo mane conducere operarios in~
+caelorum homini patrifamilias, qui exiit primo mane conducere operarios in~
 vineam suam. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
 !Homil. 19. in Evangelium post princ.
-Regnum coelorum homini patrifamilias simile dicitur, qui ad excolendam vineam~
+Regnum caelorum homini patrifamilias simile dicitur, qui ad excolendam vineam~
 suam operarios conducit. Quis vero patrifamilias similitudinem rectius tenet,~
 quam Conditor noster, qui regit quos condidit, et electos suos sic in hoc mundo~
 possidet, quasi subjectos dominus in domo? Qui habet vineam, universalem~
@@ -238,8 +238,8 @@ R. Ecce vox sanguinis fratris tui Abel clamat ad me de terra.
 Miserere mei * Deus, et a delicto meo munda me: quia tibi soli peccavi.
 Confitebor tibi * quoniam exaudisti me.
 Deus Deus meus * ad te de luce vigilo, quia factus es adjutor meus.
-Benedictus es * in firmamento coeli, et laudabilis in saecula, Deus noster.
-Laudate Dominum * de coelis.
+Benedictus es * in firmamento caeli, et laudabilis in saecula, Deus noster.
+Laudate Dominum * de caelis.
 
 [Capitulum Laudes]
 !1 Cor 9:24
@@ -255,7 +255,7 @@ R. In testimonia tua.
 R. Inclina cor meum, Deus, * in testimonia tua.
 
 [Ant 2]
-Simile est * regnum coelorum homini patrifamilias, qui exiit primo mane~
+Simile est * regnum caelorum homini patrifamilias, qui exiit primo mane~
 conducere operarios in vineam suam, dicit Dominus.
 
 [Versum 2]

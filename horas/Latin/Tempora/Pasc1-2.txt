@@ -1,4 +1,4 @@
- [Rank]
+[Rank]
 Feria Tertia infra Hebdomadam I post Octavam Paschae;;Feria;;1
 
 [Rule]
@@ -16,8 +16,7 @@ De Actibus Apostolorum.
 5 Erant autem in Jerusalem habitantes Judaei, viri religiosi ex omni natione quae sub caelo est.
 6 Facta autem hac voce, convenit multitudo, et mente confusa est, quoniam audiebat unusquisque lingua sua illos loquentes.
 7 Stupebant autem omnes, et mirabantur, dicentes: Nonne ecce omnes isti qui loquuntur, Galilaei sunt?
-8 et quomodo nos audivimus unusquisque linguam nostram in qua nati sumus?
-
+8 Et quomodo nos audivimus unusquisque linguam nostram in qua nati sumus?
 
 [Responsory1]
 @Tempora/Pasc0-3:Responsory2
@@ -33,7 +32,6 @@ De Actibus Apostolorum.
 20 sol convertetur in tenebras, et luna in sanguinem, antequam veniat dies Domini magnus et manifestus.
 21 Et erit: omnis quicumque invocaverit nomen Domini, salvus erit.
 
-
 [Responsory2]
 @Tempora/Pasc0-5:Responsory1
 
@@ -43,18 +41,14 @@ De Actibus Apostolorum.
 23 hunc, definito consilio et praescientia Dei traditum, per manus iniquorum affligentes interemistis:
 24 quem Deus suscitavit, solutis doloribus inferni, juxta quod impossibile erat teneri illum ab eo.
 25 David enim dicit in eum: Providebam Dominum in conspectu meo semper: quoniam a dextris est mihi, ne commovear:
-26 propter hoc laetatum est cor meum, et exsultavit lingua mea, insuper et caro mea requiescet in spe:
-27 quoniam non derelinques animam meam in inferno, nec dabis sanctum tuum videre corruptionem.
-
+26 Propter hoc laetatum est cor meum, et exsultavit lingua mea, insuper et caro mea requiescet in spe:
+27 Quoniam non derelinques animam meam in inferno, nec dabis Sanctum tuum videre corruptionem.
 
 [Responsory3]
 @Tempora/Pasc0-5:Responsory2
 
 [Ant 2]
-Praecedam vos * in Galilaeam, ibi me videbitis, sicut dixi vobis, alleluia,~
-alleluia.
+Praecedam vos * in Galilaeam, ibi me videbitis, sicut dixi vobis, alleluia, alleluia.
 
 [Ant 3]
-Mitte manum tuam, * et cognosce loca clavorum, alleluia: et noli esse incredulus,~
-sed fidelis, alleluia.~
-
+Mitte manum tuam, * et cognosce loca clavorum, alleluia: et noli esse incredulus, sed fidelis, alleluia.

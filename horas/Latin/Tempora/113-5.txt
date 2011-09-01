@@ -7,7 +7,6 @@ De Daniele Propheta
 14 Quod verbum cum audisset rex, satis contristatus est: et pro Daniele posuit cor ut liberaret eum, et usque ad occasum solis laborabat ut erueret illum.
 15 Viri autem illi, intelligentes regem, dixerunt ei: Scito, rex, quia lex Medorum atque Persarum est ut omne decretum, quod constituerit rex, non liceat immutari.
 
-
 [Responsory1]
 @Tempora/111-0:Responsory4
 
@@ -19,7 +18,6 @@ De Daniele Propheta
 19 Tunc rex primo diluculo consurgens, festinus ad lacum leonum perrexit:
 20 appropinquansque lacui, Danielem voce lacrimabili inclamavit, et affatus est eum: Daniel serve Dei viventis, Deus tuus, cui tu servis semper, putasne valuit te liberare a leonibus?
 
-
 [Responsory2]
 @Tempora/111-0:Responsory5
 
@@ -29,7 +27,6 @@ De Daniele Propheta
 22 Deus meus misit angelum suum, et conclusit ora leonum, et non nocuerunt mihi: quia coram eo justitia inventa est in me: sed et coram te, rex, delictum non feci.
 23 Tunc vehementer rex gavisus est super eo, et Danielem praecepit educi de lacu: eductusque est Daniel de lacu, et nulla laesio inventa est in eo, quia credidit Deo suo.
 24 Jubente autem rege, adducti sunt viri illi, qui accusaverant Danielem: et in lacum leonum missi sunt, ipsi, et filii, et uxores eorum: et non pervenerunt usque ad pavimentum laci, donec arriperent eos leones, et omnia ossa eorum comminuerunt.
-
 
 [Responsory3]
 @Tempora/111-0:Responsory6

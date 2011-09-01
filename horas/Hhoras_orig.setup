@@ -1,4 +1,5 @@
 [Chant]
+$notes=0;
 $voicecolumn='mute';;
 $keyfreq='160';;
 $basetime='360';;
@@ -14,6 +15,8 @@ $testmode='Regular';;
 $lang2='English';;
 $votive='proper';;
 $output='html';;
+$accented='1';;
+$onefile=1;;
 
 [parameters]
 $priest='0';;

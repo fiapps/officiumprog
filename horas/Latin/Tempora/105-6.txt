@@ -7,7 +7,6 @@ De libro secundo Maccabeorum
 10 et ita animis eorum erectis simul ostendebat gentium fallaciam, et juramentorum praevaricationem.
 11 Singulos autem illorum armavit, non clypei et hastae munitione, sed sermonibus optimis et exhortationibus, exposito digno fide somnio, per quod universos laetificavit.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory7
 
@@ -19,7 +18,6 @@ De libro secundo Maccabeorum
 15 Extendisse autem Jeremiam dextram, et dedisse Judae gladium aureum, dicentem:
 16 Accipe sanctum gladium munus a Deo, in quo dejicies adversarios populi mei Israël.
 
-
 [Responsory2]
 @Tempora/101-1:Responsory2
 
@@ -28,7 +26,6 @@ De libro secundo Maccabeorum
 17 Exhortati itaque Judae sermonibus bonis valde, de quibus extolli posset impetus, et animi juvenum confortari, statuerunt dimicare et confligere fortiter: ut virtus de negotiis judicaret, eo quod civitas sancta et templum periclitarentur.
 18 Erat enim pro uxoribus et filiis, itemque pro fratribus et cognatis, minor sollicitudo: maximus vero et primus pro sanctitate timor erat templi.
 19 Sed et eos qui in civitate erant, non minima sollicitudo habebat pro his qui congressuri erant.
-
 
 [Responsory3]
 @Tempora/101-1:Responsory3

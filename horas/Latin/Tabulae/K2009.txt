@@ -3,7 +3,7 @@
 01-02=06-14=Ss. Basil the Great and Gregory Nazianzen, bishops and doctors=3=
 01-03=01-03n=The Most Holy Name of Jesus=2=
 01-04=01-04=Die Quarta Januarii=1=
-01-05=01-05=Die Quinta Januarii=1=
+01-05=01-05r=Die Quinta Januarii=1=
 01-06=01-06n=Die Sexta Januarii=1=
 01-07=01-23=S. Raymond of Peñafort, priest=2=
 01-08=01-08=Die Octava Januarii=1=
@@ -201,7 +201,7 @@
 12-09=12-09n=S. Juan Diego=2=
 12-11=12-11=S. Damasus I, pope=2=
 12-12=12-12r=Our Lady of Guadalupe=2=
-12-13=12-13=S. Lucy of Syracuse, virgin and martyr=3=
+12-13=12-13r=S. Lucy of Syracuse, virgin and martyr=3=
 12-14=11-24=S. John of the Cross, priest and doctor=3=
 12-21=04-27=S. Peter Canisius, priest and doctor=2=
 12-23=10-20=S. John of Kanty, priest=2=

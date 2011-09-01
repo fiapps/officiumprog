@@ -1,9 +1,10 @@
 #!/usr/bin/perl
 
-#áéíóöõúüûÁÉÓÖÔÚÜÛ
+#áéíóöõúüû ÁÉÍÓÖÔÚÜÛ
 # Name : Laszlo Kiss
 # Date : 09-25-08
 # Tk specific dialogs
+# Horas
 
 #use warnings;
 #use strict "refs";
@@ -38,7 +39,7 @@ sub savesetuphash {
 # returns <FONT ...>$text</FONT> string
 sub setfont {
   my $istr = shift;    
-  my $text = shift;
+  my $text = shift; 
   
   my $color = 'green';
   my $font = '{Times} 12';
@@ -54,6 +55,10 @@ sub setfont {
   #here comes set for colors;
   $after = '';						   
   if ($text =~ /\{\^/) {$text = $`; $after = "{^$'";}
+  if ($text =~ /Ant\./) {
+    $after = 'Ant.'; 
+	$text =~ s/\{\:\:\}//g;
+  }
   $text = "{^$font,$color,,$text^}" . $after;
   return $text;
 }
@@ -73,9 +78,9 @@ sub setcell {
   my $lang = shift;
 
   my $cellnote = '';
-  if ($column == 1) {
+  if ($column == 1) { 
     $searchind++;
-    if ($voicecolumn =~ /chant/i && ($hora !~ /matutinum/i || $chantmatins)) {
+    if (($voicecolumn =~ /chant/i && ($hora !~ /matutinum/i || $chantmatins)) || $Tk >= 2) {
       ($cellnote, $noteheight) = show_notes($text);
       if ($cellnote) {
 	    $cell[$searchind][$column] = 
@@ -184,7 +189,7 @@ sub setcell_rut {
   my ($ind1, $ind2);
   my $after = $text;
   my $addheight = 0; 
-  while ($after =~ /\{\^(.*?)\,\,(.*?)\^\}/g) {
+  while ($after =~ /\{\^(.*?),,(.*?)\^\}/g) {
 	  my $before = $`;        
 	  my $attr = $1;      
 	  my $str = $2;	 	
@@ -204,7 +209,7 @@ sub setcell_rut {
 	  my $newlinewidth = floor($linewidth * $blackfontsize / $fontsize);
 	
 	  if ($only || $column == $vcol) {  
-	    if ($str =~ /^[a-z]$/i || $str =~ /\%[a-z áéíóöõúüûÁÉÓÖÔÚÜÛ]+\%/i ||
+	    if ($str =~ /^[a-z]$/i || $str =~ /\%[a-z áéíóöõúüûÁÉÍÓÖÔÚÜÛ]+\%/i ||
 	      $str =~ /([\!\#]H[iy]mn|\&lectio|\&antiphona_finalis)/i) {$speecharray[$cellind] .= $str;}
 		  if ($str =~ /\{\:.*?\:\}/) {$speecharray[$cellind] .= $&;}
 	  }
@@ -233,8 +238,9 @@ sub cellout {
   my $text = shift;
   my $newlinewidth = shift;
   my $tag = shift;	
-
   
+  
+  if (!$tag) {$text =~ s/Ant\.//g;}
   $text =~ s/\`//g;
   $text =~ s/\{\:.*?\:\}\s*//sg; 
   if ($text =~ /^\n/) {	 $text = '_' . $text;}
@@ -407,7 +413,7 @@ sub ante_post{
   $column = 1;
   my $str = 'Divinum Officium';
   if ($lang1 !~ /Latin/i) {$str = $translate{$str};}
-  setcell("$line", $lang1);
+  setcell("$line", $lang1);  
   if (!$only) {
     $column = 2;
     $str = 'Divinum Officium';
@@ -514,11 +520,11 @@ sub voiceit {
   my $ind = 0; 
 
   if ($index =~ /[a-z]/i) {$text = $speecharray[0];}
-  elsif ($index >= 0) { $text = $speecharray[$index+1];} 
+  elsif ($index >= 0) { $text = $speecharray[$index+1];}
   else {return;} 
                       
   $text =~ s/\+//g;
-  our $texttone = '';	   					
+  our $texttone = ''; 					
                                
   if ($laudescont && $command =~ /laudes/i && $index == 1 && $version !~ /1955|1960/ &&
     $text =~ /lll[0-9]\s*\_\s*/) {$text = $'; $laudescont = 0;}
@@ -542,6 +548,10 @@ sub voiceit {
   }
 
   my @t;       
+  if ($text =~ /\{\:(.*?)\:\}/) {
+    my $tfile = $1;
+	$text =~ s/Ant\.(.*?)\n/{:A$tfile:} $1 {::}\n/g; 
+  } 
 
   my $hymnflag = 0;	
   if ($text =~ /([\!\#]H[iy]mn|\&lectio|\&antiphona_finalis)/i) {$hymnflag = 1;} 
@@ -636,12 +646,14 @@ sub voiceit {
     $line =~ s/\{\^.*?\^\}//mg;
     $line =~ s/\{\^.*\~/~/mg;
     $line =~ s/^.*?\^\}//mg;
-    $line =~ s/[\n ]+$//mg;
+    $line =~ s/\(.*?\)//mg;
+    $line =~ s/\/\:.*?\:\///mg;
+	$line =~ s/[\n ]+$//mg;
     $line =~ s/\_//;
     $line =~ s/^(lll[0-9]+)*\s*(Benedictio\.|Absolutio\.|Ant\.|R\.br\.|V\.)/$1 jjj0/mg;
-	  $line =~ s/^(lll[0-9]+)*\s*(v\.|r\.|\*)/$1 /mig;
+	$line =~ s/^(lll[0-9]+)*\s*(v\.|r\.|\*)/$1 /mig;
     $line =~ s/^\s*//mg;
-  	if ($line =~ /^Amen/i && $i > 0 && $t[$i-1] !~ /\~/) {$text .= "jjj1\n";}
+  	if ($line =~ /^[AÁ]men/i && $i > 0 && $t[$i-1] !~ /\~/) {$text .= "jjj1\n";}
     $line =~ s/[\+]//g;   
     $line =~ s/^[ [0-9\.]+//;
     $line =~ s/N\.//g; 
@@ -703,7 +715,7 @@ sub voicepsalm {
   }						
 
   my $t = '';
-  $psalmfolder = ($accented =~ /plane/i) ? 'psalms' : 'psalms1';   
+  $psalmfolder = ($accented =~ /plain/i) ? 'psalms' : 'psalms1';   
   $fname=checkfile($lang, "$psalmfolder/Psalm$psnum.txt");
 
   if (open(INP, $fname)) {
@@ -736,7 +748,7 @@ sub speakit {
   my $vcol = shift;	       
                                
   $voice->Speak(' ', 2); $voice->StopSpeaking();
-  if ($stopvoice || $voicecolumn =~ /mute/i || $voicehold) {return;}
+  if ($stopvoice || $voicecolumn =~ /mute/i || $voicehold) {return;} 
 
   @t = split("\n", $text);
   my $i;
@@ -769,7 +781,7 @@ sub speakit {
       my $ln1 = ($a[1] =~ /^(.*?)\./) ? $1 : 0;   
 
 	  if ($ln0 && $ln1) {			 
-	    while (($ln1 + $notelines[$index] - $popupscroll) * $lineheight > $voicescreenheight- 5 * $lineheight) {
+	    while (($ln1 + $notelines[$index] - $popupscroll) * $lineheight > $voicescreenheight- 8 * $lineheight) {
 		  if ($ln0 - $popupscroll < 11) {last;}
 		  my $perc = $ln0 / ($voicemaxline[$index+1]); 
           my $a = $perc * ($heights[$index+1] - $heights[$index]);
@@ -787,9 +799,13 @@ sub speakit {
     } 
 
     if ($t[$i] =~ /\{\:(.*?)\:\}/) {
-	    $tfile = $1;      
+	    $tfile = $1; 
+        if ($tfile =~ /^[A]*pc/) {$canticum = 1; $tfile =~ s/^([A]*)pc/$1p/;}
+		else {$canticum = 0;}
  	    $texttone = '';
-	    if ($tfile =~ /[a-z0-9]/ && open (INP, "$datafolder/tones/$tfile.txt")) {
+	    my $tfl = $tfile;
+		$tfl =~ s/^Ap/p/;
+		if ($tfile =~ /[a-z0-9]/ && open (INP, "$datafolder/tones/$tfl.txt")) {
 		   my $line;
 		   while ($line = <INP>) {$texttone .= $line;};
 	      close INP;
@@ -799,16 +815,20 @@ sub speakit {
 	  $t[$i] =~ s/\{\:(.*?)\:\}\s*//g;    
 
     if (!$t[$i] || $t[$i] =~ /^\s*$/) {next;}
-								
-	if ($voicecolumn =~ /chant/i && $texttone =~ /,/ && ($hora !~ /matutinum/i || $chantmatins)) {	
-      singit($t[$i], $tfile, $texttone, $psalmline, $psalmline);
+
+	my $singfl = 0;
+	if ($voicecolumn =~ /chant/i && $texttone =~ /,/ && ($hora !~ /matutinum/i || $chantmatins)) {
+	  if ($voicecolumn !~ /Magyar/i || $t[$i] =~ /[áéíóöõôúüûÁÉÓÖÔÚÜÛ`]/) {	
+        singit($t[$i], $tfile, $texttone, $psalmline, $psalmline);
+	    $singfl = 1;
+	  }
       $psalmline++;
       while ($voicehold && !$stopvoice) {
 	      Win32::Sleep(100);  #select(undef,undef,undef,.1);
 		    $mw->update();
 		  }
-    } else {  
-
+    } 
+	if (!$singfl) {
     	#select voice according to sequence
       if ($j & 1) {	
         setvoice($voicename2);
@@ -931,7 +951,7 @@ sub definevoicelang {
   my $voiceindex = 0;
   my $i;
   my @voicenames = splice(@voicenames, @voicenames);
-	@voicenames=$voice->GetInstalledVoices('');
+  @voicenames = $voice->GetInstalledVoices(''); 
   if ($voicename) {for ($i = 0; $i < @voicenames; $i++) {
     if ($voicenames[$i] =~ /^$voicename$/) {$voiceindex = $i; last;}
   }} 
@@ -951,10 +971,10 @@ sub definevoice {
   $voice = Win32::SAPI51::SpVoice->new();  
   if ($voice){
     $voice->GetObject()->Register("", "$O");
-	@voicenames=installedvoices($voicelang);  
+	@voicenames = installedvoices($voicelang);  
   }
   if ($voicecolumn =~ /[12]/ && $command && $voice) {
-    setvoice($voicename1);
+    setvoice($voicename1); 
     $stopvoice = 0;
   }
 }
@@ -970,21 +990,20 @@ sub installedvoices {
   }
   my @a=$voice->GetInstalledVoices('');  
   my @v = splice(@v, @v);
-  my $item;
+  my $item;  
   foreach $item (@a) {
-    if ($lang =~ /latin/i && $item =~ /(LA|HU|IT|ES)/) {push(@v, $item);}  
+    if ($lang =~ /latin/i && $item =~ /(LA|HU|IT|ES)/) {push(@v, $item);} 
     if ($lang =~ /magyar/i && $item =~ /hu/i) {push(@v, $item);}
-    if ($lang =~ /English/i && $item !~ /(LA|HU|IT|ES)/) {push(@v, $item);}
-  }
+    if ($lang =~ /English/i && $item !~ /(LA|HU|IT|ES)/) {push(@v, $item);} 
+  } 
   if (!@v) {
     $error = "No voice installed for $lang, mute is set";
 	$voicecolumn = 'mute';
 	$voicename1 = $voicename2 = 'no voice';
-  } else {
+  } else { 
     if ($voicename1 =~ /no voice/i) {$voicename1 = $v[0];}
     if ($voicename2 =~ /no voice/i) {$voicename2 = $v[0];}
-  }
-
+  } 
   return @v;
 }
 
@@ -992,9 +1011,9 @@ sub installedvoices {
 # find the index for $voicename (error if not found in @voicenames)
 # sets rate, volume and voice properties
 sub setvoice {
-  my $voicename = shift;
+  my $voicename = shift;  
   if (!$voice || $voicecolumn =~ /mute/i) {return;}
-  my @a=$voice->GetInstalledVoices(''); 
+  my @a=$voice->GetInstalledVoices('');
   my $voiceindex = @a;	 
   my $i;  
   if ($voicename) {for ($i = 0; $i < @a; $i++) {

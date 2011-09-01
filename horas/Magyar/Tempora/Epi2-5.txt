@@ -13,11 +13,9 @@ Olvasmány szent Pál apostol Korintusiakhoz irott második levelébõl
 4 elragadtatott a mennybe, és titokzatos szavakat hallott, amelyeket embernek nem szabad kimondania. 
 
 [Responsory1]
-R. I will praise thee, O Lord my God, with all my heart, and I will glorify thy~
-Name for evermore. 
+R. I will praise thee, O Lord my God, with all my heart, and I will glorify thy Name for evermore. 
 * For great is thy mercy toward me.
-V. Thou art my God, and I will praise thee Thou art my God, and I will exalt~
-thee.
+V. Thou art my God, and I will praise thee Thou art my God, and I will exalt thee.
 R. For great is thy mercy toward me.
 
 [Lectio2]
@@ -43,8 +41,7 @@ R. And Thou hast delivered my soul from the lowest hell.
 [Responsory3]
 R. The Lord is my refuge. 
 * And my God is the stay of my trust.
-V. He delivered me from the strongest of mine enemies, and the Lord was my~
-stay.
+V. He delivered me from the strongest of mine enemies, and the Lord was my stay.
 R. And my God is the stay of my trust.
 &Gloria
 R. And my God is the stay of my trust.

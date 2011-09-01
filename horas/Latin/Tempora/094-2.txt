@@ -6,7 +6,6 @@ De libro Judith
 3 instabat enim super alligantes manipulos in campo, et venit aestus super caput ejus, et mortuus est in Bethulia civitate sua, et sepultus est illic cum patribus suis.
 4 Erat autem Judith relicta ejus vidua jam annis tribus et mensibus sex.
 
-
 [Responsory1]
 @Tempora/094-0:Responsory4
 
@@ -17,7 +16,6 @@ De libro Judith
 7 Erat autem eleganti aspectu nimis, cui vir suus reliquerat divitias multas, et familiam copiosam, ac possessiones armentis boum, et gregibus ovium plenas.
 8 Et erat haec in omnibus famosissima, quoniam timebat Dominum valde, nec erat qui loqueretur de illa verbum malum.
 
-
 [Responsory2]
 @Tempora/094-0:Responsory5
 
@@ -26,7 +24,6 @@ De libro Judith
 9 Haec itaque cum audisset quoniam Ozias promisisset quod transacto quinto die traderet civitatem, misit ad presbyteros Chabri et Charmi.
 10 Et venerunt ad illam, et dixit illis: Quod est hoc verbum, in quo consensit Ozias, ut tradat civitatem Assyriis si intra quinque dies non venerit vobis adjutorium?
 11 et qui estis vos, qui tentatis Dominum?
-
 
 [Responsory3]
 @Tempora/094-0:Responsory6

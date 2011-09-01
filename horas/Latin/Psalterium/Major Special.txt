@@ -15,7 +15,7 @@ Donet et nobis bona sempiternae
 Munera pacis.
 _
 Praestet hoc nobis Deitas beata
-Patris, ac Nati, pariterque sancti
+Patris, ac Nati, pariterque Sancti
 Spiritus, cujus resonat per omnem
 Gloria mundum.
 Amen.
@@ -30,7 +30,7 @@ v. Fratres: Nescitis, quod ii, qui in stadio currunt, omnes quidem currunt, sed 
 $Deo gratias
 
 [Hymnus Day0 Laudes2]
-{:H-Aeternarerum:}v. Aeterne rerum Conditor,
+{:H-Aeternererum:}v. Aeterne rerum Conditor,
 Noctem diemque qui regis,
 Et temporum das tempora,
 Ut alleves fastidium.
@@ -40,7 +40,7 @@ A nocte noctem segregans,
 Praeco diei jam sonat,
 Jubarque solis evocat.
 _
-Hoc excitatus lucifer
+Hoc excitatus Lucifer
 Solvit polum caligine:
 Hoc omnis erronum cohors
 Viam nocendi deserit.
@@ -65,7 +65,7 @@ Et nos videndo corrige:
 Si respicis, labes cadunt,
 Fletuque culpa solvitur.
 _
-Te, lux, refulge sensibus,
+Tu, lux, refulge sensibus,
 Mentisque somnum discute:
 Te nostra vox primum sonet,
 Et vota solvamus tibi.
@@ -101,7 +101,7 @@ Vitae sit exsul munere,
 Dum nil perenne cogitat,
 Seseque culpis illigat.
 _
-Coeleste pulset ostium:
+Caeleste pulset ostium:
 Vitale tollat praemium:
 Vitemus omne noxium:
 Purgemus omne pessimum.
@@ -122,14 +122,14 @@ V. Nox praecessit, dies autem appropinquavit. Abjiciamus ergo opera tenebrarum, 
 $Deo gratias
 
 [Hymnus Day1 Laudes]
-v. Splendor Paternae gloriae,
+{:H-LaudsFeria:}v. Splendor Paternae gloriae,
 De luce lucem proferens,
 Lux lucis, et fons luminis,
 Diem dies illuminans:
 _
 Verusque sol illabere,
 Micans nitore perpeti:
-Jubarque sancti Spiritus
+Jubarque Sancti Spiritus
 Infunde nostris sensibus.
 _
 Votis vocemus et Patrem,
@@ -178,12 +178,12 @@ v. Benedictus Deus, et Pater Domini nostri Jesu Christi, Pater misericordiarum, 
 $Deo gratias
 
 [Hymnus Day1 Vespera]
-v. Immense coeli Conditor,
+{:H-VespFeria:}v. Immense caeli Conditor,
 Qui mixta ne confunderent,
 Aquae fluenta dividens,
-Coelum dedisti limitem.
+Caelum dedisti limitem.
 _
-Firmans locum coelestibus,
+Firmans locum caelestibus,
 Simulque terrae rivulis;
 Ut unda flammas temperet,
 Terrae solum ne dissipent.
@@ -214,7 +214,7 @@ v. Nox praecessit, dies autem appropinquavit. Abjiciamus ergo opera tenebrarum, 
 $Deo gratias
 
 [Hymnus Day2 Laudes]
-v. Ales diei nuntius
+{:H-LaudsFeria:}v. Ales diei nuntius
 Lucem propinquam praecinit:
 Nos excitator mentium
 Jam Christus ad vitam vocat.
@@ -250,14 +250,14 @@ v. Benedictus Deus, et Pater Domini nostri Jesu Christi, Pater misericordiarum, 
 $Deo gratias
 
 [Hymnus Day2 Vespera]
-v. Telluris alme Conditor,
+{:H-VespFeria:}v. Telluris alme Conditor,
 Mundi solum qui separans,
 Pulsis aquae molestiis,
 Terram dedisti immobilem:
 _
 Ut germen aptum proferens,
 Fulvis decora floribus,
-Facunda fructu sisteret,
+Foecunda fructu sisteret,
 Pastumque gratum redderet.
 _
 Mentis perustae vulnera
@@ -270,7 +270,7 @@ Nullis malis approximet:
 Bonis repleri gaudeat,
 Et mortis ictum nesciat.
 _
-Praesta, Pater piisime,
+Praesta, Pater piissime,
 Patrique compar Unice,
 Cum Spiritu Paraclito
 Regnans per omne saeculum.
@@ -286,7 +286,7 @@ v. Nox praecessit, dies autem appropinquavit. Abjiciamus ergo opera tenebrarum, 
 $Deo gratias
 
 [Hymnus Day3 Laudes]
-v. Nox, et tenebrae, et nubila,
+{:H-LaudsFeria:}v. Nox, et tenebrae, et nubila,
 Confusa mundi et turbida:
 Lux intrat, albescit polus:
 Christus venit: discedite.
@@ -303,7 +303,7 @@ Intende nostris sensibus.
 _
 Sunt multa fucis illita,
 Quae luce purgentur tua:
-Tu, vera lux coelestium,
+Tu, vera lux caelestium,
 Vultu sereno illumina.
 _
 Deo Patri sit gloria,
@@ -322,7 +322,7 @@ v. Benedictus Deus, et Pater Domini nostri Jesu Christi, Pater misericordiarum, 
 $Deo gratias
 
 [Hymnus Day3 Vespera]
-v. Coeli Deus sanctissime,
+{:H-VespFeria:}v. Caeli Deus sanctissime,
 Qui lucidas mundi plagas
 Candore pingis igneo,
 Augens decoro lumine:
@@ -358,7 +358,7 @@ v. Nox praecessit, dies autem appropinquavit. Abjiciamus ergo opera tenebrarum, 
 $Deo gratias
 
 [Hymnus Day4 Laudes]
-v. Lux ecce surgit aurea,
+{:H-LaudsFeria:}v. Lux ecce surgit aurea,
 Pallens facessat caecitas,
 Quae nosmet in praeceps diu
 Errore traxit devio.
@@ -394,18 +394,18 @@ v. Benedictus Deus, et Pater Domini nostri Jesu Christi, Pater misericordiarum, 
 $Deo gratias
 
 [Hymnus Day4 Vespera]
-v. Magnae Deus potentiae,
+{:H-VespFeria:}v. Magnae Deus potentiae,
 Qui fertili natos aqua
 Partim relinquis gurgiti,
-Partim levas in aera.
+Partim levas in aëra.
 _
 Demersa lymphis imprimens,
-Subvecta coelis erigens:
+Subvecta caelis erigens:
 Ut stirpe ab una prodita,
 Diversa repleant loca:
 _
 Largire cunctis servulis,
-Quos mundat unda sanguinis,
+Quos mundat unda Sanguinis,
 Nescire lapsus criminum,
 Nec ferre mortis taedium.
 _
@@ -430,9 +430,9 @@ v. Nox praecessit, dies autem appropinquavit. Abjiciamus ergo opera tenebrarum, 
 $Deo gratias
 
 [Hymnus Day5 Laudes]
-v. Aeterna coeli gloria,
+{:H-LaudsFeria:}v. Aeterna caeli gloria,
 Beata spes mortalium,
-Summi tonantis Unice,
+Summi Tonantis Unice,
 Castaeque proles Virginis:
 _
 Da dexteram surgentibus,
@@ -471,7 +471,7 @@ v. Benedictus Deus, et Pater Domini nostri Jesu Christi, Pater misericordiarum, 
 $Deo gratias
 
 [Hymnus Day5 Vespera]
-v. Hominis superne Conditor,
+{:H-VespFeria:}v. Hominis superne Conditor,
 Qui cuncta solus ordinans,
 Humum jubes producere
 Reptantis et ferae genus:
@@ -507,7 +507,7 @@ v. Nox praecessit, dies autem appropinquavit. Abjiciamus ergo opera tenebrarum, 
 $Deo gratias
 
 [Hymnus Day6 Laudes]
-v. Aurora jam spargit polum:
+{:H-LaudsFeria:}v. Aurora jam spargit polum:
 Terris dies illabitur:
 Lucis resultat spiculum:
 Discedat omne lubricum.
@@ -538,7 +538,7 @@ v. Benedictus Deus, et Pater Domini nostri Jesu Christi, Pater misericordiarum, 
 $Deo gratias
 
 [Hymnus Day6 Vespera]
-v. Jam sol recedit igneus:
+{:H-VespFeria:}v. Jam sol recedit igneus:
 Tu, lux perennis, Unitas,
 Nostris, beata Trinitas,
 Infunde lumen cordibus.
@@ -546,7 +546,7 @@ _
 Te mane laudum carmine,
 Te deprecamur vespere;
 Digneris ut te supplices
-Laudemus inter coelites.
+Laudemus inter caelites.
 _
 Patri, simulque Filio,
 Tibique, Sancte Spiritus,
@@ -555,7 +555,7 @@ Saeclum per omne gloria.
 Amen.
 
 [HymnusM Day6 Vespera]
-v. O lux beata Trinitas,
+{:H-VespFeria:}v. O lux beata Trinitas,
 et principalis Unitas,
 iam sol recedit igneus,
 infunde lumen cordibus.
@@ -585,7 +585,7 @@ missing from proprium
 missing from proprium
 
 [Day1 Ant 2]
-Benedictus * Dominus Deus Israel, qui visitavit et liberavit nos
+Benedictus * Dominus Deus Israël, quia visitavit et liberavit nos
 
 [Day1 Ant 3]
 Magnificat * anima mea Dominum, quia respexit Deus humilitatem meam
@@ -594,10 +594,10 @@ Magnificat * anima mea Dominum, quia respexit Deus humilitatem meam
 Erexit nobis * Dominus cornu salutis in domo David pueri sui
 
 [Day2 Ant 3]
-Exultavit * spiritus meus in Deo salutari meo
+Exsultavit * spiritus meus in Deo salutari meo
 
 [Day3 Ant 2]
-De manu omnium * qui oderunt nos, liberavit nos Deus
+De manu omnium * qui oderunt nos, liberavit nos Dominus.
 
 [Day3 Ant 3]
 Respexit Dominus * humilitatem meam, et fecit in me magna, qui potens est
@@ -615,11 +615,10 @@ Per viscera misericordiae * Dei nostri visitavit nos Oriens ex alto
 Deposuit Dominus * potentes de sede, et exaltavit humiles
 
 [Day6 Ant 2]
-Illumina Domine * sedentes in tenebris et umbra mortis, et dirige pedes nostros~
-in viam pacis
+Illumina Domine * sedentes in tenebris et umbra mortis, et dirige pedes nostros in viam pacis
 
 [Day6 Ant 3]
-Suscépit Deus * Israël, púerum suum: sicut locútus est ad Abraham, et semen ejus usque in sãculum.
+Suscépit Deus * Israël, púerum suum: sicut locútus est ad Abraham, et semen ejus usque in saeculum.
 
 
 [Adv Laudes]
@@ -628,7 +627,7 @@ v. Venite et ascendamus ad montem Domini,et ad Domum Dei Jacob, et docebit nos v
 $Deo gratias
 
 [Hymnus Adv Laudes]
-v. En clara vox redarguit
+{:H-LaudsAdv:}v. En clara vox redarguit
 Obscura quaeque personans:
 Procul fugentur somnia,
 Ab alto Jesus promicat.
@@ -655,7 +654,7 @@ In saeculorum saecula.
 Amen.
 
 [HymnusM Adv Laudes]
-v. Vox clara ecce íntonat,
+{:H-LaudsAdv:}v. Vox clara ecce íntonat,
 obscúra quæque íncrepat:
 procul fugéntur sómnia;
 ab æthre Christus prómicat.
@@ -682,16 +681,16 @@ per sæculórum sæcula.
 Amen.
 
 [Adv Versum 2]
-V. Vox clamantis in deserto
+V. Vox clamantis in deserto: Parate viam Domini. 
 R. Rectas facite semitas eius
 
 [Adv Vespera]
 !Gen 49:10
-v. Non auferatur sceptrum de Juda, et dux de femore eius, donec veniat qui mittendus est; et ipse erit expectatio gentium
+v. Non auferetur sceptrum de Juda, et dux de femore eius, donec veniat qui mittendus est; et ipse erit exspectatio Gentium
 $Deo gratias
 
 [Hymnus Adv Vespera]
-v. Creator alme siderum,
+{:H-VespAdv:}v. Creator alme siderum,
 Aeterna lux credentium,
 Jesu, Redemptor omnium,
 Intende votis supplicum.
@@ -708,7 +707,7 @@ Intacta prodis victima.
 _
 Cujus potestas gloriae
 Nomenque cum primum sonat,
-Et coelites et inferi
+Et caelites et inferi
 Tremente curvantur genu.
 _
 Te deprecamur ultimae
@@ -723,7 +722,7 @@ In saeculorum saecula.
 Amen.
 
 [HymnusM Adv Vespera]
-Cónditor alme síderum,
+{:H-VespAdv:}v.Cónditor alme síderum,
 ætérna lux credéntium,
 Christe, redémptor ómnium,
 exáudi preces súpplicum.
@@ -754,44 +753,34 @@ cum Spíritu Paráclito,
 in sempitérna sæcula. 
 Amen.
 
-
-
 [Adv Versum 1]
-V. Rorate coeli desuper, et nubes pluant justum
-R. Aperiatur terra et germinet salvatorem
+V. Rorate caeli desuper, et nubes pluant justum
+R. Aperiatur terra et germinet Salvatorem
 
 [Adv Versum 3]
-V. Rorate coeli desuper, et nubes pluant justum
-R. Aperiatur terra et germinet salvatorem
+V. Rorate caeli desuper, et nubes pluant justum
+R. Aperiatur terra et germinet Salvatorem
 
 [Adv Ant 17]
-O Sapientia * quae ex ore Altissimi prodiisti, attingens a fine usque ad finem,~
-fortiter suaviterque disponens omnia: veni ad docendum nos viam prudentiae.
+O Sapientia * quae ex ore Altissimi prodiisti, attingens a fine usque ad finem, fortiter suaviterque disponens omnia: veni ad docendum nos viam prudentiae.
 
 [Adv Ant 18]
-O Adonai * et Dux domus Israel, qui Moysi in igne flammae rubi apparuisti, et ei~
-in Sina legem dedisti: veni ad redimendum nos in brachio extento.
+O Adonai * et Dux domus Israël, qui Moysi in igne flammae rubi apparuisti, et ei in Sina legem dedisti: veni ad redimendum nos in brachio extento.
 
 [Adv Ant 19]
-O radix Jesse * qui stas in signum populorum, super quem continebunt reges os~
-suum, quem Gentes deprecabuntur: veni ad liberandum nos, jam noli tardare.
+O radix Jesse * qui stas in signum populorum, super quem continebunt reges os suum, quem Gentes deprecabuntur: veni ad liberandum nos, jam noli tardare.
 
 [Adv Ant 20]
-O clavis David * et sceptrum domus Israel; qui aperis, et nemo claudit; claudis,~
-et nemo aperit: veni, et educe vinctum de domo carceris, sedentem in tenebris, et~
-umbra mortis.
+O clavis David * et sceptrum domus Israël; qui aperis, et nemo claudit; claudis, et nemo aperit: veni, et educ vinctum de domo carceris, sedentem in tenebris, et umbra mortis.
 
 [Adv Ant 21]
-O Oriens * splendor lucis aeternae, et sol justitiae: veni, et illumina sedentes~
-in tenebris, et umbra mortis,
+O Oriens * splendor lucis aeternae, et sol justitiae: veni, et illumina sedentes in tenebris, et umbra mortis,
 
 [Adv Ant 22]
-O Rex Gentium, et desideratus earum, lapisque angularis, qui facis utraque~
-unum: veni, et salva hominem, quem de limo formasti.
+O Rex Gentium, * et desideratus earum, lapisque angularis, qui facis utraque unum: veni, et salva hominem, quem de limo formasti.
 
 [Adv Ant 23]
-O Emmanuel * Rex et legifer noster, exspectatio Gentium, et Salvator earum: veni~
-ad salvandum nos Domine Deus noster.
+O Emmanuel * Rex et legifer noster, exspectatio Gentium, et Salvator earum: veni ad salvandum nos Domine Deus noster.
 
 [Adv Ant 21L]
 Nolite timere * quinta enim die veniet ad vos Dominus noster
@@ -801,7 +790,7 @@ Ecce completa sunt * omnia, quae dicta sunt per Angelum de Virgine Maria.
  
 [Quad Laudes]
 !Isa 58:1
-v. Clama ne cesses quasi tuba exalta vocem tuam et adnuntia populo meo scelera eorum et domui Iacob peccata eorum
+v. Clama, ne cesses, quasi tuba exalta vocem tuam, et annuntia populo meo scelera eorum, et domui Iacob peccata eorum.
 $Deo gratias
 
 [Hymnus Quad Laudes]
@@ -837,7 +826,7 @@ R. Ut custodiant te in omnibus viis tuis
 
 [Quad Vespera]
 !Joel 2:17
-v. Inter vestibulum et altare plorabunt sacerdotes ministri Domini et dicent parce Domine populo tuo et ne des hereditatem tuam in obprobrium ut dominentur eis nationes quare dicunt in populis ubi est Deus eorum
+v. Inter vestibulum et altare plorabunt sacerdotes, ministri Domini, et dicent: Parce, Domine, parce populo tuo: et ne des hereditatem tuam in opprobrium, ut dominentur eis nationes. 
 $Deo gratias
 
 [Hymnus Quad Vespera]
@@ -873,7 +862,7 @@ R. Ut custodiant te in omnibus viis tuis
 
 [Quad5 Laudes]
 !Jer 11:19
-v. Venite mittamus lignum in panem eius et eradamus eum de terra viventium et nomen eius non memoretur amplius
+v. Venite, mittamus lignum in panem eius, et eradamus eum de terra viventium, et nomen eius non memoretur amplius.
 $Deo gratias
 
 [Hymnus Quad5 Laudes]
@@ -881,7 +870,7 @@ $Deo gratias
 Tempus implens corporis:
 Sponte libera Redemptor
 Passioni deditus:
-Agnus in crucis levatur
+Agnus in Crucis levatur
 Immolandus stipite.
 _
 Felle potus ecce languet,
@@ -894,7 +883,7 @@ _
 Crux fidelis, inter omnes
 Arbor una nobilis:
 Silva talem nulla profert
-Fronde, flora, germine:
+Fronde, flore, germine:
 Dulce ferrum, dulce lignum
 Dulce pondus sustinent.
 _
@@ -902,7 +891,7 @@ Flecte ramos, arbor alta,
 Tensa laxa viscera:
 Et rigor lentescat ille,
 Quem dedit nativitas:
-Et superni membra regis
+Et superni membra Regis
 Tende miti stipite.
 _
 Sola digna tu fuisti
@@ -926,12 +915,12 @@ R. Et ab insurgentibus in me libera me
 
 [Quad5 Vespera]
 !Jer 11:20
-v. Tu autem Domine Sabaoth qui judicas juste et probas renes et cor videam ultionem tuam ex eis tibi enim revelavi causam meam Domine Deus meus
+v. Tu autem, Domine Sabaoth, qui judicas juste, et probas renes et corda, videam ultionem tuam ex eis: tibi enim revelavi causam meam, Domine Deus meus.
 $Deo gratias
 
 [Hymnus Quad5 Vespera]
 {:H-Vexillaregis:}v. Vexilla Regis prodeunt;
-Fulget crucis mysterium,
+Fulget Crucis mysterium,
 Qua vita mortem pertulit,
 Et morte vitam protulit.
 _
@@ -946,7 +935,7 @@ Dicendo nationibus:
 Regnavit a ligno Deus.
 _
 Arbor decora et fulgida,
-Ornata regis purpura,
+Ornata Regis purpura,
 Electa digno stipite
 Tam sancta membra tangere.
 _
@@ -955,29 +944,28 @@ Pretium pependit saeculi,
 Statera facta corporis,
 Tulitque praedam tartari.
 _
-O crux, ave, spes unica,
-Hoc passionis tempore
+O Crux, ave, spes unica,
+Hoc Passionis tempore
 Piis adauge gratiam,
 Reisque dele crimina.
 _
 Te, fons salutis, Trinitas,
 Collaudet omnis spiritus:
-Quibus crucis victoriam
+Quibus Crucis victoriam
 Largiris, adde praemium.
 Amen.
 
 [Quad5 Versum 3]
-V. Eripe me de inimicis meis Deus meus
-R. Et ab insurgentibus in me libera me
+V. Eripe me, Domine, ab homine malo.
+R. A viro iniquo eripe me. 
 
 [Pasch Laudes]
 !Rom 6:9-10
-v. Christus surgens ex mortuis iam non moritur mors illi ultra non dominabitur,~
-quod enim mortuus est peccato mortuus est semel quod autem vivit vivit Deo
+v. Christus resurgens ex mortuis iam non moritur, mors illi ultra non dominabitur. Quod enim mortuus est peccato, mortuus est semel: quod autem vivit, vivit Deo.
 $Deo gratias
 
 [Hymnus Pasch Laudes]
-{:H-Auroracoelum:}v. Aurora coelum purpurat,
+{:H-Auroracaelum:}v. Aurora caelum purpurat,
 Aether resultat laudibus,
 Mundus triumphans jubilat,
 Horrens avernus infremit:
@@ -987,17 +975,17 @@ De mortis inferno specu
 Patrum senatum liberum
 Educit ad vitae jubar.
 _
-Cujus sepulchrum plurimo
+Cujus sepulcrum plurimo
 Custode signabat lapis,
 Victor triumphat, et suo
-Mortem sepulchro funerat
+Mortem sepulcro funerat
 _
 Sat funeri, sat lacrimis,
 Sat est datum doloribus:
 Surrexit exstinctor necis,
-Clamat coruscans angelus.
+Clamat coruscans Angelus.
 _
-Et sis perenne mentibus
+Ut sis perenne mentibus
 Paschale Jesu gaudium,
 A morte dira criminum
 Vitae renatos libera.
@@ -1010,12 +998,11 @@ Amen.
 
 [Pasch Versum 2]
 V. In resurrectione tua Christe, alleluia
-R. Coeli et terra laetantur, alleluia
+R. Caeli et terra laetentur, alleluia
 
 [Pasch Vespera]
 !Rom 6:9-10
-v. Christus surgens ex mortuis iam non moritur mors illi ultra non dominabitur,~
-quod enim mortuus est peccato mortuus est semel quod autem vivit vivit Deo
+v. Christus resurgens ex mortuis iam non moritur, mors illi ultra non dominabitur. Quod enim mortuus est peccato, mortuus est semel: quod autem vivit, vivit Deo.
 $Deo gratias
 
 [Hymnus Pasch Vespera]
@@ -1030,23 +1017,23 @@ Almique membra corporis
 Amor sacerdos immolat.
 _
 Sparsum cruorem postibus
-Vastator horret angelus:
+Vastator horret Angelus:
 Fugitque divisum mare;
 Merguntur hostes fluctibus.
 _
-Jam pascha nostrum Christus est
+Jam Pascha nostrum Christus est
 Paschalis idem victima,
 Et pura puris mentibus
 Sinceritatis azyma.
 _
-O vera coeli victima,
+O vera caeli victima,
 Subjecta cui sunt tartara,
 Soluta mortis vincula,
 Recepta vitae praemia.
 _
 Victor, subactis inferis,
 Trophaea Christus explicat;
-Coeloque aperto, subditum
+Caeloque aperto, subditum
 Regem tenebrarum trahit.
 _
 Ut sis perenne mentibus
@@ -1074,7 +1061,7 @@ _
 !N. exprimitur nomen titularis propriae ecclesiae
 v. Oremus. 
 v. A cunctis nos, quaesumus, Domine, mentis et corporis defende periculis: et, intercedente beata et gloriosa semper Virgine Dei Genitrice Maria, cum beato Joseph, beatis Apostolis tuis Petro et Paulo, atque beato ~
-r. N. et omnibus Sanctis,salutem nobis tribue benignus et pacem; ut, destructis adversitatibus et erroribus universis, Ecclesia tua secura tibi serviat libertate.
+r. N. et omnibus Sanctis, salutem nobis tribue benignus et pacem; ut, destructis adversitatibus et erroribus universis, Ecclesia tua secura tibi serviat libertate.
 $Per eumdem
 
 [Suffragium11]
@@ -1086,8 +1073,8 @@ _
 !Oratio
 !N. exprimitur nomen titularis propriae ecclesiae
 v. Oremus. 
-v. A cunctis nos, quaesumus, Domine, mentis et corporis defende periculis: et, intercedente beato Joseph, beatis Apostolis tuis Petro et Paulo, atque beato~ 
-r. N. et omnibus Sanctis,salutem nobis tribue benignus et pacem; ut, destructis adversitatibus et erroribus universis, Ecclesia tua secura tibi serviat libertate.
+v. A cunctis nos, quaesumus, Domine, mentis et corporis defende periculis: et, intercedente beato Joseph, cum beatis Apostolis tuis Petro et Paulo, atque beato~ 
+r. N. et omnibus Sanctis, salutem nobis tribue benignus et pacem; ut, destructis adversitatibus et erroribus universis, Ecclesia tua secura tibi serviat libertate.
 $Per eumdem
 
 [Suffragium2]
@@ -1097,19 +1084,20 @@ V. Dicite in nationibus, alleluia
 R. Quia Dominus regnavit a ligno, alleluia
 _
 !Oratio
-v. Oremus Deus qui pro nobis Filium tuum crucis patibulum subire voluisti, ut inimici a nobis expelleres potestatem: concede nobis famulis tuis; ut resurrectionis gratiam consequamur.
+v. Oremus 
+v. Deus qui pro nobis Filium tuum Crucis patibulum subire voluisti, ut inimici a nobis expelleres potestatem: concede nobis famulis tuis; ut resurrectionis gratiam consequamur.
 $Per eumdem
 
 [Suffragium3]
 !De Beata Maria
-Ant. Sancta Maria succurre miseris, juva pusillanimes, refove flebiles, ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam commemorationem.
+Ant. Sancta Maria * succurre miseris, juva pusillanimes, refove flebiles, ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam commemorationem.
 _
 V. Ora pro nobis sancta Dei Genitrix.
 R. Ut digni efficiamur promissionibus Christi.
 _
 !Oratio
 v. Oremus 
-Concede nos famulos tuos, quaesumus Domine Deus, perpetua mentis et corporis sanitate gaudere, et gloriosa beatae Mariae semper Virginis intercessione, a praesenti liberari tristitia, et aeterna perfrui laetitia.
+v. Concede nos famulos tuos, quaesumus Domine Deus, perpetua mentis et corporis sanitate gaudere, et gloriosa beatae Mariae semper Virginis intercessione, a praesenti liberari tristitia, et aeterna perfrui laetitia.
 
 [Suffragium41]
 !De sancto Joseph
@@ -1120,7 +1108,7 @@ R. Et justitia ejus manet in saeculum saeculi.
 _
 !Oratio
 v. Oremus 
-Deus, qui ineffabili providentia beatum Joseph sanctissimae Genitricis tuae sponsum eligere dignatus es: praesta quaesumus; ut quem protectorem veneramur in terris, intercessorem habere mereamur in caelis.
+v. Deus, qui ineffabili providentia beatum Joseph sanctissimae Genitricis tuae sponsum eligere dignatus es: praesta quaesumus; ut quem protectorem veneramur in terris, intercessorem habere mereamur in caelis.
 
 [Suffragium42]
 !De sancto Joseph
@@ -1131,9 +1119,7 @@ R. Et lingua ejus loquetur judicium.
 _
 !Oratio
 v. Oremus 
-Deus, qui ineffabili providentia beatum Joseph sanctissimae Genitricis~
-tuae sponsum eligere dignatus es: praesta quaesumus; ut quem protectorem veneramur~
-in terris, intercessorem habere mereamur in caelis.
+v. Deus, qui ineffabili providentia beatum Joseph sanctissimae Genitricis tuae sponsum eligere dignatus es: praesta quaesumus; ut quem protectorem veneramur in terris, intercessorem habere mereamur in caelis.
 
 [Suffragium51]
 !De Apostolis
@@ -1144,9 +1130,7 @@ R. Memores erunt nominis tui Domine
 _
 !Oratio
 v. Oremus 
-Deus, cujus dextera beatum Petrum ambulantem in fluctibus, ne mergeretur,~
-erexit, et coapostolum ejus Paulum tertio naufragantem de profundo pelagi~ liberavit: exaudi nos propitius, et concede; ut amborum meritis, aeternitatis~
-gloriam consequamur.
+v. Deus, cujus dextera beatum Petrum ambulantem in fluctibus, ne mergeretur, erexit, et coapostolum ejus Paulum tertio naufragantem de profundo pelagi~ liberavit: exaudi nos propitius, et concede; ut amborum meritis, aeternitatis gloriam consequamur.
 
 [Suffragium52]
 !De Apostolis
@@ -1157,10 +1141,7 @@ R. Et in fines orbis terrae verba eorum.
 _
 !Oratio
 v. Oremus 
-Deus, cujus dextera beatum Petrum ambulantem in fluctibus, ne mergeretur,~
-erexit, et coapostolum ejus Paulum tertio naufragantem de profundo pelagi~
-liberavit: exaudi nos propitius, et concede; ut amborum meritis, aeternitatis~
-gloriam consequamur.
+v. Deus, cujus dextera beatum Petrum ambulantem in fluctibus, ne mergeretur, erexit, et coapostolum ejus Paulum tertio naufragantem de profundo pelagi liberavit: exaudi nos propitius, et concede; ut amborum meritis, aeternitatis gloriam consequamur.
 
 [Suffragium6]
 !De Pace.
@@ -1171,10 +1152,7 @@ R. Et abundantia in turribus tuis.
 _
 !Oratio
 v. Oremus 
-Deus, a quo sancta desideria, recta consilia, et justa sunt opera:~
-da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra~
-mandatis tuis dedita, et hostium sublata formidine, tempora sint tua protectione~
-tranquilla.
+v. Deus, a quo sancta desideria, recta consilia, et justa sunt opera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandatis tuis dedita, et hostium sublata formidine, tempora sint tua protectione tranquilla.
 $Per Dominum
 
 [Litania]
@@ -1319,7 +1297,7 @@ _
 Deus in adjutorium meum intende Domine ad adjuvandum me festina;
 confundantur et revereantur qui quaerunt animam meam
 avertantur retrorsum et erubescant qui volunt mihi mala avertantur statim erubescentes qui dicunt mihi; euge euge
-exultent et laetentur in te omnes qui quaerunt te et dicant semper magnificetur Deus qui diligunt salutare tuum
+exsultent et laetentur in te omnes qui quaerunt te et dicant semper magnificetur Deus qui diligunt salutare tuum
 ego vero egenus et pauper Deus adjuva me adjutor meus et liberator meus es tu Domine ne moreris
 &Gloria
 _
@@ -1362,7 +1340,7 @@ v. Actiones nostras, quaesumus, Domine, aspirando praeveni et adjuvando proseque
 v. Omnipotens sempiterne Deus, qui vivorum dominaris simul et mortuorum, omniumque misereris quos tuos fide et opere futuros esse praenoscis: te supplices exoramus; ut, pro quibus effundere preces decrevimus, quosque vel praesens saeculum adhuc in carne retinet vel futurum jam exutos corpore, suscepit, in­tercedentibus omnibus Sanctis tuis, pietatis tuae clementia, omnium delictorum suorum veniam consequantur.
 $Per Dominum
 &Dominus_vobiscum
-V. Exaudiat nos omnipotens et mosericors Dominus
+V. Exaudiat nos omnipotens et misericors Dominus
 R. Amen.
 $Fidelium animae
 
@@ -1428,8 +1406,7 @@ R. Benedicam Dominum * In omni tempore
 
 [Day6M Vespera]
 !Rom 11:33
-v. O Altitudo divitiarum sapientiae, et scientiae Dei quam incomprehensibilia~
-sunt judicia ejus, et investigabiles viae ejus!
+v. O Altitudo divitiarum sapientiae, et scientiae Dei quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus!
 $Deo gratias
 _
 R.br. Magnus Dominus noster, * et magna virtus eius.
@@ -1465,7 +1442,7 @@ R. Ostende nobis Domine, misericordiam tuam
 
 [QuadM Laudes]
 !Isa 58:1
-v. Clama ne cesses quasi tuba exalta vocem tuam et adnuntia populo meo scelera eorum et domui Iacob peccata eorum
+v. Clama ne cesses quasi tuba exalta vocem tuam et annuntia populo meo scelera eorum et domui Iacob peccata eorum
 $Deo gratias
 _
 R.br. Ipse liberavit me de laqueo venantium
@@ -1477,7 +1454,7 @@ R. Ipse liberavit me * de laqueo venantium
 
 [QuadM Vespera]
 !Joel 2:17
-v. Inter vestibulum et altare plorabunt sacerdotes ministri Domini et dicent parce Domine populo tuo et ne des hereditatem tuam in obprobrium ut dominentur eis nationes quare dicunt in populis ubi est Deus eorum
+v. Inter vestibulum et altare plorabunt sacerdotes, ministri Domini, et dicent: parce, Domine, parce populo tuo: et ne des hereditatem tuam in opprobrium, ut dominentur eis nationes. 
 $Deo gratias
 _
 R.br Scapulis suis * obumbrabit tibi
@@ -1489,7 +1466,7 @@ R. Scapulis suis obumbrabit tibi
 
 [Quad5M Laudes]
 !Jer 11:19
-v. Venite mittamus lignum in panem eius et eradamus eum de terra viventium et nomen eius non memoretur amplius
+v. Venite, mittamus lignum in panem eius, et eradamus eum de terra viventium, et nomen eius non memoretur amplius.
 $Deo gratias
 _
 R.br. Erue a framea * Deus animam meam
@@ -1511,21 +1488,19 @@ R. De ore leonis libera me Domine
 
 [PaschM Laudes]
 !Rom 6:9-10
-v. Christus surgens ex mortuis iam non moritur mors illi ultra non dominabitur,~
-quod enim mortuus est peccato mortuus est semel quod autem vivit vivit Deo
+v. Christus surgens ex mortuis iam non moritur mors illi ultra non dominabitur, quod enim mortuus est peccato mortuus est semel quod autem vivit vivit Deo
 $Deo gratias
 _
-R.br. Surrexit Dominus de sepulchro * Alleluia, alleluia
-R. Surrexit Dominus de sepulchro: Alleluia, alleluia
+R.br. Surrexit Dominus de sepulcro * Alleluia, alleluia
+R. Surrexit Dominus de sepulcro: Alleluia, alleluia
 V. Qui pro nobis pependit in ligno 
 R. Alleluia, alleluia
 &Gloria
-R. Surrexit Dominus de sepulchro: Alleluia, alleluia
+R. Surrexit Dominus de sepulcro: Alleluia, alleluia
 
 [PaschM Vespera]
 !Rom 6:9-10
-v. Christus surgens ex mortuis iam non moritur mors illi ultra non dominabitur,~
-quod enim mortuus est peccato mortuus est semel quod autem vivit vivit Deo
+v. Christus surgens ex mortuis iam non moritur mors illi ultra non dominabitur, quod enim mortuus est peccato mortuus est semel quod autem vivit vivit Deo
 $Deo gratias
 _
 R.br. Surrexit Dominus vere. Alleluia, alleluia 
@@ -1666,7 +1641,7 @@ _
 Deus in adjutorium meum intende Domine ad adjuvandum me festina;
 confundantur et revereantur qui quaerunt animam meam
 avertantur retrorsum et erubescant qui volunt mihi mala avertantur statim erubescentes qui dicunt mihi; euge euge
-exultent et laetentur in te omnes qui quaerunt te et dicant semper magnificetur Deus qui diligunt salutare tuum
+exsultent et laetentur in te omnes qui quaerunt te et dicant semper magnificetur Deus qui diligunt salutare tuum
 ego vero egenus et pauper Deus adjuva me adjutor meus et liberator meus es tu Domine ne moreris
 &Gloria
 _
@@ -1709,7 +1684,7 @@ v. Actiones nostras, quaesumus, Domine, aspirando praeveni et adjuvando proseque
 v. Omnipotens sempiterne Deus, qui vivorum dominaris simul et mortuorum, omniumque misereris quos tuos fide et opere futuros esse praenoscis: te supplices exoramus; ut, pro quibus effundere preces decrevimus, quosque vel praesens saeculum adhuc in carne retinet vel futurum jam exutos corpore, suscepit, in­tercedentibus omnibus Sanctis tuis, pietatis tuae clementia, omnium delictorum suorum veniam consequantur.
 $Per Dominum
 &Dominus_vobiscum
-V. Exaudiat nos omnipotens et mosericors Dominus
+V. Exaudiat nos omnipotens et misericors Dominus
 R. Amen.
 $Fidelium animae
 
@@ -1854,7 +1829,7 @@ _
 Deus in adjutorium meum intende Domine ad adjuvandum me festina;
 confundantur et revereantur qui quaerunt animam meam
 avertantur retrorsum et erubescant qui volunt mihi mala avertantur statim erubescentes qui dicunt mihi; euge euge
-exultent et laetentur in te omnes qui quaerunt te et dicant semper magnificetur Deus qui diligunt salutare tuum
+exsultent et laetentur in te omnes qui quaerunt te et dicant semper magnificetur Deus qui diligunt salutare tuum
 ego vero egenus et pauper Deus adjuva me adjutor meus et liberator meus es tu Domine ne moreris
 &Gloria
 _
@@ -1897,7 +1872,6 @@ v. Actiones nostras, quaesumus, Domine, aspirando praeveni et adjuvando proseque
 v. Omnipotens sempiterne Deus, qui vivorum dominaris simul et mortuorum, omniumque misereris quos tuos fide et opere futuros esse praenoscis: te supplices exoramus; ut, pro quibus effundere preces decrevimus, quosque vel praesens saeculum adhuc in carne retinet vel futurum jam exutos corpore, suscepit, in­tercedentibus omnibus Sanctis tuis, pietatis tuae clementia, omnium delictorum suorum veniam consequantur.
 $Per Dominum
 &Dominus_vobiscum
-V. Exaudiat nos omnipotens et mosericors Dominus
+V. Exaudiat nos omnipotens et misericors Dominus
 R. Amen.
 $Fidelium animae
-

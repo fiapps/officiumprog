@@ -13,7 +13,6 @@ De libro secundo Regum.
 9 Haec faciat Deus Abner, et haec addat ei, nisi quomodo juravit Dominus David, sic faciam cum eo,
 10 ut transferatur regnum de domo Saul, et elevetur thronus David super Israël et super Judam, a Dan usque Bersabee.
 
-
 [Responsory1]
 @Tempora/Pent01-2:Responsory1
 
@@ -25,7 +24,6 @@ De libro secundo Regum.
 15 Misit ergo Isboseth, et tulit eam a viro suo Phaltiel filio Lais.
 16 Sequebaturque eam vir suus, plorans usque Bahurim: et dixit ad eum Abner: Vade, et revertere. Qui reversus est.
 
-
 [Responsory2]
 @Tempora/Pent01-2:Responsory2
 
@@ -36,7 +34,6 @@ De libro secundo Regum.
 19 Locutus est autem Abner etiam ad Benjamin. Et abiit ut loqueretur ad David in Hebron omnia quae placuerant Israëli et universo Benjamin.
 20 Venitque ad David in Hebron cum viginti viris: et fecit David Abner, et viris ejus qui venerant cum eo, convivium.
 21 Et dixit Abner ad David: Surgam, ut congregem ad te dominum meum regem omnem Israël, et ineam tecum fœdus, et imperes omnibus, sicut desiderat anima tua. Cum ergo deduxisset David Abner, et ille isset in pace,
-
 
 [Responsory3]
 @Tempora/Pent01-2:Responsory3

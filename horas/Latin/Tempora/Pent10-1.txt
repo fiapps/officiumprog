@@ -11,7 +11,6 @@ De libro quarto Regum.
 2 Tollens autem Josaba filia regis Joram, soror Ochoziae, Joas filium Ochoziae, furata est eum de medio filiorum regis qui interficiebantur, et nutricem ejus de triclinio: et abscondit eum a facie Athaliae ut non interficeretur.
 3 Eratque cum ea sex annis clam in domo Domini: porro Athalia regnavit super terram.
 
-
 [Responsory1]
 @Tempora/Pent03-1Feria:Responsory1
 
@@ -22,7 +21,6 @@ De libro quarto Regum.
 6 tertia pars vestrum introëat sabbato, et observet excubias domus regis. Tertia autem pars sit ad portam Sur, et tertia pars sit ad portam quae est post habitaculum scutariorum: et custodietis excubias domus Messa.
 7 Duae vero partes e vobis, omnes egredientes sabbato, custodiant excubias domus Domini circa regem.
 
-
 [Responsory2]
 @Tempora/Pent03-1Feria:Responsory2
 
@@ -32,7 +30,6 @@ De libro quarto Regum.
 10 Qui dedit eis hastas et arma regis David, quae erant in domo Domini.
 11 Et steterunt singuli habentes arma in manu sua, a parte templi dextera usque ad partem sinistram altaris et aedis, circum regem.
 12 Produxitque filium regis, et posuit super eum diadema et testimonium: feceruntque eum regem, et unxerunt: et plaudentes manu, dixerunt: Vivat rex.
-
 
 [Responsory3]
 @Tempora/Pent03-1Feria:Responsory3

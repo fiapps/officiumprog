@@ -12,7 +12,6 @@ De libro secundo Regum.
 7 Ita autem loquebatur Semei cum malediceret regi: Egredere, egredere, vir sanguinum, et vir Belial.
 8 Reddidit tibi Dominus universum sanguinem domus Saul: quoniam invasisti regnum pro eo, et dedit Dominus regnum in manu Absalom filii tui: et ecce premunt te mala tua, quoniam vir sanguinum es.
 
-
 [Responsory1]
 @Tempora/Pent01-2:Responsory1
 
@@ -21,7 +20,6 @@ De libro secundo Regum.
 9 Dixit autem Abisai filius Sarviae regi: Quare maledicit canis hic mortuus domino meo regi? vadam, et amputabo caput ejus.
 10 Et ait rex: Quid mihi et vobis est, filii Sarviae? dimittite eum, ut maledicat: Dominus enim praecepit ei ut malediceret David: et quis est qui audeat dicere quare sic fecerit?
 
-
 [Responsory2]
 @Tempora/Pent01-2:Responsory2
 
@@ -29,7 +27,6 @@ De libro secundo Regum.
 !2 Sam 16:11-12
 11 Et ait rex Abisai, et universis servis suis: Ecce filius meus qui egressus est de utero meo, quaerit animam meam: quanto magis nunc filius Jemini? Dimittite eum ut maledicat juxta praeceptum Domini:
 12 si forte respiciat Dominus afflictionem meam, et reddat mihi Dominus bonum pro maledictione hac hodierna.
-
 
 [Responsory3]
 @Tempora/Pent01-2:Responsory3

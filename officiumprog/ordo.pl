@@ -73,6 +73,7 @@ our $communename = 'Commune';
 our $Tk = 0;
 our $Hk = 0;
 our $Ck = 0;
+our $notes = 0;
 our $missa = 0;
 our $ordostatus = 'Ordo';
 
@@ -151,5 +152,14 @@ sub maketable {
 	$o .= "</TR>\n";
   }
   $o .= "</TABLE>\n";
+  
+  if ($savesetup > 1) {
+    $ory = $oryear + 2;
+    for ($orm = 0; $orm < 12; $orm++) {
+  	  my $fname = "$htmlurl/Ordo/" . sprintf("K%s/%i-%i.html", $version, $ory, $orm+1);
+  	  if (!(-e "$fname")) {ordohtml($version, $ory, $orm+1);} 
+    }
+  }
+
   return $o;
 }

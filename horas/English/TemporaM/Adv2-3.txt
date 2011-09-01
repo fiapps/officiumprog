@@ -42,7 +42,7 @@ Jazer: they have wandered in the wilderness, the branches thereof are left, they
 are gone over the sea.
 
 [Responsory3]
-@TemporaM/Adv1-0:Responsory9
+@TemporaM/Adv2-0:Responsory9
 
 [Ant 2]
 Behold I send My angel * which shall prepare My way before thy face.

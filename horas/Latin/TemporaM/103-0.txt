@@ -1,5 +1,5 @@
 [Ant 1]
-Lugebat autem Judam * Israel planctu magno, et dicebat: Quomodo cecidisti potens~
+Lugebat autem Judam * Israël planctu magno, et dicebat: Quomodo cecidisti potens~
 in praelio, qui salvum faciebas populum Domini?
 
 [Versum 1]
@@ -41,7 +41,7 @@ De libro primo Maccabeorum
 16 Et qui in sinistro cornu erant, viderunt quod contritum est dextrum cornu, et secuti sunt post Judam, et eos qui cum ipso erant, a tergo:
 17 et ingravatum est praelium, et ceciderunt vulnerati multi ex his et ex illis.
 18 Et Judas cecidit, et ceteri fugerunt.
-19 Et Jonathas et Simon tulerunt Judam fratrem suum, et sepelierunt eum in sepulchro patrum suorum in civitate Modin.
+19 Et Jonathas et Simon tulerunt Judam fratrem suum, et sepelierunt eum in sepulcro patrum suorum in civitate Modin.
 20 Et fleverunt eum omnis populus Israël planctu magno, et lugebant dies multos,
 
 

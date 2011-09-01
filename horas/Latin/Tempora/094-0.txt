@@ -1,6 +1,5 @@
 [Ant 1]
-Adonai Domine * Deus magne et mirabilis, qui dedisti salutem in manu feminae,~
-exaudi preces servorum tuorum.
+Adonai Domine * Deus magne et mirabilis, qui dedisti salutem in manu feminae, exaudi preces servorum tuorum.
 
 [Versum 1]
 V. Vespertina oratio ascendat ad te Domine.
@@ -14,12 +13,10 @@ Incipit libro Judith
 3 Per quadrum vero earum latus utrumque vicenorum pedum spatio tendebatur, posuitque portas ejus in altitudinem turrium:
 4 et gloriabatur quasi potens in potentia exercitus sui, et in gloria quadrigarum suarum.
 
-
 [Responsory1]
 R. Adonai Domine Deus magne et mirabilis, qui dedisti salutem in manu feminae:
 * Exaudi preces servorum tuorum.
-V. Benedictus es Domine, qui non derelinquis praesumentes de te, et de sua~
-virtute gloriantes humilias.
+V. Benedictus es Domine, qui non derelinquis praesumentes de te, et de sua virtute gloriantes humilias.
 R. Exaudi preces servorum tuorum.
 
 [Lectio2]
@@ -29,7 +26,6 @@ R. Exaudi preces servorum tuorum.
 7 Tunc exaltatum est regnum Nabuchodonosor, et cor ejus elevatum est: et misit ad omnes qui habitabant in Cilicia, et Damasco, et Libano,
 8 et ad gentes quae sunt in Carmelo et Cedar, et inhabitantes Galilaeam in campo magno Esdrelon,
 9 et ad omnes qui erant in Samaria, et trans flumen Jordanem usque ad Jerusalem, et omnem terram Jesse quousque perveniatur ad terminos Æthiopiae.
-
 
 [Responsory2]
 @Tempora/093-0:Responsory7
@@ -44,11 +40,9 @@ R. Exaudi preces servorum tuorum.
 3 dixitque cogitationem suam in eo esse, ut omnem terram suo subjugaret imperio.
 
 [Responsory3]
-R. Benedicat te Dominus in virtute sua, qui per te ad nihilum redegit inimicos~
-nostros:
+R. Benedicat te Dominus in virtute sua, qui per te ad nihilum redegit inimicos nostros:
 * Ut non deficiat laus tua de ore hominum.
-V. Benedictus Dominus, qui creavit caelum et terram: quia hodie nomen tuum ita~
-magnificavit.
+V. Benedictus Dominus, qui creavit caelum et terram: quia hodie nomen tuum ita magnificavit.
 R. Ut non deficiat laus tua de ore hominum.
 &Gloria
 R. Ut non deficiat laus tua de ore hominum.
@@ -56,49 +50,28 @@ R. Ut non deficiat laus tua de ore hominum.
 [Lectio4]
 Ex libro sancti Ambrosii Episcopi de Elia et jejunio.
 !Lectio iv. Cap. 9.
-Potentes vinum prohibentur bibere, ne cum biberint, obliviscantur sapientiam.~
-Denique bibebant vinum in ebrietate potentes, qui Holoferni principi militiae~
-regis Assyriorum se tradere gestiebant: sed non bibebat femina Judith, jejunans~
-omnibus diebus viduitatis suae, praeter festorum dierum solemnitates. His armis~
-munita processit, et omnem Assyriorum circumvenit exercitum. Sobrii vigore~
-consilii abstulit Holofernis caput, servavit pudicitiam, victoriam reportavit.
+Potentes vinum prohibentur bibere, ne cum biberint, obliviscantur sapientiam. Denique bibebant vinum in ebrietate potentes, qui Holoferni principi militiae regis Assyriorum se tradere gestiebant: sed non bibebat femina Judith, jejunans omnibus diebus viduitatis suae, praeter festorum dierum solemnitates. His armis munita processit, et omnem Assyriorum circumvenit exercitum. Sobrii vigore consilii abstulit Holofernis caput, servavit pudicitiam, victoriam reportavit.
 
 [Responsory4]
 R. Nos alium Deum nescimus praeter Dominum, in quo speramus:
 * Qui non despicit nos, nec amovet salutem suam a genere nostro.
-V. Indulgentiam ipsius fusis lacrimis postulemus, et humiliemus illi animas~
-nostras.
+V. Indulgentiam ipsius fusis lacrimis postulemus, et humiliemus illi animas nostras.
 R. Qui non despicit nos, nec amovet salutem suam a genere nostro.
 
 [Lectio5]
-Haec enim succincta jejunio in castris praetendebat alienis ille vino sepultus~
-jacebat, ut ictum vulneris sentire non posset. Itaque unius mulieris jejunium~
-innumeros stravit exercitus Assyriorum. Esther quoque pulchrior facta est~
-jejunio: Dominus enim gratiam sobriae mentis augebat. Omne genus suum, id est,~
-totum populum Judaeorum a persecutionis acerbitate liberavit, ita ut regem sibi~
-faceret esse subjectum.
+Haec enim succincta jejunio in castris praetendebat alienis ille vino sepultus jacebat, ut ictum vulneris sentire non posset. Itaque unius mulieris jejunium innumeros stravit exercitus Assyriorum. Esther quoque pulchrior facta est jejunio: Dominus enim gratiam sobriae mentis augebat. Omne genus suum, id est, totum populum Judaeorum a persecutionis acerbitate liberavit, ita ut regem sibi faceret esse subjectum.
 
 [Responsory5]
-R. Dominator Domine caelorum et terrae, Creator aquarum, Rex universae~
-creaturae:
+R. Dominator Domine caelorum et terrae, Creator aquarum, Rex universae creaturae:
 * Exaudi orationem servorum tuorum.
 V. Tu Domine, cui humilium semper et mansuetorum placuit deprecatio.
 R. Exaudi orationem servorum tuorum.
 
 [Lectio6]
-Itaque illa, quae triduo jejunavit continuo, et corpus suum aqua lavit, plus~
-placuit, et vindictam retulit: Aman autem, dum se regali jactat convivio, inter~
-ipsa vina poenam suae ebrietatis exsolvit. Est ergo jejunium reconciliationis~
-sacrificium, virtutis incrementum, quod fecit etiam feminas fortiores augmento~
-gratiae. Jejunium nescit foeneratorem, non sortem foenoris novit: non redolet~
-usuras mensa jejunantium: etiam ipsis jejunium conviviis dat gratiam. Dulciores~
-post famem opulae fiunt, quae assiduitate fastidio sunt, et diuturna~
-continuatione vilescunt. Condimentum cibi jejunium est. Quanto avidior~
-appetentia, tanto esca jucundior.
+Itaque illa, quae triduo jejunavit continuo, et corpus suum aqua lavit, plus placuit, et vindictam retulit: Aman autem, dum se regali jactat convivio, inter ipsa vina poenam suae ebrietatis exsolvit. Est ergo jejunium reconciliationis sacrificium, virtutis incrementum, quod fecit etiam feminas fortiores augmento gratiae. Jejunium nescit foeneratorem, non sortem foenoris novit: non redolet usuras mensa jejunantium: etiam ipsis jejunium conviviis dat gratiam. Dulciores post famem opulae fiunt, quae assiduitate fastidio sunt, et diuturna continuatione vilescunt. Condimentum cibi jejunium est. Quanto avidior appetentia, tanto esca jucundior.
 
 [Responsory6]
-R. Domine Deus, qui conteris bella ab initio, eleva brachium tuum super Gentes,~
-quae cogitant servis tuis mala:
+R. Domine Deus, qui conteris bella ab initio, eleva brachium tuum super Gentes, quae cogitant servis tuis mala:
 * Et dextera tua glorificetur in nobis.
 V. Allide virtutem eorum in virtute tua: cadat robur eorum in iracundia tua.
 R. Et dextera tua glorificetur in nobis.

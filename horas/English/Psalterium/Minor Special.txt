@@ -96,7 +96,7 @@ $Deo gratias
 [Responsory Adv Tertia]
 R.br. Come to my rescue * O God, Lord of hosts
 R. Come to my rescue * O God, Lord of hosts
-V. show us thy face, and we shall be saved 
+V. Show us thy face, and we shall be saved 
 R. O God Lord of hosts
 &Gloria
 R. Come to my rescue * O God, Lord of hosts
@@ -113,7 +113,7 @@ $Deo gratias
 R.br. Show us, O Lord, * thy mercy; 
 R. Show us, O Lord, * thy mercy; 
 V. And grant us thy salvation 
-R. thy mercy
+R. Thy mercy
 &Gloria
 R. Show us, O Lord, * thy mercy; 
 _
@@ -215,7 +215,7 @@ R. Nor my life with bloody men
 
 [Quad5 Nona]
 !Jer 18:20
-v. Remember that I have stood in thy sight, so speak good for them, and turn away thy indignation from them.
+v. Remember that I have stood in thy sight, to speak good for them, and turn away thy indignation from them.
 $Deo gratias
 
 [Responsory Quad5 Nona]
@@ -398,7 +398,7 @@ R. And my lowness from the horns of the unicorns. * O Lord save me
 
 [Quad5 NonaM]
 !Jer 18:20
-v. Remember that I have stood in thy sight, so speak good for them, and turn away thy indignation from them.
+v. Remember that I have stood in thy sight, to speak good for them, and turn away thy indignation from them.
 $Deo gratias
 
 [Responsory Quad5 NonaM]

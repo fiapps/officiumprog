@@ -1,11 +1,10 @@
 [Lectio1]
 De libro secundo Maccabeorum
-!2 Mac  3:1-4
+!2 Mac 3:1-4
 1 Igitur cum sancta civitas habitaretur in omni pace, leges etiam adhuc optime custodirentur, propter Oniae pontificis pietatem, et animos odio habentes mala,
 2 fiebat ut et ipsi reges et principes locum summo honore dignum ducerent, et templum maximis muneribus illustrarent:
 3 ita ut Seleucus Asiae rex de redditibus suis praestaret omnes sumptus ad ministerium sacrificiorum pertinentes.
 4 Simon autem de tribu Benjamin, praepositus templi constitutus, contendebat, obsistente sibi principe sacerdotum, iniquum aliquid in civitate moliri.
-
 
 [Responsory1]
 @Tempora/101-2:Responsory1
@@ -17,7 +16,6 @@ De libro secundo Maccabeorum
 7 Cumque retulisset ad regem Apollonius de pecuniis quae delatae erant, illae accitum Heliodorum, qui erat super negotia ejus, misit, cum mandatis ut praedictam pecuniam transportaret.
 8 Statimque Heliodorus iter est agressus, specie quidem quasi per Cœlesyriam et Phœnicen civitates esset peragraturus, re vera autem regis propositum perfecturus.
 
-
 [Responsory2]
 @Tempora/101-2:Responsory2
 
@@ -27,7 +25,6 @@ De libro secundo Maccabeorum
 10 Tunc summus sacerdos ostendit deposita esse haec, et victualia viduarum et pupillorum:
 11 quaedam vero esse Hircani Tobiae viri valde eminentis, in his quae detulerat impius Simon: universa autem argenti talenta esse quadringenta, et auri ducenta:
 12 decipi vero eos qui credidissent loco et templo quod per universum mundum honoratur pro sui veneratione et sanctitate, omnino impossibile esse.
-
 
 [Responsory3]
 @Tempora/101-2:Responsory3

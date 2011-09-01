@@ -11,7 +11,6 @@ De libro primo Regum.
 2 Haec dicit Dominus exercituum: Recensui quaecumque fecit Amalec Israëli: quomodo restitit ei in via cum ascenderet de Ægypto.
 3 Nunc ergo vade, et percute Amalec, et demolire universa ejus: non parcas ei, et non concupiscas ex rebus ipsius aliquid, sed interfice a viro usque ad mulierem, et parvulum atque lactentem, bovem et ovem, camelum et asinum.
 
-
 [Responsory1]
 @Tempora/Pent01-2:Responsory1
 
@@ -23,7 +22,6 @@ De libro primo Regum.
 7 Percussitque Saul Amalec ab Hevila donec venias ad Sur, quae est e regione Ægypti.
 8 Et apprehendit Agag regem Amalec vivum: omne autem vulgus interfecit in ore gladii.
 
-
 [Responsory2]
 @Tempora/Pent01-2:Responsory2
 
@@ -32,7 +30,6 @@ De libro primo Regum.
 9 Et pepercit Saul et populus Agag, et optimis gregibus ovium et armentorum, et vestibus et arietibus, et universis quae pulchra erant, nec voluerunt disperdere ea: quidquid vero vile fuit et reprobum, hoc demoliti sunt.
 10 Factum est autem verbum Domini ad Samuel, dicens:
 11 Pœnitet me quod constituerim Saul regem: quia dereliquit me, et verba mea opere non implevit. Contristatusque est Samuel, et clamavit ad Dominum tota nocte.
-
 
 [Responsory3]
 @Tempora/Pent01-2:Responsory3

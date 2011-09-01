@@ -6,6 +6,7 @@ ex C1;
 9 lectiones
 Psalmi Dominica
 Antiphonas horas
+Psalm5 Vespera=116
 Psalm5 Vespera3=137
 Horas1960 Feria
 
@@ -44,13 +45,10 @@ Now and forever.
 Ámen.
 
 [Ant 1]
-I am the Angel Raphael *who stand before the Lord; but bless ye God, and tell of~
-all His wondrous works.
+I am the Angel Raphael *who stand before the Lord; but bless ye God, and tell of all His wondrous works.
 
 [Oratio]
-O God, Who didst give thy blessed Archangel Raphael unto thy servant Tobias to~
-be his fellow wayfarer, grant unto us, thy servants, that the same may ever keep~
-and shield us, help and defend us.
+O God, Who didst give thy blessed Archangel Raphael unto thy servant Tobias to be his fellow wayfarer, grant unto us, thy servants, that the same may ever keep and shield us, help and defend us.
 $Per Dominum
 
 [Invit]
@@ -85,13 +83,10 @@ Olvasmány Tóbiás könyvébõl
 4 Tobit így szólt: "Valóban õt illeti a fele annak, amit hoztál." 
 
 [Responsory1]
-R. At that time the prayers of them twain were heard in the presence of the~
-glory of the Most High God
-* And holy Raphael, the Angel of the Lord, was sent to heal the twain of them,~
-whose prayers had been uttered at one time in the presence of the Lord.
+R. At that time the prayers of them twain were heard in the presence of the glory of the Most High God
+* And holy Raphael, the Angel of the Lord, was sent to heal the twain of them, whose prayers had been uttered at one time in the presence of the Lord.
 V. Tobias and Sara were in tribulation, and began to pray with tears.
-R. And holy Raphael, the Angel of the Lord, was sent to heal the twain of them,~
-whose prayers had been uttered at one time in the presence of the Lord.
+R. And holy Raphael, the Angel of the Lord, was sent to heal the twain of them, whose prayers had been uttered at one time in the presence of the Lord.
 
 [Lectio2]
 !Tob 12:5-13
@@ -106,8 +101,7 @@ whose prayers had been uttered at one time in the presence of the Lord.
 13 Amikor nem restellted, hogy fölkelj és abbahagyd az evést, hanem elmentél és eltemetted a halottat, megbízást kaptam, hogy próbára tegyem a hitedet. 
 
 [Responsory2]
-R. When Tobias went forth he found a very well-favoured young man standing with~
-his loins girded, and as it were ready to set forth, and he saluted him and said
+R. When Tobias went forth he found a very well-favoured young man standing with his loins girded, and as it were ready to set forth, and he saluted him and said
 * Whence art thou, O good young man?
 V. And he knew not that it was an Angel of the Lord, and saluted him, and said :
 R. Whence art thou, O good young man?
@@ -149,8 +143,7 @@ Whose Name by all the universe confest.
 Ámen.
 
 [Ant 2]
-I am the Angel Raphael * who stand before the Lord; but bless ye God, and tell~
-of all His marvellous works. Alleluia.
+I am the Angel Raphael * who stand before the Lord; but bless ye God, and tell of all His marvellous works. Alleluia.
 
 [Capitulum Laudes]
 !Tob 12:12
@@ -158,9 +151,7 @@ v. Tudjátok meg hát, hogy amikor imádkoztatok, te meg Sára, kéréseteket az Úr fö
 $Deo gratias
 
 [Oratio]
-O God, Who didst give thy blessed Archangel Raphael unto thy servant Tobias to~
-be his fellow wayfarer, grant unto us, thy servants, that the same may ever keep~
-and shield us, help and defend us.
+O God, Who didst give thy blessed Archangel Raphael unto thy servant Tobias to be his fellow wayfarer, grant unto us, thy servants, that the same may ever keep and shield us, help and defend us.
 $Per Dominum
 
 [Capitulum Tertia]

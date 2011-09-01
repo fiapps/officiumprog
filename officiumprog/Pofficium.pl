@@ -29,6 +29,7 @@ $debug = '';
 our $Tk = 0;
 our $Hk = 0;
 our $Ck = 0;
+our $notes = 0;
 our $missa = 0;
 our $officium = 'Pofficium.pl';
 our $version = 'Divino Afflatu';

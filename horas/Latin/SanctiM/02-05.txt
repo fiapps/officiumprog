@@ -34,7 +34,7 @@ pervenire.
 [Ant Matutinum]
 Ingenua sum * et ex spectabili genere, ut omnis parentela mea testatur;;1
 Et si ingenua es, * cur te ostendis servilem personam? Quia ancilla Christia sum, ideo me ostendo servilem personam;;2
-Suma ingenuitas * ista est in qua servitus Christi comprobatur;;4
+Summa ingenuitas * ista est in qua servitus Christi comprobatur;;4
 Ancilla Christi sum, ideo me ostendo servilem habere personam;;5
 Agatha sancta dixit: Si feras mihi promittis, audito Christi nomine mansuescunt;;8
 Si ignem adhibeas, rorem mihi salvificum de caelo Angeli ministrabunt;;10
@@ -62,7 +62,7 @@ Petro Apóstolo, noctu ei apparénte, sanátur. Rursum evocáta a prætóre et in~
 Christi confessióne persevérans, in acútis téstulis et candéntibus carbónibus ei~
 subjéctis volutátur. Sed ob ingéntem terræmótum veheménter commóta civitáte,~
 Quintiánus, véritus pópuli tumúltum, eam semimórtuam clam redúci ímperat in~
-cárcerem ; ubi paulo post migrávit in cælum, Nonis Februárii.
+cárcerem; ubi paulo post migrávit in cælum, Nonis Februárii.
 &teDeum
 
 [Lectio1]
@@ -176,7 +176,7 @@ vehementer commota civitate, veritus populi tumultum Quintianus, Agatham semi~
 mortuam clam reduci imperat in carcerem. Quae sic Deum preacata: Domine, qui me~
 custodisti ab infantia, qui abstulisti a me amorem saeculi, qui me carnificum~
 tormentis superiorem praestitisti, decipe animam meam. Ea in oratione migravit~
-in coelum, Nonis Februarii; cujus corpus a Christianis sepelitur.
+in caelum, Nonis Februarii; cujus corpus a Christianis sepelitur.
 
 [Responsory6]
 R. Vidisti Domine, et spectasti agonem meum, quomodo pugnavi in stadio: sed quia~
@@ -199,7 +199,7 @@ Dominus noster, quia ad virginitatem hortari grave esse videbatur, a necessitate
 legis de non solvando matrimonio, eos ad cupiditatem illius trahere studet.~
 Deinde ut eam esse possibilem ostendat, sic inquit: Sunt eunuchi qui ex ventre~
 matris ita nati sunt, et sunt qui ab hominibus eunuchi facti sunt, et sunt qui~
-seipsos castraverunt propter regnum coelorum. Quibus verbis latenter eos ad~
+seipsos castraverunt propter regnum caelorum. Quibus verbis latenter eos ad~
 eligendam virginitatem inducit, dum eam virtutem esse possibilem astruit.
 
 [Responsory7]
@@ -269,7 +269,7 @@ R. Et pulchritudine tua.
 R. Specie tua * Et pulchritudine tua.
 
 [Ant 2]
-Paganorum multitudo * fugiens ad sepulchrum virginis, tulerunt velum ejus contra~
+Paganorum multitudo * fugiens ad sepulcrum virginis, tulerunt velum ejus contra~
 ignem: ut comprobaret Dominus, quod a periculis incendii meritis beatae Agathae~
 Martyris suae eos liberaret.
 

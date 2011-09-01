@@ -83,11 +83,11 @@ ex nobis.
 
 [Responsory3]
 R. In jejunio et fletu orabunt sacerdotes, dicentes:
-* Parce Domine, parce populo tuo; et ne des haereditatem tuam in perditionem.
+* Parce Domine, parce populo tuo; et ne des hereditatem tuam in perditionem.
 V. Inter vestibulum et altare plorabunt sacerdotes, dicentes.
-R. Parce Domine, parce populo tuo; et ne des haereditatem tuam in perditionem.
+R. Parce Domine, parce populo tuo; et ne des hereditatem tuam in perditionem.
 &Gloria
-R. Parce Domine, parce populo tuo; et ne des haereditatem tuam in perditionem.
+R. Parce Domine, parce populo tuo; et ne des hereditatem tuam in perditionem.
 
 [Lectio4]
 Sermo sancti Leonis Papae.
@@ -103,11 +103,9 @@ in quo redempti sumus, recursus invitat: ut excellens super omnia passionis~
 Dominicae sacramentum, purificatis et corporibus et animis celebremus.
 
 [Responsory4]
-R. Emendemus in melius, quae ignoranter peccavimus: ne subito praeoccupati die~
-mortis, quaeramus spatium poenitentize, et invenire non possimus:
+R. Emendemus in melius, quae ignoranter peccavimus: ne subito praeoccupati die mortis, quaeramus spatium poenitentiae, et invenire non possimus:
 * Attende Domine, et miserere, quia peccavimus tibi.
-V. Adjuva nos Deus salutaris noster, et propter honorem nominis tui Domine~
-libera nos.
+V. Adjuva nos Deus salutaris noster, et propter honorem nominis tui Domine libera nos.
 R. Attende Domine, et miserere, quia peccavimus tibi.
 
 [Lectio5]

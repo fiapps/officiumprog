@@ -6,7 +6,6 @@ De libro Tobiae
 3 Cumque abiisset, reversus nuntiavit ei unum ex filiis Israël jugulatum jacere in platea. Statimque exiliens de accubitu suo, relinquens prandium, jejunus pervenit ad corpus:
 4 tollensque illud portavit ad domum suam occulte, ut dum sol occubuisset, caute sepeliret eum.
 
-
 [Responsory1]
 @Tempora/093-0:Responsory1
 
@@ -17,7 +16,6 @@ De libro Tobiae
 10 Contigit autem ut quadam die fatigatus a sepultura, veniens in domum suam, jactasset se juxta parietem, et obdormisset,
 11 et ex nido hirundinum dormienti illi calida stercora inciderent super oculos ejus, fieretque caecus.
 12 Hanc autem tentationem ideo permisit Dominus evenire illi, ut posteris daretur exemplum patientiae ejus, sicut et sancti Job.
-
 
 [Responsory2]
 @Tempora/093-0:Responsory2
@@ -30,7 +28,6 @@ De libro Tobiae
 16 Ubi est spes tua, pro qua eleemosynas et sepulturas faciebas?
 17 Tobias vero increpabat eos, dicens: Nolite ita loqui:
 18 quoniam filii sanctorum sumus, et vitam illam expectamus, quam Deus daturus est his qui fidem suam numquam mutant ab eo.
-
 
 [Responsory3]
 @Tempora/093-0:Responsory6

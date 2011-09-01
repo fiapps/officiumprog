@@ -7,7 +7,6 @@ De Parabolis Salomonis.
 4 Universa propter semetipsum operatus est Dominus; impium quoque ad diem malum.
 5 Abominatio Domini est omnis arrogans; etiamsi manus ad manum fuerit, non est innocens. Initium viae bonae facere justitiam; accepta est autem apud Deum magis quam immolare hostias.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory7
 
@@ -17,7 +16,6 @@ De Parabolis Salomonis.
 7 Cum placuerint Domino viae hominis, inimicos quoque ejus convertet ad pacem.
 8 Melius est parum cum justitia quam multi fructus cum iniquitate.
 9 Cor hominis disponit viam suam, sed Domini est dirigere gressus ejus.
-
 
 [Responsory2]
 @Tempora/081-1:Responsory2
@@ -30,7 +28,6 @@ De Parabolis Salomonis.
 13 Voluntas regum labia justa; qui recta loquitur diligetur.
 14 Indignatio regis nuntii mortis, et vir sapiens placabit eam.
 15 In hilaritate vultus regis vita, et clementia ejus quasi imber serotinus.
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

@@ -66,7 +66,7 @@ habitatores orbis.
 et non videbit gloriam Domini.
 
 [Responsory2]
-R. Bethlehem civitas Dei summi, ex te exiet Dominator Israel, et egressus ejus~
+R. Bethlehem civitas Dei summi, ex te exiet Dominator Israël, et egressus ejus~
 sicut a principio dierum aeternitatis, et magnificabitur in medio universae~
 terrae:
 * Et pax erit in terra nostra, dum venerit.
@@ -119,15 +119,15 @@ voluptati. Fiat refectio pauperis abstinentia jejunantis.
 
 [Responsory5]
 R. Prope est ut veniat tempus ejus, et dies ejus non elongabuntur:
-* Miserebitur Dominus Jacob, et Israel salvabitur.
-V. Revertere virgo Israel, revertere ad civitates tuas.
-R. Miserebitur Dominus Jacob, et Israel salvabitur.
+* Miserebitur Dominus Jacob, et Israël salvabitur.
+V. Revertere virgo Israël, revertere ad civitates tuas.
+R. Miserebitur Dominus Jacob, et Israël salvabitur.
 
 [Lectio6]
 Studeamus viduorum defensioni, pupillorum utilitati, lugentium consolationi,~
 dissidentium paci. Suscipiatur peregrinus, adjuvetur oppressus, vestiatur nudus,~
 foveatur aegrotus: ut quicumque nostrum de justis laboribus auctori bonorum~
-omnium Deo sacrificium hujus pietatis obtulerit, ab eodem regni coelestis~
+omnium Deo sacrificium hujus pietatis obtulerit, ab eodem regni caelestis~
 praemium percipere mereatur. Quarta igitur et sexta Feria jejunemus: Sabbato~
 autem apud beatum Petrum Apostolum pariter vigilemus: cujus suffragantibus~
 meritis, quae poscimus, impetrare possimus per Dominum nostrum Jesum Christum,~
@@ -186,7 +186,7 @@ R. Et erit nomen ejus gloriosum.
 [Lectio9]
 Sed si subtiliter veritas ipsa requiratur, hoc quod inter se contrarium sonat,~
 quomodo contrarium non sit, invenitur. Ad Zachariam namque de Joanne Angelus~
-dicit: Ipse praecedet ante illum in spiritu et virtute Elise. Qui idcirco~
+dicit: Ipse praecedet ante illum in spiritu et virtute Eliae. Qui idcirco~
 venturus in spiritu et virtute Eliae dicitur, quia sicut Elias secundum Domini~
 adventum praeveniet, ita Joannes praevenit primiun. Sicut ille praecursor~
 venturus est Judicis, ita iste praecursor est factus Redemptoris. Joannes igitur~
@@ -232,7 +232,7 @@ $Deo gratias
 
 [Capitulum Sexta]
 !Phil 4:6
-v. Nihil solliciti sitis: sed in omni oratione, et obsecratidne, cum gratiarum~
+v. Nihil solliciti sitis: sed in omni oratione, et obsecratione, cum gratiarum~
 actione, petitiones vestrae innotescant apud Deum.
 $Deo gratias
 

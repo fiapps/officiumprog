@@ -22,7 +22,7 @@ Amen.
 
 #Psalmi
 
-#Capitulum Responsorium Versum
+#Capitulum Responsorium Versus
 
 #Oratio
 

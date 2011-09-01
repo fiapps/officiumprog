@@ -7,7 +7,6 @@ De libro Esther
 4 Statimque rex: Quis est, inquit, in atrio? Aman quippe interius atrium domus regiae intraverat, ut suggereret regi, et juberet Mardochaeum affigi patibulo, quod ei fuerat praeparatum.
 5 Responderunt pueri: Aman stat in atrio. Dixitque rex: Ingrediatur.
 
-
 [Responsory1]
 @Tempora/095-0:Responsory4
 
@@ -18,7 +17,6 @@ De libro Esther
 8 debet indui vestibus regiis, et imponi super equum, qui de sella regis est, et accipere regium diadema super caput suum:
 9 et primus de regiis principibus ac tyrannis teneat equum ejus, et per plateam civitatis incedens clamet, et dicat: Sic honorabitur, quemcumque voluerit rex honorare.
 
-
 [Responsory2]
 @Tempora/093-0:Responsory7
 
@@ -28,7 +26,6 @@ De libro Esther
 11 Tulit itaque Aman stolam et equum, indutumque Mardochaeum in platea civitatis, et impositum equo praecedebat, atque clamabat: Hoc honore condignus est, quemcumque rex voluerit honorare.
 12 Reversusque est Mardochaeus ad januam palatii: et Aman festinavit ire in domum suam, lugens et operto capite:
 13 narravitque Zares uxori suae, et amicis, omnia quae evenissent sibi. Cui responderunt sapientes quos habebat in consilio, et uxor ejus: Si de semine Judaeorum est Mardochaeus, ante quem cadere cœpisti, non poteris ei resistere, sed cades in conspectu ejus.
-
 
 [Responsory3]
 @Tempora/094-0:Responsory3

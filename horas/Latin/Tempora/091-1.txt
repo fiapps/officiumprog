@@ -6,7 +6,6 @@ De libro Job
 15 et irruerunt Sabaei, tuleruntque omnia, et pueros percusserunt gladio: et evasi ego solus, ut nuntiarem tibi.
 16 Cumque adhuc ille loqueretur, venit alter, et dixit: Ignis Dei cecidit e caelo, et tactas oves puerosque consumpsit: et effugi ego solus, ut nuntiarem tibi.
 
-
 [Responsory1]
 R. Versa est in luctum cithara mea, et organum meum in vocem flentium:
 * Parce mihi Domine: nihil enim sunt dies mei.
@@ -19,12 +18,10 @@ R. Parce mihi Domine: nihil enim sunt dies mei.
 18 Adhuc loquebatur ille, et ecce alius intravit, et dixit: Filiis tuis et filiabus vescentibus et bibentibus vinum in domo fratris sui primogeniti,
 19 repente ventus vehemens irruit a regione deserti, et concussit quatuor angulos domus: quae corruens oppressit liberos tuos, et mortui sunt: et effugi ego solus, ut nuntiarem tibi.
 
-
 [Responsory2]
 R. Utinam appenderentur peccata mea, quibus iram merui:
 * Et calamitas quam patior, in statera.
-V. Quasi arena maris haec gravior appareret, unde et verba mea dolore sunt~
-plena.
+V. Quasi arena maris haec gravior appareret, unde et verba mea dolore sunt plena.
 R. Et calamitas quam patior, in statera.
 
 [Lectio3]
@@ -32,7 +29,6 @@ R. Et calamitas quam patior, in statera.
 20 Tunc surrexit Job, et scidit vestimenta sua: et tonso capite corruens in terram, adoravit,
 21 et dixit: Nudus egressus sum de utero matris meae, et nudus revertar illuc. Dominus dedit, Dominus abstulit; sicut Domino placuit, ita factum est. Sit nomen Domini benedictum.
 22 In omnibus his non peccavit Job labiis suis, neque stultum quid contra Deum locutus est.
-
 
 [Responsory3]
 @Tempora/091-0:Responsory3

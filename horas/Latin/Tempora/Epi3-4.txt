@@ -6,14 +6,13 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Ephesios
-!Eph  4:1-6
+!Eph 4:1-6
 1 Obsecro itaque vos ego vinctus in Domino, ut digne ambuletis vocatione, qua vocati estis,
 2 cum omni humilitate, et mansuetudine, cum patientia, supportantes invicem in caritate,
 3 solliciti servare unitatem Spiritus in vinculo pacis.
 4 Unum corpus, et unus Spiritus, sicut vocati estis in una spe vocationis vestrae.
 5 Unus Dominus, una fides, unum baptisma.
 6 Unus Deus et Pater omnium, qui est super omnes, et per omnia, et in omnibus nobis.
-
 
 [Responsory1]
 @Tempora/Epi2-4:Responsory1
@@ -25,7 +24,6 @@ De epistola ad Ephesios
 9 Quod autem ascendit, quid est, nisi quia et descendit primum in inferiores partes terrae?
 10 Qui descendit, ipse est et qui ascendit super omnes caelos, ut impleret omnia.
 
-
 [Responsory2]
 @Tempora/Epi2-4:Responsory2
 
@@ -36,7 +34,6 @@ De epistola ad Ephesios
 13 donec occurramus omnes in unitatem fidei, et agnitionis Filii Dei, in virum perfectum, in mensuram aetatis plenitudinis Christi:
 14 ut jam non simus parvuli fluctuantes, et circumferamur omni vento doctrinae in nequitia hominum, in astutia ad circumventionem erroris.
 15 Veritatem autem facientes in caritate, crescamus in illo per omnia, qui est caput Christus:
-
 
 [Responsory3]
 @Tempora/Epi2-4:Responsory3

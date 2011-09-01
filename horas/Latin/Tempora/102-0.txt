@@ -1,6 +1,5 @@
 [Ant 1]
-Refulsit sol * in clypeos aureos, et resplenduerunt montes ab eis, et fortitudo~
-Gentium dissipata est.
+Refulsit sol * in clypeos aureos, et resplenduerunt montes ab eis, et fortitudo Gentium dissipata est.
 
 [Versum 1]
 V. Vespertina oratio ascendat ad te Domine.
@@ -15,7 +14,6 @@ De libro primo Maccabeorum
 39 Et sciderunt vestimenta sua, et planxerunt planctu magno, et imposuerunt cinerem super caput suum,
 40 et ceciderunt in faciem super terram, et exclamaverunt tubis signorum, et clamaverunt in caelum.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory1
 
@@ -28,7 +26,6 @@ De libro primo Maccabeorum
 45 Et incidit illis consilium bonum ut destruerent illud: ne forte illis esset in opprobrium, quia contaminaverunt illud gentes, et demoliti sunt illud.
 46 Et reposuerunt lapides in monte domus in loco apto, quoadusque veniret propheta, et responderet de eis.
 
-
 [Responsory2]
 @Tempora/101-0:Responsory2
 
@@ -40,48 +37,25 @@ De libro primo Maccabeorum
 50 Et incensum posuerunt super altare, et accenderunt lucernas quae super candelabrum erant, et lucebant in templo.
 51 Et posuerunt super mensam panes, et appenderunt vela, et consummaverunt omnia opera quae fecerant.
 
-
 [Responsory3]
 @Tempora/101-0:Responsory3
 
 [Lectio4]
 Ex libro sancti Augustini Episcopi de Civitate Dei.
 !Lib. 18. c. 45.
-Posteaquam gens Judaea coepit non habere prophetas, proculdubio deterior facta~
-est, eo scilicet tempore, quo se sperabat instaurato templo, post captivitatem,~
-quae fuit in Babylonia, futuram esse meliorem. Sic quippe intelligebat populus~
-ille carnalis, quod praenuntiatum est per Aggaeum prophetam, dicentem: Magna~
-erit gloria domus istius novissimae plus quam primae. Quod de novo testamento~
-dictum esse, paulo superius demonstravit, ubi ait aperte Christum promittens: Et~
-movebo omnes Gentes: et veniet desideratus cunctis Gentibus.
+Posteaquam gens Judaea coepit non habere prophetas, proculdubio deterior facta est, eo scilicet tempore, quo se sperabat instaurato templo, post captivitatem, quae fuit in Babylonia, futuram esse meliorem. Sic quippe intelligebat populus ille carnalis, quod praenuntiatum est per Aggaeum prophetam, dicentem: Magna erit gloria domus istius novissimae plus quam primae. Quod de novo testamento dictum esse, paulo superius demonstravit, ubi ait aperte Christum promittens: Et movebo omnes Gentes: et veniet desideratus cunctis Gentibus.
 
 [Responsory4]
 @Tempora/101-0:Responsory4
 
 [Lectio5]
-Talibus enim electis Gentium domus Dei aedificatur per testamentum novum~
-lapidibus vivis, longe gloriosior, quam templum illud fuit, quod a rege Salomone~
-constructum est, et post captivitatem instauratum. Propter hoc ergo nec~
-prophetas ex illo tempore habuit illa gens: sed multis cladibus afflicta est ab~
-alienigenis regibus, ipsisque Romanis, ne hanc Aggaei prophetiam in illa~
-instauratione templi opinaretur impletam. Non multo enim post, adveniente~
-Alexandro, subjugata est: quando etsi nulla facta est vastatio, quoniam non sunt~
-ausi ei resistere, et ideo placatum facillime subditi receperunt; non erat tamen~
-gloria tanta domus illius, quanta fuit in suorum regum libera potestate.
+Talibus enim electis Gentium domus Dei aedificatur per testamentum novum lapidibus vivis, longe gloriosior, quam templum illud fuit, quod a rege Salomone constructum est, et post captivitatem instauratum. Propter hoc ergo nec prophetas ex illo tempore habuit illa gens: sed multis cladibus afflicta est ab alienigenis regibus, ipsisque Romanis, ne hanc Aggaei prophetiam in illa instauratione templi opinaretur impletam. Non multo enim post, adveniente Alexandro, subjugata est: quando etsi nulla facta est vastatio, quoniam non sunt ausi ei resistere, et ideo placatum facillime subditi receperunt; non erat tamen gloria tanta domus illius, quanta fuit in suorum regum libera potestate.
 
 [Responsory5]
 @Tempora/101-0:Responsory5
 
 [Lectio6]
-Deinde Ptolemaeus Lagi filius, post Alexandri mortem captivos inde in Aegyptum~
-transtulit: quos ejus successor Ptolemaeus Philadelphus benevolentissime inde~
-dimisit: per quem factum est, ut Septuaginta interpretum Scripturas haberemus.~
-Deinde contriti sunt bellis, quae in Machabaeorum libris explicantur. Post haec~
-capti a rege Alexandriae Ptolemaeo, qui est appellatus Epiphanes, inde ab~
-Antiocho rege Syriae multis et gravissimis malis ad idola colenda compulsi:~
-templumque ipsum repletum sacrilegis superstitionibus Gentium, quod tamen dux~
-eorum strenuissimus Judas, qui etiam Machabaeus dictus est, Antiochi ducibus~
-pulsis, ab omni illa idololatriae contaminatione mundavit.
+Deinde Ptolemaeus Lagi filius, post Alexandri mortem captivos inde in Aegyptum transtulit: quos ejus successor Ptolemaeus Philadelphus benevolentissime inde dimisit: per quem factum est, ut Septuaginta interpretum Scripturas haberemus. Deinde contriti sunt bellis, quae in Machabaeorum libris explicantur. Post haec capti a rege Alexandriae Ptolemaeo, qui est appellatus Epiphanes, inde ab Antiocho rege Syriae multis et gravissimis malis ad idola colenda compulsi: templumque ipsum repletum sacrilegis superstitionibus Gentium, quod tamen dux eorum strenuissimus Judas, qui etiam Machabaeus dictus est, Antiochi ducibus pulsis, ab omni illa idololatriae contaminatione mundavit.
 
 [Responsory6]
 @Tempora/101-0:Responsory6

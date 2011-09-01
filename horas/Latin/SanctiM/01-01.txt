@@ -51,7 +51,7 @@ Suscepimus Deus * misericordiam tuam in medio templi tui;;47
 Orietur * in diebus Domini abundantia pacis, et dominabitur;;71
 V. Tamquam sponsus.
 R. Dominus procedens de thalamo suo.
-Veritas * de terra orta est, et justitia de coelo prospexit;;84
+Veritas * de terra orta est, et justitia de caelo prospexit;;84
 Homo natus est * in ea, et ipse fundavit eam Altissimus;;86
 Exsultabunt omnia ligna silvarum * ante faciem Domini, quoniam venit;;95
 In principio * et ante saecula Deus erat Verbum, et ipse natus est hodie Salvator mundi;;96
@@ -84,7 +84,7 @@ sine operibus:
 R. Ecce Agnus Dei, ecce qui tollit peccata mundi: ecce de quo dicebam vobis: Qui~
 post me venit, ante me factus est:
 * Cujus non sum dignus corrigiam calceamenti solvere.
-V. Qui de terra est, de terra loquitur: qui de coelo venit, super omnes est.
+V. Qui de terra est, de terra loquitur: qui de caelo venit, super omnes est.
 R. Cujus non sum dignus corrigiam calceamenti solvere.
 
 [Lectio2]
@@ -109,7 +109,7 @@ R. Quia hodie descendit lux magna in terris.
 !Rom 4:13-17
 13 Non enim per legem promissio Abrahae, aut semini ejus ut haeres esset mundi:~
 sed per justitiam fidei.
-14 Si enim qui ex lege, haeredes sunt: exinanita est fides, abolita est~
+14 Si enim qui ex lege, heredes sunt: exinanita est fides, abolita est~
 promissio.
 15 Lex enim iram operatur. Ubi enim non est lex, nec praevaricatio.
 16 Ideo ex fide, ut secundum gratiam firma sit promissio omni semini, non ei qui~
@@ -177,12 +177,12 @@ ut et humanam probet imperilitas, et divinam declaret aequalitas.
 [Responsory6]
 R. Benedicta et venerabilis es Virgo Maria, quae sine tactu pudoris inventa es~
 mater Salvatoris:
-* Jacebat in praesepio, et fulgebat in coelo.
+* Jacebat in praesepio, et fulgebat in caelo.
 V. Domine audivi auditum tuum, et timui: consideravi opera tua, et expavi: in~
 medio duorum animalium.
-R. Jacebat in praesepio, et fulgebat in coelo.
+R. Jacebat in praesepio, et fulgebat in caelo.
 &Gloria
-R. Jacebat in praesepio, et fulgebat in coelo.
+R. Jacebat in praesepio, et fulgebat in caelo.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
@@ -202,9 +202,9 @@ circumcisio purgationem significat delictorum.
 
 [Responsory7]
 R. Sancta et imaculata virginitas, quibus te laudibus efferam nescio:
-* Quia quem coeli capere non poterant, tuo gremio contulisti.
+* Quia quem caeli capere non poterant, tuo gremio contulisti.
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem coeli capere non poterant, tuo gremio contulisti.
+R. Quia quem caeli capere non poterant, tuo gremio contulisti.
 
 [Lectio8]
 Sed quoniam prona quadam cupiditate peccandi, humanae carnis et mentis~
@@ -233,7 +233,7 @@ Solus enim per omnia ex natis de femina sanctus Dominus Jesus, qui terrenae~
 contagia corruptelae, immaculati partus novitate non senserit, et caelesti~
 majestate depulerit. Nam si litteram sequamur: quomodo sanctus omnis masculus,~
 cum multos sceleratissimos fuisse non lateat? Numquid sanctus Achab? Numquid~
-sancti pseudoprophetae, quos ad Eliae preces ultor coelestis injuriae ignis~
+sancti pseudoprophetae, quos ad Eliae preces ultor caelestis injuriae ignis~
 absumpsit? Sed ille sanctus, quem in figura futuri mysterii pia legis divinae~
 praescripta signabant; eo quod solus sanctae Ecclesiae virginis ad generandos~
 populos Dei, immaculatae foecunditatis aperiret genitale secretum.
@@ -286,7 +286,7 @@ $Deo gratias
 
 [Capitulum Sexta]
 !Heb 1:10
-v. Et Tu in principio Domine terram fundasti: et opera manuum tuarum sunt coeli.
+v. Et Tu in principio Domine terram fundasti: et opera manuum tuarum sunt caeli.
 $Deo gratias
 
 [Capitulum Nona]
@@ -297,7 +297,7 @@ non deficient.
 $Deo gratias
 
 [Ant 3]
-Magnum haereditatis * mysterium: templum Dei factus est uterus nescientis~
+Magnum hereditatis * mysterium: templum Dei factus est uterus nescientis~
 virum: non est pollutus ex ea carnem assumens: omnes gentes venient, dicentes:~
 Gloria tibi Domine.
 

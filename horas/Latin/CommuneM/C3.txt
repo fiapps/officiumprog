@@ -33,7 +33,7 @@ _
 Hi sunt, quos fatue mundus abhorruit;
 Hunc fructu vacuum, floribus aridum
 Contempsere tui nominis asseclae
-Jesu Rex bone coelitum.
+Jesu Rex bone caelitum.
 _
 Hi pro te furias, atque minas truces
 Calcarunt hominum, saevaque verbera:
@@ -70,7 +70,7 @@ Regem martyrum Dominum * Venite adoremus
 [Hymnus Matutinum]
 {:H-Christoprofusum:}v. Christo profusum sanguinem,
 Et martyrum victorias,
-Dignamque coelo lauream
+Dignamque caelo lauream
 Laetis sequamur vocibus.
 _
 Terrore victo saeculi,
@@ -111,7 +111,7 @@ Sanguis sanctorum martyrum * pro Christo effusus est in terra; ideo adepti sunt 
 Vindica Domine * sanguinem Sanctorum tuorum,, qui effusus est super terram;;78
 V. Exsultent justi in conspectu Dei.
 R. Et delectentur in laetitia
-Beati, * qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est regnum coelorum;;259;254;255
+Beati, * qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est regnum caelorum;;259;254;255
 V. Justi autem in perpetuum vivent.
 R. Et apud Dominum est merces eorum.
 
@@ -123,7 +123,7 @@ De Epistola beati Pauli Apostoli ad Romanos.
 14 Quicumque enim Spiritu Dei aguntur, ii sunt filii Dei.
 15 Non enim accepistis spiritum servitutis iterum in timore, sed accepistis spiritum adoptionis filiorum, in quo clamamus: Abba (Pater).
 16 Ipse enim Spiritus testimonium reddit spiritui nostro quod sumus filii Dei.
-17 Si autem filii, et haeredes: haeredes, quidem Dei, cohaeredes autem Christi: si tamen compatimur ut et conglorificemur.
+17 Si autem filii, et heredes: heredes, quidem Dei, coheredes autem Christi: si tamen compatimur ut et conglorificemur.
 18 Existimo enim quod non sunt condignae passiones hujus temporis ad futuram gloriam, quae revelabitur in nobis.
 19 Nam exspectatio creaturae revelationem filiorum Dei exspectat.
 
@@ -210,9 +210,9 @@ Recusat esse in corpore, qui odium non vult sustinere cum capite.
 
 [Responsory5]
 R. Verbera carnificum non timuerunt sancti Dei, morientes pro Christi nomine:
-* Ut haeredes fierent in domo Domini
+* Ut heredes fierent in domo Domini
 V. Tradiderunt corpora sua propter Deum ad supplicia.
-R. Ut haeredes fierent in domo Domini
+R. Ut heredes fierent in domo Domini
 
 [Lectio6]
 Sed dicit aliquis: Et quis est qui possit beatorum Martyrum vestigia sequi? Huic~
@@ -261,7 +261,7 @@ R. Quia unus fuit semper spiritus in eis, et una fides.
 [Lectio8]
 Sed his malis provenientibus, quia non statim finis sequatur, adjungit: Surget~
 gens contra gentem, et regnum adversus regnum: et terraemotus magni erunt per~
-loca, et pestilentiae, et fames, terroresque de coelo: et signa magna erunt.~
+loca, et pestilentiae, et fames, terroresque de caelo: et signa magna erunt.~
 Ultima tribulatio multis tribulationibus praevenitur: et per crebra mala, quae~
 praeveniunt, indicantur mala perpetua, quae subsequentur. Et ideo post bella et~
 seditiones non statim finis: quia multa debent mala praecurrere, ut malum~
@@ -277,11 +277,11 @@ R. Mercedem laboris ego reddam vobis.
 
 [Lectio9]
 Sed cum tot signa perturbationis dicta sint, oportet, ut eorum considerationem~
-breviter per singula perstringamus: quia necesse est, ut alia e coelo, alia e~
+breviter per singula perstringamus: quia necesse est, ut alia e caelo, alia e~
 terra, alia ab elementis, alia ab hominibus patiamur. Ait enim: Surget gens~
 contra gentem, ecce perturbatio hominum: erunt terraemotus magni per loca, ecce~
 respectus irae desuper: erunt pestilentiae ecce inaequalitas corporum: erit~
-fames, ecce sterilitas terrae: terroresque de coelo et tempestates, ecce~
+fames, ecce sterilitas terrae: terroresque de caelo et tempestates, ecce~
 inaequalitas aeris. Quia ergo omnia consummanda sunt, ante consummationem omnia~
 perturbantur: et qui in cunctis deliquimus, in cunctis feremur: ut impleatur~
 quod dicitur, Et pugnabit pro eo orbis terrarum contra insensatos.
@@ -319,7 +319,7 @@ R. Laetamini in Domino, * Et exsultate justi.
 {:H-Rexgloriosemartyrum:}v. Rex gloriose martyrum,
 Corona confitentium,
 Qui respuentes terrea
-Perducis ad coelestia.
+Perducis ad caelestia.
 _
 Aurem benignam protinus
 Intende nostris vocibus:
@@ -426,7 +426,7 @@ inferioribus debiles esse sanatos. Prius enim unusquisque sanandus est, ut~
 paulatim virtutibus procedentibus ascendere possit ad montem. Et ideo quemque in~
 inferioribus sanat, hoc est, a libidine revocat, injuriam caecitatis avertit. Ad~
 vulnera nostra descendit: ut usu quodam et copia suae naturae, comparticipes nos~
-faciat esse regni coelestis.
+faciat esse regni caelestis.
 
 [Lectio81]
 Beati pauperes, quia vestrum est regnum Dei. Quatuor tantum beatitudines sanctus~

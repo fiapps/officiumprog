@@ -7,7 +7,6 @@ De libro Ecclesiastici.
 4 Loquere major natu: decet enim te
 5 primum verbum diligenti scientia, et non impedias musicam.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory7
 
@@ -20,7 +19,6 @@ De libro Ecclesiastici.
 10 Adolescens, loquere in tua causa vix.
 11 Si bis interrogatus fueris, habeat caput responsum tuum.
 
-
 [Responsory2]
 @Tempora/081-1:Responsory2
 
@@ -32,7 +30,6 @@ De libro Ecclesiastici.
 15 Et hora surgendi non te trices: praecurre autem prior in domum tuam, et illic avocare, et illic lude,
 16 et age conceptiones tuas, et non in delictis et verbo superbo:
 17 et super his omnibus benedicito Dominum, qui fecit, et inebriantem te ab omnibus bonis suis.
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

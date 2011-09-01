@@ -5,6 +5,5 @@ Ss. Nabor and Felix martyrs;;Simplex;;1.1;;vide C3
 vide C3;
 
 [Oratio]
-Praesta quaesumus Domine: ut sicut nos sanctorum Martyrum tuorum Naboris et~
-Felicis natalitia celebranda non deserunt, ita jugiter suffragiis comitentur.
+Praesta quaesumus Domine: ut sicut nos sanctorum Martyrum tuorum Naboris et Felicis natalitia celebranda non deserunt, ita jugiter suffragiis comitentur.
 $Per Dominum

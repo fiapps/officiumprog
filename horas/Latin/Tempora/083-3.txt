@@ -8,7 +8,6 @@ De libro Sapientiae.
 5 nemo enim ex regibus aliud habuit nativitatis initium.
 6 Unus ergo introitus est omnibus ad vitam, et similis exitus.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory7
 
@@ -19,10 +18,8 @@ De libro Sapientiae.
 9 Nec comparavi illi lapidem pretiosum, quoniam omne aurum in comparatione illius arena est exigua, et tamquam lutum aestimabitur argentum in conspectu illius.
 10 Super salutem et speciem dilexi illam, et proposui pro luce habere illam, quoniam inextinguibile est lumen illius.
 
-
 [Responsory2]
 @Tempora/081-1:Responsory2
-
 
 [Lectio3]
 !Sap 7:11-14
@@ -30,7 +27,6 @@ De libro Sapientiae.
 12 et laetatus sum in omnibus, quoniam antecedebat me ista sapientia, et ignorabam quoniam horum omnium mater est.
 13 Quam sine fictione didici, et sine invidia communico, et honestatem illius non abscondo.
 14 Infinitus enim thesaurus est hominibus; quo qui usi sunt, participes facti sunt amicitiae Dei, propter disciplinae dona commendati.
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

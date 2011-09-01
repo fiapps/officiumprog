@@ -8,7 +8,6 @@ De libro secundo Maccabeorum
 11 et cum fiducia ait: E caelo ista possideo, sed propter Dei leges nunc haec ipsa despicio, quoniam ab ipso me ea recepturum spero:
 12 ita ut rex, et qui cum ipso erant, mirarentur adolescentis animum, quod tamquam nihilum duceret cruciatus.
 
-
 [Responsory1]
 @Tempora/101-1:Responsory1
 
@@ -22,7 +21,6 @@ De libro secundo Maccabeorum
 18 Post hunc ducebant sextum, et is, mori incipiens, sic ait: Noli frustra errare: nos enim propter nosmetipsos haec patimur, peccantes in Deum nostrum, et digna admiratione facta sunt in nobis:
 19 tu autem ne existimes tibi impune futurum, quod contra Deum pugnare tentaveris.
 
-
 [Responsory2]
 @Tempora/101-1:Responsory2
 
@@ -32,7 +30,6 @@ De libro secundo Maccabeorum
 21 singulos illorum hortabatur voce patria fortiter, repleta sapientia: et, femineae cogitationi masculinum animum inserens,
 22 dixit ad eos: Nescio qualiter in utero meo apparuistis, neque enim ego spiritum et animam donavi vobis et vitam, et singulorum membra non ego ipsa compegi:
 23 sed enim mundi Creator, qui formavit hominis nativitatem, quique omnium invenit originem, et spiritum vobis iterum cum misericordia reddet et vitam, sicut nunc vosmetipsos despicitis propter leges ejus.
-
 
 [Responsory3]
 @Tempora/101-1:Responsory3

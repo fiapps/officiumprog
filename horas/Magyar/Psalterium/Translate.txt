@@ -13,10 +13,10 @@
 [#Psalmi cum lectionibus]
 #Zsoltárok és olvasmányok
 
-[#Capitulum Responsory Versum]
+[#Capitulum Responsory Versus]
 #Olvasmány, Válaszos ének, Vers
 
-[#Capitulum Hymnus Versum]
+[#Capitulum Hymnus Versus]
 #Olvasmány Himnusz Vers
 
 [#Canticum]
@@ -82,7 +82,7 @@ Az Ur legyen veletek
 [Domine exaudi]
 Uram hallgasd meg
 
-[omit secunda Domine exaudi]
+[secunda Domine exaudi omittitur]
 Ismételt Uram hallgasd meg elmarad
 
 [Confiteor]

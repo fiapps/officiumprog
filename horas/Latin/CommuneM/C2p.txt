@@ -8,7 +8,7 @@ Psalm5 Vespera=115
 
 [Ant Vespera]
 Sancti tui Domine * florebunt sicut lilium, alleluia: et sicut odor balsami erunt ante te, alleluia;;109
-In coelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia;;110
+In caelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia;;110
 In velamento * clamabant sancti tui Domine, alleluia, alleluia, alleluia;;111
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia;;112
 
@@ -30,7 +30,7 @@ R. Lux perpetua lucebit sanctis tuis Domine, * alleluia, alleluia.
 
 [Versum 1]
 V. Sancti et justi in Domino gaudete, alleluia.
-R. Vos elegit Deus in haereditatem sibi, alleluia.
+R. Vos elegit Deus in hereditatem sibi, alleluia.
 
 [Ant 1]
 Lux perpetua * lucebit sanctis tuis Domine, et aeternitas temporum, alleluia.
@@ -55,7 +55,7 @@ Stabunt justi * in magna constantia adversus eos, qui se angustiaverunt, allelui
 ;;8
 ;;10
 V. Sancti et justi in Domino gaudete, alleluia.
-R. Vos elegit Deus in haereditatem sibi, alleluia.
+R. Vos elegit Deus in hereditatem sibi, alleluia.
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia;;14
 ;;20
 ;;23
@@ -105,7 +105,7 @@ R. Convertetur in gaudium, alleluia, alleluia.
 
 [Lectio3]
 !Acts 20:32-38
-32 Et nunc commendo vos Deo, et verbo gratiae ipsius, qui potens est aedificare, et dare haereditatem in sanctificatis omnibus.
+32 Et nunc commendo vos Deo, et verbo gratiae ipsius, qui potens est aedificare, et dare hereditatem in sanctificatis omnibus.
 33 Argentum, et aurum, aut vestem nullius concupivi, sicut
 34 ipsi scitis: quoniam ad ea quae mihi opus erant, et his qui mecum sunt, ministraverunt manus istae.
 35 Omnia ostendi vobis, quoniam sic laborantes, oportet suscipere infirmos ac meminisse verbi Domini Jesu: quoniam ipse dixit: Beatius est magis dare, quam accipere.
@@ -149,7 +149,7 @@ R. Et aeternitas temporum, alleluia, alleluia.
 
 [Lectio5]
 Annuntiamus inquam sanctis Martyribus Dominicae Paschae gratiam: ut dum~
-sepulturae illius praedicamus reserata claustra, et horum sepulchra reserentur:~
+sepulturae illius praedicamus reserata claustra, et horum sepulcra reserentur:~
 dum corpus illius mortuum dicimus tepentibus venis subito viguisse, horum quoque~
 membra jam frigida immortalitatis calore foveantur. Eadem enim ratio Martyres~
 suscitat, quae et Dominum suscitavit. Nam sicut viam passionis ejus experti sunt,~
@@ -205,6 +205,12 @@ R. Ego sum vitis vera, et vos palmites:
 V. Sicut dilexit me Pater, et ego dilexi vos.
 R. Qui manet in me, et ego in eo, hic fert fructum multum, alleluia, alleluia.
 
+[Responsory7c]
+R. Tristitia vestra, alleluia,
+* Convertetur in gaudium, alleluia, alleluia.
+V. Mundus autem gaudebit, vos vero contristabimini, sed tristitia vestra.
+R. Convertetur in gaudium, alleluia, alleluia.
+
 [Lectio8]
 Quid ergo est, Ego sum vitis vera? Numquid ut adderet, vera, hoc ad eam vitem~
 retulit, unde ista similitudo translata est? Sic enim dicitur vitis per~
@@ -238,7 +244,7 @@ et, si Verbum caro factum est, quod non erat, manet quod erat.
 
 [Ant Laudes]
 Sancti tui Domine * florebunt sicut lilium, alleluia: et sicut odor balsami erunt ante te, alleluia.
-In coelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia.
+In caelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia.
 In velamento * clamabant sancti tui Domine, alleluia, alleluia, alleluia.
 Spiritus et animas * justorum hymnum dicite Deo nostro, alleluia, alleluia.
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia.
@@ -251,7 +257,7 @@ $Deo gratias
 _
 R.br. Sancti et justi in Domino gaudete, * alleluia, alleluia.
 R. Sancti et justi in Domino gaudete, * alleluia, alleluia.
-V. Vos elegit Deus in haereditatem sibi
+V. Vos elegit Deus in hereditatem sibi
 R. alleluia, alleluia.
 &Gloria
 R. Sancti et justi in Domino gaudete, * alleluia, alleluia.
@@ -279,7 +285,7 @@ $Deo gratias
 
 [Responsory Tertia]
 V. Sancti et justi * in Deo gaudete, alleluia: 
-R. Vos elegit Deus in haereditdtem sibi,~
+R. Vos elegit Deus in hereditdtem sibi,~
 alleluia.
 
 [Capitulum Sexta]
@@ -309,7 +315,7 @@ Qui mihi ministrat, * me sequatur: et ubi ego sum, illic sit et minister meus;;1
 Volo Pater, *ut ubi ego sum, illic sit et minister meus;;115
 
 [Ant 3]
-Sancti et justi * in Domino gaudete, alleluia: vos elegit Deus in haereditatem~
+Sancti et justi * in Domino gaudete, alleluia: vos elegit Deus in hereditatem~
 sibi, alleluia.
 
 [LectioE]

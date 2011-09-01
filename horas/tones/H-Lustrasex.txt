@@ -1,8 +1,11 @@
 clefdo=8,
 2p,3p,5v~6v,6v~5v,6p,8p,8v~7v,6v~5v,1b,
-7p,8p,9v~10v,6v~5v,8p,7v~6v,6p..,3b,
+7p,8p,9v~10v,6v~5v,8p,7v~6v,6p..,3bl,
 6p,6v~8v~7v,5p,5v~3v,4p,2v~1v,2v~3v,3v~4v~3v,1b,
-2p,2v~5v,6v~5v,3v~2v,4p,3v~2v,2p..,3b,
+2p,2v~5v,6v~5v,3v~2v,4p,3v~2v,2p..,3bl,
 6p,6v~8v~7v,5p,5v~3v,4p,2v~1v,2v~3v,3v~4v~3v,1b,
 2p,2v~6v,6v~5v,3v~2v,4p,3v~2v,2p..,4b,
 2v~3v~2v,1v~2v,4b
+
+
+

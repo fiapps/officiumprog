@@ -7,7 +7,7 @@ Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-De Actibus ApostoIorum.
+De Actibus Apostolorum.
 !Acts 24:10-16
 10 Respondit autem Paulus (annuente sibi praeside dicere): Ex multis annis te esse judicem genti huic sciens, bono animo pro me satisfaciam.
 11 Potes enim cognoscere quia non plus sunt mihi dies quam duodecim, ex quo ascendi adorare in Jerusalem:
@@ -17,18 +17,16 @@ De Actibus ApostoIorum.
 15 spem habens in Deum, quam et hi ipsi exspectant, resurrectionem futuram justorum et iniquorum.
 16 In hoc et ipse studeo sine offendiculo conscientiam habere ad Deum et ad homines semper.
 
-
 [Responsory1]
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
 !Acts 24:17-21
 17 Post annos autem plures eleemosynas facturus in gentem meam, veni, et oblationes, et vota,
-18 in quibus invenerunt me purificatum in templo: non cum turba, neque cum tumultu.
+18 In quibus invenerunt me purificatum in templo: non cum turba, neque cum tumultu.
 19 Quidam autem ex Asia Judaei, quos oportebat apud te praesto esse, et accusare si quid haberent adversum me:
 20 aut hi ipsi dicant si quid invenerunt in me iniquitatis cum stem in concilio,
 21 nisi de una hac solummodo voce qua clamavi inter eos stans: Quoniam de resurrectione mortuorum ego judicor hodie a vobis.
-
 
 [Responsory2]
 @Tempora/Pasc0-2:Responsory2
@@ -45,10 +43,8 @@ De Actibus ApostoIorum.
 [Responsory3]
 @Tempora/Pasc0-3:Responsory1
 
-[Ant 2] 
-Tu solus peregrinus es, * et non audisti de Jesu, quomodo tradiderunt~
-eum in damnationem mortis? alleluia.
+[Ant 2]
+Tu solus peregrinus es, * et non audisti de Jesu, quomodo tradiderunt eum in damnationem mortis? alleluia.
 
 [Ant 3]
-Alias oves habeo, * quae non sunt ex hoc ovili: et illas oportet me adducere, et~
-vocem meam audient: et fiet unum ovile, et unus pastor, alleluia.~
+Alias oves habeo, * quae non sunt ex hoc ovili: et illas oportet me adducere, et vocem meam audient: et fiet unum ovile, et unus pastor, alleluia.

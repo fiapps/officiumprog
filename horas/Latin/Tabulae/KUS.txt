@@ -1,15 +1,15 @@
-01-04;;S. Elizabeth Ann Bayley Seton, Widow;;Duplex;;3;;vide C7;1974
-01-05;;S. John Neumann, bishop Confessor;;Duplex;;3;;vide C4;;1977
-03-03;;S. Katherine Drexel, Virgin;;Duplex;;3;;vide C6;;2000
-05-10;;S. Damien, Confessor;;Duplex;;3;;vide C5;;2009
-07-14;;S. Kateri Tekakwitha, Virgin;;Duplex;;3;;vide C6;;2004
-10-03;;S. Anne-Thérèse (Mother Theodore) Guérin, Virgin;;Duplex;;3;;Vide C6;;2006
-10-19;;Ss. Isaac Jogues,René Goupil ey socios,Martyrs;;Duplex;;3;;vide C3;;1930
-11-13;;St. Frances Xavier Cabrini, Virgin;;Duplex;;3;;vide C6;;1950
-11-18;;S. Rose Philippine Duchesne,Virgin;;Duplex;;3;;vide C6;;1988
-12-12=12-12r;;Beatae Mariae Virginis Guadalupae;;Duplex;;3;;vide C11;;1946
+01-04=generate;;S. Elizabeth Ann Bayley Seton, Widow;;Duplex;;3;;vide C7;1974
+01-05=generate;;S. John Neumann, bishop Confessor;;Duplex;;3;;vide C4;;1977
+03-03=generate;;S. Katherine Drexel, Virgin;;Duplex;;3;;vide C6;;2000
+05-10=generate;;S. Damien, Confessor;;Duplex;;3;;vide C5;;2009
+07-14=generate;;S. Kateri Tekakwitha, Virgin;;Duplex;;3;;vide C6;;2004
+10-03=generate;;S. Anne-Thérèse (Mother Theodore) Guérin, Virgin;;Duplex;;3;;Vide C6;;2006
+10-19=generate;;Ss. Isaac Jogues,René Goupil ey socios,Martyrs;;Duplex;;3;;vide C3;;1930
+11-13=generate;;St. Frances Xavier Cabrini, Virgin;;Duplex;;3;;vide C6;;1950
+11-18=generate;;S. Rose Philippine Duchesne,Virgin;;Duplex;;3;;vide C6;;1988
+12-12=generate=12-12r;;Beatae Mariae Virginis Guadalupae;;Duplex;;3;;vide C11;;1946
 
 
-01-04;;S. Elizabeth Ann Bayley Seton, Widow;;Semiduplex;;2;;vide C7;1963
-01-05;;S. John Neumann, bishop Confessor;;Semiduplex;;2;;vide C4;;1963
-11-18;;S. Rose Philippine Duchesne,Virgin;;Semiduplex;;2;;C6;;1940
+01-04=generate;;S. Elizabeth Ann Bayley Seton, Widow;;Semiduplex;;2;;vide C7;1963
+01-05=generate;;S. John Neumann, bishop Confessor;;Semiduplex;;2;;vide C4;;1963
+11-18=generate;;S. Rose Philippine Duchesne,Virgin;;Semiduplex;;2;;C6;;1940

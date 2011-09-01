@@ -13,13 +13,19 @@ sub singit {
   my $tfile = shift;   
   my $tone = shift; 
   my $psalmline = shift;
-  my $lineind = shift;
-        
-  $chanttype = ($tfile =~ /^H\-/) ? 'Hymn' : ($tfile =~ /^p/i) ? 'Psalm' : 'Syllabic';
+  my $lineind = shift;  
+
+  $chanttype = ($tfile =~ /^H\-/) ? 'Hymn' : ($tfile =~ /^Ap/i) ? 'Antiphon' : ($tfile =~ /^p/i) ? 'Psalm' : 'Syllabic';
   
   our $doline = 8;
   our $clef = 'do=8';
   our $syllabletime = $basetime;
+  if ($chanttype =~ /Antiphon/i && $text =~ /\*/) {
+    $text =~ s/\*//g;
+	$text = setasterisk($text);
+    $text = psalmflex($text);
+  }
+  
   if ($chanttype =~ /^Psalm/i) {$text = psalmflex($text);}
   $text = praepare($text);
   $text = compose($text, $chanttype, $tone, $psalmline, $lineind);  
@@ -232,6 +238,7 @@ sub compose {
   my $lineind = shift;   
                                    
   if ($chanttype =~ /Recite/i) {return recite_line($p1, $tone);}
+  elsif ($chanttype =~ /Antiphon/i ) {return ant_line($p1, $tone);}
   elsif ($chanttype =~ /Psalm/i) {return psalm_line($p1, $tone, $psalmline);}
   elsif ($chanttype =~ /Hymn/i) {return hymnverse($p1, $tone, $lineind);}
   else {return syllabic($p1, $tone, $lineind);}
@@ -339,12 +346,19 @@ sub syllabic_line {
   return $m;
 }
 
+sub ant_line {
+  my $p1 = shift;
+  my $t = shift;
+  if ($p1 !~ /\*/) {$p1 .= '*void';}
+  psalm_line($p1, $t, 0);
+}
+
 sub psalm_line {
   my $p1 = shift;
   $p1 =~ s/^\s*//;
   $p1 =~ s/\s*$//;      
   my @p1 = split('\*', $p1);   
-  my $t = shift;   
+  my $t = shift;  
   my @texttone = split("\n", $t);        
   my $psalmline = shift;   
   
@@ -354,9 +368,9 @@ sub psalm_line {
   my $j = 0;
   my $m = "$texttone[0]";
 
-  if (!@p1) {return $m;}
+  if (!@p1) {return $m;} 
 
-  if ($psalmline == 0) {
+  if ($psalmline == 0 || $canticum) {
     while ($i < @tone - 1) {
 	    my $sy;
 	    if ($tone[$i] =~ /b/i) {$sy = '';}
@@ -375,7 +389,7 @@ sub psalm_line {
   if (@p1 > 2) {$m .= processtone($p1[1], $texttone[3]); }
 
   #cadence
-  $m .= processtone($p1[-1], $texttone[4]);    
+  if ($p1[-1] !~ /^void$/) {$m .= processtone($p1[-1], $texttone[4]);}
   return $m;
 }
 
@@ -821,17 +835,50 @@ sub phokill {
 #*** show_notes($text)
 # if chanted and text contains {: :} tags the notes are displayed
 sub show_notes {	 
-  my $text = shift;	 
+  my $text = shift;	
+  %tones = {};
+  if (open(INP, "$datafolder/tones.txt")) {
+    my $line = '';
+    while ($line = <INP>) {
+      my @a = split(';;', chompd($line));
+	  my $i;
+	  $line = '';
+	  for ($i = 1; $i < @a; $i++) {$line .= "$a[$i]\n";}
+	  if ($a[0] =~ /^H\-/) {$line .= 'A-men';}
+      $tones{$a[0]} = $line;
+    }
+  } else {print "$datafolder/tones.txt cannot open";}
 
-  if ($voicecolumn !~ /chant/i || $text !~ /\{\:[a-z0-9_\- ]+\:\}/i) {return ('', 0);}
-  my $lwidth = floor($mw->width * .8); 
-  my $height = 50;
+
+
+  $textspaceheight = 20;
+  $noteheight = 50 + $textspaceheight;
+
+  if (($voicecolumn !~ /chant/i && !$notes) || $text !~ /\{\:([a-z0-9_\- ]+)\:\}/i) {return ('', 0);}
+  else {$tonefile = $1;}
+  @texttone = splice(@texttone, @texttone);
+  my $texttone = '';                                   
+  if (open (INP, "$datafolder/tones/$tonefile.txt")) {  
+    my @line;
+    while ($line = <INP>) {
+      if ($line !~ /\,\s*$/) {$line .= ',';}
+      $texttone .= $line;
+      push (@texttone, $line);
+    }
+    close INP;
+  }
+
+  my $rows = 1;
+  my $line;
+  foreach $line (@texttone) {if ($line =~ /bl/i) {$rows++;}}
+  $height = $noteheight * $rows + 5;
+
+  my $lwidth = 800; #$floor($mw->width * .8); 
   
   my $cell = $middleframe->Canvas(-background=>$bgcolor, 
     -width=>$lwidth, -height=>$height, ,-borderwidth=>0,
     -highlightthickness=>0, -relief=>'flat'); 	 #$border, -relief=>'solid'
-  $totalheight += 3;
-  $noteheight = 3;
+  $totalheight += floor($height / 14 - 2);
 
   my $tone;
   while ($text =~ /\{\:(.*?)\:\}/g) {
@@ -839,7 +886,7 @@ sub show_notes {
  	if (!$tone || $tone !~ /[a-z0-9]/i) {next;}
 	setnotes($cell, $tone);
   }
-  return ($cell, $noteheight);
+  return ($cell, 3 * $rows);
 }
 
 
@@ -848,6 +895,7 @@ sub show_notes {
 sub setnotes {
   $canv1 = shift;
   my $tonefile = shift;
+  $tonefile =~ s/^pc/p/;
   my $x;
 
   @texttone = splice(@texttone, @texttone);
@@ -864,7 +912,7 @@ sub setnotes {
     $midfreq = midfreq($texttone);
 	my $dotext = "$tonefile :\n($midfreq)";	 
 	
-	$canv1->createText(5, 10, -text=>$dotext, -anchor=>'nw', -font=>$fontitem, -fill=>'blue');
+	$canv1->createText(5, $height/2-15, -text=>$dotext, -anchor=>'nw', -font=>$fontitem, -fill=>'blue');
 	$x = $mw->fontMeasure($fontitem, $dotext) + 10;
   } else {
     $canv1->createText(5, 15, -text=>"$tonefile tonefile is missing from tones folder",
@@ -873,40 +921,46 @@ sub setnotes {
   }
 
   my $row = 1;
+  my $maxwidth = 10;
 
   $nlstart = $x;
   my $notewidth = $mw->width * .8;
   
   
-  $canv1->createRectangle($x, 2, $notewidth-10, 48, -fill=>white, -outline=>white); 
+  $canv1->createRectangle($x, 2, $notewidth-10, $height, -fill=>white, -outline=>white); 
   foreach $y (12,22,32,42) {
     $canv1->createLine($x, $y, $notewidth-10, $y,-fill=>black,-width=>1);
   }
   
   makekey(1, $texttone[0], $x);
+  $notetext = $tones{$tonefile}; 
+  $notetext =~ s/\n/ /g;
+  $notetext =~ s/[ ]+/ /g;
+  $notetext =~ s/([- ])/$1!/g;
+  @notetext = split('!', $notetext);
 
   my @notes = split(',', $texttone); 
   $x += 15;
   our $xstep = 15;
-  
+  our $xtext = $x;
+
   shift(@notes);
   foreach $note (@notes) {
 	if (!$note || $note =~ /^\s*$/) {next;}
+	
+	
+	if ($xtext > $x) {$x = $xtext;}
+	if ($note !~ /b/i) {
+      my $syllable = shift(@notetext);
+	  $xtext = $x + drawsyllable($syllable, $row, $x);
+    }
+	
+	
+	
+	
 	my @note = split('~', $note);
 	if (($x + 6 * @note + 10) > ($notewidth - 10)) {
-	  $row++; 
-	  $height = $row * 50;
-	  $totalheight += 3;
-	  $canv1->configure(-height=>$height);
-      my $a = ($row - 1) * 50;
-      $canv1->createRectangle($nlstart, 2+$a, $notewidth-10, 48+$a, -fill=>white, -outline=>white); 
-	  foreach $y (12+$a ,22+$a,32+$a,42+$a) {
-        $canv1->createLine($nlstart, $y, $notewidth-10, $y,-fill=>black,-width=>1);
-      }
-
-	
-	  makekey($row, $texttone[0], $nlstart); 
-	  $x = $nlstart+25;
+      print "$tonefile $row too long\n";
 	}
 		
 	if (@note == 1) {
@@ -915,6 +969,16 @@ sub setnotes {
         #if ($row > 1 && $x < 35) {$row--; $x = $notewidth -13;}
 	    makepause($row, $x, $note); 
 	    $x += $xstep - 6;
+        if ($note =~ /l/) {
+		  if ($x > $maxwidth) {$maxwidth = $x;}
+		  $row++;
+          my $a = ($row - 1) * $noteheight;
+	      foreach $y (12+$a ,22+$a,32+$a,42+$a) {
+             $canv1->createLine($nlstart, $y, $notewidth-10, $y,-fill=>black,-width=>1);
+          }
+	      makekey($row, $texttone[0], $nlstart); 
+	      $xtext = $x = $nlstart+25;
+        }
 	    next;
 	  }
 
@@ -959,9 +1023,9 @@ sub setnotes {
 	   $x += $xstep-6;
 	}
   }
-  #$canv1->createRectangle($x, 2, $notewidth-10, 48, -fill=>$bgcolor, -outline=>$bgcolor); 
+  if ($x > $maxwidth) {$maxwidth = $x;}
   if ($row > 1) {$x = $notewidth;}
-  $canv1->configure(-width=>$x);
+  $canv1->configure(-width=>$maxwidth);
 }
 
 #*** getpitch
@@ -1046,7 +1110,7 @@ sub square {
   my $x = shift;
   my $num = shift;
 						 
-  my $base = $row * 50 - 1;
+  my $base = getbase($row);
   my $y = $base - 5 * $num;	 
   $canv1->createRectangle($x, $y, $x+6, $y+6, -fill=>'black', -outline=>'black');
 }
@@ -1059,7 +1123,7 @@ sub vline {
   my $num1 = shift;
   my $num2 = shift;
 
-  my $base = $row * 50 - 1;
+  my $base = getbase($row);
   my $y1 = $base - 5 * $num1 + 3;	
   my $y2 = $base - 5 * $num2 + 3;	
 
@@ -1073,7 +1137,7 @@ sub makeaccent {
   my $x = shift;
   my $num = shift;
 					
-  my $base = $row * 50 - 1;
+  my $base = getbase($row);
   my $y = $base - 5 * $num;
   $canv1->createLine($x + 3, $y - 2, $x + 4, $y - 7, -fill=>'black')
 }
@@ -1087,7 +1151,7 @@ sub makedot {
  my $num = shift;
  my $flag = shift;
  
- my $base = $row * 50 - 1;
+ my $base = getbase($row);
  my $y = $base - 5 * $num;
  
  if ($flag == 2) {$canv1->createOval($x+8, $y + 1.5, $x + 11, $y + 4.5, -fill=>'black');}
@@ -1101,7 +1165,7 @@ sub diamond {
   my $x = shift;
   my $num = shift;
 
-  my $base = $row * 50 - 1;
+  my $base = getbase($row);
   my $y = $base - 5 * $num;
   $canv1->createPolygon($x, $y+3, $x+3, $y, $x+6, $y+3, $x+3, $y+6, -fill=>'black', -outline=>'black');
 }
@@ -1113,7 +1177,7 @@ sub emptysquare {
   my $x = shift;
   my $num = shift;
 
-  my $base = $row * 50 - 1;
+  my $base = getbase($row);
   my $y = $base - 5 * $num;
   $canv1->createRectangle($x, $y, $x+6, $y+6, -outline=>'black');
 }
@@ -1125,10 +1189,30 @@ sub benote {
   my $x = shift;
   my $num = shift;
 
-  my $base = $row * 50 - 1;
+  my $base = getbase($row);
   my $y = $base - 5 * $num;   
   $canv1->createOval($x, $y, $x+6, $y+6, -outline=>'black', -width=>1);
   $canv1->createLine($x, $y, $x, $y-9, -fill=>'black')
+}
+
+sub getbase {
+  my $row = shift;
+  return $row * $noteheight - $textspaceheight - 1;
+}
+
+sub drawsyllable {
+  my $syllable = shift;
+  my $row = shift;
+  my $x = shift; 
+ 
+  if ($syllable eq '-') {$syllable = ' ';}
+  $syllable =~ s/_/ /g;
+  
+  my $tbase = $row * $noteheight - $textspaceheight/2 - 10;
+
+  my $fontitem = '{Arial} 10';
+  $canv1->createText($x, $tbase, -text=>$syllable, -anchor=>'nw', -font=>$fontitem, -fill=>'black');
+  return $mw->fontMeasure($fontitem, $syllable);
 }
 
 sub midfreq {  

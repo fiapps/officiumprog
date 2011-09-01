@@ -1,5 +1,5 @@
 [Rank]
-S. Johanni Apostoli;;Duplex II Class ;;5;;ex C1
+S. Johanni Apostoli;;Duplex II Class;;5;;ex C1
 
 [Rule]
 ex C1;
@@ -9,7 +9,7 @@ Antiphonas horas
 
 [Ant 1]
 Iste est Joannes * qui supra pectus Domini in caena recubuit: beatus Apostolus,~
-cui revelata sunt secreta coelestia.
+cui revelata sunt secreta caelestia.
 
 [Versum 1]
 V. Valde honorandus est beatus Joannes.
@@ -161,11 +161,11 @@ ulla tentatione superbiae cohaereat summo bono.
 
 [Responsory8]
 R. Iste est Joannes, qui supra pectus Domini in cena recubuit:
-* Beatus Apostolus, cui revelata sunt secreta coelestia.
+* Beatus Apostolus, cui revelata sunt secreta caelestia.
 V. Fluenta Evangelii de ipso sacro Dominici pectoris fonte potavit.
-R. Beatus Apostolus, cui revelata sunt secreta coelestia.
+R. Beatus Apostolus, cui revelata sunt secreta caelestia.
 &Gloria
-R. Beatus Apostolus, cui revelata sunt secreta coelestia.
+R. Beatus Apostolus, cui revelata sunt secreta caelestia.
 
 [Lectio9]
 Ergo una bona est, sed adhuc misera: altera melior, et beata. Ista significata~
@@ -211,7 +211,7 @@ R. Et scimus quia verum est testimonium ejus
 
 [Ant 2]
 Iste est Joannes * qui supra pectus Domini in cena recubuit: beatus Apostolus,~
-cui revelata sunt secreta coelestia.
+cui revelata sunt secreta caelestia.
 
 [Capitulum Tertia]
 !Sir 15:1-2

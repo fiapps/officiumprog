@@ -1,8 +1,11 @@
 [Rank]
-S Laurence Brindisi Confessoris;;Duplex;;3;;vide C5
+S Laurence Brindisi Confessoris Ecclesiae Doctoris;;Duplex;;3;;vide C5a
 
 [RankNewcal]
-S. Laurentii a Brundusio Confessoris;;Duplex optional;;2;;vide C5
+S. Laurentii a Brundusio Confessoris;;Duplex optional;;2;;vide C5a
+
+[Name]
+Laurent
 
 [Rule]
 vide C5;
@@ -23,9 +26,7 @@ O Doctor optime,  * Ecclesiae sanctae lumen, beate Laurenti, divinae legis amato
 !Commemoration for S. Praxedis Virgin
 @Commune/C6:Oratio proper
 $Oremus
-Gratiously hear us, O God of our salvation, and grant that as the Birthday of~
-thy blessed handmaiden Praxedes doth make us happier, so the fruit of her godly~
-earnestness may make us better.
+Gratiously hear us, O God of our salvation, and grant that as the Birthday of thy blessed handmaiden Praxedes doth make us happier, so the fruit of her godly earnestness may make us better.
 $Per Dominum
 
 

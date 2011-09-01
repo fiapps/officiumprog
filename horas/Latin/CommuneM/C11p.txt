@@ -77,9 +77,9 @@ De Parabolis Salomonis
 
 [Responsory1]
 R. Sancta et immaculata virginitas, quibus te laudibus efferam nescio:
-* Quia quem coeli capere non poterant, tuo gremio contulisti. Alleluia
+* Quia quem caeli capere non poterant, tuo gremio contulisti. Alleluia
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem coeli capere non poterant, tuo gremio contulisti. Alleluia
+R. Quia quem caeli capere non poterant, tuo gremio contulisti. Alleluia
 
 [Lectio2]
 !Prov 8:18-25
@@ -139,7 +139,7 @@ R. Dedi suavitatem odoris. Alleluia
 [Lectio5]
 Magnum revera miraculum, fratres dilectissimi, fuit beata semper Virgo Maria.~
 Quid namque illa majus aut illustrius ullo umquam tempore inventum est, seu~
-aliquando inveniri poterit? Haec elegit sola coelum ac terram amplitudine superavit.~
+aliquando inveniri poterit? Haec elegit sola caelum ac terram amplitudine superavit.~
 Quidnam illa sanctius? Non Prophetae, non Apostoli, non Martyres, non Patriarchae,~
 non Angeli, non Throni, non Dominationes, non Seraphim, non Cherubim: non~
 denique aliud quid-. piam inter creatas res visibiles aut invisibiles, majus aut~
@@ -155,9 +155,9 @@ R. Viderunt eam filiae Sion, et beatam dixerunt, et reginae laudaverunt eam. All
 [Lectio6]
 Haec elegit ejus mater est, qui a Patre ante omne principium genitus fuit, quem Angeli~
 et homines agnoscunt Dominum rerum omnium. Visae cognoscere quanto Virgo haec elegit~
-praestantior sit coelestibus Potentiis? Illae cum timere ac tremore assistunt,~
+praestantior sit caelestibus Potentiis? Illae cum timere ac tremore assistunt,~
 faciem velantes suam: haec elegit humanum genus illi offert, quem genuit. Per hanc et~
-peccatorum veniam consequimur. Ave igitur mater, coelum, puella, virgo. thronus,~
+peccatorum veniam consequimur. Ave igitur mater, caelum, puella, virgo. thronus,~
 Ecclesiae nostrae decus, gloria et firmamentum, assidue pro nobis precare Jesum~
 Filium tuum, et Dominum nostrum: ut per te misericordiam invenire in die judicii,~
 et quae reposita sunt iis, qui diligunt Deum, bona consequi possimus, gratia et~
@@ -209,7 +209,7 @@ Et nos igitur his contra Eutychen dictis, extollamus vocem cura Ecclesia~
 catholica, cujus haec mulier typum gessit, extollamus et mentem de medio~
 turbarum, dicamusque Salvatori: Beatus venter qui te portavit, et libera quae~
 suxisti. Vere enim beata parens, quae, sicut quidam ait, Enixa est puerpera Regem,~
-qui coelum terramque tenet per saecula.
+qui caelum terramque tenet per saecula.
 
 [Responsory8]
 R. Beatam te dicent omnes generationes:
@@ -285,7 +285,7 @@ R. Deus in medio ejus, non commovebitur.
 !Sir 24:15-16
 v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi,~
 et in Jerusalem potestas mea. Et radicavi in populo honorificato, et in parte~
-Dei mei haereditas illius, et in plenitudine sanctorum detentio mea.
+Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 $Deo gratias.
 
 [Responsory Sexta]

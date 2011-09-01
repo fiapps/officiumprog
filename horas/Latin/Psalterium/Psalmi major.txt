@@ -13,14 +13,14 @@ Alleluia * laudate Dominum de caelis, alleluia, alleluia;;148
 ;;148
 
 [Day0 Vespera]
-Dixit Dominus * Domino meo sede a dextris meis;;109
+Dixit Dominus * Domino meo: Sede a dextris meis;;109
 Magna opera Domini * exquisita in omnes voluntates eius;;110
 Qui timet Dominum * in mandatis eius cupit nimis;;111
 Sit nomen Domini * benedictum in saecula;;112
-Deus autem noster in caelo * omnia quaecumque voluit fecit;;113
+Deus autem noster * in caelo omnia quaecumque voluit fecit;;113
 
 [Day1 Laudes1]
-Iubilate Deo * in voce exsultationis;;46
+Iubilate * Deo in voce exsultationis;;46
 Intende * voci orationis meae, Rex meus et Deus meus;;5
 Deus majestatis * intonuit: afferte gloriam nomini eius;;28
 Laudamus nomen tuum * inclytum, Deus noster;;211
@@ -30,7 +30,7 @@ Laudate * Dominum omnes gentes;;116
 Miserere * mei Deus secundum magnam misericordiam tuam;;50
 Deduc me * in justitia tua Domine;;5
 Dominus dabit virtutem * et benedicet populo suo in pace;;28
-Conversus est furor tuus * et consolatus es me;;221
+Conversus est furor tuus * Domine, et consolatus es me;;221
 Laudate * Dominum quoniam confirmata est super nos misericordia eius;;116
 
 [Day1 Vespera]
@@ -45,12 +45,12 @@ Cantate * Domino et benedicite nomini eius;;95
 Salutare vultus mei * Deus meus;;42
 Illumina Domine * vultum tuum super nos;;66
 Exaltate * Regem saeculorum in operibus vestris;;212
-Laudate * nomen Domini qui statis in Domo Domini;;134
+Laudate * nomen Domini qui statis in domo Domini;;134
 
 [Day2 Laudes2]
 Dele iniquitatem meam * Domine, secundum multitudinem miserationum tuarum;;50
 Discerne causam meam * Deus de gente non sancta;;42
-Deus misereatur * nostri et benedicat nobis;;66
+Deus misereatur * nostri et benedicat nos;;66
 Corripies me Domine * et vivificabis me;;222
 Laudate * Dominum quia benignus est, et in servis suis deprecabitur;;134
 
@@ -69,18 +69,18 @@ Domine magnus es tu * et praeclarus in virtute tua;;213
 Laudabo Deum meum * in vita mea;;145
 
 [Day3 Laudes2]
-Amplius lava me *Domine ab injustitia mea;;50
+Amplius lava me * Domine ab injustitia mea;;50
 Impietatibus nostris * tu propitiaberis Deus;;64
-In innocentia * Cordis mei perambulabo Domine;;100
-Exultavit cor meum * in Domino, qui humiliat et sublevat;;223
-Lauda * anima mea Dominum * qui erigit elisos et diriget justos;;145
+In innocentia * cordis mei perambulabo Domine;;100
+Exsultavit cor meum * in Domino, qui humiliat et sublevat;;223
+Lauda * anima mea Dominum qui erigit elisos et diligit justos;;145
 
 [Day3 Vespera]
 Beati omnes * qui timent Dominum;;127
 Confundantur omnes * qui oderunt Sion;;128
 De profundis * clamavi ad te Domine;;129
 Domine * non est exaltatum cor meum;;130
-Elegit Dominus * Sion habitationem sibi;;131
+Elegit Dominus * Sion in habitationem sibi;;131
 
 [Day4 Laudes1]
 Iubilate * in conspectu regis Domini;;97
@@ -91,7 +91,7 @@ Deo nostro * jucunda sit laudatio;;146
 
 [Day4 Laudes2]
 Tibi soli peccavi * Domine, miserere mei;;50
-Convertere Domine * deprecabilis esto super servos tuos;;89
+Convertere Domine * et deprecabilis esto super servos tuos;;89
 Multiplicasti Deus * misericordiam tuam;;35
 Fortitudo mea * et laus mea Dominus: et factus est mihi in salutem;;224
 Laudate * Dominum qui sanat contritos corde, et alligat contritiones eorum;;146
@@ -107,7 +107,7 @@ Confitebor * nomini tuo Domine, super misericordia et veritate tua;;137
 Exaltate * Dominum Deum nostrum, et adorate in monte sancto eius;;98
 Eripe me * de inimicis meis Domine, ad te confugi;;142
 Benedixisti * Domine terram tuam: remisisti iniquitatem plebis tuae;;84
-In Domino justificabitur * et laudabitur omne semen Israel;;215
+In Domino justificabitur * et laudabitur omne semen Israël;;215
 Lauda * Jerusalem Dominum;;147
 
 [Day5 Laudes2]
@@ -115,7 +115,7 @@ Cor contritum * et humiliatum Deus non despicies;;50
 Propter nomen tuum * Domine vivificabis me in aequitate tua;;142
 Deus tu conversus * vivificabis nos, et plebs tua laetabitur in te;;84
 Cum iratus fueris * Domine misericordiae recordaberis;;225
-Lauda * Deum tuum Sion, qui annuntiat judicia sua Israel;;147
+Lauda * Deum tuum Sion, qui annuntiat judicia sua Israël;;147
 
 [Day5 Vespera]
 Domine * probasti me et cognovisti me;;138(1-13)
@@ -125,7 +125,7 @@ Domine * clamavi ad te exaudi me;;140
 Educ de custodia * animam meam Domine ad confitendum nomini tuo;;141
 
 [Day6 Laudes1]
-Filii Sion * exultent in Rege suo;;149
+Filii Sion * exsultent in Rege suo;;149
 Quam magnificata * sunt opera tua Domine;;91
 Laetabitur justus * in Domino et sperabit in eo;;63
 Ostende nobis Domine * lucem miserationum tuarum;;216
@@ -183,7 +183,7 @@ Amplius lava me *Domine ab injustitia mea;;50
 Te decet hymnus * Deus in Sion;;64
 Labia me * laudabunt te in vita mea Deus meus;;62;66
 Dominus judicabit * fines terrae;;223
-Coeli coelorum * laudate Deum;;148;149;150
+Caeli caelorum * laudate Deum;;148;149;150
 
 [Daya4 Laudes]
 Tibi soli peccavi * Domine, miserere mei;;50
@@ -232,7 +232,7 @@ Non confundetur * cum loquetur inimicis suis in porta;;126
 Beati * omnes, qui timent Dominum;;127
 Saepe * expugnaverunt me a juventute mea;;128
 De profundis * clamavi ad te Domine;;129
-Speret * Israel in Domino;;130
+Speret * Israël in Domino;;130
 
 [Daya4 Vespera]
 Et omnis * mansuetudinis ejus;;131
@@ -263,7 +263,7 @@ Haurietis aquas * in gaudio de fontibus Salvatoris.
 Egredietur * Dominus de loco sancto suo: veniet ut salvet populum suum.
 
 [Day2 Laudes3]
-Rorate coeli desuper, * et nubes pluant justum: aperiatur terra, et germinet Salvatorem.
+Rorate caeli desuper, * et nubes pluant justum: aperiatur terra, et germinet Salvatorem.
 Emitte Agnum Domine * Dominatorem terrae, de Petra deserti, ad montem filiae Sion.
 Ut cognoscamus Domine * in terra viam tuam, in omnibus gentibus salutare tuum.
 Da mercedem Domine * sustinentibus te, ut prophetae tui fideles inveniantur.
@@ -286,7 +286,7 @@ Dominus * legifer noster, Dominus Rex noster, ipse veniet, et salvabit nos.
 [Day5 Laudes3]
 Constantes estote, * videbitis auxilium Domini super vos.
 Ad te Domine * levavi animam meam: veni, et eripe me Domine, ad te confugi.
-Veni Domine, * et noli tardere: relaxa facinora plebi tuae Israel.
+Veni Domine, * et noli tardere: relaxa facinora plebi tuae Israël.
 Deus a Libano veniet, * et splendor ejus sicut lumen erit.
 Ego autem * ad Dominum aspiciam, et exspectabo Deum Salvatorem meum.
 
@@ -295,7 +295,7 @@ Intuimini * quam sit gloriosus iste, qui ingredietur ad salvandos populos
 Multiplicabitur * eius imperium, et pacis non erit finis
 Ego Dominus * prope feci justitiam meam, non elongabitur, et salus mea non morabitur
 Exspectetur * sicut pluvia eloquium Domini: et descendat sicut ros, super nos Dominus Deus noster
-Paratus esto * Israel, in occursum Domini, quoniam venit
+Paratus esto * Israël, in occursum Domini, quoniam venit
 
 [Daym0 Laudes]
 Alleluia * alleluia;;50
@@ -317,13 +317,13 @@ Laudamus nomen tuum * inclitum, Deus noster (Alleluia);;211
 Exsaltate * Regem saeculorum in operibus vestris (Alleluia);;212
 Domine * magnus es tu et praeclarus in virtute tua (Alleluia);;213
 Populus meus * ait Dominus, bonis meis adimplebitur;;214
-In Domino justificabitur * et laudabitur omne semen Israel;;215
+In Domino justificabitur * et laudabitur omne semen Israël;;215
 Ostende nobis, Domine * lucem miserationum tuarum;;216
 
 [Daym1 Laudes]
 Miserere * mei Deus;;50
 Intellige * clamorem meum Domine;;5
-Domine * in coelo misericordia tua;;35
+Domine * in caelo misericordia tua;;35
 Conversus est furor tuus * et consolatus es me;;221
 Laudate * Dominum de caelis;;148;149;150
 
@@ -339,7 +339,7 @@ Amplius lava me *Domine ab injustitia mea;;50
 A timore * inimici eripe Domine animam meam;;63
 Te decet hymnus * Deus in Sion;;64
 Dominus judicabit * fines terrae;;223
-Coeli coelorum * laudate Deum;;148;149;150
+Caeli caelorum * laudate Deum;;148;149;150
 
 [Daym4 Laudes]
 Tibi soli peccavi * Domine, miserere mei;;50
@@ -350,7 +350,7 @@ In sanctis eius * laudate Deum;;148;149;150
 
 [Daym5 Laudes]
 Spiritu principali * confirma cor meum Deus;;50
-In Israel * magnum nomen eius;;75
+In Israël * magnum nomen eius;;75
 Bonum est * confiteri Domino;;91
 Domine audivi * auditionem tuam et timui;;225
 In tympano * et choro, in cordis et organo laudate Dominum;;148;149;150
@@ -376,7 +376,7 @@ Saepe * expugnaverunt me a juventute mea;;128
 
 [Daym2 Vespera]
 De profundis * clamavi ad te Domine;;129
-Speret * Israel in Domino;;130
+Speret * Israël in Domino;;130
 Et omnis * mansuetudinis ejus;;131
 Ecce * quam bonum, et quam jucundum habitare fratres in unum;;132
 
@@ -406,5 +406,5 @@ Lauda * Jerusalem Dominum;;147
 
 [DaymP Laudes]
 Alleleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia.;;92;99;62
-Surrexit Christus de sepulchro, qui liberavit tres pueros de camino ignis ardentis, alleluia.;;210
+Surrexit Christus de sepulcro, qui liberavit tres pueros de camino ignis ardentis, alleluia.;;210
 Alleluia, alleluia, alleluia.;;148;149;150

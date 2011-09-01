@@ -45,7 +45,7 @@ De Actibus Apostolorum.
 @TemporaM/Pasc0-5:Responsory2
 
 [Ant 2]
-Venerunt ad monumentum * Maria Magdalene, et altera Maria, videre sepulchrum,~
+Venerunt ad monumentum * Maria Magdalene, et altera Maria, videre sepulcrum,~
 alleluia.
 
 [Ant 3]

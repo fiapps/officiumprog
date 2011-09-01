@@ -22,7 +22,7 @@ Factus est * repente de caelo sonus advenientis spiritus vehementis, alleluia, a
 ;;93
 V. Repleti sunt omnes Spirit Sancto alleluia
 R. Et coeperunt loqui alleluia
-Apparuerunt Apostolis dispertitae linguae tamquam ignis, Seditque supra singulos eorum Spiritus sanctus, alleluia;;95
+Apparuerunt Apostolis dispertitae linguae tamquam ignis, Seditque supra singulos eorum Spiritus Sanctus, alleluia;;95
 ;;96
 ;;97
 ;;98
@@ -104,7 +104,7 @@ hostili nullatenus incursione turbetur.
 $Per Dominum eiusdem
 
 [Ant 3]
-Paraclitus autem * Spiritus sanctus, quem mittet Pater in nomine meo, ille vos~
+Paraclitus autem * Spiritus Sanctus, quem mittet Pater in nomine meo, ille vos~
 docebit omnia, et suggeret vobis omnia, quaecumque dixero vobis, alleluia.~
 
 [LectioE]

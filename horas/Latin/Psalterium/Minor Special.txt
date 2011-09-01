@@ -4,11 +4,11 @@ v. Deus caritas est: et qui manet in caritate, in Deo manet, et Deus in eo.
 $Deo gratias
 _
 R.br. Inclina cor meum, Deus, * In testimonia tua. 
-R. Inclina cor meum, Deus, in testimonia tua. 
+R. Inclina cor meum, Deus, * In testimonia tua. 
 V. Averte oculos meos, ne videant vanitatem: in via tua vivifica me. 
 R. In testimonia tua. 
 &Gloria
-R. Inclina cor meum, Deus, * in testimonia tua.
+R. Inclina cor meum, Deus, * In testimonia tua.
 _
 V. Ego dixi: Domine, miserere mei.
 R. Sana animam meam, quia peccavi tibi.
@@ -18,27 +18,27 @@ R. Sana animam meam, quia peccavi tibi.
 v. Alter alterius onera portate et sic adimplebitis legem Christi
 $Deo gratias
 _
-R.br. In aeternum Domine * permanet Verbum tuum
-R. In aeternum Domine * permanet Verbum tuum
+R.br. In aeternum Domine * Permanet verbum tuum
+R. In aeternum Domine * Permanet verbum tuum
 V. In saeculum saeculi veritas tua 
-R. Permanet Verbum tuum
+R. Permanet verbum tuum
 &Gloria
-R. In aeternum Domine * permanet Verbum tuum
+R. In aeternum Domine * Permanet verbum tuum
 _
 V. Dominus regit me et nihil mihi deerit
-R. In loco pascua ibi me collocavit
+R. In loco pascuae ibi me collocavit
 
 [Dominica Nona]
 !1 Cor 6:20
 v. Empti enim estis pretio magno. Glorificate et portate Deum in corpore vestro
 $Deo gratias
 _
-R.br. Clamavi in toto corde meo * exaudi me Domine
-R. Clamavi in toto corde meo * exaudi me Domine
+R.br. Clamavi in toto corde meo * Exaudi me Domine
+R. Clamavi in toto corde meo * Exaudi me Domine
 V. Justificationes tuas requiram 
 R. Exaudi me Domine
 &Gloria
-R. Clamavi in toto corde meo * exaudi me Domine
+R. Clamavi in toto corde meo * Exaudi me Domine
 _
 V. Ab occultis meis munda me Domine
 R. Et ab alienis parce servo tuo
@@ -49,19 +49,18 @@ v. Sana me, Domine, et sanabor: salvum me fac, et salvus ero: quoniam laus mea t
 $Deo gratias
 _
 R.br. Sana animam meam, * Quia peccavi tibi. 
-R. Sana animam meam, quia peccavi tibi. 
+R. Sana animam meam, * Quia peccavi tibi. 
 V. Ego dixi: Domine, miserere mei 
 R.  Quia peccavi tibi. 
 &Gloria 
-R. Sana animam meam, quia peccavi tibi.
+R. Sana animam meam, * Quia peccavi tibi.
 _
 V. Adjutor meus esto, ne derelinquas me.
 R. Neque despicias me, Deus, salutaris meus.
 
 [Feria Sexta]
 !Rom 13:8
-v. Nemini quidquam debeatis nisi ut invicem diligatis: qui enim diligit proximum~
-legem implevit
+v. Nemini quidquam debeatis nisi ut invicem diligatis: qui enim diligit proximum legem implevit
 $Deo gratias
 _
 R.br. Benedicam Dominum * In omni tempore
@@ -79,107 +78,99 @@ R. In loco pascuae ibi me collocavit
 v. In timóre incolátus vestri témpore conversámini: sciéntes quod non corruptibílibus auro vel argénto redémpti estis, sed pretióso sánguine quasi Agni immaculáti Christi.
 $Deo gratias
 _
-R.br. Redime me Domine * et miserere mei
-R. Redime me Domine * et miserere mei
+R.br. Redime me Domine * Et miserere mei
+R. Redime me Domine * Et miserere mei
 V. Pes enim meus stetit in via recta 
 R. Et miserere mei
 &Gloria
-R. Redime me Domine * et miserere mei
+R. Redime me Domine * Et miserere mei
 _
 V. Ab occultis meis munda me Domine
-R. Et ab alienis parce servo suo
+R. Et ab alienis parce servo tuo
 
 [Adv Tertia]
 !Jer 23:5
-Ecce dies veniunt, dicit Dominus, et suscitabo David germen justum:~
-et regnabit rex, et sapiens erit:~
-et faciet judicium et justitiam in terra
+v. Ecce dies veniunt, dicit Dominus, et suscitabo David germen justum: et regnabit rex, et sapiens erit: et faciet judicium et justitiam in terra
 $Deo gratias
 
 [Responsory Adv Tertia]
-R.br. Veni ad liberandum nos * Domine Deus virtutum
-R. Veni ad liberandum nos, Domine Deus virtutum
+R.br. Veni ad liberandum nos, * Domine Deus virtutum
+R. Veni ad liberandum nos, * Domine Deus virtutum
 V. Ostende faciem tuam et salvi erimus 
 R. Domine Deus virtutum
 &Gloria
-R. Veni ad liberandum nos, Domine Deus virtutum
+R. Veni ad liberandum nos, * Domine Deus virtutum
 _
 V. Timebunt gentes nomen tuum Domine
 R. Et omnes reges terrae gloriam tuam
 
 [Adv Sexta]
 !Jer 23:6
-v. In diebus illis salvabitur Juda et habitabit confidenter~
-et hoc est nomen quod vocabunt eum, Dominus justus noster
+v. In diebus illis salvabitur Juda et Israël habitabit confidenter et hoc est nomen quod vocabunt eum, Dominus justus noster
 $Deo gratias
 
 [Responsory Adv Sexta]
-R.br. Ostende nobis Domine * Misericordiam tuam
-R. Ostende nobis Domine, misericordiam tuam
+R.br. Ostende nobis Domine, * Misericordiam tuam
+R. Ostende nobis Domine, * Misericordiam tuam
 V. Et salutare tuum da nobis 
 R. Misericordiam tuam
 &Gloria
-R. Ostende nobis Domine, misericordiam tuam
+R. Ostende nobis Domine, * Misericordiam tuam
 _
 V. Memento nostri Domine in beneplacito populi tui
 R. Visita nos in salutari tuo
 
 [Adv Nona]
 !Isa 14:1
-v. Prope est ut veniat tempus eius, et dies eius non elongabuntur:~
-miserebitur enim Dominus Jacob, et Israel salvabitur
+v. Prope est ut veniat tempus eius, et dies eius non elongabuntur: miserebitur enim Dominus Jacob, et Israël salvabitur
 $Deo gratias
 
 [Responsory Adv Nona]
-R.br. Super te Jerusalem * Orietur Dominus
-R. Super te Jerusalem, orietur Dominus
+R.br. Super te Jerusalem, * Orietur Dominus
+R. Super te Jerusalem, * Orietur Dominus
 V. Et gloria eius in te videbitur 
 R. Orietur Dominus
 &Gloria
-R. Super te Jerusalem, orietur Dominus
+R. Super te Jerusalem, * Orietur Dominus
 _
 V. Veni Domine, et noli tardare
 R. Relaxa facinora plebi tuae
 
 [Quad Tertia]
 !Joel 2:12-13
-v. Convertimini ad me in toto corde vestro, in jejunio et fletu et planctu~
-Et scindite corda vestra, et non vestimenta vestra, ait Dominus omnipotens
+v. Convertimini ad me in toto corde vestro, in jejunio et fletu et planctu Et scindite corda vestra, et non vestimenta vestra, ait Dominus omnipotens
 $Deo gratias
 
 [Responsory Quad Tertia]
-R.br. Ipse liberavit me de laqueo venantium
-R. Ipse liberavit me de laqueo venantium
+R.br. Ipse liberavit me * De laqueo venantium
+R. Ipse liberavit me * De laqueo venantium
 V. Et a verbo aspero 
 R. De laqueo venantium
 &Gloria
-R. Ipse liberavit me * de laqueo venantium
+R. Ipse liberavit me * De laqueo venantium
 _
-V. Scapulis suis obumbravit tibi
+V. Scapulis suis obumbrabit tibi
 R. Et sub pennis eius sperabis
 
 [Quad Sexta]
 !Isa 55:7
-v. Derelinquat impius viam suam, et vir iniquus cogitationes suas~
-et revertatur ad Dominum, et miserebitur eius, et ad Deum nostrum,~
-quoniam multus est ad ignoscendum.
+v. Derelinquat impius viam suam, et vir iniquus cogitationes suas et revertatur ad Dominum, et miserebitur eius, et ad Deum nostrum, quoniam multus est ad ignoscendum.
 $Deo gratias
 
 [Responsory Quad Sexta]
-R.br Scapulis suis * obumbrabit tibi
-R. Scapulis suis obumbrabit tibi
+R.br Scapulis suis * Obumbrabit tibi
+R. Scapulis suis * Obumbrabit tibi
 V. Et sub pennis eius sperabis 
 R. Obumbrabit tibi
 &Gloria
-R. Scapulis suis obumbrabit tibi
+R. Scapulis suis * Obumbrabit tibi
 _
 V. Scuto circumdabit te veritas eius
 R. Non timebis a timore nocturno.
 
 [Quad Nona]
 !Isa 58:7
-v. Frange esurienti panem tuum, et egenos vagosque induc in domum tuam:~
-cum videris nudum operi eum, et carnem tuam ne despexeris.
+v. Frange esurienti panem tuum, et egenos vagosque induc in domum tuam: cum videris nudum operi eum, et carnem tuam ne despexeris.
 $Deo gratias
 
 [Responsory Quad Nona]
@@ -195,99 +186,89 @@ R. Ut custodiant te in omnibus viis tuis
 
 [Quad5 Tertia]
 !Jer 17:13
-Domine omnes qui te dereliquerunt confundentur:~
-recedentes a te in terra scribentur:~
-quoniam dereliquerunt venam aquarum viventium: Dominum.
+v. Domine omnes qui te derelinquunt confundentur: recedentes a te in terra scribentur: quoniam dereliquerunt venam aquarum viventium: Dominum.
 $Deo gratias
 
 [Responsory Quad5 Tertia]
 R.br. Erue a framea * Deus animam meam
-R. Erue a framea Deus animam meam
+R. Erue a framea * Deus animam meam
 V. Et de manu canis unicam meam 
 R. Deus animam meam
-R. Erue a framea Deus animam meam
+R. Erue a framea * Deus animam meam
 _
 V. De ore leonis libera me Domine
 R. Et a cornibus unicornium humilitatem meam.
 
 [Quad5 Sexta]
 !Jer 17:18
-Confundantur qui me persequuntur, et non confundar ego:~
-paveant illi et non paveam ego: induc super eos diem afflictionis,~
-et duplici contritione contere eos, Domine Deus noster
+v. Confundantur qui me persequuntur, et non confundar ego: paveant illi et non paveam ego: induc super eos diem afflictionis, et duplici contritione contere eos, Domine Deus noster
 $Deo gratias
 
 [Responsory Quad5 Sexta]
-R.br. De ore leonis * libera me Domine
-R. De ore leonis libera me Domine
+R.br. De ore leonis * Libera me Domine
+R. De ore leonis * Libera me Domine
 V. Et a cornibus unicornium humilitatem meam 
 R. Libera me Domine
-R. De ore leonis libera me Domine
+R. De ore leonis * Libera me Domine
 _
 V. Ne perdas cum impiis Deus animam meam
-R. Et cum viris sanguinem vitam meam.
+R. Et cum viris sanguinum vitam meam.
 
 [Quad5 Nona]
 !Jer 18:20
-v. Recordare quod steterim in conspectu tuo~
-ut loquerer pro eis bonum, et avertam indignationem tuam ab eis
+v. Recordare quod steterim in conspectu tuo ut loquerer pro eis bonum, et averterem indignationem tuam ab eis
 $Deo gratias
 
 [Responsory Quad5 Nona]
 R.br. Ne perdas cum impiis * Deus animam meam
-R. Ne perdas cum impiis Deus animam meam
+R. Ne perdas cum impiis * Deus animam meam
 V. Et cum viris sanguinum vitam meam 
 R. Deus animam meam
-R. Ne perdas cum impiis Deus animam meam
+R. Ne perdas cum impiis * Deus animam meam
 _
 V. Eripe me Domine ab homine malo
-R. Viro iniquo eripe me
+R. A viro iniquo eripe me
 
 [Pasch Tertia]
 !Rom 6:9-10
-v. Christus resurgens ex mortuis iam non moritur, mors illi ultra non dominabitur~
-Quod enim mortuus est peccato, mortuus est semel: quod autem vivit vivit Deo.
+v. Christus resurgens ex mortuis iam non moritur, mors illi ultra non dominabitur Quod enim mortuus est peccato, mortuus est semel: quod autem vivit vivit Deo.
 $Deo gratias
 
 [Responsory Pasch Tertia]
-R.br. Surrexit Dominus de sepulchro * Alleluia, alleluia
-R. Surrexit Dominus de sepulchro: Alleluia, alleluia
+R.br. Surrexit Dominus de sepulcro: * Alleluia, alleluia
+R. Surrexit Dominus de sepulcro: * Alleluia, alleluia
 V. Qui pro nobis pependit in ligno 
 R. Alleluia, alleluia
 &Gloria
-R. Surrexit Dominus de sepulchro: Alleluia, alleluia
+R. Surrexit Dominus de sepulcro: * Alleluia, alleluia
 _
 V. Surrexit Dominus vere, alleluia
 R. Et apparuit Simoni, alleluia
 
 [Pasch Sexta]
 !1 Cor 15:20-22
-Christus resurrexit a mortuis primitiae dormientium:~
-quoniam quidem per hominem mors, et per hominem resurrectio mortuorum~
-Et sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur.
+v. Christus resurrexit a mortuis primitiae dormientium: quoniam quidem per hominem mors, et per hominem resurrectio mortuorum Et sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur.
 $Deo gratias
 
 [Responsory Pasch Sexta]
-R.br. Surrexit Dominus vere. Alleluia, alleluia 
-R. Surrexit Dominus vere. Alleluia, alleluia
+R.br. Surrexit Dominus vere. * Alleluia, alleluia 
+R. Surrexit Dominus vere. * Alleluia, alleluia
 V. Et apparuit Simoni 
 R. Alleluia, alleluia
 &Gloria
-R. Surrexit Dominus vere * Alleluia, alleluia
+R. Surrexit Dominus vere, * Alleluia, alleluia
 _
 V. Gavisi sunt discipuli alleluia
 R. Viso Domino alleluia
 
 [Pasch Nona]
 !1 Pet 3:18
-v. Christus semel pro peccatis nostris mortuus est, justus pro injustis,~
-ut nos offeret Deo, mortificatus quidem carne,~
-vivificatus autem spiritu
+v. Christus semel pro peccatis nostris mortuus est, justus pro injustis, ut nos offerret Deo, mortificatus quidem carne, vivificatus autem spiritu
 $Deo gratias
 
 [Responsory Pasch Nona]
 R.br. Gavisi sunt discipuli, * Alleluia, alleluia
-R. Gavisi sunt discipuli, Alleluia, alleluia
+R. Gavisi sunt discipuli, * Alleluia, alleluia
 V. Viso Domino 
 R. Alleluia, alleluia
 &Gloria
@@ -310,7 +291,7 @@ v. Alter alterius onera portate et sic adimplebitis legem Christi
 $Deo gratias
 _
 V. Dominus regit me et nihil mihi deerit
-R. In loco pascua ibi me collocavit
+R. In loco pascuae ibi me collocavit
 
 [Dominica NonaM]
 !1 Cor 6:20
@@ -330,8 +311,7 @@ R. Neque despicias me, Deus, salutaris meus.
 
 [Feria SextaM]
 !Rom 13:8
-v. Nemini quidquam debeatis nisi ut invicem diligatis: qui enim diligit proximum~
-legem implevit
+v. Nemini quidquam debeatis nisi ut invicem diligatis: qui enim diligit proximum legem implevit
 $Deo gratias
 _
 V. Dominus regit me et nihil mihi deerit
@@ -347,9 +327,7 @@ R. Et ab alienis parce servo suo
 
 [Adv TertiaM]
 !Jer 23:5
-Ecce dies veniunt, dicit Dominus, et suscitabo David germen justum:~
-et regnabit rex, et sapiens erit:~
-et faciet judicium et justitiam in terra
+Ecce dies veniunt, dicit Dominus, et suscitabo David germen justum: et regnabit rex, et sapiens erit: et faciet judicium et justitiam in terra
 $Deo gratias
 
 [Responsory Adv TertiaM]
@@ -358,8 +336,7 @@ R. Ostende faciem tuam et salvi erimus
 
 [Adv SextaM]
 !Jer 23:6
-v. In diebus illis salvabitur Juda et habitabit confidenter~
-et hoc est nomen quod vocabunt eum, Dominus justus noster
+v. In diebus illis salvabitur Juda et habitabit confidenter et hoc est nomen quod vocabunt eum, Dominus justus noster
 $Deo gratias
 
 [Responsory Adv SextaM]
@@ -368,8 +345,7 @@ R. Et salutare tuum da nobis
 
 [Adv NonaM]
 !Isa 14:1
-v. Prope est ut veniat tempus eius, et dies eius non elongabuntur:~
-miserebitur enim Dominus Jacob, et Israel salvabitur
+v. Prope est ut veniat tempus eius, et dies eius non elongabuntur: miserebitur enim Dominus Jacob, et Israël salvabitur
 $Deo gratias
 
 [Responsory Adv NonaM]
@@ -378,8 +354,7 @@ R. Et gloria eius in te videbitur
 
 [Quad TertiaM]
 !Joel 2:12-13
-v. Convertimini ad me in toto corde vestro, in jejunio et fletu et planctu~
-Et scindite corda vestra, et non vestimenta vestra, ait Dominus omnipotens
+v. Convertimini ad me in toto corde vestro, in jejunio et fletu et planctu Et scindite corda vestra, et non vestimenta vestra, ait Dominus omnipotens
 $Deo gratias
 
 [Responsory Quad TertiaM]
@@ -388,9 +363,7 @@ R. Et a verbo aspero
 
 [Quad SextaM]
 !Isa 55:7
-v. Derelinquat impius viam suam, et vir iniquus cogitationes suas~
-et revertatur ad Dominum, et miserebitur eius, et ad Deum nostrum,~
-quoniam multus est ad ignoscendum.
+v. Derelinquat impius viam suam, et vir iniquus cogitationes suas et revertatur ad Dominum, et miserebitur eius, et ad Deum nostrum, quoniam multus est ad ignoscendum.
 $Deo gratias
 
 [Responsory Quad SextaM]
@@ -399,8 +372,7 @@ R. Et sub pennis eius sperabis
 
 [Quad NonaM]
 !Isa 58:7
-v. Frange esurienti panem tuum, et egenos vagosque induc in domum tuam:~
-cum videris nudum operi eum, et carnem tuam ne despexeris.
+v. Frange esurienti panem tuum, et egenos vagosque induc in domum tuam: cum videris nudum operi eum, et carnem tuam ne despexeris.
 $Deo gratias
 
 [Responsory Quad NonaM]
@@ -409,9 +381,7 @@ R. Non timebis a timore nocturno
 
 [Quad5 TertiaM]
 !Jer 17:13
-Domine omnes qui te dereliquerunt confundentur:~
-recedentes a te in terra scribentur:~
-quoniam dereliquerunt venam aquarum viventium: Dominum.
+Domine omnes qui te dereliquerunt confundentur: recedentes a te in terra scribentur: quoniam dereliquerunt venam aquarum viventium: Dominum.
 $Deo gratias
 
 [Responsory Quad5 TertiaM]
@@ -420,9 +390,7 @@ R. Et de manu canis unicam meam
 
 [Quad5 SextaM]
 !Jer 17:18
-Confundantur qui me persequuntur, et non confundar ego:~
-paveant illi et non paveam ego: induc super eos diem afflictionis,~
-et duplici contritione contere eos, Domine Deus noster
+Confundantur qui me persequuntur, et non confundar ego: paveant illi et non paveam ego: induc super eos diem afflictionis, et duplici contritione contere eos, Domine Deus noster
 $Deo gratias
 
 [Responsory Quad5 SextaM]
@@ -431,8 +399,7 @@ R. Et a cornibus unicornium humilitatem meam
 
 [Quad5 NonaM]
 !Jer 18:20
-v. Recordare quod steterim in conspectu tuo~
-ut loquerer pro eis bonum, et avertam indignationem tuam ab eis
+v. Recordare quod steterim in conspectu tuo ut loquerer pro eis bonum, et avertam indignationem tuam ab eis
 $Deo gratias
 
 [Responsory Quad5 NonaM]
@@ -441,19 +408,16 @@ R. Et cum viris sanguinum vitam meam
 
 [Pasch TertiaM]
 !Rom 6:9-10
-v. Christus resurgens ex mortuis iam non moritur, mors illi ultra non dominabitur~
-Quod enim mortuus est peccato, mortuus est semel: quod autem vivit vivit Deo.
+v. Christus resurgens ex mortuis iam non moritur, mors illi ultra non dominabitur Quod enim mortuus est peccato, mortuus est semel: quod autem vivit vivit Deo.
 $Deo gratias
 
 [Responsory Pasch TertiaM]
-V. Surrexit Dominus de sepulchro. Alleluia,
+V. Surrexit Dominus de sepulcro. Alleluia,
 R. Qui pro nobis pependit in ligno. Alleuia
 
 [Pasch SextaM]
 !1 Cor 15:20-22
-Christus resurrexit a mortuis primitiae dormientium:~
-quoniam quidem per hominem mors, et per hominem resurrectio mortuorum~
-Et sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur.
+Christus resurrexit a mortuis primitiae dormientium: quoniam quidem per hominem mors, et per hominem resurrectio mortuorum Et sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur.
 $Deo gratias
 
 [Responsory Pasch SextaM]
@@ -463,9 +427,7 @@ R. Et apparuit Simoni. Alleluia.
 
 [Pasch NonaM]
 !1 Pet 3:18
-v. Christus semel pro peccatis nostris mortuus est, justus pro injustis,~
-ut nos offeret Deo, mortificatus quidem carne,~
-vivificatus autem spiritu
+v. Christus semel pro peccatis nostris mortuus est, justus pro injustis, ut nos offeret Deo, mortificatus quidem carne, vivificatus autem spiritu
 $Deo gratias
 
 [Responsory Pasch NonaM]
@@ -490,7 +452,7 @@ R. In loco pascuae, ibi me collocavit.
 
 [Feria II NonaM]
 !1 Cor 6:20
-v. Empty enim estis pretio magno, glorificate et portate Deum, in corpore vestro
+v. Empti enim estis pretio magno, glorificate et portate Deum, in corpore vestro
 $Deo gratias
 _
 V. Ab occultis meis munda me, Domine.

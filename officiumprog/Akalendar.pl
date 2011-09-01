@@ -100,7 +100,7 @@ for ($cday = 1; $cday <= $to; $cday++) {
     (exists($scriptura{Rank}) && ($c1[3]!~ /ex C[0-9]+[a-z]*/i ||
     ($version =~ /trident/i && $c1[2] !~ /(ex|vide) C[0-9]/i))) ? 
      split(';;', "Scriptura: $scriptura{Rank}") : 
-    (exists($scriptura{Rank})) ? split(';;', "Tempora: $scriptura{Rank}") : ();
+    (exists($scriptura{Rank})) ? split(';;', "Tempora: $scriptura{Rank}") : (); 
   
   $c1 = $c2 = ''; 
   if (@c1) {
@@ -127,6 +127,9 @@ for ($cday = 1; $cday <= $to; $cday++) {
   if ($dirge) { $c1 .= setfont($smallblack, ' dirge');}
 
   if (!$c2 && $dayname[2]) {$c2 = setfont($smallblack, $dayname[2]);}
+  elsif (!$c1 && $dayname[2]) {$c1 = setfont($smallblack, $dayname[2]);}
+
+ 
   if ($version !~ /1960/ && $winner{Rule} =~ /\;mtv/i) {$c2 .= setfont($smallblack, ' m.t.v.');}
 
   $column = 1;  

@@ -47,7 +47,7 @@ Ut piis ejus precibus juvemur
 Omne per aevum.
 _
 Sit salus illi, decus, atque virtus,
-Qui super coeli solio coruscans,
+Qui super caeli solio coruscans,
 Totius mundi seriem gubernat
 Trinus et unus.
 Amen.
@@ -74,7 +74,7 @@ Ut piis ejus precibus juvemur
 Omne per aevum.
 _
 Sit salus illi, decus, atque virtus,
-Qui super coeli solio coruscans,
+Qui super caeli solio coruscans,
 Totius mundi seriem gubernat
 Trinus et unus.
 Amen.
@@ -220,7 +220,7 @@ nec laudantem adulatio movet, nec laudatum tentet elatio.
 [Responsory6]
 R. Iste est qui ante Deum magnas virtutes operatus est, et omnis terra doctrina ejus repleta est:
 * Ipse intercedat pro peccatis omnium populorum.
-V. Iste est qui contempsit vitam mundi, et pervenit ad coelestia regna.
+V. Iste est qui contempsit vitam mundi, et pervenit ad caelestia regna.
 R. Ipse intercedat pro peccatis omnium populorum.
 &Gloria
 R. Ipse intercedat pro peccatis omnium populorum.
@@ -250,8 +250,8 @@ R. Et ad portas paradisi coronavit eum.
 
 [Lectio8]
 Quis itaque iste homo est, qui peregre proficiscitur, nisi Redemptor noster, qui~
-in ea carne quam assumpserat, abiit in coelum? Carnis enim locus proprius terra~
-est; quae quasi ad peregrina ducitur, dum per Redemptorem nostrum in coelo~
+in ea carne quam assumpserat, abiit in caelum? Carnis enim locus proprius terra~
+est; quae quasi ad peregrina ducitur, dum per Redemptorem nostrum in caelo~
 collocatur. Sed homo iste peregre proficiscens, servis suis bona sua tradidit,~
 quia fidelibus suis spiritualia dona concessit. Et uni quidem quinque talenta,~
 alii duo, alii vero commisit unum. Quinque etenim sunt corporis sensus,~
@@ -424,7 +424,7 @@ De libro Ecclesiastici
 !Sir 44:10-15
 10 Sed illi viri misericordiae sunt, quorum pietates non defuerunt.
 11 Cum semine eorum permanent bona:
-12 haereditas sancta nepotes eorum, et in testamentis stetit semen eorum:
+12 hereditas sancta nepotes eorum, et in testamentis stetit semen eorum:
 13 et filii eorum propter illos usque in aeternum manent: semen eorum et gloria eorum non derelinquetur.
 14 Corpora ipsorum in pace sepulta sunt, et nomen eorum vivit in generationem et generationem.
 15 Sapientiam ipsorum narrent populi, et laudem eorum nuntiet ecclesia.

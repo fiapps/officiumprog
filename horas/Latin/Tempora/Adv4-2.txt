@@ -12,7 +12,6 @@ De Isaia Propheta
 3 Calamum quassatum non conteret, et linum fumigans non extinguet: in veritate educet judicium.
 4 Non erit tristis, neque turbulentus, donec ponat in terra judicium; et legem ejus insulae exspectabunt.
 
-
 [Responsory1]
 @Tempora/Adv4-0:Responsory4
 
@@ -21,7 +20,6 @@ De Isaia Propheta
 5 Haec dicit Dominus Deus, creans caelos, et extendens eos; formans terram, et quae germinant ex ea; dans flatum populo qui est super eam, et spiritum calcantibus eam:
 6 Ego Dominus vocavi te in justitia, et apprehendi manum tuam, et servavi te: et dedi te in fœdus populi, in lucem gentium,
 7 ut aperires oculos caecorum, et educeres de conclusione vinctum, de domo carceris sedentes in tenebris.
-
 
 [Responsory2]
 @Tempora/Adv4-0:Responsory5
@@ -32,7 +30,6 @@ De Isaia Propheta
 11 Sublevetur desertum et civitates ejus. In domibus habitabit Cedar: laudate, habitatores petrae; de vertice montium clamabunt.
 12 Ponent Domino gloriam, et laudem ejus in insulis nuntiabunt.
 13 Dominus sicut fortis egredietur, sicut vir praeliator suscitabit zelum; vociferabitur, et clamabit: super inimicos suos confortabitur.
-
 
 [Responsory3]
 @Tempora/Adv4-0:Responsory6

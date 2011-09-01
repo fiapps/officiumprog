@@ -101,7 +101,7 @@ Hi dies, dilectissimi, qui inter resurrectionem Domini ascensionemque fluxerunt,
 non otioso transiere decursu, sed magna in eis confirmata sacramenta, magna sunt~
 revelata mysteria. In iis metus dirae mortis aufertur, et non solum animae, sed~
 etiam carnis immortalitas declaratur. In iis per insufflationem Domini~
-infunditur Apostolis omnibus Spiritus sanctus: et beato Apostolo Petro supra~
+infunditur Apostolis omnibus Spiritus Sanctus: et beato Apostolo Petro supra~
 ceteros, post regni claves, ovilis Dominici cura mandatur.
 
 [Responsory4]
@@ -128,7 +128,7 @@ ingerit dubitantium oculis manentia in manibus suis et pedibus crucis signa; et~
 ut diligentius pertractetur, invitat. Quia ad sananda infidelium cordium vulnera,~
 clavorum et lancea erant servata vestigia: ut non dubia fide, sed constantissima~
 scientia teneretur, eam naturam in Dei Patris consessuram throno, quae jacuerat~
-in sepulchro.
+in sepulcro.
 
 [Responsory6]
 @TemporaM/Pasc0-5:Responsory2
@@ -191,16 +191,16 @@ sequamini vestigia eius qui peccatum non fecit nec inventus est dolus in ore~
 ipsius
 $Deo gratias
 _
-R.br. Surrexit Dominus de sepulchro * Alleluia, alleluia
-R. Surrexit Dominus de sepulchro: Alleluia, alleluia
+R.br. Surrexit Dominus de sepulcro * Alleluia, alleluia
+R. Surrexit Dominus de sepulcro: Alleluia, alleluia
 V. Qui pro nobis pependit in ligno
 R. Alleluia, alleluia
 &Gloria
-R. Surrexit Dominus de sepulchro: Alleluia, alleluia
+R. Surrexit Dominus de sepulcro: Alleluia, alleluia
 
 [Versum 2]
 V. In resurrectione tua Christe, alleluia.
-R. Coeli et terra laetentur, alleluia.
+R. Caeli et terra laetentur, alleluia.
 
 [Ant 2]
 Ego sum pastor ovium: * ego sum via, veritas, et vita: ego sum pastor bonus, et~

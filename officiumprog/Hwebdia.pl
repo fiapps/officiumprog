@@ -93,17 +93,26 @@ sub setcross {
 sub setcell {
   my $text = shift;
   my $lang = shift; 
-  
+ 
+ 
   my $width = ($only) ? 100 : 50;
   if (columnsel($lang)) {
-    $searchind++; $line .=  "<TR>";
+    $searchind++; $htmltext .=  "<TR>";
+    if ($notes && $text =~ /\{\:(.*?)\:\}/) {
+      my $notefile = $1;
+	  my $columns = ($only) ? 1 : 2;
+	  $notefile =~ s/^pc/p/;
+	  $imgu = ($onefile) ? $imgurl1 : $imgurl;
+	  $htmltext .= "<TR><TD COLSPAN=$columns WIDTH=100% $background VALIGN=MIDDLE ALIGN=CENTER>\n" .
+	    "<IMG SRC=\"$imgu/$notefile.gif\" WIDTH=80%></TD></TR>\n";
+    }
   }
   
     # handle chant
     my $ttext = $text;
     $text = '';
     $ctext = '';
-    while ($voicecolumn =~ /chant/i && $voicecolumn =~ /$lang/i && $ttext =~ /\{\:(.*?)\:\}/) { 
+    while ($voicecolumn =~ /chant/i && $lang1 =~ /$voicecolumn/i && $ttext =~ /\{\:(.*?)\:\}/) { 
       $tonefile = $1;         
       $text .= $`;
       $ttext = $';
@@ -162,13 +171,23 @@ sub table_start {
 #antepost('$title')
 # prints Ante of Post call
 sub ante_post {
-  return;
   my $title = shift;
-  my $colspan = ($only) ? '' : 'COLSPAN=2';
+  my $flag = 0;
+  if (!$onefile) {$flag = 1;}
+  if ($hora =~ /Matutinum/i && $title =~ /ante/i) {$flag = 1;} 
+  if ($hora =~ /Completorium/i && $title =~ /post/i) {$flag = 1;}
+  if (!$flag) {return;}
 
-  $htmltext .= "<TR><TD $background VALIGN=TOP $colspan ALIGN=CENTER>\n" .
-   "<INPUT TYPE=RADIO NAME=link onclick='linkit(\"\$$title\", 0, \"Latin\");'>\n" .
-   "<FONT SIZE=1>$title Divinum officium</FONT></TD></TR>";
+ 
+  my $text1 = resolve_refs('$' . $title, $lang1); 
+  $text1 =~ s/_/ /g;    
+
+  if (!$only) {
+    my %prayer = %{setupstring("$datafolder/$lang2/Psalterium/Prayers.txt")};
+    my $text2 = resolve_refs('$' . $title, $lang2);       
+    $text2 =~ s/_/ /g;    
+    $htmltext .= "<TR><TD $background VALIGN=TOP width 50%>$text1</TD><TD $background >$text2</TD></TR>\n";
+  } else {$htmltext .= "<TR><TD $background VALIGN=TOP width 100%>$text1</TD></TR>\n";}
 }
 
 #table_end()
@@ -206,6 +225,7 @@ sub makewav {
   my $psalmline = 0; #shift;
   my $lineind = ''; #shift;
 
+  $tfile =~ s/^pc/p/;
   if (open (INP, "$datafolder/tones/$tfile.txt")) {
     $tone = '';
 	  my $line;

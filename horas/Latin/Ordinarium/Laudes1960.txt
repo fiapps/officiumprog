@@ -5,7 +5,7 @@ $Deus in adjutorium
 
 #Psalmi
 
-#Capitulum Hymnus Versum
+#Capitulum Hymnus Versus
 
 #Canticum Benedictus
 &ant_Benedictus(1)
@@ -22,11 +22,11 @@ V. Convertere, Domine, usquequo?
 R. Et deprecabilis esto super servos tuos.
 V. Fiat misericordia tua, Domine, super nos.
 R. Quemadmodum speravimus in te.
-V. Sacerdotes tui induantur justitiam.
+V. Sacerdotes tui induantur iustitiam.
 R. Et sancti tui exsultent.
 V. Oremus pro beatissimo Papa nostro~
 r. N.
-R. Dominus conservet eum, et vivificet eum, et beatum faciat eum in terra, et non tradat eum in animam inimicorum ejus.
+R. Dominus conservet eum, et vivificet eum, et beatum faciat eum in terra, et non tradat eum in animam inimicorum eius.
 V. Oremus et pro Antistite nostro ~
 r. N.
 R. Stet et pascat in fortitudine tua, Domine, in sublimitate nominis tui.
@@ -54,7 +54,7 @@ V. Mitte eis, Domine, auxilium de sancto.
 R. Et de Sion tuere eos.
 V. Domine, Deus virtutum, converte nos.
 R. Et ostende faciem tuam, et salvi erimus.
-V. Exsurge, Christe, adjuva nos.
+V. Exsurge, Christe, adiuva nos.
 R. Et libera nos propter nomen tuum.
 V. Domine exaudi orationem meam.
 R. Et clamor meus ad te veniat

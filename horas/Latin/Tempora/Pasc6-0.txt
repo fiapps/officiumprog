@@ -12,9 +12,7 @@ StJamesRule=John,Rev
 
 [Capitulum Vespera]
 !1. Petri 4:7-8
-v. Carissimi: Estote prudentes, et vigilate in orationibus. Ante omnia autem,~
-mutuam in vobismetipsis caritatem continuam habentes: quia caritas operit~
-multitudinem peccatorum.
+v. Carissimi: Estote prudentes, et vigilate in orationibus. Ante omnia autem, mutuam in vobismetipsis caritatem continuam habentes: quia caritas operit multitudinem peccatorum.
 $Deo gratias
 
 [Versum 1]
@@ -22,26 +20,22 @@ V. Dominus in caelo, alleluia.
 R. Paravit sedem suam, alleluia.
 
 [Ant 1]
-Cum venerit Paraclitus, * quem ego mittam vobis Spiritum veritatis, qui a Patre~
-procedit, ille testimonium perhibebit de me, alleluia.
+Cum venerit Paraclitus, * quem ego mittam vobis Spiritum veritatis, qui a Patre procedit, ille testimonium perhibebit de me, alleluia.
 
 [Oratio]
-Omnipotens sempiterne Deus, fac nos tibi semper et devotam gerere voluntatem, et~
-majestati tuae sincero corde servire.
+Omnipotens sempiterne Deus, fac nos tibi semper et devotam gerere voluntatem, et majestati tuae sincero corde servire.
 $Per Dominum
 
 [Commemoratio 1]
 !Commemoratio Octavae Ascensionis.
-Ant. O Rex gloriae Domine virtutum, qui triumphator hodie super omnes caelos~
-ascendisti, ne derelinquas nos orphanos: sed mitte promissum Patris in nos,~
-Spiritum veritatis, alleluia.
+Ant. O Rex gloriae Domine virtutum, qui triumphator hodie super omnes caelos ascendisti, ne derelinquas nos orphanos: sed mitte promissum Patris in nos, Spiritum veritatis, alleluia.
 _
 V. Ascendit Deus in jubilatione, alleluia.
 R. Et Dominus in voce tubae, alleluia.
 _
-v. Oremus.
-Concede quaesumus omnipotens Deus: ut qui hodierna die Unigenitum tuum~
-Redemptorem nostrum ad caelos ascendisse credimus, ipsi quoque mente in~
+$Oremus
+Concede quaesumus omnipotens Deus: ut qui hodierna die Unigenitum tuum
+Redemptorem nostrum ad caelos ascendisse credimus, ipsi quoque mente in
 caelestibus habitemus.
 $Per eumdem
 	
@@ -54,7 +48,6 @@ Incipit Epistola prima beati Joannis Apostoli.
 4 Et haec scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.
 5 Et haec est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam Deus lux est, et tenebrae in eo non sunt ullae.
 
-
 [Responsory1]
 @Tempora/Pasc5-4:Responsory1
 
@@ -65,7 +58,6 @@ Incipit Epistola prima beati Joannis Apostoli.
 8 Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.
 9 Si confiteamur peccata nostra: fidelis est, et justus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.
 10 Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis.
-
 
 [Responsory2]
 @Tempora/Pasc5-4:Responsory2
@@ -85,106 +77,56 @@ _
 [Lectio4]
 !Sermo sancti Augustini Episcopi.
 !Sermo 2. de Ascensione Domini qui est 175. de Tempore.
-Salvator noster, dilectissimi fratres, ascendit in caelum: non ergo turbemur in~
-terra. Ibi sit mens, et hic erit requies. Ascendamus cum Christo interim corde:~
-cum dies ejus promissus advenerit, sequemur et corpore. Scire tamen debemus,~
-fratres, quia cum Christo non ascendit superbia, non avaritia, non luxuria:~
-nullum vitium nostrum ascendit cum medico nostro. Et ideo si post medicum~
-desideramus ascendere, debemus vitia et peccata deponere. Omnes enim quasi~
-quibusdam compedibus nos premunt, et peccatorum nos retibus ligare contendunt:~
-et ideo cum Dei adjutorio, secundum quod ait Psalmista: Dirumpamus vincula~
-eorum: ut securi possimus dicere domino: Dirupisti vincula mea, tibi sacrificabo~
-hostiam laudis.
+Salvator noster, dilectissimi fratres, ascendit in caelum: non ergo turbemur in terra. Ibi sit mens, et hic erit requies. Ascendamus cum Christo interim corde: cum dies ejus promissus advenerit, sequemur et corpore. Scire tamen debemus, fratres, quia cum Christo non ascendit superbia, non avaritia, non luxuria: nullum vitium nostrum ascendit cum medico nostro. Et ideo si post medicum desideramus ascendere, debemus vitia et peccata deponere. Omnes enim quasi quibusdam compedibus nos premunt, et peccatorum nos retibus ligare contendunt: et ideo cum Dei adjutorio, secundum quod ait Psalmista: Dirumpamus vincula eorum: ut securi possimus dicere domino: Dirupisti vincula mea, tibi sacrificabo hostiam laudis.
 
 [Lectio5]
-Resurrectio Domini spes nostra est: ascensio Domini glorificatio nostra est.~
-Ascensionis hodie solemnia celebramus. Si ergo recte, si fideliter, si devote,~
-si sancte, si pie ascensionem Domini celebramus, ascendamus cum illo, et sursum~
-corda habeamus. Ascendentes autem non extollamur, nec de nostris, quasi de~
-propriis meritis praesumamus. Sursum autem corda habere debemus ad Dominum.~
-Sursum enim cor non ad Dominum, superbia vocatur: sursum autem cor ad Dominum,~
-refugium vocatur. Videte, fratres, magnum miraculum. Altus est Deus, erigis te,~
-et fugit a te humilias te, et descendit ad te. Quare hoc? Quia excelsus est,~
-et humilia respicit, et alta de longe cognoscit. Humilia de proximo respicit, ut~
-attollat: alta, id est, superba, de longe cognoscit, ut deprimat.
+Resurrectio Domini spes nostra est: ascensio Domini glorificatio nostra est. Ascensionis hodie solemnia celebramus. Si ergo recte, si fideliter, si devote, si sancte, si pie ascensionem Domini celebramus, ascendamus cum illo, et sursum corda habeamus. Ascendentes autem non extollamur, nec de nostris, quasi de propriis meritis praesumamus. Sursum autem corda habere debemus ad Dominum. Sursum enim cor non ad Dominum, superbia vocatur: sursum autem cor ad Dominum, refugium vocatur. Videte, fratres, magnum miraculum. Altus est Deus, erigis te, et fugit a te humilias te, et descendit ad te. Quare hoc? Quia excelsus est, et humilia respicit, et alta de longe cognoscit. Humilia de proximo respicit, ut attollat: alta, id est, superba, de longe cognoscit, ut deprimat.
 
 [Lectio6]
-Resurrexit enim Christus ut spem nobis daret, quia surgit homo, qui moritur; ne~
-moriendo desperaremus, et vitam nostram in morte finitam putaremus, securos nos~
-fecit. Solliciti enim eramus de ipsa anima: et ille nobis resurgendo, de carnis~
-resurrectione fiduciam dedit. Crede ergo, ut munderis. Prius te oportet credere,~
-ut postea per fidem Deum merearis aspicere. Deum enim videre vis? Audi ipsum:~
-Beati mundo corde: quoniam ipsi Deum videbunt. Prius ergo cogita de corde~
-mundando: quidquid ibi vides, quod displicet Deo, tolle.
+Resurrexit enim Christus ut spem nobis daret, quia surgit homo, qui moritur; ne moriendo desperaremus, et vitam nostram in morte finitam putaremus, securos nos fecit. Solliciti enim eramus de ipsa anima: et ille nobis resurgendo, de carnis resurrectione fiduciam dedit. Crede ergo, ut munderis. Prius te oportet credere, ut postea per fidem Deum merearis aspicere. Deum enim videre vis? Audi ipsum: Beati mundo corde: quoniam ipsi Deum videbunt. Prius ergo cogita de corde mundando: quidquid ibi vides, quod displicet Deo, tolle.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
 !John 15:26-27;16:1-4
-In illo tempore: Dixit Jesus discipulis suis: Cum venerit Paraclitus, quem ego~
-mittam vobis a Patre, Spiritum veritatis, qui a Patre procedit, ille testimonium~
-perhibebit de me. Et reliqua.
+In illo tempore: Dixit Jesus discipulis suis: Cum venerit Paraclitus, quem ego mittam vobis a Patre, Spiritum veritatis, qui a Patre procedit, ille testimonium perhibebit de me. Et reliqua.
 _
 Homilia sancti Augustini Episcopi
 !Tractatus 92. in Joannem.
-Dominus Jesus in sermone, quem locutus est discipulis suis post cenam, proximus~
-passioni, tamquam iturus, et relicturus eos praesentia corporali, cum omnibus~
-autem suis usque in consummationem saeculi futurus praesentia spiritali,~
-exhortatus est eos ad perferendas persecutiones impiorum, quos mundi nomine~
-nuncupavit: ex quo tamen mundo etiam ipsos discipulos se elegisse dixit: ut~
-scirent se Dei gratia esse, quod sunt; suis autem vitiis fuisse, quod fuerunt.
+Dominus Jesus in sermone, quem locutus est discipulis suis post cenam, proximus passioni, tamquam iturus, et relicturus eos praesentia corporali, cum omnibus autem suis usque in consummationem saeculi futurus praesentia spiritali, exhortatus est eos ad perferendas persecutiones impiorum, quos mundi nomine nuncupavit: ex quo tamen mundo etiam ipsos discipulos se elegisse dixit: ut scirent se Dei gratia esse, quod sunt; suis autem vitiis fuisse, quod fuerunt.
 
 [Responsory7]
-R. Ego rogabo Patrem, et alium Paraclitum dabit vobis, 
-* Ut maneat vobiscum m aeternum, Spiritum veritatis, alleluia. 
+R. Ego rogabo Patrem, et alium Paraclitum dabit vobis,
+* Ut maneat vobiscum m aeternum, Spiritum veritatis, alleluia.
 V. Si enim non abiero, Paraclitus non veniet ad vos: si autem abiero, mittam eum ad vos.
-R. Ut maneat vobiscum m aeternum, Spiritum veritatis, alleluia. 
+R. Ut maneat vobiscum m aeternum, Spiritum veritatis, alleluia.
 
 [Lectio8]
-Deinde persecutores et suos et ipsorum, Judaeos evidenter expressit: ut omnino~
-appareret etiam ipsos mundi damnabilis appellatione conclusos, qui persequuntur~
-sanctos. Cumque de illis diceret, quod ignorarent eum, a quo missus est; et~
-tamen odissent et Filium, et Patrem, hoc est, et eum qui missus est, et eum a~
-quo missus est: (de quibus omnibus in aliis sermonibus jam dissertamus) ad hoc~
-pervenit, ubi ait: Ut adimpleatur sermo, qui in lege eorum scriptus est: Quia~
-odio habuerunt me gratis.
+Deinde persecutores et suos et ipsorum, Judaeos evidenter expressit: ut omnino appareret etiam ipsos mundi damnabilis appellatione conclusos, qui persequuntur sanctos. Cumque de illis diceret, quod ignorarent eum, a quo missus est; et tamen odissent et Filium, et Patrem, hoc est, et eum qui missus est, et eum a quo missus est: (de quibus omnibus in aliis sermonibus jam dissertamus) ad hoc pervenit, ubi ait: Ut adimpleatur sermo, qui in lege eorum scriptus est: Quia odio habuerunt me gratis.
 
 [Responsory8]
-R. Si enim non abiero, Paraclitus non veniet ad vos: si autem abiero, mittam eum~
-ad vos.
+R. Si enim non abiero, Paraclitus non veniet ad vos: si autem abiero, mittam eum ad vos.
 * Cum autem venerit ille, docebit vos omnem veritatem, alleluia.
-V. Non enim loquetur a semetipso: sed quaecumque audiet, loquetur: et quae~
-ventura sunt, annuntiabit vobis.
+V. Non enim loquetur a semetipso: sed quaecumque audiet, loquetur: et quae ventura sunt, annuntiabit vobis.
 R. Cum autem venerit ille, docebit vos omnem veritatem, alleluia.
 &Gloria
 R. Cum autem venerit ille, docebit vos omnem veritatem, alleluia.
 
 [Lectio9]
-Deinde tamquam consequonter adjunxit, unde modo disputare suscepimus: Cum autem~
-venerit Paraclitus, quem ego mittam vobis a Patre, Spiritum veritatis, qui a~
-Patre procedit, ille testimonium perhibebit de me: et vos testimonium~
-perhibebitis, quia ab initio mecum estis. Quid hoc pertinet ad illud quod~
-dixerat: Nunc autem et viderunt, et oderunt et me, et Patrem meum; sed ut~
-impleatur sermo, qui in lege eorum scriptus est: Quia odio habuerunt me gratis?~
-An quia Paraclitus quando venit Spiritus veritatis, eos, qui viderunt, et~
-oderunt, testimonio manifestiore convicit? Imo vero etiam aliquos ex illis qui~
-viderunt, et adhuc oderant, ad fidem, quae per dilectionem operatur, sui~
-manifestatione convertit.
+Deinde tamquam consequonter adjunxit, unde modo disputare suscepimus: Cum autem venerit Paraclitus, quem ego mittam vobis a Patre, Spiritum veritatis, qui a Patre procedit, ille testimonium perhibebit de me: et vos testimonium perhibebitis, quia ab initio mecum estis. Quid hoc pertinet ad illud quod dixerat: Nunc autem et viderunt, et oderunt et me, et Patrem meum; sed ut impleatur sermo, qui in lege eorum scriptus est: Quia odio habuerunt me gratis? An quia Paraclitus quando venit Spiritus veritatis, eos, qui viderunt, et oderunt, testimonio manifestiore convicit? Imo vero etiam aliquos ex illis qui viderunt, et adhuc oderant, ad fidem, quae per dilectionem operatur, sui manifestatione convertit.
 &teDeum
 
 [Ant 2]
-Cum venerit Paraclitus, * quem ego mittam vobis Spiritum veritatis, qui a Patre~
-procedit, ille testimonium perhibebit de me, alleluia.
+Cum venerit Paraclitus, * quem ego mittam vobis Spiritum veritatis, qui a Patre procedit, ille testimonium perhibebit de me, alleluia.
 
 [Commemoratio 2]
 !Commemoratio Octavae Ascensionis.
-Ant. Ascendo ad Patrem meum, et Patrem vestrum: Deum meum, et Deum vestrum,~
-alleluia.
+Ant. Ascendo ad Patrem meum, et Patrem vestrum: Deum meum, et Deum vestrum, alleluia.
 _
 V. Ascendit Deus in jubilatione, alleluia.
 R. Et Dominus in voce tubae, alleluia.
 _
-v. Oremus
-Concede quaesumus omnipotens Deus: ut qui hodierna die Unigenitum tuum~
-Redemptorem nostrum ad caelos ascendisse credimus, ipsi quoque mente in~
+$Oremus
+Concede quaesumus omnipotens Deus: ut qui hodierna die Unigenitum tuum
+Redemptorem nostrum ad caelos ascendisse credimus, ipsi quoque mente in
 caelestibus habitemus.
 $Per eumdem

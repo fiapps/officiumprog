@@ -68,7 +68,7 @@ praesenti liberari tristitia, et aeterna perfrui laetitia.
 $Per Dominum
 
 [Ant 11]
-Magnum * haereditatis mysterium templum Dei factus est uterus nescientis virum:~
+Magnum * hereditatis mysterium templum Dei factus est uterus nescientis virum:~
 non est pollutus ex ea carnem assumens: omnes gentes venient dicentes: Gloria~
 tibi Domine.
 
@@ -206,7 +206,7 @@ R. Deus in medio ejus, non commovebitur.
 !Sir 24:15-16
 v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi,~
 et in Jerusalem potestas mea. Et radicavi in populo honorificato, et in parte~
-Dei mei haereditas illius, et in plenitudine sanctorum detentio mea.
+Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 $Deo gratias.
 
 [Responsory Sexta]
@@ -254,7 +254,7 @@ ancilla Domini, contingat mihi secundum verbum tuum.
 Ex libro S. Hieronymi Presbyteri adversus Jovinianum.
 !Ex Apol. ad Pammach. pro lib. advers. Joviani, in fine.
 Christus virgo, mater virginis nostri virgo perpetua, mater et virgo. Jesus enim~
-clausis ingressus est ostiis: et in sepulchro ejus, quod novum et in petra~
+clausis ingressus est ostiis: et in sepulcro ejus, quod novum et in petra~
 durissima fuerat excisum, nec antea quis, nec postea positus est. Hortus~
 conclusus, fons signatus: de quo fonte ille fluvius manat, juxta Joel, qui~
 irrigat torrentem vel funium, vel spinarum: funium, peccatorum, quibus ante~
@@ -284,9 +284,9 @@ lance disposita virginalis inobedientia, per virginalem obedientiam.
 De Expositione S. Hieronymi Presbyteri in Ezechielem Prophetam.
 !Lib. 13. in cap. 44.
 Porta haec clausa erit, et non aperietur. Pulchre quidam portam clausam, per~
-quam solus Dominus Deus Israel ingreditur, et dux cui porta clausa est, Mariam~
+quam solus Dominus Deus Israël ingreditur, et dux cui porta clausa est, Mariam~
 Virginem intelligunt: quae et ante partum, et post partum virgo permansit.~
-Etenim tempore, quo Angelus loquebatur: Spiritus sanctus veniet super te, et~
+Etenim tempore, quo Angelus loquebatur: Spiritus Sanctus veniet super te, et~
 virtus Altissimi obumbrabit te: quod autem nascetur ex te Sanctum, vocabitur~
 Filius Dei: et quando natus est, virgo permansit aeterna: ad confundendos eos,~
 qui arbitrantur eam post nativitatem Salvatoris habuisse de Joseph filios, ex~
@@ -348,7 +348,7 @@ refulsit.
 Ex Epistola sancti Leonis Papae ad Pulcheriam Augustam.
 !Epistola 1. ante medium.
 Sacramentum reconciliationis nostre ante tempora aeterna dispositum,nulla~
-implebant figura: quia nondum supervenerat Spiritus sanctus in Virginem, nec~
+implebant figura: quia nondum supervenerat Spiritus Sanctus in Virginem, nec~
 virtus Altissimi obumbraverat ei, ut et intra intemerata viscera, deificante~
 sibi Sapientia domum, Verbum caro fieret, et forma Dei ac forma servi in unam~
 conveniente personam, Creator temporum nasceretur in tempore, et per quem facta~

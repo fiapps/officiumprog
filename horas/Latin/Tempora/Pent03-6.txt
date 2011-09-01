@@ -11,7 +11,6 @@ De libro primo Regum.
 2 Et ait Samuel: Quomodo vadam? audiet enim Saul, et interficiet me. Et ait Dominus: Vitulum de armento tolles in manu tua, et dices: Ad immolandum Domino veni.
 3 Et vocabis Isai ad victimam, et ego ostendam tibi quid facias, et unges quemcumque monstravero tibi.
 
-
 [Responsory1]
 @Tempora/Pent01-3:Responsory1
 
@@ -22,7 +21,6 @@ De libro primo Regum.
 6 Cumque ingressi essent, vidit Eliab, et ait: Num coram Domino est christus ejus?
 7 Et dixit Dominus ad Samuelem: Ne respicias vultum ejus, neque altitudinem staturae ejus: quoniam abjeci eum, nec juxta intuitum hominis ego judico: homo enim videt ea quae parent, Dominus autem intuetur cor.
 
-
 [Responsory2]
 @Tempora/Pent01-3:Responsory2
 
@@ -32,7 +30,6 @@ De libro primo Regum.
 9 Adduxit autem Isai Samma, de quo ait: Etiam hunc non elegit Dominus.
 10 Adduxit itaque Isai septem filios suos coram Samuele: et ait Samuel ad Isai: Non elegit Dominus ex istis.
 11 Dixitque Samuel ad Isai: Numquid jam completi sunt filii? Qui respondit: Adhuc reliquus est parvulus, et pascit oves. Et ait Samuel ad Isai: Mitte, et adduc eum: nec enim discumbemus priusquam huc ille veniat.
-
 
 [Responsory3]
 @Tempora/Pent01-3:Responsory3

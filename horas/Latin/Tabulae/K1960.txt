@@ -3,7 +3,7 @@
 01-02=01-02=Die Secunda Januarii=1=
 01-03=01-03=Die Tertia Januarii=1=
 01-04=01-04=Die Quarta Januarii=1=
-01-05=01-05=Die Quinta Januarii=1=
+01-05=01-05r=Die Quinta Januarii=1=
 01-06=01-06=Epiphaniae Domini=6=
 01-07=01-07=Die Septima Januarii=1=
 01-08=01-08=Die Octava Januarii=1=
@@ -283,7 +283,7 @@
 12-10=12-10r=S. Melchiadis Papae et Mart=1=  
 12-11=12-11=S. Damasi Papae et confessoris=3=
 12-12=12-12r=Beatae Mariae Virginis Guadalupae=3=
-12-13=12-13=S. Luciae Virginis et Martyris=3=
+12-13=12-13r=S. Luciae Virginis et Martyris=3=
 12-16=12-16=S. S. Eusebii Episcopi et Martyris=2=
 12-21=12-21=S.Sancti Thomae Apostoli=5=
 12-24=12-24=Vigilia Nativitatis Domini=6=

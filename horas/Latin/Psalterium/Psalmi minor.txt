@@ -1,5 +1,5 @@
 [Prima]
-Dominica = Alleluia, * Confitemini Domino, quoniam in saeculum misericordia eius
+Dominica = Alleluia, * confitemini Domino, quoniam in saeculum misericordia eius, alleluia, alleluia.
 117,118(2-16),118(17-32)
 Feria II = Innocens manibus * et mundo corde ascendet in montem Domini
 23,18(1-7),18(8-15),[46]
@@ -23,7 +23,7 @@ Feria III = Respexit me * et exaudivit deprecationem meam Dominus
 39(1-9), 39(10-14), 39(15-18)
 Feria IV =  Deus adjuvat me: * et Dominus susceptor est animae meae
 53, 54(1-16), 54(17-24)
-Feria V = Quam bonus * Israel Deus, his, qui recto sunt corde
+Feria V = Quam bonus * Israël Deus, his, qui recto sunt corde
 72(1-9), 72(10-17), 72(18-28)
 Feria VI =  Excita, Domine * potentiam tuam, ut salvos facias nos
 79(1-8), 79(9-20), 81
@@ -51,15 +51,15 @@ Dominica = Alleluia * faciem tuam, Domine, illumina super servum tuum, alleluia,
 118(129-144), 118(145-160), 118(161-176)
 Feria II = Exsultate, justi, * et gloriamini, omnes recti corde
 31, 32(1-11), 32(12-22)
-Feria III = Salvasti nos, Domine * et in nomine tuo confitebimur in saecula
+Feria III = Salvasti nos, * Domine et in nomine tuo confitebimur in saecula
 43(1-9), 43(10-20), 43(21-26)
 Feria IV =  Deus meus * misericordia tua praeveniet me
 58(1-11), 58(12-21), 59
 Feria V =  Invocabimus * nomen tuum Domine: narrabimus mirabilia tua
 74, 75(1-7), 75(8-13)
-Feria VI = Misericordia et veritas * precedent faciem tuam Domine
+Feria VI = Misericordia et veritas * praecedent faciem tuam Domine
 88(1-19), 88(20-38), 88(39-53)
-Sabbato = Ne tacueris * Deus, quia sermonibus odii circumdederunt me
+Sabbato = Ne tacueris Deus, * quia sermonibus odii circumdederunt me
 108(1-13), 108(14-20), 108(21-31)
 Misericordia et veritas praecedent faciem tuam, Domine
 
@@ -83,11 +83,11 @@ Sabbato = Intret oratio mea * in conspectu tuo, Domine
 1 = In illa die * stillabunt montes dulcedinem, et colles fluent lac et mel, alleluia.
 2 = Jucundare, * filia Sion, et exsulta satis, filia Jerusalem, alleluia.
 3 = Ecce, Dominus veniet, * et omnes Sancti ejus cum eo: et erit in die illa lux magna, alleluia.
-4 = Omnes sitientes, * venite ad aquas: querite Dominum, dum inveniri potest, alleluia.
+4 = Omnes sitientes, * venite ad aquas: quaerite Dominum, dum inveniri potest, alleluia.
 5 = Ecce veniet * Propheta magnus, et ipse renovabit Jerusalem, alleluia
 
 [Adv2]
-1 = Ecce in nubibus coeli * Dominus veniet cum potestate magna, alleluia
+1 = Ecce in nubibus caeli * Dominus veniet cum potestate magna, alleluia
 2 = Urbs fortitudinis * nostrae Sion, Salvator ponetur in ea murus et antemurale: aperite portas, quia nobiscum Deus, alleluia.
 3 = Ecce, apparebit * Dominus, et non mentietur: si moram fecerit, exspecta eum, quia veniet, et non tardabit, alleluia.
 4 = Montes et colles * cantabunt coram Deo laudem, et omnia ligna silvarum plaudent manibus: quoniam veniet Dominator Dominus in regnum aeternum, alleluia, alleluia.
@@ -115,17 +115,17 @@ Sabbato = Intret oratio mea * in conspectu tuo, Domine
 5 = Egredietur * Dominus de loco sancto suo: veniet, ut salvet populum suum
 
 [Adv43]
-1 = Rorate, coeli, desuper, * et nubes pluant justum: aperiatur terra, et germinet Salvatorem.
+1 = Rorate, caeli, desuper, * et nubes pluant justum: aperiatur terra, et germinet Salvatorem.
 2 = Emitte Agnum, Domine, * Dominatorem terrae, de Petra deserti, ad montem filiae Sion.
 3 = Ut cognoscamus, Domine, * in terra viam tuam, in omnibus gentibus salutare tuum.
-4 = Da mercedem, Domine, * sustinentibus te, ut Prophetae tui fideles 
-5 = Lex per Moysen data est * gratia et veritas per Jesus Christum facta est
+4 = Da mercedem, Domine, * sustinentibus te, ut prophetae tui fideles inveniantur.
+5 = Lex per Moysen data est * gratia et veritas per Jesum Christum facta est
 
 [Adv44]
 1 = Prophetae praedicaverunt * nasci Salvatorem de Virgine Maria
 2 = Spiritus * Domini super me, evangelizare pauperibus misit me
 3 = Propter Sion * non tacebo, donec egrediatur ut splendor justus eius
-4 = Ecce, veniet Dominus, * ut sedeat cum principibus, et solium gloria? teneat.
+4 = Ecce, veniet * Dominus, ut sedeat cum principibus, et solium gloriae tenuit.
 5 = Annuntiate * populis, et dicite: Ecce, Deus Salvator noster veniet.
 
 [Adv45]
@@ -133,12 +133,12 @@ Sabbato = Intret oratio mea * in conspectu tuo, Domine
 2 = Convertere, Domine, * aliquantulum, et ne tardes venire ad servos tuos.
 3 = De Sion * veniet, qui regnaturus est Dominus, Emmanuel magnum nomen ejus.
 4 = Ecce Deus meus, * et honorabo eum: Deus patris mei, et exaltabo eum.
-5 = Dominus * legifer noster, Dominus Rex noster, o ipse veniet, et salvabit nos.
+5 = Dominus * legifer noster, Dominus Rex noster, ipse veniet, et salvabit nos.
 
 [Adv46]
 1 = Constantes estote, * videbitis auxilium Domini super vos.
-2 = Ad te, Domine, * levavi animam meam: Veni, et eripe me, Domine, ad te confugi.
-3 = Veni, Domine, * et noli tardare: relaxa facinora plebi tuae Israel.
+2 = Ad te, Domine, * levavi animam meam: veni, et eripe me, Domine, ad te confugi.
+3 = Veni, Domine, * et noli tardare: relaxa facinora plebi tuae Israël.
 4 = Deus a Libano veniet, * et splendor ejus sicut lumen erit.
 5 = Ego autem * ad Dominum aspiciam, et exspectabo Deum, Salvatorem meum.
 
@@ -147,7 +147,7 @@ Sabbato = Intret oratio mea * in conspectu tuo, Domine
 2 = Multiplicabitur * ejus imperium, et pacis non erit finis.
 3 = Ego Dominus * prope feci justitiam meam, non elongabitur, et salus mea non morabitur.
 4 = Exspectetur, * sicut pluvia, eloquium Domini: et descendat, sicut ros, super nos Deus noster.
-5 = Paratus esto, * Israel, in occursum Domini, quoniam venit.
+5 = Paratus esto, * Israël, in occursum Domini, quoniam venit.
 
 [Quad]
 1 = Vivo ego * dicit Dominus: nolo mortem peccatoris, sed ut magis convertatur et vivat
@@ -202,7 +202,7 @@ Tertia Feria II=Adjuva me * et salvus ero Domine;;118(105-112),118(113-120),118(
 Tertia Feria=Clamavi, * et exaudivit me;;119,120,121
 Sexta Dominica=Alleluia, * alleluia, alleluia (alleluia);;118(57-64),118(65-72),118(73-80)
 Sexta Feria II=Aspice in me * et miserere mei, Domine;;118(129-136),118(137-144),118(145-152)
-Sexta Feria=Qui habitas * in coelis, miserere nobis;;122,123,124
+Sexta Feria=Qui habitas * in caelis, miserere nobis;;122,123,124
 Nona Dominica=Alleluia, * alleluia, alleluia (alleluia);;118(81-88),118(89-96),118(97-104)
 Nona Feria II=Fiat manus tua, Domine, * ut salvet me: quoniam mandata tua elegi;;118(153-160),118(160-168),118(169-176)
 Nona Feria=Beati omnes, * qui timent Dominum;;125,126,127

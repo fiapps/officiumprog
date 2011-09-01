@@ -21,7 +21,7 @@ Amen.
 
 [Asc]
 Jesu, tibi sit gloria,
-Qui scandis super sidera,
+Qui victor in caelum redis,
 Cum Patre et almo Spiritu,
 In sempiterna saecula.
 Amen. 	
@@ -35,9 +35,9 @@ Amen.
 
 [Corp]
 Jesu, tibi sit gloria,
-Qui natus es de Virgine
-Cum Patre at almo Spiritu
-In Sempiterna Gloria
+Qui natus es de Virgine,
+Cum Patre et almo Spiritu,
+In sempiterna saecula.
 Amen.
 
 [Heart]

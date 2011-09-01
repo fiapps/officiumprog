@@ -13,7 +13,7 @@ De Isaia Propheta
 
 
 [Responsory1]
-@TemporaM/Adv1-0:Responsory4
+@TemporaM/Adv2-0:Responsory4
 
 [Lectio2]
 !Isa 24:4-6
@@ -23,7 +23,7 @@ De Isaia Propheta
 
 
 [Responsory2]
-@TemporaM/Adv1-0:Responsory5
+@TemporaM/Adv2-0:Responsory5
 
 [Lectio3]
 !Isa 24:7-16
@@ -36,11 +36,10 @@ De Isaia Propheta
 13 Quia haec erunt in medio terrae in medio populorum, quomodo si paucae olivae quae remanserunt excutiantur ex olea et racemi, cum fuerit finita vindemia.
 14 Hi levabunt vocem suam, atque laudabunt: cum glorificatus fuerit Dominus, hinnient de mari.
 15 Propter hoc in doctrinis glorificate Dominum; in insulis maris nomen Domini Dei Israël.
-16 A finibus terrae laudes audivimus, gloriam Justi. Et dixi: Secretum meum mihi, secretum meum mihi. Vae mihi ! praevaricantes praevaricati sunt, et praevaricatione transgressorum praevaricati sunt.
-
+16 A finibus terrae laudes audivimus, gloriam Justi. 
 
 [Responsory3]
-@TemporaM/Adv1-0:Responsory6
+@TemporaM/Adv2-0:Responsory6
 
 [Ant 2]
 Dicite, Pusillanimes * confortamini: ecce Dominus Deus noster veniet.

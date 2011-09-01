@@ -6,33 +6,18 @@ vide C3;
 OPapaM=Sylverium;
 
 [Ant 1]
-Iste sanctus  * pro lege Dei sui certavit usque ad mortem, et a verbis impiorum non~
-timuit: fundatus enim erat supra firmam petram.
+Iste sanctus * pro lege Dei sui certavit usque ad mortem, et a verbis impiorum non timuit: fundatus enim erat supra firmam petram.
 
 [Versum 1]
 V. Gloria et honore coronasti eum Domine.
 R. Et constituisti eum super opera manuum tuarum.
 
 [Oratio]
-Infirmitatem nostram respice, omnipotens Deus: et quia pondus propriae actionis~
-gravat, beati Silverii Martyris tui atque Pontificis intercessio gloriosa nos~
-protegat.
+Infirmitatem nostram respice, omnipotens Deus: et quia pondus propriae actionis gravat, beati Silverii Martyris tui atque Pontificis intercessio gloriosa nos protegat.
 $Per Dominum
 
 [Lectio93]
-Silverius Campanus post Agapitum proxime Pontifex creatus est: cujus doctrina et~
-sanctitas illuxit in insectandis haereticis, et constantis animi magnitudo~
-perspecta est in tuendo judicio Agapiti. Nam Anthimum, quem, quia Eutychianam~
-haeresim defendebat, Agapitus ab episcopatu Constantinopolitano deposuerat, cum a~
-Theodora Augusta saepissime rogatus esset, restituere noluit. Quamobrem irata~
-mulier mandat Belisario ut Silverium mittat in exsilium. Qui exsulavit in~
-insula Pontia, unde his verbis scripsisse fertur ad Amatorem episcopum:~
-Sustentor pane tribulationis et aqua angustiae; nec tamen dimisi, aut dimitto~
-officium meum. Et sane, brevi incommodis aerumnisque confectus, obdormivit in~
-Domino, duodocimo Kalendas Julii; cujus corpus Romam delatum, et in Basilica~
-Vaticana depositum, multis miraculis illustratum fuit. Praefuit Ecclesiae annos~
-tres et amplius, creatis mense Decembri presbyteris tresdecim diaconis quinque,~
-episcopis per diversa loca decem et novem.
+Silverius Campanus post Agapitum proxime Pontifex creatus est: cujus doctrina et sanctitas illuxit in insectandis haereticis, et constantis animi magnitudo perspecta est in tuendo judicio Agapiti. Nam Anthimum, quem, quia Eutychianam haeresim defendebat, Agapitus ab episcopatu Constantinopolitano deposuerat, cum a Theodora Augusta saepissime rogatus esset, restituere noluit. Quamobrem irata mulier mandat Belisario ut Silverium mittat in exsilium. Qui exsulavit in insula Pontia, unde his verbis scripsisse fertur ad Amatorem episcopum: Sustentor pane tribulationis et aqua angustiae; nec tamen dimisi, aut dimitto officium meum. Et sane, brevi incommodis aerumnisque confectus, obdormivit in Domino, duodocimo Kalendas Julii; cujus corpus Romam delatum, et in Basilica Vaticana depositum, multis miraculis illustratum fuit. Praefuit Ecclesiae annos tres et amplius, creatis mense Decembri presbyteris tresdecim diaconis quinque, episcopis per diversa loca decem et novem.
 &teDeum
 
 [Ant 2]

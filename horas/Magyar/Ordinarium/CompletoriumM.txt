@@ -43,7 +43,7 @@ S te Szentlélek, Vigasztaló,
 Mindörökön uralkodó.
 Ámen.
 
-#Capitulum Responsory Versum
+#Capitulum Responsory Versus
 !Jer 14:9
 v. Te pedig velünk vagy Uram, és szent Nevedet hivjuk segítségul; ne hagy el minket Urunk Istenünk
 R. Istennek legyen hála.
@@ -63,7 +63,7 @@ $Per Dominum
 #Conclusio
 &Dominus_vobiscum
 $Benedicamus Domino
-Benedictio. Áldjon meg és õrizzen minket a mindenható és irgalmas Ur, az Atya, a Fiu és a Szentlélek.
+Benedictio. Áldjon meg és õrizzen minket a mindenható és irgalmas Ur, + az Atya, a Fiu és a Szentlélek.
 R. Ámen.
 _
 V. Az Isten áldása + maradjon mindig velünk.

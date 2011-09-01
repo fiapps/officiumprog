@@ -29,7 +29,7 @@ R. Ave Maria, gratia plena, * Dominus tecum.
 {:H-Avemaris:}v. Ave maris stella,
 Dei Mater alma,
 Atque semper Virgo,
-Felix coeli porta.
+Felix caeli porta.
 _
 Sumens illud Ave
 Gabrielis ore,
@@ -82,7 +82,7 @@ Claustrum Mariae bajulat.
 _
 Cui luna, sol, et omnia
 Deserviunt per tempora,
-Perfusa coeli gratia,
+Perfusa caeli gratia,
 Gestant puellae viscera.
 _
 Beata Mater munere,
@@ -90,7 +90,7 @@ Cujus supernus artifex
 Mundum pugillo continens,
 Ventris sub arca clausus est.
 _
-Beata coeli nuntio,
+Beata caeli nuntio,
 Foecunda sancto Spiritu,
 Desideratus gentibus,
 Cujus per alvum fusus est.
@@ -135,9 +135,9 @@ De Parabolis Salomonis
 
 [Responsory1]
 R. Sancta et immaculata virginitas, quibus te laudibus efferam nescio:
-* Quia quem coeli capere non poterant, tuo gremio contulisti.
+* Quia quem caeli capere non poterant, tuo gremio contulisti.
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem coeli capere non poterant, tuo gremio contulisti.
+R. Quia quem caeli capere non poterant, tuo gremio contulisti.
 
 [Lectio2]
 !Prov 8:18-25
@@ -198,7 +198,7 @@ R. Dedi suavitatem odoris.
 [Lectio5]
 Magnum revera miraculum, fratres dilectissimi, fuit beata semper Virgo Maria.~
 Quid namque illa majus aut illustrius ullo umquam tempore inventum est, seu~
-aliquando inveniri poterit? Haec elegit sola coelum ac terram amplitudine~
+aliquando inveniri poterit? Haec elegit sola caelum ac terram amplitudine~
 superavit. Quidnam illa sanctius? Non Prophetae, non Apostoli, non Martyres, non~
 Patriarchae, non Angeli, non Throni, non Dominationes, non Seraphim, non~
 Cherubim: non denique aliud quid piam inter creatas res visibiles aut~
@@ -214,9 +214,9 @@ R. Viderunt eam filiae Sion, et beatam dixerunt, et reginae laudaverunt eam.
 [Lectio6]
 Haec elegit ejus mater est, qui a Patre ante omne principium genitus fuit, quem~
 Angeli et homines agnoscunt Dominum rerum omnium. Visne cognoscere quanto Virgo~
-haec elegit praestantior sit coelestibus Potentiis? Illae cum timere ac tremore~
+haec elegit praestantior sit caelestibus Potentiis? Illae cum timere ac tremore~
 assistunt, faciem velantes suam: haec elegit humanum genus illi offert, quem~
-genuit. Per hanc et peccatorum veniam consequimur. Ave igitur mater, coelum,~
+genuit. Per hanc et peccatorum veniam consequimur. Ave igitur mater, caelum,~
 puella, virgo. thronus, Ecclesiae nostrae decus, gloria et firmamentum, assidue~
 pro nobis precare Jesum Filium tuum, et Dominum nostrum: ut per te misericordiam~
 invenire in die judicii, et quae reposita sunt iis, qui diligunt Deum, bona~
@@ -270,7 +270,7 @@ Et nos igitur his contra Eutychen dictis, extollamus vocem cura Ecclesia~
 catholica, cujus haec mulier typum gessit, extollamus et mentem de medio~
 turbarum, dicamusque Salvatori: Beatus venter qui te portavit, et libera quae~
 suxisti. Vere enim beata parens, quae, sicut quidam ait, Enixa est puerpera~
-Regem, qui coelum terramque tenet per saecula.
+Regem, qui caelum terramque tenet per saecula.
 
 [Responsory8]
 R. Beatam te dicent omnes generationes:
@@ -327,7 +327,7 @@ _
 Quod Heva tristis abstulit,
 Tu reddis almo germine:
 Intrent ut astra flebiles,
-Coeli recludis cardines.
+Caeli recludis cardines.
 _
 Tu regis alti janua,
 Et aula lucis fulgida:
@@ -373,7 +373,7 @@ R. Deus in medio ejus, non commovebitur.
 !Sir 24:15-16
 v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi,~
 et in Jerusalem potestas mea. Et radicavi in populo honorificato, et in parte~
-Dei mei haereditas illius, et in plenitudine sanctorum detentio mea.
+Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 $Deo gratias.
 
 [Responsory Sexta]

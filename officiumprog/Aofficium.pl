@@ -126,6 +126,8 @@ our $Hk = 0;
 our $Ck = 0;
 our $ordostatus = 0;
 our $missa = 0;
+our $local = 'none';
+our $notes = 0;
 
 our ($lang1, $lang2, $expand, $column);
 our %translate; #translation of the skeleton label for 2nd language 
@@ -142,10 +144,23 @@ our $mw = MainWindow->new();
 our %dialog = %{setupstring("$datafolder/Ahoras.dialog")};
 our %setup = %{setupstring("$datafolder/Ahoras.setup")};
 eval $setup{general};
-eval $setup{'Param'};	      
+eval $setup{'Param'};	    
 eval $setup{'Colors'};
 if ($Tk > 2) {eval $setup{'Chant'};}
 $testmode = ($testmode =~ /season/i) ? $testmode : 'regular';
+
+opendir(DIR, $datafolder); 
+@a = readdir(DIR);
+close DIR;
+$languages = '';
+foreach $item (@a) {
+  if ($item !~ /\./ && (-d "$datafolder/$item") && $item =~ /^[A-Z]/ && $item !~ /help|ordo/i) 
+    {$languages .= "$item,"}
+}
+$languages =~ s/,$//; 
+$dialog{languages} = $languages; 
+
+
 
 $n = $mw->fpixels("1i"); 
 if (abs($n - $fpixels) > 5) {
@@ -196,6 +211,7 @@ our $laudescont = 0;
 if ($ARGV[0] =~ /cleantab/) {cleantab();}
 if ($ARGV[0] =~ /cleantab/) {cleantab();}
 if ($ARGV[0] =~ /ordo/) {$ordostatus = 'Ordo';}
+if ($ARGV[0] =~ /notes/i) {$notes = 1;} 
 mainpage();
 $firstcall = 0;
 MainLoop();
@@ -221,7 +237,7 @@ our $psalmnum1 = 0;
 our $psalmnum2 = 0;                           
 our $octavam = ''; #to avoid duplication of commemorations
 
-our $only = ($lang1 =~ /$lang2/) ? 1 : 0;
+our $only = ($lang1 =~ /^$lang2$/) ? 1 : 0;
 our ($priest, $width, $blackfont, $redfont, $smallblack, $smallfont, $titlefont,
   $black, $red, $blue);
 our ($doline, $keyfreq, $dofreq, $basetime,$voweltime, $vowelmod, $mono);
@@ -230,8 +246,8 @@ our $actcell = ($version =~ /(1955|1960)/) ? -3 : -1;
 
 our ($voice, $voicecontinue, @voicenames, @voicemaxline, @notelines, @speecharray, $speechind, $voiceposadd);
 our $voicelang = ($voicecolumn =~ /[2]/) ? $lang2 : $lang1;   
-eval $setup{"Voice$voicelang"};	   
-our @voivedict;
+eval $setup{"Voice$voicelang"};	  
+our @voicedict;
 if (open (INP, "$datafolder/$voicelang/Psalterium/tts.txt")) {
   @voicedict = <INP>;
   close INP
@@ -382,7 +398,19 @@ $bframe2 = $bottomframe->Frame(-background=>$framecolor)->pack(-side=>'top', -pa
 my $c;
 ($labelfont, $c) = setfont($smallfont);  
 
+my @local = splice(@local, @local);
+#push (@local, 'none');
+#if (opendir(DIR, "$datafolder/Latin/Tabulae")) {
+#  my @a = readdir(DIR);
+#  close DIR;
+#  foreach my $item (@a) {
+#    if ($item =~ /K([A-Z]+)/) {push (@local, $1);}
+#  }
+#}
+
+
 my 	@names = ('Expand', 'Version', 'Mode', 'Finish', 'Column2', 'Votive');
+if (@local) {push(@names, 'Local');}
 for ($i = 0; $i < @names; $i++) {
   $item = $names[$i];  
   if ($item =~ /Finish/i) {
@@ -441,14 +469,7 @@ if ($missaprog) {
     ->grid(-column=>3, -row=>1, -padx=>$padx);
 }
 
-opendir(DIR, $datafolder); 
-@a = readdir(DIR);
-close DIR;
-@optarray4 = splice(@optarray4, @optarray4);
-foreach $item (@a) {
-  if ($item !~ /\./ && (-d "$datafolder/$item") && $item =~ /^[A-Z]/ && $item !~ /help/i) 
-    {push(@optarray4, $item);}
-}		
+@optarray4 = split(',', $dialog{languages}); 
 $bframe2->Optionmenu(-options=>\@optarray4,-textvariable=>\$lang2, #-background=>$framecolor,
    -border=>1, -font=>$labelfont, -command=>sub{mainpage();})
    ->grid(-column=>4, -row=>1, -padx=>$padx);
@@ -459,6 +480,13 @@ if ($version !~ /monastic/i) {
     -border=>1, -font=>$labelfont,
     -command=>sub{mainpage();})
     ->grid(-column=>5, -row=>1, -padx=>$padx);
+}
+
+if (@local) {
+  $bframe2->Optionmenu(-options=>\@local,-textvariable=>\$local, #-background=>$framecolor,
+    -border=>1, -font=>$labelfont,
+    -command=>sub{mainpage();})
+    ->grid(-column=>6, -row=>1, -padx=>$padx);
 }
 
 $bframe3 = $bottomframe->Frame(-background=>$framecolor)->pack(-side=>'top', -pady=>$pady);
@@ -584,6 +612,8 @@ $mw->bind("<Key-f>"=>sub{finish();});
 $mw->bind("<Key-D>"=>sub{edit();});
 $mw->bind("<Key-d>"=>sub{edit();});
 $mw->bind("<Key-End>"=>sub{finish();});
+$mw->bind("<Key-B>"=>sub{missarut();});
+$mw->bind("<Key-b>"=>sub{missarut();});
 }
 
 $mwf->pack(-anchor=>'n');
@@ -633,7 +663,7 @@ sub errorTk {
 # saves horas.setup file with the current values
 sub finalsave {
   $geometry = $mw->geometry();
-  setsetup('general', $expand, $version, $testmode, $lang2, $voicecolumn, $completed, $browsertime, 
+  setsetup('general', $expand, $version, $testmode, $local, $lang2, $accented, $voicecolumn, $completed, $browsertime, 
     $geometry, $fpixels, $popupgeo, $setuptab);
   if ($savesetup) {
     savesetuphash('Ahoras', \%setup);
@@ -724,4 +754,14 @@ sub cleantab {
     } 
   }
   else {print "$datafolder/Latin/Tabulae folder do not open\n";}
+}
+
+sub missarut {
+  if (!$missaprog) {return;}
+  my $mp = $missaprog;
+  if ($mp && $mp =~ /\?/) {$mp = $`;}
+  if (!(-e "$missadir/$mp")) {return;}
+  if ($missaprog =~ /\.pl/) {$missaprog = "perl $missaprog";}
+  chdir("$missadir"); 
+  system("$missaprog");
 }

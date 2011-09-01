@@ -147,6 +147,14 @@ R. Is the death of his saints, alleluia
 &Gloria
 R. Is the death of his saints, alleluia
 
+[MM Capitulum]
+!Sap 5:5
+v. Behold how they are numbered among the children of God, and their lot is among the saints.
+$Deo gratias
+_
+V. Precious in the sight of the Lord
+R. Is the death of his saints. 
+
 [Lectio4]
 Dearly beloved brethren, it is very meet and right that after the gladness of~
 Easter, which we have celebrated in the Church, we should mingle our own joy~
@@ -342,9 +350,19 @@ $Deo gratias
 V. Everlasting joy shall be upon their heads, alleluia
 R. They shall obtain joy and gladness, alleluia
 
+[Ant Vespera 3]
+These men are holy, * for they have given up their bodies unto death for the sake of the covenant of their God, and have washed their robes in the Blood of the Lamb;;109
+The Saints through faith subdued kingdoms, * wrought righteousness, obtained promises;;110
+The youth of the Saints shall be renewed * like the eagle's they shall grow as the lily in the city of the Lord;;111
+In the heavenly kingdoms, * there is the dwelling of the Saints there shall be their rest for ever and ever;;112 
+
 [Ant 3]
 V. Saints and just * rejoice in the Lord, alleluia, the Lord had chosen you for~
 his inheritance, alleluia.
+
+[Versum 3]
+V. Be glad in the Lord, and rejoice, ye just,
+R. And glory, all ye right of heart.
 
 [LectioE]
 Continuation of the Holy Gospel according to John

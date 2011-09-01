@@ -12,7 +12,6 @@ De Isaia Propheta
 7 Antequam parturiret, peperit; antequam veniret partus ejus, peperit masculum.
 8 Quis audivit umquam tale? et quis vidit huic simile? numquid parturiet terra in die una, aut parietur gens simul, quia parturivit et peperit Sion filios suos?
 
-
 [Responsory1]
 @Tempora/Adv4-0:Responsory4
 
@@ -22,7 +21,6 @@ De Isaia Propheta
 10 Laetamini cum Jerusalem et exsultate in ea, omnes qui diligitis eam; gaudete cum ea gaudio, universi qui lugetis super eam:
 11 ut sugatis et repleamini ab ubere consolationis ejus; ut mulgeatis et deliciis affluatis ab omnimoda gloria ejus.
 12 Quia haec dicit Dominus: Ecce ego declinabo super eam quasi fluvium pacis, et quasi torrentem inundantem gloriam gentium, quam sugetis: ad ubera portabimini, et super genua blandientur vobis.
-
 
 [Responsory2]
 @Tempora/Adv4-0:Responsory5
@@ -35,7 +33,6 @@ De Isaia Propheta
 16 quia in igne Dominus dijudicabit, et in gladio suo ad omnem carnem; et multiplicabuntur interfecti a Domino,
 17 qui sanctificabantur et mundos se putabant in hortis post januam intrinsecus, qui comedebant carnem suillam, et abominationem et murem: simul consumentur, dicit Dominus.
 18 Ego autem opera eorum et cogitationes eorum venio ut congregem, cum omnibus gentibus et linguis: et venient, et videbunt gloriam meam.
-
 
 [Responsory3]
 @Tempora/Adv4-0:Responsory6

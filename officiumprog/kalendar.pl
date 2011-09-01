@@ -175,14 +175,14 @@ if ($kmonth == 2 && leapyear($kyear)) {$to++;}
 for ($cday = 1; $cday <= $to; $cday++) {
   my $date1 = sprintf("%02i-%02i-%04i", $kmonth, $cday, $kyear);
   $d1 = sprintf("%02i",  $cday);
-  $winner = $commemoratio = $scriptura = '';
-  %winner = %commemoratio = %scriptura = {};
+  $winner = $commemoratio = $scriptura = $commemoratio1 = '';
+  %winner = %commemoratio = %scriptura = %commemoratio1 = {};
   $initia = 0;
   $laudesonly = '';
 
   precedence($date1); #for the daily item      
   
-  @c1 = split(';;', $winner{Rank});    
+  @c1 = split(';;', $winner{Rank});   
   @c2 = (exists($commemoratio{Rank})) ? split(';;', $commemoratio{Rank}) :
     (exists($scriptura{Rank}) && ($c1[3]!~ /ex C[0-9]+[a-z]*/i ||
     ($version =~ /trident/i && $c1[2] !~ /vide C[0-9]/i))) ? 
@@ -209,13 +209,17 @@ for ($cday = 1; $cday <= $to; $cday++) {
   } 
 
   if ($winner =~ /sancti/i) {($c2, $c1) = ($c1, $c2);} 
-  else {$c2 .= $laudesonly;}
+  #elsif ($c2) {$c2 .= $laudesonly;}
   $c1 =~ s/Hebdomadam/Hebd/i;
   $c1 =~ s/Quadragesima/Quadr/i;
   if ($dirge) { $c1 .= setfont($smallblack, ' dirge');}
   if ($version !~ /1960/ && $initia) {$c1 .= setfont($smallfont, ' *I*');}
 
+
+ 
   if (!$c2 && $dayname[2]) {$c2 = setfont($smallblack, $dayname[2]);}
+  elsif (!$c1 && $dayname[2]) {$c1 = setfont($smallblack, $dayname[2]);}
+  
   if ($version !~ /1960/) {
     if ($winner{Rule} =~ /\;mtv/i) {$c2 .= setfont($smallblack, ' m.t.v.');}
     if ($winner =~ /Sancti/ && exists($winner{Lectio1}) && $winner{Lectio1} !~ /\@Commune/i &&

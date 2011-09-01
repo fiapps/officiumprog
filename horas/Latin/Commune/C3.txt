@@ -4,18 +4,19 @@ Commune Plurimorum Martyrum
 [Rule]
 Psalmi Dominica
 Antiphonas horas
+Psalm5 Vespera=116
+Psalm5 Vespera3=115
 
 [Ant Vespera]
-Omnes sancti, * quanta passi sunt tormenta, ut securi pervenirent ad palmam martyrii;;109
-Cum palma * ad regna pervenerunt sancti, coronas decoris meruerunt de manu Dei;;110
-Corpora sanctorum * in pace sepulta sunt: et vivent nomina eorum in aeternum;;111
+Omnes Sancti, * quanta passi sunt tormenta, ut securi pervenirent ad palmam martyrii;;109
+Cum palma * ad regna pervenerunt Sancti, coronas decoris meruerunt de manu Dei;;110
+Corpora Sanctorum * in pace sepulta sunt: et vivent nomina eorum in aeternum;;111
 Martyres Domini * Dominum benedicite in aeternum;;112
 Martyrum chorus * laudate Dominum de caelis, alleluia;;116
 
 [Capitulum Vespera]
 !Sap 3:1-3
-v. Justorum animae in manu Dei sunt, et non tanget illos tormentum mortis. Visi~
-sunt oculis insipientium mori: illi autem sunt in pace.
+v. Justorum animae in manu Dei sunt, et non tanget illos tormentum mortis. Visi sunt oculis insipientium mori: illi autem sunt in pace.
 $Deo gratias.
 
 [Hymnus Vespera]
@@ -27,7 +28,7 @@ _
 Hi sunt, quos fatue mundus abhorruit;
 Hunc fructu vacuum, floribus aridum
 Contempsere tui nominis asseclae
-Jesu Rex bone coelitum.
+Jesu Rex bone caelitum.
 _
 Hi pro te furias, atque minas truces
 Calcarunt hominum, saevaque verbera:
@@ -35,12 +36,12 @@ His cessit lacerans fortiter ungula,
 Nec carpsit penetralia.
 _
 Caeduntur gladiis more bidentium:
-Non murmur resonat, non querimonia;
+Non murmur resonat, non quaerimonia;
 Sed corde impavido mens bene conscia
 Conservat patientiam.
 _
 Quae vox, quae poterit lingua retexere,
-Quae tu martyribus munera praeparas?
+Quae tu Martyribus munera praeparas?
 Rubri nam fluido sanguine fulgidis
 Cingunt tempora laureis.
 _
@@ -55,16 +56,15 @@ V. Laetamini in Domino, et exsultate justi.
 R. Et gloriamini omnes recti corde.
 
 [Ant 1]
-Istorum est enim regnum caelorum * qui contempserunt vitam mundi, et pervenerunt~
-ad praemia regni, et laverunt stolas suas in sanguine Agni.
+Istorum est enim * regnum caelorum qui contempserunt vitam mundi, et pervenerunt ad praemia regni, et laverunt stolas suas in sanguine Agni.
 
 [Invit]
 Regem martyrum Dominum * Venite adoremus
 
 [Hymnus Matutinum]
 {:H-Christoprofusum:}v. Christo profusum sanguinem,
-Et martyrum victorias,
-Dignamque coelo lauream
+Et Martyrum victorias,
+Dignamque caelo lauream
 Laetis sequamur vocibus.
 _
 Terrore victo saeculi,
@@ -72,7 +72,7 @@ Poenisque spretis corporis,
 Mortis sacrae compendio
 Vitam beatam possident.
 _
-Traduntur igni martyres,
+Traduntur igni Martyres,
 Et bestiarum dentibus:
 Armata saevit ungulis
 Tortoris insani manus.
@@ -93,57 +93,48 @@ Secus decursus aquarum * plantavit vineam justorum, et in lege Domini fuit volun
 Tamquam aurum * in fornace probavit electos Dominus: et quasi holocausta accepit eos in aeternum;;2
 Si coram hominibus * tormenta passi sunt, spes electorum est immortalis in aeternum;;3
 V. Laetamini in Domino, et exsultate justi.
-R. Et gloriamini omnes recti corde. 
-Dabo sanctis meis * locum nominatum in regno Patris mei, dicit Dominus.;;14
+R. Et gloriamini omnes recti corde.
+Dabo Sanctis meis * locum nominatum in regno Patris mei, dicit Dominus.;;14
 Sanctis, qui in terra sunt ejus, * mirificavit omnes voluntates meas inter illos;;15
 Sancti qui sperant in Domino, * habebunt fortitudinem, assument pennas ut aquilae, volabunt, et non deficient;;23
 V. Exsultent justi in conspectu Dei.
 R. Et delectentur in laetitia
 Justi autem * in perpetuum vivent, et apud Dominum est merces eorum;;32
 Tradiderunt * corpora sua in mortem, ne servirent idolis: ideo coronati possident palmam;;33
-Ecce merces * sanctorum copiosa est apud Deum: ipsi vero mortui sunt pro Christo, et vivent in aeternum;;45
+Ecce merces * Sanctorum copiosa est apud Deum: ipsi vero mortui sunt pro Christo, et vivent in aeternum;;45
 V. Justi autem in perpetuum vivent.
 R. Et apud Dominum est merces eorum.
 
 [Lectio1]
 De Epistola beati Pauli Apostoli ad Romanos.
 !Rom 8:12-19
-12 Ergo fratres, debitores sumus non carni, ut secundum carnem vivamus.
+12 Fratres: Debitores sumus non carni, ut secundum carnem vivamus.
 13 Si enim secundum carnem vixeritis, moriemini: si autem spiritu facta carnis mortificaveritis, vivetis.
-14 Quicumque enim Spiritu Dei aguntur, ii sunt filii Dei.
+14 Quicumque enim spiritu Dei aguntur, ii sunt filii Dei.
 15 Non enim accepistis spiritum servitutis iterum in timore, sed accepistis spiritum adoptionis filiorum, in quo clamamus: Abba (Pater).
 16 Ipse enim Spiritus testimonium reddit spiritui nostro quod sumus filii Dei.
-17 Si autem filii, et haeredes: haeredes, quidem Dei, cohaeredes autem Christi: si tamen compatimur ut et conglorificemur.
+17 Si autem filii, et heredes: heredes, quidem Dei, coheredes autem Christi: si tamen compatimur ut et conglorificemur.
 18 Existimo enim quod non sunt condignae passiones hujus temporis ad futuram gloriam, quae revelabitur in nobis.
 19 Nam exspectatio creaturae revelationem filiorum Dei exspectat.
 
-
 [Responsory1]
-R. Absterget Deus omnem lacrimam ab oculis sanctorum: et jam non erit amplius~
-neque luctus, neque clamor, sed nec ullus dolor:
+R. Absterget Deus omnem lacrimam ab oculis Sanctorum: et jam non erit amplius neque luctus, neque clamor, sed nec ullus dolor:
 * Quoniam priora transierunt.
-V. Non esurient, neque sitient amplius, neque cadet super illos sol, neque ullus~
-aestus.
+V. Non esurient, neque sitient amplius, neque cadet super illos sol, neque ullus aestus.
 R. Quoniam priora transierunt.
 
 [Lectio2]
 !Rom 8-28-34
-28 scimus autem quoniam diligentibus Deum omnia cooperantur in bonum his qui~
-secundum propositum vocati sunt sancti
-29 nam quos praescivit et praedestinavit conformes fieri imaginis Filii eius ut~
-sit ipse primogenitus in multis fratribus
-30 quos autem praedestinavit hos et vocavit et quos vocavit hos et iustificavit~
-quos autem justificavit illos et glorificavit
-31 quid ergo dicemus ad haec si Deus pro nobis quis contra nos
-32 qui etiam Filio suo non pepercit sed pro nobis omnibus tradidit illum quomodo~
-non etiam cum illo omnia nobis donabit
-33 quis accusabit adversus electos Dei Deus qui justificat
-34 quis est qui condemnet Christus Iesus qui mortuus est immo qui resurrexit qui~
-et est ad dexteram Dei qui etiam interpellat pro nobis
+28 Scimus autem quoniam diligentibus Deum omnia cooperantur in bonum iis qui secundum propositum vocati sunt sancti
+29 Nam quos praescivit et praedestinavit conformes fieri imaginis Filii sui ut sit ipse primogenitus in multis fratribus
+30 Quos autem praedestinavit hos et vocavit et quos vocavit hos et iustificavit quos autem justificavit illos et glorificavit
+31 Quid ergo dicemus ad haec? Si Deus pro nobis quis contra nos
+32 Qui etiam proprio Filio suo non pepercit sed pro nobis omnibus tradidit illum quomodo non etiam cum illo omnia nobis donavit
+33 Quis accusabit adversus electos Dei Deus qui justificat
+34 quis est qui condemnet Christus Iesus qui mortuus est immo qui et resurrexit qui  est ad dexteram Dei qui etiam interpellat pro nobis
 
 [Responsory2]
-R. Viri sancti gloriosum sanguinem fuderunt pro Domino, amaverunt Christum in~
-vita sua, imitati sunt eum in morte sua:
+R. Viri sancti gloriosum sanguinem fuderunt pro Domino, amaverunt Christum in vita sua, imitati sunt eum in morte sua:
 * Et ideo coronas triumphales meruerunt.
 V. Unus spiritus, et una fides erat in eis.
 R. Et ideo coronas triumphales meruerunt.
@@ -151,17 +142,15 @@ R. Et ideo coronas triumphales meruerunt.
 [Lectio3]
 !Rom 8:35-39
 35 Quis ergo nos separabit a caritate Christi? tribulatio? an angustia? an fames? an nuditas? an periculum? an persecutio? an gladius?
-36 (Sicut scriptum est: Quia propter te mortificamur tota die: aestimati sumus sicut oves occisionis.)
+36 (sicut scriptum est: Quia propter te mortificamur tota die: aestimati sumus sicut oves occisionis.)
 37 Sed in his omnibus superamus propter eum qui dilexit nos.
-38 Certus sum enim quia neque mors, neque vita, neque angeli, neque principatus, neque virtutes, neque instantia, neque futura, neque fortitudo,
+38 Certus sum enim quia neque mors, neque vita, neque Angeli, neque Principatus, neque Virtutes, neque instantia, neque futura, neque fortitudo,
 39 neque altitudo, neque profundum, neque creatura alia poterit nos separare a caritate Dei, quae est in Christo Jesu Domino nostro.
-
 
 [Responsory3]
 R. Tradiderunt corpora sua propter Deum ad supplicia:
 * Et meruerunt habere coronas perpetuas.
-V. Isti sunt qui venerunt ex magna tribulatione, et laverunt stolas suas in~
-sanguine Agni.
+V. Isti sunt qui venerunt ex magna tribulatione, et laverunt stolas suas in sanguine Agni.
 R. Et meruerunt habere coronas perpetuas.
 &Gloria
 R. Et meruerunt habere coronas perpetuas.
@@ -169,48 +158,30 @@ R. Et meruerunt habere coronas perpetuas.
 [Lectio4]
 Sermo sancti Augustini Episcopi.
 !Serm. 47. de Sanctis.
-Quotiescumque fratres carissimi, sanctorum Martyrum solemnia celebramus, ita,~
-ipsis intercedentibus, exspectemus a Domino consequi temporalia beneficia, ut~
-ipsos Martyres imitando accipere mereamur aeterna. Ab ipsis enim sanctorum~
-Martyrum in veritate festivitatum gaudia celebrantur, qui ipsorum Martyrum~
-exempla sequuntur. Solemnitates enim Martyrum exhortationes sunt martyriorum: ut~
-imitari non pigeat, quod celebrare delectat.
+Quotiescumque fratres carissimi, sanctorum Martyrum solemnia celebramus, ita, ipsis intercedentibus, exspectemus a Domino consequi temporalia beneficia, ut ipsos Martyres imitando accipere mereamur aeterna. Ab ipsis enim sanctorum Martyrum in veritate festivitatum gaudia celebrantur, qui ipsorum Martyrum exempla sequuntur. Solemnitates enim Martyrum exhortationes sunt martyriorum: ut imitari non pigeat, quod celebrare delectat.
 
 [Responsory4]
-R. Sancti tui Domine mirabile consecuti sunt iter, servientes praeceptis tuis,~
-ut invenirentur illaesi in aquis validis:
-* Terra apparuit arida: et in Mari rubro via sine impedimento.
+R. Sancti tui Domine mirabile consecuti sunt iter, servientes praeceptis tuis, ut invenirentur illaesi in aquis validis:
+* Terra apparuit arida: et in Mari Rubro via sine impedimento.
 V. Quoniam percussit petram, et fluxerunt aquae, et torrentes inundaverunt.
-R. Terra apparuit arida: et in Mari rubro via sine impedimento.
+R. Terra apparuit arida: et in Mari Rubro via sine impedimento.
 
 [Lectio5]
-Sed nos volumus gaudere cum sanctis: et tribulationem mundi nolumus sustinere~
-cum ipsis. Qui enim sanctos Martyres, in quantum potuerit, imitari noluerit; ad~
-eorum beatitudinem non poterit pervenere. Sed et Paulus Apostolus praedicat~
-dicens: Si fuerimus socii passionum, erimus et consolationum. Et Dominus in~
-Evangelio: Si mutandus vos odit, scitote quia me priorem vobis odio habuit.~
-Recusat esse in corpore, qui odium non vult sustinere cum capite.
+Sed nos volumus gaudere cum Sanctis: et tribulationem mundi nolumus sustinere cum ipsis. Qui enim sanctos Martyres, in quantum potuerit, imitari noluerit; ad eorum beatitudinem non poterit pervenire. Sed et Paulus Apostolus praedicat dicens: Si fuerimus socii passionum, erimus et consolationum. Et Dominus in Evangelio: Si mundus vos odit, scitote quia me priorem vobis odio habuit. Recusat esse in corpore, qui odium non vult sustinere cum capite.
 
 [Responsory5]
-R. Verbera carnificum non timuerunt sancti Dei, morientes pro Christi nomine:
-* Ut haeredes fierent in domo Domini
+R. Verbera carnificum non timuerunt Sancti Dei, morientes pro Christi nomine:
+* Ut heredes fierent in domo Domini
 V. Tradiderunt corpora sua propter Deum ad supplicia.
-R. Ut haeredes fierent in domo Domini
+R. Ut heredes fierent in domo Domini
 
 [Lectio6]
-Sed dicit aliquis: Et quis est qui possit beatorum Martyrum vestigia sequi? Huic~
-ego respondeo, quia non solum Martyres, sed etiam ipsum Dominum cum ipsius~
-adjutorio, si volumus, possumus imitari. Audi non me, sed ipsum Dominum generi~
-humano clamantem: Discite a me, quia mitis sum et humilis corde. Audi et Petrum~
-Apostolum admonentem: Christus. passus est pro nobis, relinquens nobis exemplum~
-ut sequamur vestigia ejus.
+Sed dicit aliquis: Et quis est qui possit beatorum Martyrum vestigia sequi? Huic ego respondeo, quia non solum Martyres, sed etiam ipsum Dominum cum ipsius adjutorio, si volumus, possumus imitari. Audi non me, sed ipsum Dominum generi humano clamantem: Discite a me, quia mitis sum et humilis corde. Audi et Petrum Apostolum admonentem: Christus. passus est pro nobis, relinquens nobis exemplum ut sequamur vestigia ejus.
 
 [Responsory6]
-R. Tamquam aurum in furnace probavit electos Dominus, et quasi holocausti~
-hostiam accepit illos: et in tempore erit respectus illorum:
+R. Tamquam aurum in fornace probavit electos Dominus, et quasi holocausti hostiam accepit illos: et in tempore erit respectus illorum:
 * Quoniam donum et pax est electis Dei
-V. Qui confidunt in illum, intelligent veritatem, et fideles in dilectione~
-acquiescent illi.
+V. Qui confidunt in illum, intelligent veritatem, et fideles in dilectione acquiescent illi.
 R. Quoniam donum et pax est electis Dei
 &Gloria
 R. Quoniam donum et pax est electis Dei
@@ -218,37 +189,20 @@ R. Quoniam donum et pax est electis Dei
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
 !Luke 21:9-19
-In illo tempore: Dixit Jesus discipulis suis: Cum audieritis praelia, et~
-seditiones, nolite terreri: oportet primum haec fieri, sed nondum statim finis.~
-Et reliqua.
+In illo tempore: Dixit Jesus discipulis suis: Cum audieritis praelia, et seditiones, nolite terreri: oportet primum haec fieri, sed nondum statim finis. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
 !Homilia 35. in Evangel.
-Dominus ac Redemptor noster perituri mundi praecurrentia mala denuntiat, ut eo~
-minus perturbent venientia, quo fuerint praescita. Minus enim jacula feriunt,~
-quae praevidentur: et nos tolerabilius mundi mala suscipimus, si contra haec per~
-praescientiae clypeum munimur. Ecce enim dicit: Cum audieritis praelia et~
-seditiones, nolite terreri: oportet enim primum haec fieri, sed nondum statim~
-finis. Pensanda sunt verba Redemptoris nostri, per quae nos aliud interius,~
-aliud exterius passuros esse denuntiat. Bella quippe ad hostes pertinent,~
-seditiones ad cives. Ut ergo nos indicet interius exteriusque turbari, aliud nos~
-fatetur ab hostibus, aliud a fratribus perpeti.
+Dominus ac Redemptor noster perituri mundi praecurrentia mala denuntiat, ut eo minus perturbent venientia, quo fuerint praescita. Minus enim jacula feriunt, quae praevidentur: et nos tolerabilius mundi mala suscipimus, si contra haec per praescientiae clypeum munimur. Ecce enim dicit: Cum audieritis praelia et seditiones, nolite terreri: oportet enim primum haec fieri, sed nondum statim finis. Pensanda sunt verba Redemptoris nostri, per quae nos aliud interius, aliud exterius passuros esse denuntiat; bella quippe ad hostes pertinent, seditiones ad cives. Ut ergo nos indicet interius exteriusque turbari, aliud nos fatetur ab hostibus, aliud a fratribus perpeti.
 
 [Responsory7]
-R. Propter testamentum Domini, et leges paternas, sancti Dei perstiterunt in~
-amore fraternitatis:
+R. Propter testamentum Domini, et leges paternas, Sancti Dei perstiterunt in amore fraternitatis:
 * Quia unus fuit semper spiritus in eis, et una fides.
 V. Ecce quam bonum et quam jucundum habitare fratres in unum.
 R. Quia unus fuit semper spiritus in eis, et una fides.
 
 [Lectio8]
-Sed his malis provenientibus, quia non statim finis sequatur, adjungit: Surget~
-gens contra gentem, et regnum adversus regnum: et terraemotus magni erunt per~
-loca, et pestilentiae, et fames, terroresque de coelo: et signa magna erunt.~
-Ultima tribulatio multis tribulationibus praevenitur: et per crebra mala, quae~
-praeveniunt, indicantur mala perpetua, quae subsequentur. Et ideo post bella et~
-seditiones non statim finis: quia multa debent mala praecurrere, ut malum~
-valeant sine fine nuntiare.
+Sed his malis praevenientibus, quia non statim finis sequatur, adjungit: Surget gens contra gentem, et regnum adversus regnum: et terraemotus magni erunt per loca, et pestilentiae, et fames, terroresque de caelo: et signa magna erunt. Ultima tribulatio multis tribulationibus praevenitur: et per crebra mala, quae praeveniunt, indicantur mala perpetua, quae subsequentur. Et ideo post bella et seditiones non statim finis: quia multa debent mala praecurrere, ut malum valeant sine fine nuntiare.
 
 [Responsory8]
 R. Sancti mei, qui in carne positi, certamen habuistis:
@@ -259,84 +213,69 @@ R. Mercedem laboris ego reddam vobis.
 R. Mercedem laboris ego reddam vobis.
 
 [Lectio9]
-Sed cum tot signa perturbationis dicta sint, oportet, ut eorum considerationem~
-breviter per singula perstringamus: quia necesse est, ut alia e coelo, alia e~
-terra, alia ab elementis, alia ab hominibus patiamur. Ait enim: Surget gens~
-contra gentem, ecce perturbatio hominum: erunt terraemotus magni per loca, ecce~
-respectus irae desuper: erunt pestilentiae ecce inaequalitas corporum: erit~
-fames, ecce sterilitas terrae: terroresque de coelo et tempestates, ecce~
-inaequalitas aeris. Quia ergo omnia consummanda sunt, ante consummationem omnia~
-perturbantur: et qui in cunctis deliquimus, in cunctis feremur: ut impleatur~
-quod dicitur, Et pugnabit pro eo orbis terrarum contra insensatos.
+Sed cum tot signa perturbationis dicta sint, oportet, ut eorum considerationem breviter per singula perstringamus: quia necesse est, ut alia e caelo, alia e terra, alia ab elementis, alia ab hominibus patiamur. Ait enim: Surget gens contra gentem, ecce perturbatio hominum: erunt terraemotus magni per loca, ecce respectus irae desuper: erunt pestilentiae ecce inaequalitas corporum: erit fames, ecce sterilitas terrae: terroresque de caelo et tempestates, ecce inaequalitas aëris. Quia ergo omnia consummanda sunt, ante consummationem omnia perturbantur: et qui in cunctis deliquimus, in cunctis ferimur: ut impleatur quod dicitur, Et pugnabit pro eo orbis terrarum contra insensatos.
 &teDeum
 
 [Ant Laudes]
-Omnes sancti, * quanta passi sunt tormenta, ut securi pervenirent ad palmam martyrii
-Cum palma * ad regna pervenerunt sancti, coronas decoris meruerunt de manu Dei
-Corpora sanctorum * in pace sepulta sunt: et vivent nomina eorum in aeternum.
+Omnes Sancti, * quanta passi sunt tormenta, ut securi pervenirent ad palmam martyrii
+Cum palma * ad regna pervenerunt Sancti, coronas decoris meruerunt de manu Dei
+Corpora Sanctorum * in pace sepulta sunt: et vivent nomina eorum in aeternum.
 Martyres Domini * Dominum benedicite in aeternum.
 Martyrum chorus * laudate Dominum de caelis, alleluia.
 
 [Capitulum Laudes]
 !Sap 3:1-3
-v. Justorum animae in manu Dei sunt, et non tanget illos tormentum mortis. Visi~
-sunt oculis insipientium mori: illi autem sunt in pace.
+v. Justorum animae in manu Dei sunt, et non tanget illos tormentum mortis. Visi sunt oculis insipientium mori: illi autem sunt in pace.
 $Deo gratias
 
 [Hymnus Laudes]
-{:H-Rexgloriosemartyrum:}v. Rex gloriose martyrum,
+{:H-Rexgloriosemartyrum:}v. Rex gloriose Martyrum,
 Corona confitentium,
 Qui respuentes terrea
-Perducis ad coelestia.
+Perducis ad caelestia.
 _
 Aurem benignam protinus
 Intende nostris vocibus:
 Trophaea sacra pangimus:
 Ignosce quod deliquimus.
 _
-Tu vincis inter martyres,
-Parcisque confessoribus:
+Tu vincis inter Martyres,
+Parcisque Confessoribus:
 Tu vince nostra crimina,
 Largitor indulgentiae.
 _
 * Deo Patri sit gloria,
 Ejusque soli Filio,
 Cum Spiritu Paraclito,
-Nunc, et per omne saeculum. 
+Nunc, et per omne saeculum.
 Amen.
 
 [Versum 2]
-V. Exsultabunt sancti in gloria.
+V. Exsultabunt Sancti in gloria.
 R. Laetabuntur in cubilibus suis.
 
 [Ant 2]
-Vestri capilli capitis * omnes numerati sunt: nolite timere: multis passeribus~
-meliores estis vos.
+Vestri capilli capitis * omnes numerati sunt: nolite timere: multis passeribus meliores estis vos.
 
 [Oratio]
-Deus, qui nos concedis sanctorum Martyrum tuorum N. et N. natalitia colere da~
-nobis in aeterna beatitudine de eorum societate gaudere.
+Deus, qui nos concedis sanctorum Martyrum tuorum N. et N. natalitia colere da nobis in aeterna beatitudine de eorum societate gaudere.
 $Per Dominum
 
 [Oratio1]
-Beatorum Martyrum pariterque Pontificum N. et N. nos, quaesumus Domine, festa~
-tueantur: et eorum commendet oratio veneranda.
+Beatorum Martyrum pariterque Pontificum N. et N. nos, quaesumus Domine, festa tueantur: et eorum commendet oratio veneranda.
 $Per Dominum
 
 [Oratio2]
-Deus, qui nos annua sanctorum Martyrum tuorum N. et N. solemnitate laetificas:~
-concede propitius; ut quorum gaudemus meritis, accendamur exemplis.
+Deus, qui nos annua sanctorum Martyrum tuorum N. et N. solemnitate laetificas: concede propitius; ut quorum gaudemus meritis, accendamur exemplis.
 $Per Dominum
 
 [Lectio Prima]
 !Sap 3:7-8
-v. Fulgebunt justi, et tamquam scintillae in arundineto discurrent. Judicabunt~
-nationes, et dominabuntur populis: et regnabit Dominus illorum in perpetuum.
+v. Fulgebunt justi, et tamquam scintillae in arundineto discurrent. Judicabunt nationes, et dominabuntur populis: et regnabit Dominus illorum in perpetuum.
 
 [Capitulum Tertia]
 !Sap 3:1-3
-v. Justorum animae in manu Dei sunt, et non tanget illos tormentum mortis. Visi~
-sunt oculis insipientium mori: illi autem sunt in pace.
+v. Justorum animae in manu Dei sunt, et non tanget illos tormentum mortis. Visi sunt oculis insipientium mori: illi autem sunt in pace.
 $Deo gratias.
 
 [Responsory Tertia]
@@ -352,8 +291,7 @@ R. Et delectentur in laetitia.
 
 [Capitulum Sexta]
 !Sap 10:17
-v. Reddidit Deus mercedem laborum sanctorum suorum, et deduxit illos in via~
-mirabili: et fuit illis in velamento diei, et in luce stellarum nocte.
+v. Reddidit Deus mercedem laborum sanctorum suorum, et deduxit illos in via mirabili: et fuit illis in velamento diei, et in luce stellarum nocte.
 $Deo gratias.
 
 [Responsory Sexta]
@@ -369,8 +307,7 @@ R. Et apud Dominum est merces eorum.
 
 [Capitulum Nona]
 !Sap 3:7-8
-v. Fulgebunt justi, et tamquam scintillae in arundineto discurrent. Judicabunt~
-nationes, et dominabuntur populis: et regnabit Dominus illorum in perpetuum.
+v. Fulgebunt justi, et tamquam scintillae in arundineto discurrent. Judicabunt nationes, et dominabuntur populis: et regnabit Dominus illorum in perpetuum.
 $Deo gratias.
 
 [Responsory Nona]
@@ -381,66 +318,43 @@ R. In perpetuum vivent.
 &Gloria
 R. Justi autem * In perpetuum vivent.
 _
-V. Exsultabunt sancti in gloria.
+V. Exsultabunt Sancti in gloria.
 R. Laetabuntur in cubilibus suis.
 
 [Ant Vespera 3]
-Isti sunt sancti, * qui pro testamento Dei sua corpora tradiderunt, et in sanguine Agni laverunt stolas suas;;109
+Isti sunt Sancti, * qui pro testamento Dei sua corpora tradiderunt, et in sanguine Agni laverunt stolas suas;;109
 Sancti per fidem * vicerunt regna, operati sunt justitiam, adepti sunt repromissiones;;110
 Sanctorum velut aquilae * juventus renovabitur: florebunt sicut lilium in civitate Domini;;111
-Absterget Deus * omnem lacrimam ab oculis sanctorum: et jam non erit amplius neque luctus, neque clamor, sed nec ullus dolor: quoniam priora transierunt;;112
-In coelestibus regnis * sanctorum habitatio est, et in aeternum requies eorum;;115
+Absterget Deus * omnem lacrimam ab oculis Sanctorum: et jam non erit amplius neque luctus, neque clamor, sed nec ullus dolor: quoniam priora transierunt;;112
+In caelestibus regnis * Sanctorum habitatio est, et in aeternum requies eorum;;115
 
 [Versum 3]
-V. Exsultabunt sancti in gloria.
+V. Exsultabunt Sancti in gloria.
 R. Laetabuntur in cubilibus suis.
 
 [Ant 3]
-Gaudent in caelis * animae sanctorum, qui Christi vestigia sunt secuti: et quia~
-pro ejus amore sanguinem suum fuderunt, ideo cum Christo exsultant sine fine.
+Gaudent in caelis * animae Sanctorum, qui Christi vestigia sunt secuti: et quia pro ejus amore sanguinem suum fuderunt, ideo cum Christo exsultant sine fine.
 
 [Lectio71]
 Lectio sancti Evangelii secundum Lucam.
 !Luke 6:17-23
-In illo tempore: Descendens Jesus de monte, stetit in loco campestri, et turba~
-discipulorum ejus, et multitudo copiosa plebis ab omni Judaea, et Jerusalem, et~
-maritima, et Tyri, et Sidonis. Et reliqua.
+In illo tempore: Descendens Jesus de monte, stetit in loco campestri, et turba discipulorum ejus, et multitudo copiosa plebis ab omni Judaea, et Jerusalem, et maritima, et Tyri, et Sidonis. Et reliqua.
 _
 Homilia sancti Ambrosii Episcopi
 !Lib. 5. in Lucam. Cap. 6., post init.
-Adverte omnia diligenter, quomodo et cum Apostolis ascendat et descendat ad~
-turbas. Quomodo enim turba nisi in humili Christum videret? Non sequitur ad~
-excelsa, non ascendit ad sublimia. Denique ubi descendit, invenit infirmos: in~
-excelsis enim infirmi esse non possunt. Hinc etiam Matthaeus docet in~
-inferioribus debiles esse sanatos. Prius enim unusquisque sanandus est, ut~
-paulatim virtutibus procedentibus ascendere possit ad montem. Et ideo quemque in~
-inferioribus sanat, hoc est, a libidine revocat, injuriam caecitatis avertit. Ad~
-vulnera nostra descendit: ut usu quodam et copia suae naturae, comparticipes nos~
-faciat esse regni coelestis.
+Adverte omnia diligenter, quomodo et cum Apostolis ascendat et descendat ad turbas. Quomodo enim turba nisi in humili Christum videret? Non sequitur ad excelsa, non ascendit ad sublimia. Denique ubi descendit, invenit infirmos: in excelsis enim infirmi esse non possunt. Hinc etiam Matthaeus docet in inferioribus debiles esse sanatos. Prius enim unusquisque sanandus est, ut paulatim virtutibus procedentibus ascendere possit ad montem; et ideo quemque in inferioribus sanat, hoc est, a libidine revocat, injuriam caecitatis avertit. Ad vulnera nostra descendit: ut usu quodam et copia suae naturae, comparticipes nos faciat esse regni caelestis.
 
 [Lectio81]
-Beati pauperes, quia vestrum est regnum Dei. Quatuor tantum beatitudines sanctus~
-Lucas dominicas posuit, octo vero sanctus Matthaeus: sed in illis octo istae~
-quatuor sunt, et in quatuor istis illae octo. Hic enim quatuor velut virtutes~
-amplexus est cardinales: ille in illis octo mysticum numerum reseravit. Pro~
-octava enim multi inscribuntur Psalmi: et mandatum accipis octo illis partem~
-dare fortasse benedictionibus. Sicut enim spei nostrae octava perfectio est, ita~
-octava summa virtutum est.
+Beati pauperes, quia vestrum est regnum Dei. Quatuor tantum beatitudines sanctus Lucas Dominicas posuit, octo vero sanctus Matthaeus: sed in illis octo istae quatuor sunt, et in quatuor istis illae octo. Hic enim quatuor velut virtutes amplexus est cardinales: ille in illis octo mysticum numerum reseravit. Pro octava enim multi inscribuntur Psalmi: et mandatum accipis octo illis partem dare fortasse benedictionibus. Sicut enim spei nostrae octava perfectio est, ita octava summa virtutum est.
 
 [Responsory81]
-R. Haec est vera fraternitas, quae numquam potuit violari certamine: qui effuso~
-sanguine secuti sunt Dominum:
+R. Haec est vera fraternitas, quae numquam potuit violari certamine: qui effuso sanguine secuti sunt Dominum:
 * Contemnentes aulam regiam, pervenerunt ad regna caelestia.
 V. Ecce quam bonum et quam jucundum habitare fratres in unum.
-* Contemnentes aulam regiam, pervenerunt ad regna caelestia.
+R. Contemnentes aulam regiam, pervenerunt ad regna caelestia.
 &Gloria
-* Contemnentes aulam regiam, pervenerunt ad regna caelestia.
+R. Contemnentes aulam regiam, pervenerunt ad regna caelestia.
 
 [Lectio91]
-Sed prius quae sunt ampliora videamus. Beati, inquit, pauperes, quoniam vestrum~
-est regnum Dei. Primam benedictionem hanc uterque Evangelista posuit. Ordine~
-enim prima est, et parens quaedam generatioque virtutum: quia qui contempserit~
-saecularia, ipse merebitur sempiterna: nec potest quisquam meritum regni~
-caelestis adipisci, qui mundi cupiditate pressus, emergendi non habet~
-facultatem.
+Sed prius quae sunt ampliora videamus. Beati, inquit, pauperes, quoniam vestrum est regnum Dei. Primam benedictionem hanc uterque Evangelista posuit. Ordine enim prima est, et parens quaedam generatioque virtutum: quia qui contempserit saecularia, ipse merebitur sempiterna: nec potest quisquam meritum regni caelestis adipisci, qui mundi cupiditate pressus, emergendi non habet facultatem.
 &teDeum

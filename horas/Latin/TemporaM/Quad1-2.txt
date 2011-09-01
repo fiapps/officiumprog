@@ -6,7 +6,7 @@ Feria Tertia infra Hebdomadam I in Quadragesima;;Feria major;;2
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
 !Matt 21:1-17.
-In illo tempore: Cum intrasset Jesus Hierosolymam, commuta est universa civitas,~
+In illo tempore: Cum intrasset Jesus Jerosolymam, commuta est universa civitas,~
 dicens: Quis est hic? Et reliqua.
 _
 Homilia venerabilis Bedae Presbyteri.
@@ -49,7 +49,7 @@ caelestis irae merentur, si in aedibus Deo sacratis aguntur. Verum quia Spiritus
 sanctus in columba super Dominum apparuit, recte per columbas sancti Spiritus~
 charismata signantur. Qui autem sunt in templo Dei hodie, qui columbas vendunt,~
 nisi qui in Ecclesia pretium de impositione manus accipiunt, per quam videlicet~
-impositionem Spiritus sanctus caelitus datur?
+impositionem Spiritus Sanctus caelitus datur?
 
 [Responsory3]
 @TemporaM/Quad1-0:Responsory6

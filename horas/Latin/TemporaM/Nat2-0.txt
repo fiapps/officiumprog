@@ -63,7 +63,7 @@ Fecit mihi magna * qui potens est, et sanctum nomen ejus, alleluia.
 [Oratio]
 Deus, qui unigenitum Filium tuum constituisti humani generis Salvatorem, et~
 Jesum vocari jussisti: concede propitius; ut, cujus sanctum nomen veneramur in~
-terris, ejus quoque aspectu perfruamur in coelis.
+terris, ejus quoque aspectu perfruamur in caelis.
 $Per eumdem
 
 [Invit]
@@ -98,7 +98,7 @@ Amen.
 
 [Ant Matutinum]
 Domine Dominus noster, quam admirabile est nomen tuum in universa terra;;8
-In nomine Jesu omne genu flectatur coelestium, terrestrium, et infernorum;;18
+In nomine Jesu omne genu flectatur caelestium, terrestrium, et infernorum;;18
 Confitemini Domino, et invocate nomen ejus: mementote, quoniam excelsum est nomen ejus;;23
 Memores erunt nominis tui Domine in omni generatione et generationem;;44
 Magnificate Deum mecum, et exaltemus nomen ejus in idipsum;;45
@@ -202,7 +202,7 @@ R. Et collaudabo illud in confessione.
 [Lectio4]
 Sermo sancti Bernardi Abbatis.
 !Sermo 15. super Cantica, circa medium.
-Non otiose Spiritus sanctus nomen sponsi oleo comparat, cum ita doceat sponsam~
+Non otiose Spiritus Sanctus nomen sponsi oleo comparat, cum ita doceat sponsam~
 ad sponsum clamare: Oleum effusum nomentuum. Oleum enim lucet, pascit, et ungit.~
 Fovet ignem, nutrit carnem, lenit dolorem: lux, cibus, medicina. Vide idem nunc~
 et de sponsi nomine: Lucet praedicatum, pascit recogitatum, invocatum lenit, et~
@@ -219,7 +219,7 @@ V. Exsurge Domine, adjuva nos, et libera nos propter nomen tuum.
 R. Quoniam non dereliquisti quaerentes te Domine.
 
 [Lectio5]
-Hoc unique nomen coram regibus, et Gentibus, et filiis Israel portare jussus est~
+Hoc unique nomen coram regibus, et Gentibus, et filiis Israël portare jussus est~
 idem Apostolus; et portabat nomen tamquam lumen, et illuminabat patriam, et~
 clamabat ubique: Nox praecessit, dies autem appropinquavit. Abjiciamus ergo~
 opera tenebrarum, et induamur arma lucis, sicut in die honeste ambulemus. Et~
@@ -275,7 +275,7 @@ mediatorem Dei et hominum, qui ab ipso nativitatis suae exordio divinis humana~
 sociat, ima summis. Nascitur ex muliere, sed cui foecunditatis fructus sic~
 accedat, ut non decidat flos virginitatis. Pannis involvitur: sed panni ipsi~
 angelicis laudibus honorantur. Absconditur in praesepio: sed proditur radianlie~
-stella de coelo. Sic et circumcisio veritatem susceptae probat humanitatis: et~
+stella de caelo. Sic et circumcisio veritatem susceptae probat humanitatis: et~
 nomen, quod est super omne nomen, gloriam indicat majestatis. Circumciditur~
 tamquam verus Abrahae filius: Jesus vocatur tamquam verus Filius Dei.
 
@@ -318,7 +318,7 @@ nomen est ab aeterno. A natura propria habet, ut sit Salvator: innatum est ei~
 nomen hoc, non inditum ab humana, vel angelica creatura.
 
 [Responsory9]
-R.br. In nomine Jesu omne genu flectetur coelestium, terrestrium, et infernorum:
+R.br. In nomine Jesu omne genu flectetur caelestium, terrestrium, et infernorum:
 * Et omnis lingua confiteatur
 V. Quia Dominus Jesus Christus in gloria est Dei Patris
 R. Et omnis lingua confiteatur
@@ -350,7 +350,7 @@ R. Sit nomen Domini benedictum, * Alleluia, alleluia.
 v. Jesu decus angelicum,
 In aure dulce canticum,
 In ore mel mirificum,
-In corde nectar coelicum.
+In corde nectar caelicum.
 _
 Qui te gustant, esuriunt;
 Qui bibunt, adhuc sitiunt;
@@ -375,7 +375,7 @@ Amen.
 
 [Versum 2]
 V. Adjutorium nostrum in nomine Domini.
-R. Qui fecit coelum et terram.
+R. Qui fecit caelum et terram.
 
 [Ant 2]
 Dedit se * ut liberaret populum, et acquireret sibi nomen aeternum, alleluia.
@@ -393,7 +393,7 @@ R. Ex hoc nunc, et usque in saeculum, alleluia.
 
 [Capitulum Sexta]
 !Phil 2:10-11
-v. In nomine Jesu omne genu flectetur coelestium, terrestrium, et infernorum: et~
+v. In nomine Jesu omne genu flectetur caelestium, terrestrium, et infernorum: et~
 omnis lingua confiteatur, quia Dominus Jesus Christus in gloria est Dei Patris.
 $Deo gratias
 
@@ -403,7 +403,7 @@ R. Afferte Domino gloriam nomini ejus, alleluia.
 
 [Capitulum Nona]
 !Col 3:17
-v. Omne quodcumque facitis in verbo, aut in opere: omnia in nomine Diii Jesu~
+v. Omne quodcumque facitis in verbo, aut in opere: omnia in nomine Dei Jesu~
 Christi facite, gratias agentes Deo et Patri per ipsum.
 $Deo gratias
 
@@ -413,7 +413,7 @@ R. Et exaltemus nomen ejus in idipsum, alleluia.
 
 [Versum 3]
 V. Adjutorium nostrum in nomine Domini.
-R. Qui fecit coelum et terram.
+R. Qui fecit caelum et terram.
 
 [Ant 3]
 Vocabis nomen ejus * Jesum: ipse enim salvum faciet populum suum a peccatis~

@@ -1,6 +1,8 @@
 clefdo=8=1.1,
 5p,6p,5p,6p,7p,8p,6p,7p..,1b,
-7p,7p,8p,6p,5p,6p,8p,7v~8v~9v~8v~7v,3b,
-6p,7p,8p,9p,7p,8p,8p,7p..,1b,
-6p,7p,8p,7p,6p,7p,6p,5p..,4b,
+7p,7p,8p,6p,5p,6p,8p,7v~8v~9v~8v~7v,3bl,
+6p,7p,8p,9p,7p,8p,8p,7p,1b,
+6p,7p,8p,7p,6p,7p,6p,5p,4b,
 5v~6v~5v,4v~5v,4b,
+
+

@@ -6,7 +6,6 @@ De libro secundo Maccabeorum
 3 Pessima autem et universis gravis erat malorum incursio:
 4 nam templum luxuria et comessationibus gentium erat plenum, et scortantium cum meretricibus: sacratisque aedibus mulieres se ultro ingerebant, intro ferentes ea quae non licebat.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory7
 
@@ -18,7 +17,6 @@ De libro secundo Maccabeorum
 8 Decretum autem exiit in proximas gentilium civitates, suggerentibus Ptolemaeis, ut pari modo et ipsi adversus Judaeos agerent, ut sacrificarent:
 9 eos autem qui nollent transire ad instituta gentium, interficerent: erat ergo videre miseriam.
 
-
 [Responsory2]
 @Tempora/101-1:Responsory2
 
@@ -27,7 +25,6 @@ De libro secundo Maccabeorum
 10 Duae enim mulieres delatae sunt natos suos circumcidisse: quas, infantibus ad ubera suspensis, cum publice per civitatem circumduxissent, per muros praecipitaverunt.
 11 Alii vero, ad proximas coëuntes speluncas, et latenter sabbati diem celebrantes, cum indicati essent Philippo, flammis succensi sunt, eo quod verebantur propter religionem et observantiam manu sibimet auxilium ferre.
 12 Obsecro autem eos qui hunc librum lecturi sunt, ne abhorrescant propter adversos casus: sed reputent ea quae acciderunt, non ad interitum, sed ad correptionem esse generis nostri.
-
 
 [Responsory3]
 @Tempora/101-1:Responsory3

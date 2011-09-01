@@ -19,17 +19,19 @@ bbtbtcccccccn
 $expand='psalms';;
 $version='Divino Afflatu';;
 $lang2='English';;
-$accented='plain';;
+$accented='accented';;
+$local='none';;
 
 [generalcheck]
-oooo
+ooooo
 
 [generalc]
 $expand='psalms';;
 $version1='Divino Afflatu';;
 $version2='Rubrics 1960';;
 $lang2='English';;
-$accented='plain';;
+$accented='accented';;
+$local='none';;
 
 [generalccheck]
-ooooo
+oooooo

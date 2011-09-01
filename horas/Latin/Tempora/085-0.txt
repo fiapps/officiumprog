@@ -1,6 +1,5 @@
 [Ant 1]
-Observa fili praecepta patris tui * et ne dimittas legem matris tuae, sed liga~
-eam semper in corde tuo.
+Observa fili praecepta patris tui * et ne dimittas legem matris tuae, sed liga eam semper in corde tuo.
 
 [Versum 1]
 V. Vespertina oratio ascendat ad te Domine.
@@ -15,7 +14,6 @@ De libro Ecclesiastici.
 4 Ne dixeris: Peccavi: et quid mihi accidit triste? Altissimus enim est patiens redditor.
 5 De propitiatio peccato noli esse sine metu, neque adjicias peccatum super peccatum.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory1
 
@@ -28,7 +26,6 @@ De libro Ecclesiastici.
 10 Noli anxius esse in divitiis injustis: non enim proderunt tibi in die obductionis et vindictae.
 11 Non ventiles te in omnem ventum, et non eas in omnem viam: sic enim omnis peccator probatur in duplici lingua.
 
-
 [Responsory2]
 @Tempora/081-0:Responsory2
 
@@ -40,48 +37,25 @@ De libro Ecclesiastici.
 15 Honor et gloria in sermone sensati: lingua vero imprudentis subversio est ipsius.
 16 Non appelleris susurro, et lingua tua ne capiaris et confundaris:
 
-
 [Responsory3]
 @Tempora/081-0:Responsory3
 
 [Lectio4]
 Sermo sancti Joannis Chrysostomi.
 !Homil. 22. in 2. Cor. 10. in Moralibus.
-Ne tardes converti ad Dominum, et ne differas de die in diem: nescis enim quid~
-paritura sit superventura dies. Periculum enim et metus est in differendo: salus~
-vero certa ac secura, si nulla sit dilatio. Virtutem igitur cole: sic enim licet~
-juvenis moriaris, secure discesseris: quod si ad senectutem perveneris, cum~
-multa facilitate et nulla molestia e vita discedes; duplicemque habebis~
-festivitatem, et quod a vitae malitia abstinueris, et quod virtutem colueris. Ne~
-dicas: Erit tempus, quando converti licebit: verba enim haec Deum valde~
-exasperant.
+Ne tardes converti ad Dominum, et ne differas de die in diem: nescis enim quid paritura sit superventura dies. Periculum enim et metus est in differendo: salus vero certa ac secura, si nulla sit dilatio. Virtutem igitur cole: sic enim licet juvenis moriaris, secure discesseris: quod si ad senectutem perveneris, cum multa facilitate et nulla molestia e vita discedes; duplicemque habebis festivitatem, et quod a vitae malitia abstinueris, et quod virtutem colueris. Ne dicas: Erit tempus, quando converti licebit: verba enim haec Deum valde exasperant.
 
 [Responsory4]
 @Tempora/081-0:Responsory4
 
 [Lectio5]
-Cur nam, cum ipse tibi aeterna saecula promisit, tu in praesenti vita laborare~
-non vis, quae parva et momentanea est: sed sic ignavus ac dissolutus agis, quasi~
-hac breviorem aliam quamdam inquiras.'' Nonne illae quotidianae comessationes,~
-nonne illae mensae, nonne scorta illa, nonne theatra illa, nonne divitiae illae~
-testantur inexplebilem malitiae concupiscentiam? Cogita bene, quod quoties~
-scortatus es, toties condemnasti teipsum: peccatum enim ita se habet, ut mox~
-atque patratum fuerit, sententiam ferat judex.
-
+Cur nam, cum ipse tibi aeterna saecula promisit, tu in praesenti vita laborare non vis, quae parva et momentanea est: sed sic ignavus ac dissolutus agis, quasi hac breviorem aliam quamdam inquiras.'' Nonne illae quotidianae comessationes, nonne illae mensae, nonne scorta illa, nonne theatra illa, nonne divitiae illae testantur inexplebilem malitiae concupiscentiam? Cogita bene, quod quoties scortatus es, toties condemnasti teipsum: peccatum enim ita se habet, ut mox atque patratum fuerit, sententiam ferat judex.
 
 [Responsory5]
 @Tempora/081-0:Responsory5
 
 [Lectio6]
-Inebriatus es? ventri indulsisti? rapuisti? siste jam gradum: verte te in~
-diversum: confitere Deo gratiam, quod non in mediis peccatis te abstulit: ne~
-quaere aliud tibi prorogari tempus ut male opereris. Multi dum male ac vitiose~
-viverent, subito perierunt, et in manifestam damnationem abierunt: time ne idem~
-tibi accidat. Sed multis, inquis, dedit Deus spatium, ut in ultima senecta~
-confiterentur. Quid igitur? numquid et tibi dabitur? Fortasse dabit, inquis. Cur~
-dicis, fortasse? Contigit aliquoties? Cogita quod de anima deliberas: proinde~
-etiam de contrario cogita, et dic: Quid autem, si non det? Quid autem, si det,~
-inquis? Esto, dat quidem ipse: verumtamen hoc illo certius et utilius.
+Inebriatus es? ventri indulsisti? rapuisti? siste jam gradum: verte te in diversum: confitere Deo gratiam, quod non in mediis peccatis te abstulit: ne quaere aliud tibi prorogari tempus ut male opereris. Multi dum male ac vitiose viverent, subito perierunt, et in manifestam damnationem abierunt: time ne idem tibi accidat. Sed multis, inquis, dedit Deus spatium, ut in ultima senecta confiterentur. Quid igitur? numquid et tibi dabitur? Fortasse dabit, inquis. Cur dicis, fortasse? Contigit aliquoties? Cogita quod de anima deliberas: proinde etiam de contrario cogita, et dic: Quid autem, si non det? Quid autem, si det, inquis? Esto, dat quidem ipse: verumtamen hoc illo certius et utilius.
 
 [Responsory6]
 @Tempora/081-0:Responsory6

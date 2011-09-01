@@ -17,7 +17,7 @@ v. Uram irgalmazz nekünk. Krisztus kegyelmezz nekünk. Uram irgalmazz nekünk.
 !Hagyd ki a többit, kiveve ha a %hajnali imát% máskor mondod el.
 
 #Conclusio
-&Dominus_vobiscumn
+&Dominus_vobiscum
 $Benedicamus Domino.
 $Fidelium animae
 $Pater noster

@@ -13,11 +13,11 @@ Alleluia * praise ye the Lord from the heavens, alleluia, alleluia;;148
 ;;148
 
 [Day0 Vespera]
-The Lord said to my Lord * Sit thou at my right hand;;109
-Great are the works of the Lord * sought out according to all his wills;;110
+The Lord said * to my Lord Sit thou at my right hand;;109
+Great are the works * of the Lord sought out according to all his wills;;110
 Blessed is the man that feareth the Lord * he shall delight exceedingly in his commandments;;111
 Blessed be the name of the Lord * from henceforth now and for ever.;;112
-But our God is in heaven * he hath done all things whatsoever he would.;;113
+But our God * is in heaven he hath done all things whatsoever he would.;;113
 
 [Day1 Laudes1]
 All ye nations * shout unto God with the voice of joy;;46
@@ -91,7 +91,7 @@ To our God * be joyful and fitting praise;;146
 
 [Day4 Laudes2]
 Before thee only have I sinned, * O Lord, have mercy on me;;50
-Turn thee again, O Lord * and be be gracious unto thy servants.;;89
+Turn thee again, O Lord * and be gracious unto thy servants.;;89
 O God * thou hast multiplied thy mercy,;;35
 The Lord is my strength * and my praise, and he is become my salvation:;;224
 Praise the Lord * who healeth the broken of heart, and bindeth up their wounds.;;146
@@ -121,7 +121,7 @@ Praise thy God * O Sion, who declareth his judgments to Israel;;147
 Lord * thou hast proved me, and known me:;;138(1-13)
 Wonderful are thy works * and my soul knoweth right well;;138(14-24)
 Do not thou forsake me * O Lord, the strength of my salvation;;139
-I have cried to the, O Lord, hearken to my voice;;140
+I have cried to thee, O Lord, hearken to my voice;;140
 Bring my soul * out of prison, that I may praise thy name;;141
 
 [Day6 Laudes1]
@@ -141,7 +141,7 @@ Praise ye the Lord * according to the excellence of his greatness.;;150
 [Day6 Vespera]
 Blessed be the Lord * my support, and my deliverer;;143(1-8)
 Happy is that people * whose God is the Lord;;143(9-15)
-For the Lord is great * and exceedingly to be praised:: His greatness has no end;;144(1-7)
+For the Lord is great * and exceedingly to be praised: His greatness has no end;;144(1-7)
 The Lord is sweet * to all: and his tender mercies are over all his works.;;144(8-13)
 The Lord is faithful * in all his words: and holy in all his works;;144(14-21)
 
@@ -271,7 +271,7 @@ The law was given by Moses, * but grace and truth came by Jesus Christ.
 
 [Day3 Laudes3]
 The Prophets foretold * that the Saviour should be born of the Virgin Mary. 
-The Spirit of the Lord * is upon me, because me hath anointed me to preach the Gospel to the poor. 
+The Spirit of the Lord * is upon me, because he hath anointed me to preach the Gospel to the poor. 
 For Zion's sake * will I not hold my peace, until her Righteous One goeth forth as brightness. 
 Behold, the Lord cometh, * to sit among princes, and to inherit the throne of glory. 
 Tell it out among the people, * and say Behold, God, our Saviour cometh. 

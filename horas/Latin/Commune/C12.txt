@@ -15,7 +15,7 @@ Antiphonas horas
 Feria Te Deum
 
 [Ant Vespera]
-Assumpta est * Maria in coelum: gaudent Angeli, laudantes benedicunt Dominum;;109
+Assumpta est * Maria in caelum: gaudent Angeli, laudantes benedicunt Dominum;;109
 Maria Virgo * assumpta est ad aethereum thalamum, in quo Rex regum stellato sedet solio;;112
 ln odorem * unguentorum tuorum currimus: adolescentulae dilexerunt te nimis;;121
 Benedicta filia * tu a Domino: quia per te fructum vitae communicavimus;;126
@@ -26,33 +26,25 @@ V. Diffusa est gratia in labiis tuis.
 R. Propterea benedixit te Deus in aeternum.
 
 [Ant 1]
-Beata Mater, * et intacta Virgo, gloriosa Regina mundi, intercede pro nobis ad~
-Dominum.
+Beata Mater, * et intacta Virgo, gloriosa Regina mundi, intercede pro nobis ad Dominum.
 
 [Oratio 1]
-Concede nos famulos tuos, quaesumus Domine Deus, perpetua mentis et corporis~
-sanitate gaudere: et gloriosa beatae Mariae semper Virginis intercessione, a~
-praesenti liberari tristitia, et aeterna perfrui laetitia.
+Concede nos famulos tuos, quaesumus Domine Deus, perpetua mentis et corporis sanitate gaudere: et gloriosa beatae Mariae semper Virginis intercessione, a praesenti liberari tristitia, et aeterna perfrui laetitia.
 $Per Dominum
 
 [Oratio 2]
-Deus qui Beatae Mariae Virginis utero Verbum tuum Angelo nuntiante carnem~
-suscipere voluisti: praesta supplicibus tuis; ut qui vere eam Genitricem Dei~
-credimus, eius apud te intercessionibus adjuvemur
+Deus qui Beatae Mariae Virginis utero Verbum tuum Angelo nuntiante carnem suscipere voluisti: praesta supplicibus tuis; ut qui vere eam Genitricem Dei credimus, eius apud te intercessionibus adjuvemur
 $Per eumdem
 
 [Special Completorium]
 $Ave Maria
-$Converte
 $Deus in adjutorium
 _
-Ant. Miserere * mihi Domine et exaudi orationem meam
 &psalm(128)
 _
 &psalm(129)
 _
 &psalm(130)
-Ant. Miserere * mihi Domine et exaudi orationem meam
 _
 !Hymnus.
 Memento, rerum Conditor,
@@ -112,25 +104,20 @@ R. In tabernaculo suo habitare facit eam.
 
 [Lectio1]
 !Sir 24:11-13
-11 et omnium excellentium et humilium corda virtute calcavi. Et in his omnibus~
-requiem quaesivi, et in haereditate Domini morabor.
-12 Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in~
-tabernaculo meo.
-13 Et dixit mihi: In Jacob inhabita, et in Israël haereditare, et in electis~
-meis mitte radices.
+11 et omnium excellentium et humilium corda virtute calcavi. Et in his omnibus requiem quaesivi, et in hereditate Domini morabor.
+12 Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
+13 Et dixit mihi: In Jacob inhabita, et in Israël hereditare, et in electis meis mitte radices.
 
 [Responsory1]
 R. Sancta et immaculata virginitas, quibus te laudibus efferam nescio:
-* Quia quem coeli capere non poterant, tuo gremio contulisti.
+* Quia quem caeli capere non poterant, tuo gremio contulisti.
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem coeli capere non poterant, tuo gremio contulisti.
+R. Quia quem caeli capere non poterant, tuo gremio contulisti.
 
 [Lectio2]
 !Sir 24:15-16
-15 Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi,~
-et in Jerusalem potestas mea.
-16 Et radicavi in populo honorificato, et in parte Dei mei haereditas illius, et~
-in plenitudine sanctorum detentio mea.
+15 Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea.
+16 Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 
 [Responsory2]
 R. Beata es Virgo Maria, quae Dominum portasti Creatorem mundi:
@@ -142,23 +129,20 @@ R. Genuisti qui te fecit, et in aeternum permanes Virgo.
 !Sir 24:17-20
 17 Quasi cedrus exaltata sum in Libano, et quasi cypressus in monte Sion:
 18 quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho:
-19 quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquam in~
-plateis.
-20 Sicut cinnamomum et balsamum aromatizans odorem dedi; quasi myrrha electa~
-dedi suavitatem odoris:
+19 quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquam in plateis.
+20 Sicut cinnamomum et balsamum aromatizans odorem dedi; quasi myrrha electa dedi suavitatem odoris:
 &teDeum
 
 [Responsory3]
 R. Felix namque es, sacra Virgo Maria, et omni laude dignissima:
 * Quia ex te ortus est sol justitiae, * Christus Deus noster.
-V. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu:~
-sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam commemorationem.
+V. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam commemorationem.
 R. Quia ex te ortus est sol justitiae
 &Gloria
 R. Christus Deus noster
 
 [Ant Laudes]
-Assumpta est * Maria in coelum: gaudent Angeli, laudantes benedicunt Dominum.
+Assumpta est * Maria in caelum: gaudent Angeli, laudantes benedicunt Dominum.
 Maria Virgo * assumpta est ad aethereum thalamum, in quo Rex regum stellato sedet solio.
 ln odorem * unguentorum tuorum currimus: adolescentulae dilexerunt te nimis.
 Benedicta filia * tu a Domino: quia per te fructum vitae communicavimus.
@@ -166,8 +150,7 @@ Pulchra es, * et decora, filia Jerusalem: terribilis ut castrorum acies ordinata
 
 [Capitulum Laudes]
 !Cant. 6:8
-v. Viderunt eam filiae Sion, et beatissimam praedicaverunt et reginae~
-laudaverunt eam.
+v. Viderunt eam filiae Sion, et beatissimam praedicaverunt et reginae laudaverunt eam.
 $Deo gratias.
 
 [Hymnus Laudes]
@@ -178,9 +161,7 @@ V. Benedicta tu in mulieribus.
 R. Et benedictus fructus ventris tui.
 
 [Ant 2]
-Beata Dei Genitrix Maria, * Virgo perpetua, templum Domini, sacrarium Spiritus~
-sancti: sola sine exemplo placuisti Domino nostro Jesu Christo: ora pro populo,~
-interveni pro clero, intercede pro devoto femineo sexu.
+Beata Dei Genitrix Maria, * Virgo perpetua, templum Domini, sacrarium Spiritus sancti: sola sine exemplo placuisti Domino nostro Jesu Christo: ora pro populo, interveni pro clero, intercede pro devoto femineo sexu.
 
 [Special Prima]
 $Ave Maria
@@ -203,13 +184,13 @@ Cum Patre, et almo Spiritu,
 In sempiterna saecula.
 Amen.
 _
-Ant. Assumpta est * Maria in coelum: gaudent Angeli: laudantes benedicunt Dominum.
+Ant. Assumpta est * Maria in caelum: gaudent Angeli: laudantes benedicunt Dominum.
 &psalm(53)
 _
 &psalm(84)
 _
 &psalm(116)
-Ant. Assumpta est * Maria in coelum: gaudent Angeli: laudantes benedicunt Dominum.
+Ant. Assumpta est * Maria in caelum: gaudent Angeli: laudantes benedicunt Dominum.
 _
 v. Capitulum
 !Cant 6:9
@@ -304,7 +285,7 @@ Ant. In odorem * unguentorum tuorum currimus: adolescentulae dilexerunt te nimis
 _
 !!Capitulum
 !Sir 24:16
-Et radicavi in populo honorificato, et in parte Dei mei haereditas illius et in plenitudine sanctorum detentio mea.
+Et radicavi in populo honorificato, et in parte Dei mei hereditas illius et in plenitudine sanctorum detentio mea.
 $Deo gratias
 _
 V. Benedicta tu in mulieribus.

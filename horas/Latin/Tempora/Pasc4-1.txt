@@ -14,7 +14,6 @@ De Epistola beati Jacobi Apostoli.
 19 Scitis, fratres mei dilectissimi. Sit autem omnis homo velox ad audiendum: tardus autem ad loquendum, et tardus ad iram.
 20 Ira enim viri justitiam Dei non operatur.
 
-
 [Responsory1]
 R. Dicant nunc, qui redempti sunt, alleluia,
 * A Domino, alleluia, alleluia.
@@ -27,7 +26,6 @@ R. A Domino, alleluia, alleluia.
 22 Estote autem factores verbi, et non auditores tantum: fallentes vosmetipsos.
 23 Quia si quis auditor est verbi, et non factor, hic comparabitur viro consideranti vultum nativitatis suae in speculo:
 24 consideravit enim se, et abiit, et statim oblitus est qualis fuerit.
-
 
 [Responsory2]
 R. Cantate Domino, alleluia:
@@ -43,7 +41,6 @@ R. Psalmum dicite ei, alleluia.
 26 Si quis autem putat se religiosum esse, non refrenans linguam suam, sed seducens cor suum, hujus vana est religio.
 27 Religio munda et immaculata apud Deum et Patrem, haec est: visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc saeculo.
 
-
 [Responsory3]
 R. Narrabo nomen tuum fratribus meis, alleluia:
 * In medio Ecclesiae laudabo te, alleluia, alleluia.
@@ -53,9 +50,7 @@ R. In medio Ecclesiae laudabo te, alleluia, alleluia.
 R. In medio Ecclesiae laudabo te, alleluia, alleluia.
 
 [Ant 2]
-Nonne cor nostrum * ardens erat in nobis de Jesu, dum loqueretur nobis in via?~
-alleluia.
+Nonne cor nostrum * ardens erat in nobis de Jesu, dum loqueretur nobis in via? alleluia.
 
 [Ant 3]
-Ego veritatem dico * vobis: expedit vobis ut ego vadam: si enim non abiero,~
-Paraclitus non veniet ad vos, alleluia.
+Ego veritatem dico * vobis: expedit vobis ut ego vadam: si enim non abiero, Paraclitus non veniet ad vos, alleluia.

@@ -8,7 +8,7 @@ vide C3;
 Paulus et Joannes * dixerunt Juliano: Nos unum Deum colimus, qui fecit caelum et terram;;109
 Paulus et Joannes * dixerunt Terentiano: Si tuus dominus est Julianus, habeto pacem cum illo: nobis alius non est, nisi Dominus Jesus Christus;;110
 Joannes et Paulus * agnoscentes tyrannidem Juliani, facultates suas pauperibus erogare coeperunt;;111
-Joannes et Paulus * dixerunt ad Gallicanum: Fac votum Deo coeli, et eris victor melius quam fuisti;;112
+Joannes et Paulus * dixerunt ad Gallicanum: Fac votum Deo caeli, et eris victor melius quam fuisti;;112
 
 [Ant 1]
 Astiterunt justi * ante Dominum, et ab invicem non sunt separati: calicem Domini~
@@ -43,7 +43,7 @@ domi ubi tunc erant, abscissis eorum capitibus, sexto Kalendas Julii secreto eos
 sepeliendos curavit: rumoremque sparsit, Joannem et Paulum in exsilium ejectos~
 esse. Verum eorum mors a spiritibus immundis, qui multorum corpora vexabant,~
 pervulgata est: in quibus Terentiani filius et ipse oppressus a daemone, ad~
-sepulchrum Martyrum perductus, liberatus est. Quo miraculo et is in Christum~
+sepulcrum Martyrum perductus, liberatus est. Quo miraculo et is in Christum~
 credidit, et ejus pater Terentianus, a quo etiam horum beatorum Martyrum vita~
 scripta esse dicitur.
 
@@ -90,17 +90,17 @@ Paulus et Joannes * dixerunt Juliano: Nos unum Deum colimus, qui fecit caelum et
 Paulus et Joannes * dixerunt Terentiano: Si tuus dominus est Julianus, habeto pacem cum illo: nobis alius non est, nisi Dominus Jesus Christus;;99
 Joannes et Paulus * agnoscentes tyrannidem Juliani, facultates suas pauperibus erogare coeperunt;;62
 Sancti spiritus * et animae justorum hymnum dicite Deo, alleluia;;210
-Joannes et Paulus * dixerunt ad Gallicanum: Fac votum Deo coeli, et eris victor melius quam fuisti;;148
+Joannes et Paulus * dixerunt ad Gallicanum: Fac votum Deo caeli, et eris victor melius quam fuisti;;148
 
 [Ant 2]
 Isti sunt sancti * qui pro Christi amore minas hominum contempserunt: sancti~
-Martyres in regno coelorum exsultant cum Angelis: o quam pretiosa est mors~
+Martyres in regno caelorum exsultant cum Angelis: o quam pretiosa est mors~
 sanctorum, qui assidue assistunt ante Dominum: et ab invicem non sunt separati.
 
 [Ant 3]
 Isti sunt duae olivae * et duo candelabra lucentia ante Dominum: habent~
 potestatem claudere caelum nubibus, et aperire portas ejus: quia linguae eorum~
-claves coeli factae sunt.
+claves caeli factae sunt.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Lucam

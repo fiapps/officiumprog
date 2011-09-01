@@ -9,7 +9,6 @@ De Ezechiele Propheta
 6 Qui incedebat inter leones, et factus est leo: et didicit praedam capere, et homines devorare:
 7 didicit viduas facere, et civitates earum in desertum adducere: et desolata est terra et plenitudo ejus a voce rugitus illius.
 
-
 [Responsory1]
 @Tempora/111-0:Responsory7
 
@@ -20,7 +19,6 @@ De Ezechiele Propheta
 10 Mater tua quasi vinea in sanguine tuo super aquam plantata est: fructus ejus et frondes ejus creverunt ex aquis multis.
 11 Et factae sunt ei virgae solidae in sceptra dominantium, et exaltata est statura ejus inter frondes, et vidit altitudinem suam in multitudine palmitum suorum.
 
-
 [Responsory2]
 @Tempora/111-1:Responsory2
 
@@ -29,7 +27,6 @@ De Ezechiele Propheta
 12 Et dixit ad me: Certe vides, fili hominis, quae seniores domus Israël faciunt in tenebris, unusquisque in abscondito cubiculi sui: dicunt enim: Non videt Dominus nos; dereliquit Dominus terram.
 13 Et dixit ad me: Adhuc conversus videbis abominationes majores, quas isti faciunt.
 14 Et introduxit me per ostium portae domus Domini quod respiciebat ad aquilonem, et ecce ibi mulieres sedebant plangentes Adonidem.
-
 
 [Responsory3]
 @Tempora/111-1:Responsory3

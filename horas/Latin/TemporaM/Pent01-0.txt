@@ -43,6 +43,24 @@ cum Spiritu Paraclito,
 et nunc, et in perpetuum. 
 Amen.
 
+[HymnusM Vespera]
+v. O lux beata Trinitas,
+et principalis Unitas,
+iam sol recedit igneus,
+infunde lumen cordibus.
+_
+Te mane laudum carmine,
+te deprecemur vespere:
+te nostra supplex gloria
+per cuncta laudet saecula.
+_
+Deo Patri sit gloria,
+eiusque soli Filio,
+cum Spiritu Paraclito,
+et nunc, et in perpetuum. 
+Amen.
+
+
 [Versum 1]
 V. Benedicamus Patrem et Filium cum sancto Spiritu.
 R. Laudemus et superexaltemus eum in saecula.
@@ -85,7 +103,7 @@ In sempiterna saecula.
 Amen.
 
 [Ant Matutinum]
-Adesto unus Deus omnipotens, Pater, Filius, et Spiritus sanctus;;8
+Adesto unus Deus omnipotens, Pater, Filius, et Spiritus Sanctus;;8
 Te unum in substantia, Trinitatem in personis confitemur;;18
 Te semper idem esse, vivere, et intelligere, profitemur;;23
 Te invocamus, te laudamus, te adoramus, o beata Trinitas;;28
@@ -93,8 +111,8 @@ Spes nostra, salus nostra, honor noster, o beata Trinitas;;32
 Libera nos, salva nos, vivifica nos, o beata Trinitas;;45
 V. Benedicamus Patrem et Filium cum sancto Spiritu.
 R. Laudemus et superexaltemus eum in saecula
-Caritas Pater est, gratia Filius, communicatio Spiritus sanctus, o beata Trinitas;;46
-Verax est Pater, veritas Filius, veritas Spiritus sanctus, o beata Trinitas;;47
+Caritas Pater est, gratia Filius, communicatio Spiritus Sanctus, o beata Trinitas;;46
+Verax est Pater, veritas Filius, veritas Spiritus Sanctus, o beata Trinitas;;47
 Pater, et Filius, et Spiritus Sanctus una substantia est, o beata Trinitas;;71
 Gloria et honor * Deo in unitate Trinitatis, Patri et Filio, cum Sancto Spiritu, in sempiterna saecula;;95
 In Patre * manet aeternitas, in Filio aequalitas, in Spiritu Sancto aeternitatis aequalitatis connexio;;96
@@ -130,7 +148,7 @@ R. Et ea, quae sub ipso erant, replebant templum.
 
 
 [Responsory2]
-R. Benedictus Dominus Deus Israel, qui facit mirabilia magna solus:
+R. Benedictus Dominus Deus Israël, qui facit mirabilia magna solus:
 * Et benedictum nomen majestatis ejus in aeternum.
 V. Replebitur majestate ejus omnis terra: fiat, fiat.
 R. Et benedictum nomen majestatis ejus in aeternum.
@@ -160,7 +178,7 @@ audierunt, et Spiritus sancti magisterio instructi non solum sermone~
 praedicaverunt, verum etiam ad instructionem saluberrimam posterorum scriptis~
 suis inditam reliquerunt, unum Deum praedicat Trinitatem, id est, Patrem, et~
 Filium, et Spiritum sanctum. Sed Trinitas vera non esset, si una eademque~
-persona diceretur Pater et Filius et Spiritus sanctus.
+persona diceretur Pater et Filius et Spiritus Sanctus.
 
 [Responsory4]
 R. Quis Deus magnus sicut Deus noster?
@@ -173,7 +191,7 @@ R. Tu es Deus, qui facis mirabilia.
 Si enim, sicut est Patris, et Filii, et Spiritus sancti una substantia, sic~
 esset una persona: nihil omnino esset, in quo veraciter Trinitas diceretur.~
 Rursus quidem Trinitas esset vera, sed unus Deus Trinitas ipsa non esset, si~
-quemadmodum Pater, et Filius, et Spiritus sanctus personarum sunt ab invicem~
+quemadmodum Pater, et Filius, et Spiritus Sanctus personarum sunt ab invicem~
 proprietate distincti, sic fuissent naturarum quoque diversitate discreti. Sed~
 quia in illo imo vero Deo Trinitate, non solum quod Unus Deus est, sed etiam~
 quod Trinitas est, naturaliter verum est: propterea ipse verus Deus in personis~
@@ -188,7 +206,7 @@ R. O beata Trinitas.
 
 [Lectio6]
 Per hanc unitatem naturalem totus Pater in Filio, et Spiritu sancto est, totus~
-Filius in Patre, et Spiritu sancto est, totus quoque Spiritus sanctus in Patre,~
+Filius in Patre, et Spiritu sancto est, totus quoque Spiritus Sanctus in Patre,~
 et Filio. Nullus horum extra quemlibet ipsorum est: quia nemo alium aut~
 praecedit aeternitate, aut excedit magnitudine, aut superat potestate: quia nec~
 Filio, nec Spiritu sancto, quantum ad naturae divinae unitatem pertinet, aut~
@@ -245,7 +263,7 @@ divinitatis, ut dixi, refert: sumus autem, personis assignat.
 R. Duo Seraphim clamabant alter ad alterum:
 * Sanctus, sanctus, sanctus Dominus Deus Sabaoth: * Plena est omnis terra gloria~
 ejus.
-V. Tres sunt qui testimonium dant in caelo, Pater, Verbum, et Spiritus sanctus:~
+V. Tres sunt qui testimonium dant in caelo, Pater, Verbum, et Spiritus Sanctus:~
 et hi tres unum sunt.
 R. Sanctus, sanctus, sanctus Dominus Deus Sabaoth:
 &Gloria
@@ -330,7 +348,7 @@ Trinitas, nunc et semper, et per infinita saecula saeculorum.
 
 [Lectio Prima]
 !1 John 5:7
-v. Tres sunt, qui testimonium dant in caelo: Pater, Verbum, et Spiritus sanctus:~
+v. Tres sunt, qui testimonium dant in caelo: Pater, Verbum, et Spiritus Sanctus:~
 et hi tres unum sunt.
 
 [Capitulum Tertia]
@@ -355,7 +373,7 @@ R. Et laudabilis et gloriosus in saecula.
 
 [Capitulum Nona]
 !1 John 5:7
-v. Tres sunt, qui testimonium dant in caelo: Pater, Verbum, et Spiritus sanctus:~
+v. Tres sunt, qui testimonium dant in caelo: Pater, Verbum, et Spiritus Sanctus:~
 et hi tres unum sunt.
 $Deo gratias
 

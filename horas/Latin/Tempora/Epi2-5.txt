@@ -12,10 +12,8 @@ De epistola secunda ad Corinthios
 3 Et scio hujusmodi hominem sive in corpore, sive extra corpus nescio, Deus scit:
 4 quoniam raptus est in paradisum: et audivit arcana verba, quae non licet homini loqui.
 
-
 [Responsory1]
-R. Confitebor tibi Domine Deus in toto corde meo, et honorificabo nomen tuum in~
-aeternum:
+R. Confitebor tibi Domine Deus in toto corde meo, et honorificabo nomen tuum in aeternum:
 * Quia misericordia tua Domine magna est super me.
 V. Deus meus es tu, et confitebor tibi: Deus meus es tu, et exaltabo te.
 R. Quia misericordia tua Domine magna est super me.
@@ -27,7 +25,6 @@ R. Quia misericordia tua Domine magna est super me.
 7 Et ne magnitudo revelationum extollat me, datus est mihi stimulus carnis meae angelus Satanae, qui me colaphizet.
 8 Propter quod ter Dominum rogavi ut discederet a me:
 9 et dixit mihi: Sufficit tibi gratia mea: nam virtus in infirmitate perficitur. Libenter igitur gloriabor in infirmitatibus meis, ut inhabitet in me virtus Christi.
-
 
 [Responsory2]
 R. Misericordia tua Domine magna est super me:
@@ -41,12 +38,10 @@ R. Et liberasti animam meam ex inferno inferiori.
 10 Propter quod placeo mihi in infirmitatibus meis, in contumeliis, in necessitatibus, in persecutionibus, in angustiis pro Christo: cum enim infirmor, tunc potens sum.
 11 Factus sum insipiens, vos me coëgistis. Ego enim a vobis debui commendari: nihil enim minus fui ab iis, qui sunt supra modum Apostoli: tametsi nihil sum:
 
-
 [Responsory3]
 R. Factus est mihi Dominus in refugium:
 * Et Deus meus in auxilium spei mei.
-V. Eripuit me de inimicis meis fortissimis, et factus est Dominus protector~
-meus.
+V. Eripuit me de inimicis meis fortissimis, et factus est Dominus protector meus.
 R. Et Deus meus in auxilium spei mei.
 &Gloria
 R. Et Deus meus in auxilium spei mei.

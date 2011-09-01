@@ -15,8 +15,7 @@ Olvasmány Mózes elsõ könyvébõl
 [Responsory1]
 R. In the self-same day entered Noah into the ark, and his sons,
 * And his wife and the wives of his sons.
-V. Every living substance was destroyed from the earth, and Noah only remained~
-alive, and they that were with him in the ark.
+V. Every living substance was destroyed from the earth, and Noah only remained alive, and they that were with him in the ark.
 R. And his wife, and the wives of his sons.
 
 [Lectio2]
@@ -27,11 +26,9 @@ R. And his wife, and the wives of his sons.
 12 Az esõ negyven nap és negyven éjjel zuhogott a földre. 
 
 [Responsory2]
-R. The Lord remembered Noah, and made a wind to pass over the earth, and the~
-waters assuaged,
+R. The Lord remembered Noah, and made a wind to pass over the earth, and the waters assuaged,
 * And the rain from heaven was restrained.
-V. And the waters returned from off the earth continually, and after the end of~
-the hundred and fifty days the waters were abated.
+V. And the waters returned from off the earth continually, and after the end of the hundred and fifty days the waters were abated.
 R. And the rain from heaven was restrained.
 
 [Lectio3]
@@ -44,5 +41,4 @@ R. And the rain from heaven was restrained.
 @Tempora/Quadp2-0:Responsory3
 
 [Ant 3]
-If ye would be truly honourable, * strive after our Fatherland which is in~
-heaven.
+If ye would be truly honourable, * strive after our Fatherland which is in heaven.

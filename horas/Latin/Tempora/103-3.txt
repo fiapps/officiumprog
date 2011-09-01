@@ -7,7 +7,6 @@ De libro primo Maccabeorum
 42 Et vidit Tryphon quia venit Jonathas cum exercitu multo ut extenderet in eum manus: timuit,
 43 et excepit eum cum honore, et commendavit eum omnibus amicis suis, et dedit ei munera: et praecepit exercitibus suis ut obedirent ei, sicut sibi.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory7
 
@@ -17,7 +16,6 @@ De libro primo Maccabeorum
 45 et nunc remitte eos in domos suas: elige autem tibi viros paucos, qui tecum sint, et veni mecum Ptolemaidam, et tradam eam tibi, et reliqua praesidia, et exercitum, et universos praepositos negotii: et conversus abibo: propterea enim veni.
 46 Et credidit ei, et fecit sicut dixit: et dimisit exercitum, et abierunt in terram Juda.
 47 Retinuit autem secum tria millia virorum: ex quibus remisit in Galilaeam duo millia: mille autem venerunt cum eo.
-
 
 [Responsory2]
 @Tempora/101-1:Responsory2
@@ -29,7 +27,6 @@ De libro primo Maccabeorum
 50 At illi cum cognovissent quia comprehensus est Jonathas, et periit, et omnes qui cum eo erant, hortati sunt semetipsos, et exierunt parati in praelium.
 51 Et videntes hi qui insecuti fuerant, quia pro anima res est illis, reversi sunt:
 52 illi autem venerunt omnes cum pace in terram Juda. Et planxerunt Jonathan, et eos qui cum ipso fuerant, valde: et luxit Israël luctu magno.
-
 
 [Responsory3]
 @Tempora/101-1:Responsory3

@@ -32,7 +32,7 @@ De Isaia Propheta
 
 
 [Responsory3]
-@TemporaM/Adv1-0:Responsory9
+@TemporaM/Adv2-0:Responsory9
 
 [Ant 2]
 Ecce ego mitto * Angelum meum, qui praeparabit viam meam ante faciem tuam.

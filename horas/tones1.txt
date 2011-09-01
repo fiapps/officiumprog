@@ -1,0 +1,98 @@
+H-Adregias;;Ad regias Agni dapes,;;Stolis amicti candidis,;;Post transitum Maris Rubri,;;Christo canamus Principi: 
+H-AeternaChristi;;Aeterna Christi munera,;;Apostolorum gloriam,;;Palmas et hymnos debitos;;Laetis canamus mentibus.
+H-Aeternarex;;Aeterne Rex altissime,;;Redemptor et fidelium,;;Cui mors perempta detulit;;Summae triumphum gloriae.
+H-Aeternererum;;Aeterne rerum Conditor,;;Noctem diemque qui regis,;;Et temporum das tempora,;;Ut alleves fastidium. 
+H-Altoexolympi;;Alto ex Olympi vertice;;Summi Parentis Filius,;;Ceu monte desectus lapis;;Terras in imas decidens,;;Domus supernae, et infimae,;;Utrumque junxit angulum.
+H-Asolisortus;;A solis ortus cardine;;Ad usque terrae limitem,;;Christum canamus Principem,;;Natum Maria Virgine.
+H-Audibenigne;;Audi benigne Conditor,;;Nostras preces cum fletibus,;;In hoc sacro jejunio;;Fusas quadragenario. 
+H-Auroracoelum;;Aurora coelum purpurat,;;Aether resultat laudibus,;;Mundus triumphans jubilat,;;Horrens avernus infremit: 
+H-Avemaris;;Ave maris stella,;;Dei Mater alma,;;Atque semper Virgo,;;Felix caeli porta. 
+H-Beatanobisgaudia;;Beata nobis gaudia;;Anni reduxit orbita,;;Cum Spiritus Paraclitus;;Illapsus est Apostolis.
+H-BeatepastorPetre;;Beate pastor Petre clemens accipe;;Voces precantum, criminumque vincula;;Verbo resolve, cui potestas tradita,;;Aperire terris caelum, apertum claudere.
+H-Christesanctorum;;Christe, sanctorum decus angelorum,;;Gentis humanae Sator et Redemptor,;;Coelitum nobis tribuas beatas;;Scandere sedes.
+H-Christoprofusum;;Christo profusum sanguinem,;;Et martyrum victorias,;;Dignamque coelo lauream;;Laetis sequamur vocibus.
+H-Coelestisurbs;;Coelestis urbs Jerusalem,;;Beata pacis visio,;;Quae celsa de viventibus;;Saxis ad astra tolleris,;;Sponsaeque ritu cingeris;;Mille angelorum millibus.
+H-Completorium;;Te lucis ante terminum,;;Rerum Creator, poscimus,;;Ut pro tua clementia;;Sis praesul et custodia. 
+H-CrudelisHerodes;;Crudelis Herodes, Deum;;Regem venire quid times?;;Non eripit mortalia,;;Qui regna dat coelestia.
+H-Decoralux;;Decora lux aeternitatis, auream;;Diem beatis irrigavit ignibus,;;Apostolorum quae coronat principes,;;Reisque in astra liberam pandit viam.
+H-Deustuorummilitum;;Deus tuorum militum;;Sors, et corona, premium,;;Laudes canentes martyris;;Absolve nexu criminis.
+H-Ecceiamnoctis;;Ecce, jam noctis tenuatur umbra,;;Lux et aurorae rutilans coruscat:;;Supplices rerum Dominum canora;;Voce precemur: 
+H-Exsultetorbisgaudiis;;Exsultet orbis gaudiis:;;Coelum resultet laudibus:;;Apostolorum gloriam;;Tellus et astra concinunt. 
+H-Invictemartyrunicum;;Invicte martyr, unicum;;Patris secutus Filium,;;Victis triumphas hostibus,;;Victor fruens coelestibus.
+H-Isteconfessor;;Iste confessor Domini colentes;;Quem pie laudant populi per orbem:;;Hac die laetus meruit beatas;;Scandere sedes.
+H-JamChristusastra;;Jam Christus astra ascenderat,;;Reversus unde venerat,;;Patris fruendum munere;;Sanctum daturus Spiritum.
+H-Jesucoronacelsior;;Jesu, corona celsior,;;Et veritas sublimior,;;Qui confitenti servulo;;Reddis perenne praemium:
+H-Jesucoronavirginum;;Jesu, corona virginum,;;Quem mater illa concipit,;;Quae sola Virgo parturit:;;Haec vota clemens accipe.
+H-Jesuredemptoromnium;;Jesu Redemptor omnium,;;Perpes corona praesulum,;;In hac die clementius;;Indulgeas precantibus.
+H-Luciscreator;;Lucis Creator optime,;;Lucem dierum proferens,;;Primordiis lucis novae,;;Mundi parans originem: 
+H-Lustrasex;;Lustra sex qui jam peregit,;;Tempus implens corporis:;;Sponte libera Redemptor;;Passioni deditus:;;Agnus in crucis levatur;;Immolandus stipite. 
+H-MatAdv;;Verbum supernum prodiens,;;E Patris aeterni sinu;;Qui natus orbi subvenis,;;Labente cursu temporis: 
+H-MatDom1;;Nocte surgentes vigilemus omnes,;;Semper in psalmis meditemur, atque;;Voce concordi Domino canamus;;Dulciter hymnos. 
+H-MatDom4;;Primo die, quo Trinitas;;Beata mundum condidit,;;Vel quo resurgens Conditor;;Nos morte victa liberat: 
+H-MatFeria;;Somno refectis artubus;;Spreto cubili surgimus.;;Nobis, Pater, canentibus;;Adesse te deposcimus. 
+H-MatPasc;;Rex sempiternae coelitum,;;Rerum creator omnium,;;Aequalis ante saecula;;Semper Parenti Filius. 
+H-MatQuad;;Ex more docti mystico;;Servemus hoc jejunium,;;Deno dierum circulo;;Ducto quater notissimo. 
+H-MatQuad5;;Pange, lingua, gloriosi;;Lauream certaminis,;;Et super crucis trophaeo;;Dic triumphum nobilem,;;Qualiter redemptor orbis;;Immolatus vicerit. 
+H-Nona;;Rerum Deus tenax vigor,;;Immotus in te permanens,;;Lucis diurnae tempora;;Successibus determinans: 
+H-Ogloriosavirginum;;O gloriosa virginum,;;Sublimis inter sidera,;;Qui te creavit, parvulum;;Lactente nutris ubere. 
+H-Osolamagnarum;;O sola magnarum urbium;;Major Bethlem, cui contigit;;Ducem salutis coelitus;;Incorporatum gignere.
+H-Osolsalutis;;O sol salutis, intimis,;;Jesu, refulge mentibus,;;Dum, nocte pulsa, gratior;;Orbi dies renascitur. 
+H-Pangualingua;;Pange lingua gloriosi;;Corporis mysterium,;;Sanguinisque pretiosi,;;Quem in mundi pretium;;Fructus ventris generosi;;Rex effudit gentium.
+H-Paschalemundogaudium;;Paschale mundo gaudium;;Sol nuntiat formosior,;;Cum luce fulgentem nova;;Jesum vident Apostoli.
+H-Placarechriste;;Placare, Christe, servulis,;;Quibus Patris clementiam;;Tuae ad tribunal gratiae;;Patrona Virgo postulat
+H-Prima1;;Jam lucis orto sidere,;;Deum precemur supplices,;;Ut in diurnis actibus;;Nos servet a nocentibus. 
+H-Quemterra;;Quem terra, pontus, sidera;;Colunt, adorant, praedicant,;;Trinam regentem machinam,;;Claustrum Mariae bajulat.
+H-Rexgloriosemartyrum;;Rex gloriose martyrum,;;Corona confitentium,;;Qui respuentes terrea;;Perducis ad coelestia.
+H-Sacrisolemnis;;Sacris solemniis juncta sint gaudia,;;Et ex praecordiis sonent praeconia:;;Recedant vetera nova sint omnia,;;Corda, voces, et opera.;;
+H-Salutisaeternae;;Salutis aeternae dator,;;Jesu, redemptis subveni:;;Virgo parens clementiae;;Dona salutem servulis.
+H-Salutishumanaesator;;Salutis humanae Sator,;;Jesu, voluptas cordium,;;Orbis redempti Conditor,;;Et casta lux amantium:
+H-Sanctorummeritis;;Sanctorum meritis inclyta gaudia;;Pangamus socii, gestaque fortia:;;Gliscens fert animus promere cantibus;;Victorum genus optimum.
+H-Sexta;;Rector potens verax Deus,;;Qui temperas rerum vices,;;Splendore mane illuminas,;;Et ignibus meridiem: 
+H-Stabatmater;;Stabat Mater dolorosa;;Juxta crucem lacrimosa,;;Dum pendebat Filius.
+H-Tertia;;Nunc Sancte nobis Spiritus,;;Unum Patri cum Filio,;;Dignare promptus ingeri;;Nostro refusus pectori. 
+H-Tristeserantapostoli;;Tristes erant Apostoli;;De Christi acerbo funere,;;Quem morte crudelissima;;Servi necarant impii.
+H-Venicreator;;Veni Creator Spiritus,;;Mentes tuorum visita,;;Imple superna gratia,;;Quae tu creasti pectora. 
+H-Verbumsupernum;;Verbum supernum prodiens,;;Nec Patris linquens dexteram,;;Ad opus suum exiens,;;Venit ad vitae vesperam.
+H-Vexillaregis;;Vexilla Regis prodeunt:;;Fulget crucis mysterium,;;Qua vita mortem pertulit,;;Et morte vitam protulit. 
+H-Virginisproles;;Virginis Proles, opifexque matris,;;Virgo quem gessit, peperitque Virgo;;;Virginis partos canimus decora;;Morte triumphos.
+p1a;;sic in-cí-pi-tur, sic fléc-ti-tur; et sic me-dí-a-tur * at-que sic fí-ni-tur
+p1a2
+p1a3
+p1D
+p1f
+p1g
+p1g2
+p1g3
+p1g5
+p2A
+p2D
+p2g
+p3a
+p3b
+p3g
+p3g2
+p4a
+p4c
+p4E
+p4g
+p5
+p5a
+p5g
+p6
+p6F
+p7a
+p7b
+p7c
+p7c2
+p7d
+p8a
+p8c
+p8G
+p8G2
+p9
+p9d
+p9i
+S-AlmaRedemptoris;;Alma Redemptoris Mater, quae pervia coeli;;Porta manes, et stella maris, succurre cadenti,;;Surgere qui curat, populo: tu quae genuisti,;;Natura mirante, tuum sanctum Genitorem,;;Virgo prius ac posterius, Gabrielis ab ore;;Sumens illud Ave, peccatorum miserere. 
+S-AveRegina;;Ave, Regina caelorum,;;Ave, Domina Angelorum:;;Salve radix, salve porta,Ex qua mundo lux est orta:;;Gaude, Virgo gloriosa,;;Super omnes speciosa,;;Vale, o valde decora,;;Et pro nobis Christum exora.
+S-ReginaCaeli;;Regina coeli, laetare, alleluia:;;Quia quem meruisti portare, alleluia,;;Resurrexit, sicut dixit, alleluia:;;Ora pro nobis Deum, alleluia. 
+S-SalveRegina;;Salve, Regina, mater misericordiae:;;vita, dulcedo et spes nostra, salve.;;Ad te clamamus exsules filii Hevae.;;Ad te suspiramus gementes et flentes;;In hac lacrimarum valle.;;Eia ergo, advocata nostra,;;illos tuos misericordes oculos ad nos converte.;;Et Iesum, benedictum fructum ventris tui,;;nobis post hoc exsilium ostende.;;O clemens, o pia, o dulcis Virgo Maria. 

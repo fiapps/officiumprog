@@ -6,7 +6,6 @@ De libro primo Maccabeorum
 54 Secundum tempus et secundum diem in qua contaminaverunt illud gentes, in ipsa renovatum est in canticis, et citharis, et cinyris, et in cymbalis.
 55 Et cecidit omnis populus in faciem, et adoraverunt, et benedixerunt in caelum eum, qui prosperavit eis.
 
-
 [Responsory1]
 @Tempora/101-1:Responsory1
 
@@ -17,7 +16,6 @@ De libro primo Maccabeorum
 58 Et facta est laetitia in populo magna valde, et aversum est opprobrium gentium.
 59 Et statuit Judas, et fratres ejus, et universa ecclesia Israël, ut agatur dies dedicationis altaris in temporibus suis ab anno in annum per dies octo a quinta et vigesima die mensis Casleu, cum laetitia et gaudio.
 
-
 [Responsory2]
 @Tempora/101-1:Responsory2
 
@@ -25,7 +23,6 @@ De libro primo Maccabeorum
 !1 Mac 4:60-61
 60 Et aedificaverunt in tempore illo montem Sion, et per circuitum muros altos et turres firmas, nequando venirent gentes, et conculcarent eum sicut antea fecerunt.
 61 Et collocavit illic exercitum, ut servarent eum, et munivit eum ad custodiendum Bethsuram, ut haberet populus munitionem contra faciem Idumaeae.
-
 
 [Responsory3]
 @Tempora/101-1:Responsory3

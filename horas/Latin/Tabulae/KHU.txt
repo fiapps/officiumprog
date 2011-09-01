@@ -1,0 +1,31 @@
+01-18=generate;;Árpád-házi S. Margit, virgin;;Duplex;;3;;vide C6b;;1943
+04-23=generate;;Prágai S. Adalbert, martyr, bishop;;Duplex;;3;;vide C2;;1100
+06-08=generate;;Prágai S. Ágnes,vidua;;Duplex;;3;;vide C7;;1989
+06-10=06-10;;Skóciai S. Margit, vidua;;Duplex;;3;;vide C7;;1673
+06-27=generate;;Árpád-házi S. László, king confessor;;Duplex;; 3;;vide C5;;1192
+06-24=generate;;Árpád-házi S. Kinga, vidua;;Duplex;;3;;vide C7;;1999
+07-08=07-08=Portugáliai S. Erzsébet Vidua;;Duplex;;3;;vide C7;;1300
+07-17=generate;;Zoborhegyi S. Benedek, confessor;;Duplex;;3;;vide C5;;1083
+07-18=10-16;;Szent Hedvig, vidua;;Duplex;;3;;vide C7;;1680
+08-13=generate;;Árpád-házi S. Piroska, holy woman;;Duplex;;3;;vide C7;;1500
+08-19=generate;;Toulouse-i S. Lajos,bishop, confessor;;Duplex;;3;;vide C4;;1317
+08-20=09-02;;Árpád-házi S. István, king confessor;;Duplex I classis;;6;;vide C5;;1083
+09-07=generate;;Ss. Márk, István és Menyhért kassai vértanúk, martyrs;;Duplex;;3;;vide C3;;1995
+09-24=generate;;S. Gellért, martyr bishop;;Duplex;;3;;vide C2;;1083
+10-23=03-28;;Kapisztrán S. János. confessor;;Duplex;;3;;vide C5;;1690
+11-05=generate;;Árpád-házi S. Imre, princ, confessor;;Duplex maius;;4;;vide C5;;1083
+11-19=11-19;;Árpád-házi S. Erzsébet, vidua;;Duplex;;3;;vide C7;;1235
+
+01-22=generate;;S. Boldog Batthyány-Strattmann László, confessor;;Semiduplex;;2;;vide C5;;2003
+03-04=generate;;S. Boldog Meszlényi Zoltán, martyr, bishop;;Semiduplex;;2;;vide C2;;2009
+05-07=generate;;S. Boldog Gizella, vudua;;Semiduplex;;2;;vide C7;;1975
+05-11=generate;;S. Boldog Salkaházi Sára, martyr;;Semiduplex;;2;;vide C6;;2006
+05-23=generate;;S. Boldog Apor Vilmos, martyr bishop;;Semiduplex;;2;;vide C2;;1997
+06-15=generate;;S. Árpád-házi Boldog Jolán, vidua;;Semiduplex;;2;;vide C7;;1827
+08-13=generate;;S. Boldog Gertrúd, virgin;;Semiduplex;;2;vide C6b;;1311
+10-03=generate;;S. Boldog Bogdánffy Szilárd, bisho, confessor;;Semiduplex;;2;;vide c4;;2010
+10-21=generate;;S. Boldog IV. Károly király, king confessor;;Semiduplex;;2;;vide C5;;2004
+10-25=generate;;S. Pécsi Boldog Mór, confessor;;Semiduplex;;2;;vide C4a;;1925
+10-31=generate;;S. Boldog Romzsa Tódor, martyr, bishop;;Semiduplex;;2;;vide C2;;2001
+
+

@@ -22,7 +22,7 @@ Amen.
 
 #Psalmi
 
-#Capitulum Versum
+#Capitulum Versus
 _
 v. Lord have mercy on us, Christ have mercy on us, Lord have mercy on us 
 &pater_noster

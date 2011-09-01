@@ -23,10 +23,10 @@ Cujus festum colimus, ipse intercedat pro nobis ad Dominum. Amen.
 Quorum festum colimus, ipsi intercedant pro nobis ad Dominum. Amen.
 Cujus festum colimus, ipsa intercedat pro nobis ad Dominum. Amen.
 Quarum festum colimus, ipsae intercedant pro nobis ad Dominum. Amen.
-Cujus festum colimus, ipsa Virgo Virginum intercedat nobis ad Dominum. Amen. 
+Cujus festum colimus, ipsa Virgo virginum intercedat pro nobis ad Dominum. Amen. 
 
 [Evangelica]
 Evangelica lectio sit nobis salus et protectio. Amen.
 
 [Evangelica9]
-Per Evangelica dicta, deleantur nostra delicta. Amen.
+Per evangelica dicta, deleantur nostra delicta. Amen.

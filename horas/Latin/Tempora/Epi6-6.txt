@@ -12,7 +12,6 @@ De epistola ad Hebreos
 3 Mementote vinctorum, tamquam simul vincti: et laborantium, tamquam et ipsi in corpore morantes.
 4 Honorabile connubium in omnibus, et thorus immaculatus. Fornicatores enim, et adulteros judicabit Deus.
 
-
 [Responsory1]
 @Tempora/Epi2-3:Responsory1
 
@@ -23,7 +22,6 @@ De epistola ad Hebreos
 7 Mementote praepositorum vestrorum, qui vobis locuti sunt verbum Dei: quorum intuentes exitum conversationis, imitamini fidem.
 8 Jesus Christus heri, et hodie: ipse et in saecula.
 
-
 [Responsory2]
 @Tempora/Epi2-3:Responsory2
 
@@ -33,7 +31,6 @@ De epistola ad Hebreos
 10 Habemus altare, de quo edere non habent potestatem, qui tabernaculo deserviunt.
 11 Quorum enim animalium infertur sanguis pro peccato in Sancta per pontificem, horum corpora cremantur extra castra.
 12 Propter quod et Jesus, ut sanctificaret per suum sanguinem populum, extra portam passus est.
-
 
 [Responsory3]
 @Tempora/Epi2-3:Responsory3

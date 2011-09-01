@@ -13,11 +13,11 @@
 [#Psalmi cum lectionibus]
 #Psalms with lections
 
-[#Capitulum Responsory Versum]
-#Chapter Responsory Versicle
+[#Capitulum Responsory Versus]
+#Chapter Responsory Verse
 
-[#Capitulum Hymnus Versum]
-#Chapter Hymn Versicle
+[#Capitulum Hymnus Versus]
+#Chapter Hymn Verse
 
 [#Canticum]
 #Canticle
@@ -82,7 +82,7 @@ The Lord be with you
 [Domine exaudi]
 O Lord hear my prayer
 
-[omit secunda Domine exaudi]
+[secunda Domine exaudi omottitur]
 omit second O Lord hear my prayer
 
 [Confiteor]

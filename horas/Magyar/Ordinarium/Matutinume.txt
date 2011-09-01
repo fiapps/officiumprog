@@ -10,7 +10,7 @@ $Credo
 #Oratio
 
 #Conclusio
-&Dominus_vobiscumn
+&Dominus_vobiscum
 $Benedicamus Domino.
 $Fidelium animae
 $Pater noster

@@ -19,7 +19,7 @@ Factus est * repente de caelo sonus advenientis spiritus vehementis, alleluia, a
 ;;78
 V. Repleti sunt omnes Spirit Sancto alleluia
 R. Et coeperunt loqui alleluia
-Apparuerunt Apostolis dispertitae linguae tamquam ignis, Seditque supra singulos eorum Spiritus sanctus, alleluia;;79
+Apparuerunt Apostolis dispertitae linguae tamquam ignis, Seditque supra singulos eorum Spiritus Sanctus, alleluia;;79
 ;;80
 ;;81
 ;;82
@@ -65,17 +65,17 @@ causa non suppetat. Non tamen eadem cautio receptori mandatur hospitii: ne,~
 dum hospes eligitur, hospitalitas ipsa minuatur.
 
 [Responsory2]
-R. Spiritus sanctus replevit totam domum, ubi erant Apostoli: et apparuerunt~
+R. Spiritus Sanctus replevit totam domum, ubi erant Apostoli: et apparuerunt~
 illis dispertitae linguae, tamquam ignis, seditque supra singulos eorum:
 * Et repleti sunt omnes Spiritu sancto: et coeperunt loqui variis linguis, prout~
-Spiritus sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
+Spiritus Sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
 V. Dum ergo essent in unum discipuli congregati propter metum Judaeorum, sonus~
 repente de caelo venit super eos.
 R. Et repleti sunt omnes Spiritu sancto: et coeperunt loqui variis linguis,~
-prout Spiritus sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
+prout Spiritus Sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
 &Gloria
 R. Et repleti sunt omnes Spiritu sancto: et coeperunt loqui variis linguis,~
-prout Spiritus sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
+prout Spiritus Sanctus dabat eloqui illis, alleluia, alleluia, alleluia.
 
 [Lectio3]
 Sed haec, ut secundum litteram de hospitii religione venerabilis est forma~

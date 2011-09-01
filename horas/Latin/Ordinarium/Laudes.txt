@@ -8,7 +8,7 @@ $Deus in adjutorium
 
 #Psalmi
 
-#Capitulum Hymnus Versum
+#Capitulum Hymnus Versus
 
 #Canticum Benedictus
 &ant_Benedictus(1)
@@ -27,7 +27,7 @@ V. Fiat misericordia tua, Domine, super nos.
 R. Quemadmodum speravimus in te.
 V. Sacerdotes tui induantur justitiam.
 R. Et sancti tui exsultent.
-V. Oremus pro beatissimo Papa nostro~
+V. Oremus pro beatissimo Papa nostro ~ 
 r. N.
 R. Dominus conservet eum, et vivificet eum, et beatum faciat eum in terra, et non tradat eum in animam inimicorum ejus.
 V. Oremus et pro Antistite nostro ~
@@ -52,7 +52,7 @@ R. Amen.
 V. Pro fratribus nostris absentibus.
 R. Salvos fac servos tuos, Deus meus, sperantes in te.
 V. Pro afflictis et captivis.
-R. Libera eos, Deus Israel, ex omnibus tribulationibus suis.
+R. Libera eos, Deus Israël, ex omnibus tribulationibus suis.
 V. Mitte eis, Domine, auxilium de sancto.
 R. Et de Sion tuere eos.
 V. Domine, Deus virtutum, converte nos.

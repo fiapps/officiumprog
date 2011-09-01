@@ -30,7 +30,7 @@ v. Nem tudjátok, hogy a pályán küzdõk mind futnak ugyan, de a díjat csak egy nye
 $Deo gratias
 
 [Hymnus Day0 Laudes2]
-{:H-Aeternarerum:}v. Világ teremtô mestere,
+{:H-Aeternererum:}v. Világ teremtô mestere,
 Ki úr vagy éjen és napon,
 Idôt idôvel váltogatsz,
 S nincs mûveidben unalom:
@@ -122,7 +122,7 @@ v. Múlóban az éjszaka, a nappal pedig közel. Vessük hát le a sötétség tetteit, é
 $Deo gratias
 
 [Hymnus Day1 Laudes]
-v. Atyaisten dicsfénye te,
+{:H-LaudsFeria:}v. Atyaisten dicsfénye te,
 Fénybôl lett fény tündöklete,
 Fény fénye, nappal napja vagy,
 Forrás, melybôl világ fakad.
@@ -215,7 +215,7 @@ $Deo gratias
 
 [Hymnus Day2 Laudes]
 v. A nappal szárnyas hírnöke
-Jelenti már, hogy jô a fény.
+{:H-LaudsFeria:}Jelenti már, hogy jô a fény.
 A lelkek ébresztôje már,
 Krisztus, bennünket élni hív.
 _
@@ -250,7 +250,7 @@ v. Áldott legyen az Isten, Urunk Jézus Krisztus Atyja, az irgalom Atyja és a min
 $Deo gratias
 
 [Hymnus Day2 Vespera]
-v. Földnek teremtô Istene,
+{:H-VespFeria:}v. Földnek teremtô Istene,
 Ki a roppant vizek alól
 Kivontad a világtalajt
 S megállítottad földedet,
@@ -286,7 +286,7 @@ v. Múlóban az éjszaka, a nappal pedig közel. Vessük hát le a sötétség tetteit, é
 $Deo gratias
 
 [Hymnus Day3 Laudes]
-v. Éj és homály és fellegek,
+{:H-LaudsFeria:}v. Éj és homály és fellegek,
 Ködös, kavargó torlatok:
 Kél már a fény, fehér az ég,
 Krisztus közelg, távozzatok!
@@ -303,7 +303,7 @@ Ez egyetlen vágyunk nekünk.
 _
 Sok ott az álfény és a szenny:
 Fényességed tisztítsa meg
-Te az egnek tiszta fenye
+Te az egnek tiszta fénye
 Te hajnalcsillagos király
 _
 Dícsérjük az örök Atyát,
@@ -322,7 +322,7 @@ v. Áldott legyen az Isten, Urunk Jézus Krisztus Atyja, az irgalom Atyja és a min
 $Deo gratias
 
 [Hymnus Day3 Vespera]
-v. Egek szentséges Istene,
+{:H-VespFeria:}v. Egek szentséges Istene,
 Ki tûzsugárral színezed
 A föld világos tájait
 S szépségül fényt lehelsz reá,
@@ -358,7 +358,7 @@ v. Múlóban az éjszaka, a nappal pedig közel. Vessük hát le a sötétség tetteit, é
 $Deo gratias
 
 [Hymnus Day4 Laudes]
-v. Im ébred az arany sugár!
+{:H-LaudsFeria:}v. Im ébred az arany sugár!
 Enyésszen már a vak homály,
 Mely minket eddig oly soká
 Nyaktörô útvesztôkbe csalt
@@ -394,7 +394,7 @@ v. Áldott legyen az Isten, Urunk Jézus Krisztus Atyja, az irgalom Atyja és a min
 $Deo gratias
 
 [Hymnus Day4 Vespera]
-v. Ó nagyhatalmas Istenünk,
+{:H-VespFeria:}v. Ó nagyhatalmas Istenünk,
 Ki a vizek szülötteit
 Vagy az örvénynek lennhagyod,
 Vagy a magasba emeled,
@@ -430,7 +430,7 @@ v. Múlóban az éjszaka, a nappal pedig közel. Vessük hát le a sötétség tetteit, é
 $Deo gratias
 
 [Hymnus Day5 Laudes]
-v. Égnek örökös Glória,
+{:H-LaudsFeria:}v. Égnek örökös Glória,
 Halandóknak boldog remény,
 A Mennydörgô Egyetlene,
 A tiszta Szûznek Gyermeke,
@@ -471,7 +471,7 @@ v. Áldott legyen az Isten, Urunk Jézus Krisztus Atyja, az irgalom Atyja és a min
 $Deo gratias
 
 [Hymnus Day5 Vespera]
-v. Nagyságos emberalkotó,
+{:H-VespFeria:}v. Nagyságos emberalkotó,
 Egyetlen törvény-rendelô;
 Parancsolsz, s vadakat terem
 És csúszómászó fajt a föld.
@@ -507,7 +507,7 @@ v. Múlóban az éjszaka, a nappal pedig közel. Vessük hát le a sötétség tetteit, é
 $Deo gratias
 
 [Hymnus Day6 Laudes]
-v. A sarkon már hajnal remeg,
+{:H-LaudsFeria:}v. A sarkon már hajnal remeg,
 A nappal jár a földeken.
 Fény nyílai tündöklenek,
 Fussanak a kísértetek!
@@ -538,7 +538,7 @@ v. Áldott legyen az Isten, Urunk Jézus Krisztus Atyja, az irgalom Atyja és a min
 $Deo gratias
 
 [Hymnus Day6 Vespera]
-v. Száll a tüzes nap lefelé,
+{:H-VespFeria:}v. Száll a tüzes nap lefelé,
 Szívünkben, örök Napvilág,
 Boldog Egység és Háromság,
 Gyujtsd fel a szeretet tüzét.
@@ -609,7 +609,7 @@ v. Rajta, menjünk fel az Úr hegyére, Jákob Istenének házához, hogy tanítson meg 
 $Deo gratias
 
 [Hymnus Adv Laudes]
-v. Im harsan feddô égi szó,
+{:H-LaudsAdv:}v. Im harsan feddô égi szó,
 Szívek homályán átható:
 Távozzatok, káprázatok,
 Magasból Jézus ránk ragyog.
@@ -645,7 +645,7 @@ v. El nem vétetik a fejedelmi pálcza Júdától, és a vezér az õ ágyékából, * migne
 $Deo gratias
 
 [Hymnus Adv Vespera]
-v. Ki csillagokat alkotál,
+{:H-VespAdv:}v. Ki csillagokat alkotál,
 Örökkévaló fénysugár,
 Világmegváltó Jézusunk,
 Hallgasd meg esengô szavunk.
@@ -713,7 +713,7 @@ Behold, all things are fulfilled * which were spoken by the Angel concerning the
 
 [Quad Laudes]
 !Isa 58:1
-v. Kiálts, meg ne szûnj, * mint a harsona, emeld fel szódat, és hirdesd népemnek az õ vétkeit, és Jákob házának az õ bûneit. 
+v. Kiálts, meg ne szûnj, mint a harsona, emeld fel szódat, és hirdesd népemnek az õ vétkeit, és Jákob házának az õ bûneit. 
 $Deo gratias
 
 [Hymnus Quad Laudes]
@@ -749,7 +749,7 @@ R. Hogy védelmezzenek minden utadon.
 
 [Quad Vespera]
 !Joel 2:17
-v. A tornácz s az oltár között sírjanak a papok, az Úr szolgái, és mondják: Engedj, Uram! engedj meg a te népednek, és ne add örökségedet gyalázatra, hogy ne uralkodjanak rajtok a nemzetek. Miért mondják a népek között: Hol vagyon az õ Istenök?
+v. A tornácz s az oltár között sírjanak a papok, az Úr szolgái, és mondják: Engedj, Uram! engedj meg a te népednek, és ne add örökségedet gyalázatra, hogy ne uralkodjanak rajtok a nemzetek. 
 $Deo gratias
 
 [Hymnus Quad Vespera]
@@ -983,11 +983,8 @@ _
 !Könyörgés
 !N. a helyi templom védõszentje
 $Oremus
-v. Szabadíts meg kérünk Urunk minden szellemi és testi bajtól~
-és a boldogságos mindenkor szeplõtelen Szûz Mária,~
-szent József, szent Péter és Pál apostolok, szent~
-r. N. és minden szentek kõzbenjárására, adj nekünk üdvösséget és békét~
-hogy Egyházad ellenségeit és a tévedéseket legyõzve biztonságban szolgálhasson Téged
+v. Szabadíts meg kérünk Urunk minden szellemi és testi bajtól és a boldogságos mindenkor szeplõtelen Szûz Mária, szent József, szent Péter és Pál apostolok, szent~
+r. N. és minden szentek kõzbenjárására, adj nekünk üdvösséget és békét hogy Egyházad ellenségeit és a tévedéseket legyõzve biztonságban szolgálhasson Téged
 $Per eumdem
 
 [Suffragium11]
@@ -999,10 +996,8 @@ _
 !Könyörgés
 !N. a helyi templom védõszentje
 $Oremus
-v. Szabadíts meg kérünk Urunk minden szellemi és testi bajtól~
-szent József, szent Péter és Pál apostolok, szent~
-r. N. és minden szentek kõzbenjárására, adj nekünk üdvösséget és békét~
-hogy Egyházad ellenségeit és a tévedéseket legyõzve biztonságban szolgálhasson Téged
+v. Szabadíts meg kérünk Urunk minden szellemi és testi bajtól szent József, szent Péter és Pál apostolok, szent~
+r. N. és minden szentek kõzbenjárására, adj nekünk üdvösséget és békét hogy Egyházad ellenségeit és a tévedéseket legyõzve biztonságban szolgálhasson Téged
 $Per eumdem
 
 [Suffragium2]
@@ -1018,10 +1013,7 @@ $Per eumdem
 
 [Suffragium3]
 !Szûz Máriához
-Ant. Szent Szûz Mária * gyõzd le nyomorúságunkat, segíts ha félünk, vígasztalj ha~
-gyengék vagyunk; imádkozz a népért, könyörogj a papokért, légy a jámbor~
-asszonyok kõzbenjárója, hogy mindenki aki szent ünnepedet ünnepli érezze~
-segítségedet. 
+Ant. Szent Szûz Mária * gyõzd le nyomorúságunkat, segíts ha félünk, vígasztalj ha gyengék vagyunk; imádkozz a népért, könyörogj a papokért, légy a jámbor asszonyok kõzbenjárója, hogy mindenki aki szent ünnepedet ünnepli érezze segítségedet. 
 _
 V. Imádkozzál érettünk Istennek szent anyja
 R. Hogy métók lehessünk a Krisztus igéreteire
@@ -1261,8 +1253,7 @@ R. És kiáltásunk jusson elõdbe!
 _
 !Könyörgés
 $Oremus
-v.Isten kinek a könyörület és irgalom a lényege, hallgasd meg kérésünket,~
-hogy minket és miden szolgáidat akik a bûn béklyójaban vergödünk, a te kegyes irgalmad oldozzon fel.
+v.Isten kinek a könyörület és irgalom a lényege, hallgasd meg kérésünket, hogy minket és miden szolgáidat akik a bûn béklyójaban vergödünk, a te kegyes irgalmad oldozzon fel.
 v. Hallgasd meg Uram könyörgéseinket és bûnvallomásunkat; adj nekünk irgalmadat és békédet.
 v. Jóságodban mutasd meg nekünk irgalmadat, oldozz fel büneinktõl és ments meg a a méltán kijáró büntetéstõl
 _
@@ -1344,8 +1335,7 @@ R. Benedicam Dominum * In omni tempore
 
 [Day6M Vespera]
 !Rom 11:33
-v. Altitudo divitiarum sapientiae, et scientiae Dei I quam incomprehensibilia~
-sunt judicia ejus, et investigabiles viae ejus!
+v. Altitudo divitiarum sapientiae, et scientiae Dei I quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus!
 $Deo gratias
 _
 R.br. Magnus Dominus noster, * et magna virtus eius.
@@ -1381,7 +1371,7 @@ R. Ostende nobis Domine, misericordiam tuam
 
 [QuadM Laudes]
 !Isa 58:1
-v. Clama ne cesses quasi tuba exalta vocem tuam et adnuntia populo meo scelera eorum et domui Iacob peccata eorum
+v. Kiálts, meg ne szûnj, mint a harsona, emeld fel szódat, és hirdesd népemnek az õ vétkeit, és Jákob házának az õ bûneit. 
 $Deo gratias
 _
 R.br. Ipse liberavit me de laqueo venantium
@@ -1393,7 +1383,7 @@ R. Ipse liberavit me * de laqueo venantium
 
 [QuadM Vespera]
 !Joel 2:17
-v. Inter vestibulum et altare plorabunt sacerdotes ministri Domini et dicent parce Domine populo tuo et ne des hereditatem tuam in obprobrium ut dominentur eis nationes quare dicunt in populis ubi est Deus eorum
+v. A tornácz s az oltár között sírjanak a papok, az Úr szolgái, és mondják: Engedj, Uram! engedj meg a te népednek, és ne add örökségedet gyalázatra, hogy ne uralkodjanak rajtok a nemzetek. 
 $Deo gratias
 _
 R.br Scapulis suis * obumbrabit tibi
@@ -1613,8 +1603,7 @@ R. És kiáltásunk jusson elõdbe!
 _
 !Könyörgés
 $Oremus
-v.Isten kinek a könyörület és irgalom a lényege, hallgasd meg kérésünket,~
-hogy minket és miden szolgáidat akik a bûn béklyójaban vergödünk, a te kegyes irgalmad oldozzon fel.
+v.Isten kinek a könyörület és irgalom a lényege, hallgasd meg kérésünket, hogy minket és miden szolgáidat akik a bûn béklyójaban vergödünk, a te kegyes irgalmad oldozzon fel.
 v. Hallgasd meg Uram könyörgéseinket és bûnvallomásunkat; adj nekünk irgalmadat és békédet.
 v. Jóságodban mutasd meg nekünk irgalmadat, oldozz fel büneinktõl és ments meg a a méltán kijáró büntetéstõl
 _

@@ -1,6 +1,5 @@
 [Ant 1]
-Adaperiat Dominus * cor vestrum in lege sua, et in praeceptis suis, et faciat~
-pacem Dominus Deus noster.
+Adaperiat Dominus * cor vestrum in lege sua, et in praeceptis suis, et faciat pacem Dominus Deus noster.
 
 [Versum 1]
 V. Vespertina oratio ascendat ad te Domine.
@@ -17,13 +16,10 @@ Incipit libro primo Maccabeorum
 6 Et post haec decidit in lectum, et cognovit quia moreretur.
 7 Et vocavit pueros suos nobiles, qui secum erant nutriti a juventute: et divisit illis regnum suum, cum adhuc viveret.
 
-
 [Responsory1]
-R. Adaperiat Dominus cor vestrum in lege sua, et in praeceptis suis, et faciat~
-pacem in diebus vestris:
+R. Adaperiat Dominus cor vestrum in lege sua, et in praeceptis suis, et faciat pacem in diebus vestris:
 * Concedat vobis salutem, et redimat vos a malis.
-V. Exaudiat Dominus orationes vestras, et reconciliatur vobis, nec vos deserat~
-in tempore malo.
+V. Exaudiat Dominus orationes vestras, et reconciliatur vobis, nec vos deserat in tempore malo.
 R. Concedat vobis salutem, et redimat vos a malis.
 
 [Lectio2]
@@ -33,10 +29,8 @@ R. Concedat vobis salutem, et redimat vos a malis.
 10 et imposuerunt omnes sibi diademata post mortem ejus, et filii eorum post eos annis multis, et multiplicata sunt mala in terra.
 11 Et exiit ex eis radix peccatrix, Antiochus illustris, filius Antiochi regis, qui fuerat Romae obses: et regnavit in anno centesimo trigesimo septimo regni Graecorum.
 
-
 [Responsory2]
-R. Exaudiat Dominus orationes vestras, et reconcilietur vobis, nec vos deserat~
-in tempore malo,
+R. Exaudiat Dominus orationes vestras, et reconcilietur vobis, nec vos deserat in tempore malo,
 * Dominus Deus noster.
 V. Det vobis cor omnibus, ut colatis eum, et faciatis ejus voluntatem.
 R. Dominus Deus noster.
@@ -49,10 +43,8 @@ R. Dominus Deus noster.
 15 Et aedificaverunt gymnasium in Jerosolymis secundum leges nationum:
 16 et fecerunt sibi praeputia, et recesserunt a testamento sancto, et juncti sunt nationibus, et venundati sunt ut facerent malum.
 
-
 [Responsory3]
-R. Congregati sunt inimici nostri, et gloriantur in virtute sua: contere~
-fortitudinem illorum Domine, et disperge illos:
+R. Congregati sunt inimici nostri, et gloriantur in virtute sua: contere fortitudinem illorum Domine, et disperge illos:
 * Ut cognoscant, quia non est alius qui pugnet pro nobis, nisi tu Deus noster.
 V. Disperge illos in virtute tua, et destrue eos protector noster Domine.
 R. Ut cognoscant, quia non est alius qui pugnet pro nobis, nisi tu Deus noster.
@@ -62,54 +54,25 @@ R. Ut cognoscant, quia non est alius qui pugnet pro nobis, nisi tu Deus noster.
 [Lectio4]
 Ex libro Officiorum sancti Ambrosii Episcopi.
 !Lib. 1. Cap. 40.
-Fortasse aliquos bellica defixos gloria tenet, ut putent solam esse praeliarem~
-fortitudinem; et ideo me ad ista deflexisse, quia illa nostris deferet. Quam~
-fortis Jesus Nave, ut uno praelio quinque reges captos sterneret cum populis~
-suis? Deinde cum adversum Gabaonitas urgeret praelium, et vereretur ne nox~
-impediret victoriam, magnitudine mentis et fidei clamavit: Stet sol: et stetit,~
-donec victoria consummaretur. Gedeon in trecentis viris de ingenti populo et~
-acerbo hoste revexit triumphum. Jonathas adolescens virtutem magnam fecit in~
-praelio.
+Fortasse aliquos bellica defixos gloria tenet, ut putent solam esse praeliarem fortitudinem; et ideo me ad ista deflexisse, quia illa nostris deferet. Quam fortis Jesus Nave, ut uno praelio quinque reges captos sterneret cum populis suis? Deinde cum adversum Gabaonitas urgeret praelium, et vereretur ne nox impediret victoriam, magnitudine mentis et fidei clamavit: Stet sol: et stetit, donec victoria consummaretur. Gedeon in trecentis viris de ingenti populo et acerbo hoste revexit triumphum. Jonathas adolescens virtutem magnam fecit in praelio.
 
 [Responsory4]
-R. Impetum inimicorum ne timueritis: memores estote, quomodo salvi facti sunt~
-patres nostri:
+R. Impetum inimicorum ne timueritis: memores estote, quomodo salvi facti sunt patres nostri:
 * Et nunc clamemus in caelum, et miserebitur nostri Deus noster.
-V. Mementote mirabilium ejus, quae fecit Pharaoni, et exercitui ejus in Mari~
-rubro.
+V. Mementote mirabilium ejus, quae fecit Pharaoni, et exercitui ejus in Mari rubro.
 R. Et nunc clamemus in caelum, et miserebitur nostri Deus noster.
 
 [Lectio5]
-Quid de Machabaeis loquar? Sed prius de populo dicam patrum: qui cum essent~
-parati ad repugnandum pro templo Dei, et pro legitimis suis, dolo hostium die~
-lacessiti sabbati, maluerunt vulneribus offerre nuda corpora, quam repugnare, ne~
-violarent sabbatum. Itaque omnes laeti se obtulerunt morti. Sed Machabaei~
-considerantes quod hoc exemplo gens omnis posset perire, sabbato etiam, cum ipsi~
-in bellum provocarentur, ulti sunt innocentium necem fratrum suorum. Unde postea~
-stimulatus rex Antiochus, cum bellum accenderet per duces suos Lysiam, Nicanorem,~
-Gorgiam, ita cum Orientalibus suis et Assyriis attritus est copiis, ut~
-quadraginta et octo millia in medio campi a tribus millibus prosternerentur.
+Quid de Machabaeis loquar? Sed prius de populo dicam patrum: qui cum essent parati ad repugnandum pro templo Dei, et pro legitimis suis, dolo hostium die lacessiti sabbati, maluerunt vulneribus offerre nuda corpora, quam repugnare, ne violarent sabbatum. Itaque omnes laeti se obtulerunt morti. Sed Machabaei considerantes quod hoc exemplo gens omnis posset perire, sabbato etiam, cum ipsi in bellum provocarentur, ulti sunt innocentium necem fratrum suorum. Unde postea stimulatus rex Antiochus, cum bellum accenderet per duces suos Lysiam, Nicanorem, Gorgiam, ita cum Orientalibus suis et Assyriis attritus est copiis, ut quadraginta et octo millia in medio campi a tribus millibus prosternerentur.
 
 [Responsory5]
-R. Congregatae sunt Gentes in multitudine, ut dimicent contra nos, et ignoramus~
-quid agere debeamus:
+R. Congregatae sunt Gentes in multitudine, ut dimicent contra nos, et ignoramus quid agere debeamus:
 * Domine Deus, ad te sunt oculi nostri, ne pereamus.
-V. Tu scis quae cogitant in nos: quomodo poterimus subsistere ante faciem~
-illorum, nisi tu adjuves nos?
+V. Tu scis quae cogitant in nos: quomodo poterimus subsistere ante faciem illorum, nisi tu adjuves nos?
 R. Domine Deus, ad te sunt oculi nostri, ne pereamus.
 
 [Lectio6]
-Virtutem ducis Judae Machabaei de uno ejus milite considerate. Namque Eleazarus,~
-cum supereminentem ceteris elephantem lorica vestitum regia adverteret,~
-arbitratus quod in eo esset rex, cursu concito in medium legionis se prorupit:~
-et abjecto clypeo, utraque manu interficiebat, donec perveniret ad bestiam,~
-atque intravit sub eam, et subjecto gladio interemit eam. Itaque cadens bestia~
-oppressit Eleazarum, atque ita mortuus est. Quanta igitur virtus animi! primo,~
-ut mortem non timeret: deinde, ut circumfusus legionibus inimicorum, in~
-confertos raperetur hostes, modium penetraret agmen, et contempta morte ferocior,~
-abjecto clypeo, utraque manu vulneratae molem bestiae subiret ac sustineret,~
-post infra ipsam succederet, quo pleniori feriret ictu: cujus ruina inclusus,~
-magis quam oppressus, suo est sepultus triumpho.
+Virtutem ducis Judae Machabaei de uno ejus milite considerate. Namque Eleazarus, cum supereminentem ceteris elephantem lorica vestitum regia adverteret, arbitratus quod in eo esset rex, cursu concito in medium legionis se prorupit: et abjecto clypeo, utraque manu interficiebat, donec perveniret ad bestiam, atque intravit sub eam, et subjecto gladio interemit eam. Itaque cadens bestia oppressit Eleazarum, atque ita mortuus est. Quanta igitur virtus animi! primo, ut mortem non timeret: deinde, ut circumfusus legionibus inimicorum, in confertos raperetur hostes, modium penetraret agmen, et contempta morte ferocior, abjecto clypeo, utraque manu vulneratae molem bestiae subiret ac sustineret, post infra ipsam succederet, quo pleniori feriret ictu: cujus ruina inclusus, magis quam oppressus, suo est sepultus triumpho.
 
 [Responsory6]
 R. Tua est potentia, tuum regnum Domine: tu es super omnes gentes:
@@ -122,8 +85,7 @@ R. Da pacem Domine in diebus nostris.
 [Responsory7]
 R. Refulsit sol in clypeos aureos, et resplenduerunt montes ab eis:
 * Et fortitudo Gentium dissipata est.
-V. Erat enim exercitus magnus valde et fortis et appropiavit Judas, et~
-exercitus ejus in praelio.
+V. Erat enim exercitus magnus valde et fortis et appropiavit Judas, et exercitus ejus in praelio.
 R. Et fortitudo Gentium dissipata est.
 
 [Responsory8]

@@ -11,10 +11,8 @@ De epistola secunda ad Corinthios
 2 Rogo autem vos ne praesens audeam per eam confidentiam, qua existimor audere in quosdam, qui arbitrantur nos tamquam secundum carnem ambulemus.
 3 In carne enim ambulantes, non secundum carnem militamus.
 
-
 [Responsory1]
-R. Deus in te speravi, Domine non confundar in aeternum: in justitia tua libera~
-me,
+R. Deus in te speravi, Domine non confundar in aeternum: in justitia tua libera me,
 * Et eripe me.
 V. Inclina ad me aurem tuam, et salva me.
 R. Et eripe me.
@@ -26,10 +24,8 @@ R. Et eripe me.
 6 et in promptu habentes ulcisci omnem inobedientiam, cum impleta fuerit vestra obedientia.
 7 Quae secundum faciem sunt, videte. Si quis confidit sibi Christi se esse, hoc cogitet iterum apud se: quia sicut ipse Christi est, ita et nos.
 
-
 [Responsory2]
-R. Repleatur os meum laude tua, ut hymnum dicam gloriae tuae, tota die~
-magnitudinem tuam: noli me projicere in tempore senectutis:
+R. Repleatur os meum laude tua, ut hymnum dicam gloriae tuae, tota die magnitudinem tuam: noli me projicere in tempore senectutis:
 * Dum defecerit in me virtus mea, ne derelinquas me.
 V. Gaudebunt labia mea cum cantavero tibi.
 R. Dum defecerit in me virtus mea, ne derelinquas me.
@@ -41,7 +37,6 @@ R. Dum defecerit in me virtus mea, ne derelinquas me.
 10 quoniam quidem epistolae, inquiunt, graves sunt et fortes: praesentia autem corporis infirma, et sermo contemptibilis:
 11 hoc cogitet qui ejusmodi est, quia quales sumus verbo per epistolas absentes, tales et praesentes in facto.
 12 Non enim audemus inserere, aut comparare nos quibusdam, qui seipsos commendant: sed ipsi in nobis nosmetipsos metientes, et comparantes nosmetipsos nobis.
-
 
 [Responsory3]
 R. Gaudebunt labia mea cum cantavero tibi:

@@ -13,6 +13,26 @@ Lesson from the second letter of St Paul the Apostle to the Corinthians
 4 For although he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him: but we shall live with him by the power of God towards you.
 
 [Responsory1]
+R. Mercy and judgment I will sing to thee, O Lord: 
+* I will sing, and I will understand in the unspotted way, when thou shalt come to me. 
+V. I walked in the innocence of my heart, in the midst of my house. 
+R. Mercy and judgment I will sing to thee, O Lord
+
+[Responsory2]
+R.  Hear my prayer, O Lord, and let my crying come unto thee.
+* For thou wilt not despise, O God, the prayer of the destitute
+V. O let thine ears consider well the voice of my complaint
+R. For thou wilt not despise, O God, the prayer of the destitute.
+
+[Responsory3]
+R. Haste thee to + hear me O Lord.
+* For my days are consumed away like smoke
+V. But thou art the same, and thy years shall not fail.
+R. For my days are consumed away like smoke.
+&Gloria
+R. For my days are consumed away like smoke.
+
+[ResponsoryT1]
 @Tempora/Epi2-3:Responsory1
 
 [Lectio2]
@@ -23,7 +43,7 @@ Lesson from the second letter of St Paul the Apostle to the Corinthians
 8 For we can do nothing against the truth; but for the truth.
 9 For we rejoice that we are weak, and you are strong. This also we pray for, your perfection.
 
-[Responsory2]
+[ResponsoryT2]
 @Tempora/Epi2-3:Responsory2
 
 [Lectio3]
@@ -34,5 +54,5 @@ Lesson from the second letter of St Paul the Apostle to the Corinthians
 13 The grace of our Lord Jesus Christ, and the charity of God, and the communication of the Holy Ghost be with you all. Amen.
 
 
-[Responsory3]
+[ResponsoryT3]
 @Tempora/Epi2-3:Responsory3

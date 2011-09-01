@@ -52,7 +52,7 @@ viri famosi.
 R. Dixit Dominus ad Noe: Finis universae carnis venit coram me: repleta est~
 terra iniquitate eorum,
 * Et ego disperdam eos cum terra.
-V. Fac tibi arcam de lignis laevigatis, mansiunculas in ea facies. Et.
+V. Fac tibi arcam de lignis laevigatis, mansiunculas in ea facies. 
 R. Et ego disperdam eos cum terra.
 
 [Lectio2]
@@ -87,7 +87,7 @@ linies intrinsecus et extrinsecus.
 cubitorum latitudo, et triginta cubitorum altitudo illius.
 
 [Responsory3]
-R. Quadraginta dies et noctes aperti sunt coeli, et ex omni carne habente~
+R. Quadraginta dies et noctes aperti sunt caeli, et ex omni carne habente~
 spiritum vitae ingressa sunt in arcam:
 * Et clausit a foris ostium Dominus.
 V.In articulo diei illius ingressus est Noe in arcam, et filii ejus, et uxor~
@@ -128,9 +128,9 @@ exstincto, etiam sensus omnis exstinguitur: eo quod nihil reliqui ad salutem~
 supersit, cum salutis fundamentum virtus defecerit.
 
 [Responsory5]
-R. Ponam arcum meum in nubibus coeli, dixit Dominus ad Noe:
+R. Ponam arcum meum in nubibus caeli, dixit Dominus ad Noe:
 * Et recordabor foederis mei, quod pepigi tecum.
-V. Cumque obduxero nubibus coelum, apparebit arcus meus in nubibus.
+V. Cumque obduxero nubibus caelum, apparebit arcus meus in nubibus.
 R. Et recordabor foederis mei, quod pepigi tecum.
 
 [Lectio6]
@@ -196,7 +196,7 @@ R. Neque erit deinceps diluvium dissipans terram.
 Fallaces enim sunt, quae nobiscum diu permanere non possunt: fallaces sunt, quae~
 mentis nostrae inopiam non expellunt. Solae autem divitiae verae sunt, quae nos~
 divites virtutibus faciunt. Si ergo, fratres carissimi, esse divites cupitis,~
-veras divitias amate. Si culmen veri honoris quaeritis, ad coeleste regnum~
+veras divitias amate. Si culmen veri honoris quaeritis, ad caeleste regnum~
 tendite. Si gloriam dignitatum diligitis, in illa superna Angelorum curia~
 adscribi festinate. Verba Domini, quae aure percipitis, mente retinete. Cibus~
 enim mentis est sermo Dei: et quasi acceptus cibus stomacho languente rejicitur,~
@@ -322,4 +322,3 @@ et divitiis, et voluptatibus vitae euntes, suffocantur, et non referunt fructum.
 8:15 Quod autem in bonam terram: hi sunt qui in corde bono et optimo audientes~
 verbum retinent, et fructum afferunt in patientia.
 $Te decet
-

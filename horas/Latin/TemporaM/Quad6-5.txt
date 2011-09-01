@@ -147,7 +147,7 @@ linguas vestras. Et quando percussistis, nisi quando clamastis: Crucifige,~
 crucifige?
 
 [Responsory6]
-R. Animam meam dilectam tradidi in manus iniquorum, et facta est mihi haereditas~
+R. Animam meam dilectam tradidi in manus iniquorum, et facta est mihi hereditas~
 mea sicut leo in silva: dedit contra me voces adversarius, dicens: Congregamini~
 et preperate ad devorandum illum: posuerunt me in deserto solitudinis, et luxit~
 super me omnis terra:
@@ -155,7 +155,7 @@ super me omnis terra:
 V. Insurrexerunt in me viri absque misericordia, et non pepercerunt animae meae.
 R. Quia non est inventus qui me agnosceret, et faceret bene.
 &Gloria
-R. Animam meam dilectam tradidi in manus iniquorum, et facta est mihi haereditas~
+R. Animam meam dilectam tradidi in manus iniquorum, et facta est mihi hereditas~
 mea sicut leo in silva: dedit contra me voces adversarius, dicens: Congregamini~
 et properate ad devorandum illum: posuerunt me in deserto solitudinis, et luxit~
 super me omnis terra: * Quia non est inventus qui me agnosceret, et faceret bene.
@@ -252,4 +252,3 @@ R. Sicut mortuos saeculi.
 [Ant 3]
 Cum accepisset acetum * dixit: Consumatum est: et inclinato capite emisit~
 spiritum
-

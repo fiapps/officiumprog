@@ -11,7 +11,6 @@ De libro primo Regum.
 2 et indicavit Jonathas David, dicens: Quaerit Saul pater meus occidere te: quapropter observa te, quaeso, mane: et manebis clam, et absconderis.
 3 Ego autem egrediens stabo juxta patrem meum in agro, ubicumque fueris: et ego loquar de te ad patrem meum, et quodcumque videro, nuntiabo tibi.
 
-
 [Responsory1]
 @Tempora/Pent01-1:Responsory1
 
@@ -21,7 +20,6 @@ De libro primo Regum.
 5 Et posuit animam suam in manu sua, et percussit Philisthaeum, et fecit Dominus salutem magnam universo Israëli: vidisti, et laetatus es. Quare ergo peccas in sanguine innoxio, interficiens David, qui est absque culpa?
 6 Quod cum audisset Saul, placatus voce Jonathae, juravit: Vivit Dominus, quia non occidetur.
 
-
 [Responsory2]
 @Tempora/Pent01-1:Responsory2
 
@@ -30,7 +28,6 @@ De libro primo Regum.
 8 Motum est autem rursum bellum: et egressus David, pugnavit adversum Philisthiim: percussitque eos plaga magna, et fugerunt a facie ejus.
 9 Et factus est spiritus Domini malus in Saul: sedebat autem in domo sua, et tenebat lanceam: porro David psallebat manu sua.
 10 Nisusque est Saul configere David lancea in pariete, et declinavit David a facie Saul: lancea autem casso vulnere perlata est in parietem, et David fugit, et salvatus est nocte illa.
-
 
 [Responsory3]
 @Tempora/Pent01-1:Responsory3

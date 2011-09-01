@@ -8,7 +8,6 @@ De libro Ecclesiastici.
 5 Si largitus fueris, assumet te: et si non habueris, derelinquet te.
 6 Si habes, convivet tecum, et evacuabit te: et ipse non dolebit super te.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory7
 
@@ -22,7 +21,6 @@ De libro Ecclesiastici.
 14 Ne retineas ex aequo loqui cum illo, nec credas multis verbis illius: ex multa enim loquela tentabit te, et subridens interrogabit te de absconditis tuis.
 15 Immitis animus illius conservabit verba tua: et non parcet de malitia, et de vinculis.
 
-
 [Responsory2]
 @Tempora/081-1:Responsory2
 
@@ -35,7 +33,6 @@ De libro Ecclesiastici.
 20 Omnis caro ad similem sibi conjungetur, et omnis homo simili sui sociabitur.
 21 Si communicabit lupus agno aliquando, sic peccator justo.
 22 Quae communicatio sancto homini ad canem? aut quae pars diviti ad pauperem?
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

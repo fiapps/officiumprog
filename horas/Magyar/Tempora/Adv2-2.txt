@@ -5,7 +5,7 @@ Feria III infra Hebdomadam II Adventus;;Feria major;;2
 Oratio Dominica
 
 [Lectio1]
-Olvasmány Iziás próféta könyvébõl
+Olvasmány Izaiás próféta könyvébõl
 !Isa 14:1-2
 1 Az Úr megkönyörül Jákobon, ismét kiválasztja Izraelt, s nyugalmat ad nekik földjükön. Akkor majd idegenek csatlakoznak hozzájuk, s Jákob házához szegõdnek. 
 2 A népek megragadják és a szülõföldjükre vezetik õket. Ám Izrael háza megszerzi õket rabszolgának és rabszolganõnek az Úr földjén. Így akik elhurcolták õket, a foglyaikká válnak, és uralkodni fognak zsarnokaikon. 
@@ -34,9 +34,7 @@ Olvasmány Iziás próféta könyvébõl
 @Tempora/Adv1-2:Responsory3
 
 [Ant 2]
-The Lord shall arise * upon thee, O Jerusalem, and His glory shall be seen upon~
-thee.
+The Lord shall arise * upon thee, O Jerusalem, and His glory shall be seen upon thee.
 
 [Ant 3]
-The voice * of one crying in the wilderness Prepare ye the way of the Lord,~
-make His paths straight.
+The voice * of one crying in the wilderness Prepare ye the way of the Lord, make His paths straight.

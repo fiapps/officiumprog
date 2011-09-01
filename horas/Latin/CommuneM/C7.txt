@@ -33,13 +33,13 @@ Ubique fulget inclyta.
 _
 Haec sancto amore saucia,
 Dum mundi amorem noxium
-Horrescit, ad coelestia
+Horrescit, ad caelestia
 Iter peregit arduum.
 _
 Carnem domans jejuniis,
 Dulcique mentem pabulo
 Orationis nutriens,
-Coeli potitur gaudiis.
+Caeli potitur gaudiis.
 _
 Rex Christe virtus fortium,
 Qui magna solus efficis,
@@ -57,7 +57,7 @@ V. Specie tua et pulchritudine tua.
 R. Intende, prospere procede, et regna.
 
 [Ant 1]
-Simile est regnum coelorum * homini negotiatori quaerenti bonas margaritas:~
+Simile est regnum caelorum * homini negotiatori quaerenti bonas margaritas:~
 inventa una pretiosa, dedit omnia sua, et comparavit eam.
 
 [Invit]
@@ -223,7 +223,7 @@ R. Mulier timens Deum, ipsa laudabitur.
 Lectio Sancti Evangelii secundum Matthaeum
 !Matt 13:44-52
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Simile est regnum~
-coelorum thesauro abscondito in agro. Et reliqua.
+caelorum thesauro abscondito in agro. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
 !Homil. 11. in Evang.
@@ -231,7 +231,7 @@ Caelorum regnum, fratres carissimi, idcirco terrenis rebus simile dicitur, ut ex
 his quae animus novit, surgat ad incognita quae non novit: quatenus exemplo~
 visibilium se ad invisibilia rapiat, et per ea, quae usu didicit, quasi~
 confricatus incalescat: ut per hoc, quod scit notum diligere, discat et~
-incognita amare. Ecce enim coelorum regnum thesauro abscondito in agro~
+incognita amare. Ecce enim caelorum regnum thesauro abscondito in agro~
 comparatur: quem qui invenit homo, abscondit, et prae gaudio illius vadit, et~
 vendit universa quae habet, et emit agrum illum.
 
@@ -245,7 +245,7 @@ R. Et panem otiosa non comedit.
 
 [Lectio8]
 Qua in re hoc quoque notandum est, quod inventus thesaurus absconditur, ut~
-servetur: quia studium coelestis desiderii a malignis spiritibus custodire non~
+servetur: quia studium caelestis desiderii a malignis spiritibus custodire non~
 sufficit, qui hoc ab humanis laudibus non abscondit. In praesenti etenim vita,~
 quasi in via sumus, qua ad patriam pergimus. Maligni autem spiritus iter nostrum~
 quasi quidam latrunculi obsident. Depraedari ergo desiderat, qui thesaurum~
@@ -267,18 +267,18 @@ R. Quem vidi, quem amavi, in quem credidi, quem dilexi.
 
 [Lectio9]
 Thesaurus autem caeleste est desiderium: ager vero, in quo thesaurus absconditur,~
-disciplina studii coelestis. Quem profecto agrum venditis omnibus comparat, qui~
+disciplina studii caelestis. Quem profecto agrum venditis omnibus comparat, qui~
 voluptatibus carnis renuntians, cuncta sua terrena desideria per disciplinae~
-coelestis custodiam calcat: ut nihil jam, quod caro blanditur, libeat; nihil~
+caelestis custodiam calcat: ut nihil jam, quod caro blanditur, libeat; nihil~
 quod carnalem vitam trucidat, spiritus perhorrescat.
 
 [Responsory9]
 R. Beata es N. quae propter Deum mundum odisti
-* Propterea datum est tibi regnum coelorum
+* Propterea datum est tibi regnum caelorum
 V. Dilexisti justitiam et odisti iniquitatem
-R. Propterea datum est tibi regnum coelorum
+R. Propterea datum est tibi regnum caelorum
 &Gloria
-R. Propterea datum est tibi regnum coelorum
+R. Propterea datum est tibi regnum caelorum
 
 [Ant Laudes]
 Dum esset Rex * in accubitu suo, nardus mea dedit odorem suavitatis

@@ -11,7 +11,6 @@ De Isaia Propheta
 2 Attendite ad Abraham, patrem vestrum, et ad Saram, quae peperit vos: quia unum vocavi eum, et benedixi ei, et multiplicavi eum.
 3 Consolabitur ergo Dominus Sion, et consolabitur omnes ruinas ejus: et ponet desertum ejus quasi delicias, et solitudinem ejus quasi hortum Domini. Gaudium et laetitia invenietur in ea, gratiarum actio et vox laudis.
 
-
 [Responsory1]
 @Tempora/Adv4-0:Responsory7
 
@@ -21,7 +20,6 @@ De Isaia Propheta
 5 Prope est justus meus, egressus est salvator meus, et brachia mea populos judicabunt; me insulae exspectabunt, et brachium meum sustinebunt.
 6 Levate in caelum oculos vestros, et videte sub terra deorsum: quia caeli sicut fumus liquescent, et terra sicut vestimentum atteretur, et habitatores ejus sicut haec interibunt: salus autem mea in sempiternum erit, et justitia mea non deficiet.
 
-
 [Responsory2]
 @Tempora/Adv4-0:Responsory8
 
@@ -29,7 +27,6 @@ De Isaia Propheta
 !Isa 51:7-8
 7 Audite me, qui scitis justum, populus meus, lex mea in corde eorum: nolite timere opprobrium hominum, et blasphemias eorum ne metuatis:
 8 sicut enim vestimentum, sic comedet eos vermis, et sicut lanam, sic devorabit eos tinea: salus autem mea in sempiternum erit, et justitia mea in generationes generationum.
-
 
 [Responsory3]
 @Tempora/Adv4-0:Responsory9

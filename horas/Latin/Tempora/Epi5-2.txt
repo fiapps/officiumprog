@@ -13,7 +13,6 @@ Incipit epistola secunda ad Timotheum
 4 desiderans te videre, memor lacrimarum tuarum, ut gaudio implear,
 5 recordationem accipiens ejus fidei, quae est in te non ficta, quae et habitavit primum in avia tua Loide, et matre tua Eunice, certus sum autem quod et in te.
 
-
 [Responsory1]
 @Tempora/Epi2-2:Responsory1
 
@@ -24,7 +23,6 @@ Incipit epistola secunda ad Timotheum
 8 Noli itaque erubescere testimonium Domini nostri, neque me vinctum ejus: sed collabora Evangelio secundum virtutem Dei:
 9 qui nos liberavit, et vocavit vocatione sua sancta, non secundum opera nostra, sed secundum propositum suum, et gratiam, quae data est nobis in Christo Jesu ante tempora saecularia.
 
-
 [Responsory2]
 @Tempora/Epi2-2:Responsory2
 
@@ -34,7 +32,6 @@ Incipit epistola secunda ad Timotheum
 11 in quo positus sum ego praedicator, et Apostolus, et magister gentium.
 12 Ob quam causam etiam haec patior, sed non confundor. Scio enim cui credidi, et certus sum quia potens est depositum meum servare in illum diem.
 13 Formam habe sanorum verborum, quae a me audisti in fide, et in dilectione in Christo Jesu.
-
 
 [Responsory3]
 @Tempora/Epi2-2:Responsory3

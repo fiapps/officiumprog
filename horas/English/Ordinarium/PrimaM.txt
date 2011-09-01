@@ -32,7 +32,7 @@ Amen.
 
 #Psalmi
 
-#Capitulum Versum
+#Capitulum Versus
 R. Thanks be to God
 _
 V. Arise, O Christ, and help us.

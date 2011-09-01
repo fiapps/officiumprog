@@ -124,7 +124,7 @@ R. Et florebit in aeternum ante Dominum.
 
 [Lectio3]
 !Acts 20:32-38
-32 Et nunc commendo vos Deo, et verbo gratiae ipsius, qui potens est aedificare, et dare haereditatem in sanctificatis omnibus.
+32 Et nunc commendo vos Deo, et verbo gratiae ipsius, qui potens est aedificare, et dare hereditatem in sanctificatis omnibus.
 33 Argentum, et aurum, aut vestem nullius concupivi, sicut
 34 ipsi scitis: quoniam ad ea quae mihi opus erant, et his qui mecum sunt, ministraverunt manus istae.
 35 Omnia ostendi vobis, quoniam sic laborantes, oportet suscipere infirmos ac meminisse verbi Domini Jesu: quoniam ipse dixit: Beatius est magis dare, quam accipere.
@@ -136,7 +136,7 @@ R. Et florebit in aeternum ante Dominum.
 [Responsory3]
 R. Iste cognovit justitiam, et vidit mirabilia magna, et exoravit Altissimum
 * Et inventus est in numero sanctorum.
-V. Iste est qui contempsit vitam mundi, et pervenit ad coelestia regna.
+V. Iste est qui contempsit vitam mundi, et pervenit ad caelestia regna.
 R. Et inventus est in numero sanctorum.
 &Gloria
 R. Et inventus est in numero sanctorum.
@@ -296,7 +296,7 @@ R. Gloria et honore * Coronasti eum Domine.
 {:H-Invictemartyrunicum:}v. Invicte martyr, unicum
 Patris secutus Filium,
 Victis triumphas hostibus,
-Victor fruens coelestibus.
+Victor fruens caelestibus.
 _
 Tui precatus munere
 Nostrum reatum dilue,

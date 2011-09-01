@@ -31,7 +31,7 @@ Incipit Ezechiele Propheta
 R. Aspice Domine de sede sancta tua, et cogita de nobis: inclina Deus meus aurem~
 tuam, et audi:
 * Aperi oculos tuos, et vide tribulationem nostram.
-V. Qui regis Israel, intende, qui deducis velut ovem Joseph.
+V. Qui regis Israël, intende, qui deducis velut ovem Joseph.
 R. Aperi oculos tuos, et vide tribulationem nostram.
 
 [Lectio3]
@@ -85,9 +85,9 @@ in eis fiat et intus verbum quod audiunt, et foris quod dicunt.
 [Responsory5]
 R. Muro tuo inexpugnabili circumcinge nos Domine, et armis tuae potentiae~
 protege nos semper:
-* Libera Domine Deus Israel clamantes ad te.
+* Libera Domine Deus Israël clamantes ad te.
 V. Erue nos in mirabilibus tuis, et da gloriam nomini tuo.
-R. Libera Domine Deus Israel clamantes ad te.
+R. Libera Domine Deus Israël clamantes ad te.
 
 [Lectio6]
 Patet igitur causa, cur qui nihil dixerat, inchoavit, dicens: Et factum est in~
@@ -113,10 +113,10 @@ R. Non in perpetuum obliviscaris nos.
 [Responsory7]
 R. Laudabilis populus,
 * Quem Dominus exercituum benedixit, dicens: Opus manuum mearum tu es,~
-haereditas mea Israel.
-V. Beata gens, cujus est Dominus Deus, populus electus in haereditatem.
+hereditas mea Israël.
+V. Beata gens, cujus est Dominus Deus, populus electus in hereditatem.
 R. Quem Dominus exercituum benedixit, dicens: Opus manuum mearum tu es,~
-haereditas mea Israel.
+hereditas mea Israël.
 
 [Responsory8]
 @TemporaM/Pent03-0:Responsory8

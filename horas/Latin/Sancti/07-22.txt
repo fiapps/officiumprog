@@ -18,14 +18,14 @@ Lavare fletu, tergere
 Comis, et ore lambere.
 _
 Adstare non timet cruci,
-Sepulchro inhaeret anxia:
+Sepulcro inhaeret anxia:
 Truces nec horret milites,
 Pellit timorem caritas.
 _
 O vera, Christe, caritas,
 Tu nostra purga crimina,
 Tu corda reple gratia,
-Tu redde coeli praemia.
+Tu redde caeli praemia.
 _
 Patri, simulque Filio,
 Tibique sancte Spiritus,
@@ -38,14 +38,10 @@ V. Diffusa est gratia in labiis tuis.
 R. Propterea benedixit te Deus in aeternum.
 
 [Ant 1]
-Mulier quae erat * in civitate peccatrix, ut cognovit quod Jesus accubuit in~
-domo Simonis leprosi, attulit alabastrum unguenti, et stans retro secus pedes~
-Jesu, lacrimis coepit rigare pedes ejus, et capillis capitis sui tergebat, et~
-osculabatur pedes ejus, et unguento ungebat.
+Mulier quae erat * in civitate peccatrix, ut cognovit quod Jesus accubuit in domo Simonis leprosi, attulit alabastrum unguenti, et stans retro secus pedes Jesu, lacrimis coepit rigare pedes ejus, et capillis capitis sui tergebat, et osculabatur pedes ejus, et unguento ungebat.
 
 [Oratio]
-Beatae Mariae Magdalenae, quaesumus Domine, suffragiis adjuvemur: cujus precibus~
-exoratus, quatriduanum fratrem Lazarum vivum ab inferis resuscitasti:
+Beatae Mariae Magdalenae, quaesumus Domine, suffragiis adjuvemur: cujus precibus exoratus, quatriduanum fratrem Lazarum vivum ab inferis resuscitasti:
 $Qui vivis
 
 [Invit]
@@ -71,15 +67,11 @@ De Canticis canticorum.
 3 Invenerunt me vigiles qui custodiunt civitatem: Num quem diligit anima mea vidistis?
 4 Paululum cum pertransissem eos, inveni quem diligit anima mea: tenui eum, nec dimittam, donec introducam illum in domum matris meae, et in cubiculum genetricis meae.
 
-
 [Responsory1]
 R. Maria Magdalene, et altera Maria ibant diluculo ad monumentum:
-* Jesus, quem quaeritis, non est hic: surrexit, sicut locutus est: praecedet vos~
-in Galilaeam, ibi eum videbitis.
-V. Et valde mane una sabbatorum veniunt ad monumentum orto jam sole: et~
-introeuntes viderunt juvenem sedentem in dextris, qui dixit illis.
-R. Jesus, quem quaeritis, non est hic: surrexit, sicut locutus est: praecedet~
-vos in Galilaeam, ibi eum videbitis.
+* Jesus, quem quaeritis, non est hic: surrexit, sicut locutus est: praecedet vos in Galilaeam, ibi eum videbitis.
+V. Et valde mane una sabbatorum veniunt ad monumentum orto jam sole: et introeuntes viderunt juvenem sedentem in dextris, qui dixit illis.
+R. Jesus, quem quaeritis, non est hic: surrexit, sicut locutus est: praecedet vos in Galilaeam, ibi eum videbitis.
 
 [Lectio2]
 !Cant 8:1-4
@@ -89,11 +81,9 @@ vos in Galilaeam, ibi eum videbitis.
 4 (Sponsus)Adjuro vos, filiae Jerusalem, ne suscitetis, neque evigilare faciatis dilectam, donec ipsa velit.
 
 [Responsory2]
-R. Congratulamini mihi omnes qui diligitis Dominum: quia quem quaerebam,~
-apparuit mihi:
+R. Congratulamini mihi omnes qui diligitis Dominum: quia quem quaerebam, apparuit mihi:
 * Et dum flerem ad monumentum, vidi Dominum meum, alleluia.
-V. Recedentibus discipulis non recedebam, et amoris ejus igne succensa ardebam~
-desiderio.
+V. Recedentibus discipulis non recedebam, et amoris ejus igne succensa ardebam desiderio.
 R. Et dum flerem ad monumentum, vidi Dominum meum, alleluia.
 
 [Lectio3]
@@ -102,13 +92,10 @@ R. Et dum flerem ad monumentum, vidi Dominum meum, alleluia.
 6 (Sponsa)Pone me ut signaculum super cor tuum, ut signaculum super brachium tuum, quia fortis est ut mors dilectio, dura sicut infernus aemulatio: lampades ejus lampades ignis atque flammarum.
 7 Aquae multae non potuerunt extinguere caritatem, nec flumina obruent illam. Si dederit homo omnem substantiam domus suae pro dilectione, quasi nihil despiciet eam.
 
-
 [Responsory3]
-R. Tulerunt Dominum meum, et nescio ubi posuerunt eum. Dicunt ei Angeli: Mulier~
-quid ploras? surrexit, sicut dixit:
+R. Tulerunt Dominum meum, et nescio ubi posuerunt eum. Dicunt ei Angeli: Mulier quid ploras? surrexit, sicut dixit:
 * Praecedet vos in Galilaeam, ibi eum videbitis.
-V. Dum ergo fleret, inclinavit se, et prospexit in monumentum, et vidit duos~
-Angelos in albis sedentes, qui dicunt ei.
+V. Dum ergo fleret, inclinavit se, et prospexit in monumentum, et vidit duos Angelos in albis sedentes, qui dicunt ei.
 R. Praecedet vos in Galilaeam, ibi eum videbitis.
 &Gloria
 R. Praecedet vos in Galilaeam, ibi eum videbitis.
@@ -116,74 +103,28 @@ R. Praecedet vos in Galilaeam, ibi eum videbitis.
 [Lectio4]
 Sermo sancti Gregorii Papae.
 !Homilia 25. in Evang.
-Maria Magdalene, quae fuerat in civitate peccatrix, amando veritatem,~
-lavit lacrimis maculas criminis: et vox Veritatis impletur, qua dicitur: Dimissa~
-sunt ei peccata multa, quia dilexit multum. Quae enim prius frigida peccando~
-remanserat, postmodum amando fortiter ardebat Quae a monumento Domini, etiam~
-discipulis recedentibus, non recedebat: exquirebat, quem non invenerat: flebat~
-inquirendo, et amoris sui igne succensa ejus quem ablatum credidit, ardebat~
-desiderio. Unde contigit, ut eum sola tunc videret, quae remanserat ut~
-quaereret: quia nimirum virtus boni operis perseverantia est.
+Maria Magdalene, quae fuerat in civitate peccatrix, amando veritatem, lavit lacrimis maculas criminis: et vox Veritatis impletur, qua dicitur: Dimissa sunt ei peccata multa, quia dilexit multum. Quae enim prius frigida peccando remanserat, postmodum amando fortiter ardebat Quae a monumento Domini, etiam discipulis recedentibus, non recedebat: exquirebat, quem non invenerat: flebat inquirendo, et amoris sui igne succensa ejus quem ablatum credidit, ardebat desiderio. Unde contigit, ut eum sola tunc videret, quae remanserat ut quaereret: quia nimirum virtus boni operis perseverantia est.
 
 [Lectio5]
-Quaesivit ergo prius, et minime invenit: perseveravit ut quaereret, unde et~
-contigit ut inveniret: actumque est, ut desideria dilata crescerent, et~
-crescentia caperent quod invenissent. Hinc est enim, quod de eodem sponsa~
-Ecclesia in Canticis canticorum dicit: In lectulo meo per noctes quaesivi quem~
-diligit anima mea. Dilectum namque in lectulo quaerimus, quando in praesentis~
-vitae aliquantula requie Redemptoris nostri desiderio suspiramus. Per noctem~
-quaerimus: quia etsi jam in illo mens vigilat, tamen adhuc oculus caligat.~
-Dilexisti justitiam, et odisti iniquitatem: * Propterea unxit te Deus, Deus tuus~
-oleo laetitiae.
+Quaesivit ergo prius, et minime invenit: perseveravit ut quaereret, unde et contigit ut inveniret: actumque est, ut desideria dilata crescerent, et crescentia caperent quod invenissent. Hinc est enim, quod de eodem sponsa Ecclesia in Canticis canticorum dicit: In lectulo meo per noctes quaesivi quem diligit anima mea. Dilectum namque in lectulo quaerimus, quando in praesentis vitae aliquantula requie Redemptoris nostri desiderio suspiramus. Per noctem quaerimus: quia etsi jam in illo mens vigilat, tamen adhuc oculus caligat. Dilexisti justitiam, et odisti iniquitatem: * Propterea unxit te Deus, Deus tuus oleo laetitiae.
 
 [Lectio6]
-Sed qui dilectum suum non invenit, restat ut surgat, civitatem circumeat, id est,~
-sanctam electorum Ecclesiam mente et inquisitione percurrat: per vicos eum et~
-plateas quaerat, id est, per angusta et lata gradientes aspiciat; ut si qua~
-invenire in eis valeat, ejus vestigia exquirat: quia sunt nonnulli etiam vitae~
-saecularis, qui imitandum aliquid habeant de actione virtutis. Quaerentes autem~
-nos vigiles inveniunt, qui custodiunt civitatem: quia sancti Patres, qui~
-Ecclesiae statum custodiunt, bonis nostris studiis occurrunt, ut suo vel verbo~
-vel scripto nos doceant. Quos cum paululum pertransimus, invenimus quem~
-diligimus: quia Redemptor noster, etsi humilitate homo inter homines, divinitate~
-tamen super homines fuit.
+Sed qui dilectum suum non invenit, restat ut surgat, civitatem circumeat, id est, sanctam electorum Ecclesiam mente et inquisitione percurrat: per vicos eum et plateas quaerat, id est, per angusta et lata gradientes aspiciat; ut si qua invenire in eis valeat, ejus vestigia exquirat: quia sunt nonnulli etiam vitae saecularis, qui imitandum aliquid habeant de actione virtutis. Quaerentes autem nos vigiles inveniunt, qui custodiunt civitatem: quia sancti Patres, qui Ecclesiae statum custodiunt, bonis nostris studiis occurrunt, ut suo vel verbo vel scripto nos doceant. Quos cum paululum pertransimus, invenimus quem diligimus: quia Redemptor noster, etsi humilitate homo inter homines, divinitate tamen super homines fuit.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
 !Luke 7:36:50
-In illo tempore: Rogabat Jesum quidam de pharisaeis, ut manducaret cum illo. Et~
-ingressus domum pharisaei discubuit. Et reliqua.
+In illo tempore: Rogabat Jesum quidam de pharisaeis, ut manducaret cum illo. Et ingressus domum pharisaei discubuit. Et reliqua.
 _
 Homilia S. Augustini Episcopi.
 !Lib. 50. Homil. 2.3. tom. 10.
-Evangelium cum legeretur, attentissime audistis: et res gesta narrata atque~
-versata est ante oculos cordis vestri. Vidistis enim non carne, sed mente,~
-Dominum Jesum Christum in domo pharisaei recumbentem, et ab illo invitatum non~
-fastidientem. Vidistis etiam in civitate mulierem famosam, mala utique fama,~
-quae erat peccatrix, non invitatam irruisse convivio, ubi suus medicus~
-recumbebat, et quaesisse pia impudentia sanitatem: irruens, quasi importuna~
-convivio opportuna beneficio. Noverat enim quanto morbo laboraret: et illum ad~
-sanandum esse idoneum, ad quem venerat, sciebat.
+Evangelium cum legeretur, attentissime audistis: et res gesta narrata atque versata est ante oculos cordis vestri. Vidistis enim non carne, sed mente, Dominum Jesum Christum in domo pharisaei recumbentem, et ab illo invitatum non fastidientem. Vidistis etiam in civitate mulierem famosam, mala utique fama, quae erat peccatrix, non invitatam irruisse convivio, ubi suus medicus recumbebat, et quaesisse pia impudentia sanitatem: irruens, quasi importuna convivio opportuna beneficio. Noverat enim quanto morbo laboraret: et illum ad sanandum esse idoneum, ad quem venerat, sciebat.
 
 [Lectio8]
-Accessit ergo non ad caput Domini, sed ad pedes. Et quae diu male ambulaverat,~
-vestigia recta quaerebat. Prius fudit lacrimas cordis, et lavit Domini pedes~
-obsequio confessionis, capillis suis tersit, osculata est, unxit: tacita~
-loquebatur, non sermonem promebat, sed devotionem ostendebat. Quia ergo tetigit~
-Dominum rigando, osculando, tergendo, ungendo pedes ejus: pharisaeus, qui~
-invitaverat Dominum Jesum Christum, quia ex illo genere erat hominum superborum,~
-de quibus Isaias propheta dicit: Qui dicunt, Recede longe a me: noli me tangere,~
-quoniam mundus sum: putavit Dominum nescisse mulierem.
+Accessit ergo non ad caput Domini, sed ad pedes. Et quae diu male ambulaverat, vestigia recta quaerebat. Prius fudit lacrimas cordis, et lavit Domini pedes obsequio confessionis, capillis suis tersit, osculata est, unxit: tacita loquebatur, non sermonem promebat, sed devotionem ostendebat. Quia ergo tetigit Dominum rigando, osculando, tergendo, ungendo pedes ejus: pharisaeus, qui invitaverat Dominum Jesum Christum, quia ex illo genere erat hominum superborum, de quibus Isaias propheta dicit: Qui dicunt, Recede longe a me: noli me tangere, quoniam mundus sum: putavit Dominum nescisse mulierem.
 
 [Lectio9]
-O pharisaee invitator et irrisor Domini: Dominum pascis, et a quo pascendus sis,~
-non intelligis? Unde scis Dominum nescisse quae fuerit illa mulier, nisi quia~
-permissa est accedere, nisi quia, illo patiente, osculata est pedes ejus, nisi~
-quia tersit, nisi quia unxit? Haec enim non debuit permitti facere in pedibus~
-mundis mulier immunda? Ad illius ergo pharisaei pedes si talis mulier~
-accessisset, dicturus erat, quod Isaias de talibus dicit: Recede a me, noli me~
-tangere: quoniam mundus sum. Accessit autem ad Dominum immunda, ut rediret~
-munda: accessit aegra, ut rediret sana: accessit confessa, ut rediret professa.
+O pharisaee invitator et irrisor Domini: Dominum pascis, et a quo pascendus sis, non intelligis? Unde scis Dominum nescisse quae fuerit illa mulier, nisi quia permissa est accedere, nisi quia, illo patiente, osculata est pedes ejus, nisi quia tersit, nisi quia unxit? Haec enim non debuit permitti facere in pedibus mundis mulier immunda? Ad illius ergo pharisaei pedes si talis mulier accessisset, dicturus erat, quod Isaias de talibus dicit: Recede a me, noli me tangere: quoniam mundus sum. Accessit autem ad Dominum immunda, ut rediret munda: accessit aegra, ut rediret sana: accessit confessa, ut rediret professa.
 &teDeum
 
 [Hymnus Laudes]
@@ -218,10 +159,8 @@ V. Elegit eam Deus, et praeelegit eam.
 R. In tabernaculo suo habitare facit eam.
 
 [Ant 2]
-Maria unxit * pedes Jesu, et extersit capillis suis, et domus impleta est ex~
-odore unguenti.
+Maria unxit * pedes Jesu, et extersit capillis suis, et domus impleta est ex odore unguenti.
 
 [Lectio94]
-Sermo sancti Gregórii Papæ
-María Magdaléne, quæ fúerat in civitáte peccátrix, amándo veritátem, lavit lácrimis máculas críminis : et vox Veritátis implétur, qua dícitur : Dimíssa sunt ei peccáta multa, quia diléxit multum. Quæ enim prius frígida peccándo remánserat, póstmodum amándo fórtiter ardébat. Quæ a monuménto Dómini, étiam discípulis recedéntibus, non recedébat. Exquirébat quem non invénerat ; flebat inquiréndo, et amóris sui igne succénsa, ejus, quem ablátum crédidit, ardébat desidério. Unde cóntigit, ut eum sola tunc vidéret, quæ remánserat ut quæreret : quia nimírum virtus boni óperis perseverántia est.
+Sermo sancti Gregórii Papæ María Magdaléne, quæ fúerat in civitáte peccátrix, amándo veritátem, lavit lácrimis máculas críminis: et vox Veritátis implétur, qua dícitur: Dimíssa sunt ei peccáta multa, quia diléxit multum. Quæ enim prius frígida peccándo remánserat, póstmodum amándo fórtiter ardébat. Quæ a monuménto Dómini, étiam discípulis recedéntibus, non recedébat. Exquirébat quem non invénerat; flebat inquiréndo, et amóris sui igne succénsa, ejus, quem ablátum crédidit, ardébat desidério. Unde cóntigit, ut eum sola tunc vidéret, quæ remánserat ut quæreret: quia nimírum virtus boni óperis perseverántia est.
 &teDeum

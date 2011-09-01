@@ -5,7 +5,6 @@ De Osee Propheta
 2 Maledictum, et mendacium, et homicidium, et furtum, et adulterium inundaverunt, et sanguis sanguinem tetigit.
 3 Propter hoc lugebit terra, et infirmabitur omnis qui habitat in ea, in bestia agri, et in volucre caeli; sed et pisces maris congregabuntur.
 
-
 [Responsory1]
 @Tempora/111-1:Responsory1
 
@@ -14,7 +13,6 @@ De Osee Propheta
 4 Verumtamen unusquisque non judicet, et non arguatur vir: populus enim tuus sicut hi qui contradicunt sacerdoti.
 5 Et corrues hodie, et corruet etiam propheta tecum. Nocte tacere feci matrem tuam.
 6 Conticuit populus meus, eo quod non habuerit scientiam: quia tu scientiam repulisti, repellam te, ne sacerdotio fungaris mihi; et oblita es legis Dei tui, obliviscar filiorum tuorum et ego.
-
 
 [Responsory2]
 @Tempora/111-1:Responsory2
@@ -25,7 +23,6 @@ De Osee Propheta
 8 Peccata populi mei comedent, et ad iniquitatem eorum sublevabunt animas eorum.
 9 Et erit sicut populus, sic sacerdos; et visitabo super eum vias ejus, et cogitationes ejus reddam ei.
 10 Et comedent, et non saturabuntur; fornicati sunt, et non cessaverunt: quoniam Dominum dereliquerunt in non custodiendo.
-
 
 [Responsory3]
 @Tempora/111-1:Responsory3

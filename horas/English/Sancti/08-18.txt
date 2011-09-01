@@ -5,6 +5,10 @@ Quarta die infra Octavam S. Assumptionis;;Semiduplex;;2;;vide Sancti/08-15r
 vide Sancti/08-15r;
 9 lectiones
 
+[Oratio]
+Almighty everlasting God, who hast taken body and soul into heaven the Immaculate Virgin Mary, Mother of thy Son: grant, we beseech thee, that by steadfastly keeping heaven as our goal we may be counted worthy to join her in glory
+$Per eumdem
+
 [Commemoratio]
 !Commemoratio S. Agapiti Martyris.
 @Commune/C2:oratio proper
@@ -63,14 +67,5 @@ Turn thou unto us through thy very uniqueness.  In thy hands are the treasures o
 
 [Lectio93]
 !Commemoratio S. Agapito Mart.
-Agapitus Prasnestinus quindecim annos natus, Aureliano imperatore, martyrii~
-cupidissimus, cum propter constantiam religionis, imperatoris jussu primum~
-nervis diutissime caesus, deinde in tetrum carcerem conjectus esset, ut nihil~
-omnino per quatuor dies gustaret, e custodia est eductus: et ardentibus~
-carbonibus capiti ejus impositis, Deo agens gratias, iterum affectus verberibus,~
-nudus ita pedibus suspensus est, ut ingens fumus e subjecto igne os ejus~
-obrueret. Tum fervens aqua in ejus ventrem effusa est, maxillaeque confractae.~
-Quo tempore judex e tribunali lapsus, paulo post mortuus est. Ea re incenso~
-imperatore, sanctura juvenem jubente feris objici, cum illge non auderent~
-attingere, Praeneste gladio percussus est.
+Agapitus Prasnestinus quindecim annos natus, Aureliano imperatore, martyrii cupidissimus, cum propter constantiam religionis, imperatoris jussu primum nervis diutissime caesus, deinde in tetrum carcerem conjectus esset, ut nihil omnino per quatuor dies gustaret, e custodia est eductus: et ardentibus carbonibus capiti ejus impositis, Deo agens gratias, iterum affectus verberibus, nudus ita pedibus suspensus est, ut ingens fumus e subjecto igne os ejus obrueret. Tum fervens aqua in ejus ventrem effusa est, maxillaeque confractae. Quo tempore judex e tribunali lapsus, paulo post mortuus est. Ea re incenso imperatore, sanctura juvenem jubente feris objici, cum illge non auderent attingere, Praeneste gladio percussus est.
 &teDeum

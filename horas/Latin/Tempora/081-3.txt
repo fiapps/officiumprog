@@ -8,7 +8,6 @@ De Parabolis Salomonis.
 5 Intelligite, parvuli, astutiam, et insipientes, animadvertite.
 6 Audite, quoniam de rebus magnis locutura sum, et aperientur labia mea ut recta praedicent.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory7
 
@@ -19,7 +18,6 @@ De Parabolis Salomonis.
 9 recti sunt intelligentibus, et aequi invenientibus scientiam.
 10 Accipite disciplinam meam, et non pecuniam; doctrinam magis quam aurum eligite:
 11 melior est enim sapientia cunctis pretiosissimis, et omne desiderabile ei non potest comparari.
-
 
 [Responsory2]
 @Tempora/081-1:Responsory2
@@ -32,7 +30,6 @@ De Parabolis Salomonis.
 15 Per me reges regnant, et legum conditores justa decernunt;
 16 per me principes imperant, et potentes decernunt justitiam.
 17 Ego diligentes me diligo, et qui mane vigilant ad me, invenient me.
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

@@ -83,7 +83,7 @@ Collata, non humanitus,
 Rerum potestas omnium.
 _
 Ut trina rerum machina,
-Coelestium, terrestrium,
+Caelestium, terrestrium,
 Et inferorum condita,
 Flectat genu jam subdita.
 _
@@ -124,7 +124,7 @@ V. Ascendit Deus in jubilatione, alleluia.
 R. Et Dominus in voce tubae, alleluia.
 Exaltabor * in gentibus, et exaltabor in terra, alleluia;;45
 Ascendit Deus * in jubilatione, et Dominus in voce tubae, alleluia;;46
-Laetentur coeli * et exsultet terra, quia venit Dominus, alleluia;;95
+Laetentur caeli * et exsultet terra, quia venit Dominus, alleluia;;95
 Nimis exaltatus est, * alleluia: super omnes deos, alleluia;;96
 Dominus in Sion, * alleluia: magnus et excelsus, alleluia;;98
 Dominus in caelo, * alleluia: paravit sedem suam, alleluia;;102

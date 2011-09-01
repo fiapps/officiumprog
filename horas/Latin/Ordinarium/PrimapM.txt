@@ -32,7 +32,7 @@ Amen.
 
 #Psalmi
 
-#Capitulum Versum
+#Capitulum Versus
 R. Deo gratias.
 _
 V. Exsurge, Christe, adjuva nos. 
@@ -58,12 +58,12 @@ _
 V. Iube domne benedicere.
 Benedictio. Dies et actus nostros + in sua pace disponat Dominus omnipotens. Amen.
 
-&regula
+®ula
 
 #Conclusio
 &Dominus_vobiscum
-V. Adiutorium nostrum + in nomine Domini. 
-R. Qui fecit coelum et terram.
+V. Adjutorium nostrum + in nomine Domini. 
+R. Qui fecit caelum et terram.
 V. Benedicite.
 R. Deus.
 V. Dominus nos benedicat, et ab omni malo defendat, et ad vitam perducat aeternam. Et fidelium animae per misericordiam Dei requiescant in pace.
@@ -89,5 +89,5 @@ R. Amen
 _
 V. Requiem aeternam dona eis Domine.
 R. Et lux perpatuae luceat eis
-V. Requiescant is pace.
+V. Requiescant in pace.
 R. Amen.

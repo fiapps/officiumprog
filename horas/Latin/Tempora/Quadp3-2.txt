@@ -1,5 +1,5 @@
 [Rank]
-Feria III infra Hebdomadam Quinquagesima;;Feria;;1 
+Feria III infra Hebdomadam Quinquagesima;;Feria;;1
 
 [Rule]
 Oratio Dominica
@@ -13,17 +13,15 @@ De libro Genesis
 11 Tulerunt autem omnem substantiam Sodomorum et Gomorrhae, et universa quae ad cibum pertinent, et abierunt:
 12 necnon et Lot, et substantiam ejus, filium fratris Abram, qui habitabat in Sodomis.
 
-
 [Responsory1]
 @Tempora/Quadp3-0:Responsory4
 
 [Lectio2]
 !Gen 14:13-16
-13 Et ecce unus, qui evaserat, nuntiavit Abram Hebraeo, qui habitabat in convalle Mambre Amorrhaei, fratris Escol, et fratris Aner: hi enim pepigerant fœdus cum Abram.
+13 Et ecce unus, qui evaserat, nuntiavit Abram Hebraeo, qui habitabat in convalle Mambre Amorrhaei, fratris Eschol, et fratris Aner: hi enim pepigerant fœdus cum Abram.
 14 Quod cum audisset Abram, captum videlicet Lot fratrem suum, numeravit expeditos vernaculos suos trecentos decem et octo: et persecutus est usque Dan.
 15 Et divisis sociis, irruit super eos nocte: percussitque eos, et persecutus est eos usque Hoba, quae est ad laevam Damasci.
 16 Reduxitque omnem substantiam, et Lot fratrem suum cum substantia illius, mulieres quoque et populum.
-
 
 [Responsory2]
 @Tempora/Quadp3-0:Responsory5
@@ -34,7 +32,6 @@ De libro Genesis
 18 At vero Melchisedech rex Salem, proferens panem et vinum, erat enim sacerdos Dei altissimi,
 19 benedixit ei, et ait: Benedictus Abram Deo excelso, qui creavit caelum et terram:
 20 et benedictus Deus excelsus, quo protegente, hostes in manibus tuis sunt. Et dedit ei decimas ex omnibus.
-
 
 [Responsory3]
 @Tempora/Quadp3-0:Responsory6

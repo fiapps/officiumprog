@@ -29,10 +29,10 @@ R. Uxor illius, et uxores filiorum ejus.
 [Responsory2]
 R. Recordatus Dominus Noe, adduxit spiritum super terram, et imminutae sunt~
 aquae:
-* Et prohibitae sunt pluviae de coelis.
+* Et prohibitae sunt pluviae de caelis.
 V. Reversaeque sunt aquae de terra euntes et redeuntes, et coeperunt minui post~
 centum quinquaginta dies.
-R. Et prohibitae sunt pluviae de coelis.
+R. Et prohibitae sunt pluviae de caelis.
 
 [Lectio3]
 !Gen 7:13-14; 7:17
@@ -44,5 +44,5 @@ R. Et prohibitae sunt pluviae de coelis.
 @TemporaM/Quadp2-0:Responsory3
 
 [Ant 3]
-Si culmen * veri honoris quaeritis, ad illam coelestem patriam quantacius~
+Si culmen * veri honoris quaeritis, ad illam caelestem patriam quantacius~
 properate.

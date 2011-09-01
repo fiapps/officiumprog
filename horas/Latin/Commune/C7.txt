@@ -14,9 +14,7 @@ Ista est speciosa * inter filias Jerusalem;;147
 
 [Capitulum Vespera]
 !Sir 51:1-3
-v. Confitebor tibi, Domine Rex, et collaudabo te Deum Salvatorem meum.~
-Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti~
-corpus meum a perditione.
+v. Confitebor tibi, Domine Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
 $Deo gratias.
 
 [Hymnus Vespera]
@@ -27,13 +25,13 @@ Ubique fulget inclyta.
 _
 Haec sancto amore saucia,
 Dum mundi amorem noxium
-Horrescit, ad coelestia
+Horrescit, ad caelestia
 Iter peregit arduum.
 _
 Carnem domans jejuniis,
 Dulcique mentem pabulo
 Orationis nutriens,
-Coeli potitur gaudiis.
+Caeli potitur gaudiis.
 _
 Rex Christe virtus fortium,
 Qui magna solus efficis,
@@ -51,8 +49,7 @@ V. Specie tua et pulchritudine tua.
 R. Intende, prospere procede, et regna.
 
 [Ant 1]
-Simile est regnum coelorum * homini negotiatori quaerenti bonas margaritas:~
-inventa una pretiosa, dedit omnia sua, et comparavit eam.
+Simile est regnum caelorum * homini negotiatori quaerenti bonas margaritas: inventa una pretiosa, dedit omnia sua, et comparavit eam.
 
 [Invit]
 Laudemus Deum nostrum, * In confessione beatae N.
@@ -63,7 +60,7 @@ Debitas poenas scelerum remitte:
 Ut tibi puro resonemus almum
 Pectore carmen.
 _
-Sit decus Patri, genitusque Proli,
+Sit decus Patri, genitaeque Proli,
 Et tibi compar utriusque virtus
 Spiritus semper, Deus unus omni
 Temporis aevo.
@@ -98,7 +95,6 @@ De Parabolis Salomonis
 16 Consideravit agrum, et emit eum; de fructu manuum suarum plantavit vineam.
 17 Accinxit fortitudine lumbos suos, et roboravit brachium suum.
 
-
 [Responsory1]
 R. Veni electa mea, et ponam in te thronum meum:
 * Quia concupivit Rex speciem tuam.
@@ -115,7 +111,6 @@ R. Quia concupivit Rex speciem tuam.
 23 Tunc ambulabis fiducialiter in via tua, et pes tuus non impinget.
 24 Si dormieris, non timebis; quiesces, et suavis erit somnus tuus.
 
-
 [Responsory2]
 R. Diffusa est gratia in labiis tuis:
 * Propterea benedixit te Deus in aeternum.
@@ -131,7 +126,6 @@ R. Propterea benedixit te Deus in aeternum.
 29 Multae filiae congregaverunt divitias; tu supergressa es universas.
 30 Fallax gratia, et vana est pulchritudo: mulier timens Dominum, ipsa laudabitur.
 31 Date ei de fructu manuum suarum, et laudent eam in portis opera ejus.
-
 
 [Responsory3]
 R. Specie tua et pulchritudine tua
@@ -151,13 +145,7 @@ R. Deus in medio ejus, non commovebitur.
 [Lectio4]
 Ex Libro Sancti Ambrosii Episcopi de Viduis
 !prope finem
-Aegrum hunc Ecclesiae fertilem cerno, nunc integritatis flore vernantem, nunc~
-viduitatis gravitate pollentem, nunc etiam conjugii fructibus redundantem. Nam~
-etsi diversi, unius tamen agri fructus sunt: nec tanta hortorum alia, quantae~
-aristae segetum, messium spicae: compluriumque spatia camporum recipiendis~
-aptantur seminibus, quam redditis novales fructibus feriantur. Bona ergo~
-viduitas, quae toties apostolico judicio praedicatur. Haec enim magistra fidei,~
-magistra est castitatis.
+Aegrum hunc Ecclesiae fertilem cerno, nunc integritatis flore vernantem, nunc viduitatis gravitate pollentem, nunc etiam conjugii fructibus redundantem. Nam etsi diversi, unius tamen agri fructus sunt: nec tanta hortorum alia, quantae aristae segetum, messium spicae: compluriumque spatia camporum recipiendis aptantur seminibus, quam redditis novales fructibus feriantur. Bona ergo viduitas, quae toties apostolico judicio praedicatur. Haec enim magistra fidei, magistra est castitatis.
 
 [Responsory4]
 R. Propter veritatem, et mansuetudinem, et justitiam:
@@ -166,17 +154,7 @@ V. Specie tua et pulchritudine tua intende, prospere procede, et regna.
 R. Et deducet te mirabiliter dextera tua.
 
 [Lectio5]
-Unde et illi qui deorum suorum adulteria et probra venerantur, caelibatus et~
-viduitatis statuere poenas, ut aemuli criminum multarent studia virtutum, specie~
-quidem, qua fecunditatem quaererent, sed studio, quo propositum castitatis~
-abolerent, Nam confectis et miles stipendiis arma deponit, et relicto officio~
-quod gerebat, ad propria veteranus rura dimittitur, ut et ipse exercitae~
-laboribus vitae requiem consequatur; et alios spes futurae quietis subeundis~
-faciat operibus promptiores. Agricola quoque maturior torquendam aliis stivam~
-committit, et juvenili gravatus opere providentiam curae senilis explorat: vitem~
-facilius tondere, quam premere, ut juvenescentem luxuriam reprimat, et~
-adolescentem lasciviam falce succidat: parcorum quamdam partuum castitatem~
-docens etiam in vitibus expetendam.
+Unde et illi qui deorum suorum adulteria et probra venerantur, caelibatus et viduitatis statuere poenas, ut aemuli criminum multarent studia virtutum, specie quidem, qua fecunditatem quaererent, sed studio, quo propositum castitatis abolerent, Nam confectis et miles stipendiis arma deponit, et relicto officio quod gerebat, ad propria veteranus rura dimittitur, ut et ipse exercitae laboribus vitae requiem consequatur; et alios spes futurae quietis subeundis faciat operibus promptiores. Agricola quoque maturior torquendam aliis stivam committit, et juvenili gravatus opere providentiam curae senilis explorat: vitem facilius tondere, quam premere, ut juvenescentem luxuriam reprimat, et adolescentem lasciviam falce succidat: parcorum quamdam partuum castitatem docens etiam in vitibus expetendam.
 
 [Responsory5]
 R. Dilexisti justitiam, et odisti iniquitatem:
@@ -185,13 +163,7 @@ V. Propter veritatem, et mansuetudinem, et justitiam.
 R. Propterea unxit te Deus, Deus tuus oleo laetitiae.
 
 [Lectio6]
-Similis huic vidua velut emeritis veterana stipendiis castitatis, et si conjugii~
-arma deponat, domus tamen totius pacem gubernat: et si vehendis oneribus otiosa,~
-maritandis tamen junioribus provida, ubi cultus utilior, ubi fructus uberior sit,~
-quarum copulam aptiorem, senili gravitate disponit. Itaque si maturioribus quam~
-junioribus committitur ager, cur putes utiliorem nuptam esse quam viduam? Quod~
-si persecutores fidei persecutores fuerunt etiam viduitatis: utique fidem~
-sequentibus viduitas non pro supplicio fugienda est, sed tenenda pro praemio.
+Similis huic vidua velut emeritis veterana stipendiis castitatis, et si conjugii arma deponat, domus tamen totius pacem gubernat: et si vehendis oneribus otiosa, maritandis tamen junioribus provida, ubi cultus utilior, ubi fructus uberior sit, quarum copulam aptiorem, senili gravitate disponit. Itaque si maturioribus quam junioribus committitur ager, cur putes utiliorem nuptam esse quam viduam? Quod si persecutores fidei persecutores fuerunt etiam viduitatis: utique fidem sequentibus viduitas non pro supplicio fugienda est, sed tenenda pro praemio.
 
 [Responsory6]
 R. Fallax gratia, et vana est pulchritudo:
@@ -204,43 +176,23 @@ R. Mulier timens Deum, ipsa laudabitur.
 [Lectio7]
 Lectio Sancti Evangelii secundum Matthaeum
 !Matt 13:44-52
-In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Simile est regnum~
-coelorum thesauro abscondito in agro. Et reliqua.
+In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Simile est regnum caelorum thesauro abscondito in agro. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
 !Homil. 11. in Evang.
-Caelorum regnum, fratres carissimi, idcirco terrenis rebus simile dicitur, ut ex~
-his quae animus novit, surgat ad incognita quae non novit: quatenus exemplo~
-visibilium se ad invisibilia rapiat, et per ea, quae usu didicit, quasi~
-confricatus incalescat: ut per hoc, quod scit notum diligere, discat et~
-incognita amare. Ecce enim coelorum regnum thesauro abscondito in agro~
-comparatur: quem qui invenit homo, abscondit, et prae gaudio illius vadit, et~
-vendit universa quae habet, et emit agrum illum.
+Caelorum regnum, fratres carissimi, idcirco terrenis rebus simile dicitur, ut ex his quae animus novit, surgat ad incognita quae non novit: quatenus exemplo visibilium se ad invisibilia rapiat, et per ea, quae usu didicit, quasi confricatus incalescat: ut per hoc, quod scit notum diligere, discat et incognita amare. Ecce enim caelorum regnum thesauro abscondito in agro comparatur: quem qui invenit homo, abscondit, et prae gaudio illius vadit, et vendit universa quae habet, et emit agrum illum.
 
 [Responsory7]
-R. Os suum aperuit sapientiae, et lex clementiae in lingua ejus: consideravit~
-semitas domus suae,
+R. Os suum aperuit sapientiae, et lex clementiae in lingua ejus: consideravit semitas domus suae,
 * Et panem otiosa non comedit.
-V. Gustavit et vidit quia bona est negotiatio ejus: non exstinguetur in nocte~
-lucerna ejus.
+V. Gustavit et vidit quia bona est negotiatio ejus: non exstinguetur in nocte lucerna ejus.
 R. Et panem otiosa non comedit.
 
 [Lectio8]
-Qua in re hoc quoque notandum est, quod inventus thesaurus absconditur, ut~
-servetur: quia studium coelestis desiderii a malignis spiritibus custodire non~
-sufficit, qui hoc ab humanis laudibus non abscondit. In praesenti etenim vita,~
-quasi in via sumus, qua ad patriam pergimus. Maligni autem spiritus iter nostrum~
-quasi quidam latrunculi obsident. Depraedari ergo desiderat, qui thesaurum~
-publice portat in via. Hoc autem dico, non ut proximi opera nostra bona non~
-videant, cum scriptum sit: Videant opera vestra bona, et glorificent Patrem~
-vestrum, qui in caelis est: sed ut per hoc, quod agimus, laudes exterius non~
-quaeramus. Sic autem sit opus in publico quatenus intentio maneat in occulto:~
-ut et de bono opere proximis praebeamus exemplum, et tamen per intentionem, qua~
-Deo soli placere quaerimus, semper optemus secretum.
+Qua in re hoc quoque notandum est, quod inventus thesaurus absconditur, ut servetur: quia studium caelestis desiderii a malignis spiritibus custodire non sufficit, qui hoc ab humanis laudibus non abscondit. In praesenti etenim vita, quasi in via sumus, qua ad patriam pergimus. Maligni autem spiritus iter nostrum quasi quidam latrunculi obsident. Depraedari ergo desiderat, qui thesaurum publice portat in via. Hoc autem dico, non ut proximi opera nostra bona non videant, cum scriptum sit: Videant opera vestra bona, et glorificent Patrem vestrum, qui in caelis est: sed ut per hoc, quod agimus, laudes exterius non quaeramus. Sic autem sit opus in publico quatenus intentio maneat in occulto: ut et de bono opere proximis praebeamus exemplum, et tamen per intentionem, qua Deo soli placere quaerimus, semper optemus secretum.
 
 [Responsory8]
-R. Regnum mundi, et omnem ornatum saeculi contempsi, propter amorem Domini mei~
-Jesu Christi:
+R. Regnum mundi, et omnem ornatum saeculi contempsi, propter amorem Domini mei Jesu Christi:
 * Quem vidi, quem amavi, in quem credidi, quem dilexi.
 V. Eructavit cor meum verbum bonum: dico ego opera mea regi.
 R. Quem vidi, quem amavi, in quem credidi, quem dilexi.
@@ -248,11 +200,7 @@ R. Quem vidi, quem amavi, in quem credidi, quem dilexi.
 R. Quem vidi, quem amavi, in quem credidi, quem dilexi.
 
 [Lectio9]
-Thesaurus autem caeleste est desiderium: ager vero, in quo thesaurus absconditur,~
-disciplina studii coelestis. Quem profecto agrum venditis omnibus comparat, qui~
-voluptatibus carnis renuntians, cuncta sua terrena desideria per disciplinae~
-coelestis custodiam calcat: ut nihil jam, quod caro blanditur, libeat; nihil~
-quod carnalem vitam trucidat, spiritus perhorrescat.
+Thesaurus autem caeleste est desiderium: ager vero, in quo thesaurus absconditur, disciplina studii caelestis. Quem profecto agrum venditis omnibus comparat, qui voluptatibus carnis renuntians, cuncta sua terrena desideria per disciplinae caelestis custodiam calcat: ut nihil jam, quod caro blanditur, libeat; nihil quod carnalem vitam trucidat, spiritus perhorrescat.
 &teDeum
 
 [Ant Laudes]
@@ -264,9 +212,7 @@ Ista est speciosa * inter filias Jerusalem
 
 [Capitulum Laudes]
 !Sir 51:1-3
-v. Confitebor tibi, Domine Rex, et collaudabo te Deum Salvatorem meum.~
-Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti~
-corpus meum a perditione.
+v. Confitebor tibi, Domine Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
 $Deo gratias.
 
 [Hymnus Laudes]
@@ -280,32 +226,24 @@ R. Propterea benedixit te Deus in aeternum.
 Date ei * de fructu manuum suarum, et laudent eam in portis opera ejus.
 
 [Oratio]
-Exaudi nos Deus salutaris noster: ut sicut de beatae N. festivitate gaudemus;~
-ita pise devotionis erudiamur affectu.
+Exaudi nos Deus salutaris noster: ut sicut de beatae N. festivitate gaudemus; ita pise devotionis erudiamur affectu.
 $Per Dominum
 
 [Oratio1]
-Deus, qui inter cetera potentiae tuae miracula, etiam in sexu fragili victoriam~
-martyrii contulisti: concede propitius; ut qui beatae N. Martyris tuae natalitia~
-colimus, per ejus ad te exempla gradiamur.
+Deus, qui inter cetera potentiae tuae miracula, etiam in sexu fragili victoriam martyrii contulisti: concede propitius; ut qui beatae N. Martyris tuae natalitia colimus, per ejus ad te exempla gradiamur.
 $Per Dominum.
 
 [Oratio2]
-Da nobis, quaesumus Domine Deus noster, sanctarum Martyrum tuarum N. et N.palmas~
-incessabili devotione venerari: ut quas digna mente non possumus celebrare,~
-humilibus saltem frequentemus obsequiis.
+Da nobis, quaesumus Domine Deus noster, sanctarum Martyrum tuarum N. et N.palmas incessabili devotione venerari: ut quas digna mente non possumus celebrare, humilibus saltem frequentemus obsequiis.
 $Per Dominum
 
 [Lectio Prima]
 !Sir 51:8; 51:12
-v. Laudabit usque ad mortem anima mea Dominum, quoniam eruis sustinentes te, et~
-liberas eos de manu angustias, Domine Deus noster.
+v. Laudabit usque ad mortem anima mea Dominum, quoniam eruis sustinentes te, et liberas eos de manu angustias, Domine Deus noster.
 
 [Capitulum Tertia]
 !Sir 51:1-3
-v. Confitebor tibi, Domine Rex, et collaudabo te Deum Salvatorem meum.~
-Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti~
-corpus meum a perditione.
+v. Confitebor tibi, Domine Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
 $Deo gratias.
 
 [Responsory Tertia]
@@ -321,9 +259,7 @@ R. Deus in medio ejus, non commovebitur.
 
 [Capitulum Sexta]
 !Sir 51:4-5
-v. Liberasti me secundum multitudinem misericordiae nominis tui a rugientibus,~
-praeparatis ad escam, de manibus quaerentium animam meam, et de multis~
-tribulationibus quae circumdederunt me.
+v. Liberasti me secundum multitudinem misericordiae nominis tui a rugientibus, praeparatis ad escam, de manibus quaerentium animam meam, et de multis tribulationibus quae circumdederunt me.
 $Deo gratias.
 
 [Responsory Sexta]
@@ -339,8 +275,7 @@ R. In tabernaculo suo habitare facit eam.
 
 [Capitulum Nona]
 !Sir 51:8; 51:12
-v. Laudabit usque ad mortem anima mea Dominum, quoniam eruis sustinentes te, et~
-liberas eos de manu angustias, Domine Deus noster.
+v. Laudabit usque ad mortem anima mea Dominum, quoniam eruis sustinentes te, et liberas eos de manu angustias, Domine Deus noster.
 $Deo gratias.
 
 [Responsory Nona]
@@ -359,5 +294,4 @@ V. Diffusa est gratia in labiis tuis.
 R. Propterea benedixit te Deus in aeternum.
 
 [Ant 3]
-Manum suam * aperuit inopi, et palmas suas extendit ad pauperem, et panem otiosa~
-non comedit.
+Manum suam * aperuit inopi, et palmas suas extendit ad pauperem, et panem otiosa non comedit.

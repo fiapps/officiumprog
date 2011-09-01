@@ -1,26 +1,26 @@
 [Rank]
+In Nativitate Domini;;Duplex I Classis;;6.9
+
+[Rank1960]
 In Nativitate Domini;;Duplex I Classis;;7
 
 [Rule]
 9 lectiones
 Psalmi Dominica
 Antiphonas Horas
-Psalm5 Vespera=116
 Doxology=Nat
 Special Evangelii Benedictio
-No commemoratio
 
 [Ant Vespera]
-Rex pacificus * magnificatus est, cujus vultum desiderat universa terra.
-Magnificatus est * Rex pacificus super omnes reges universae terrae.
-Completi sunt dies Mariae, ut pareret Filium suum primogenitum.
-Scitote quia prope est regnum Dei: amen dico vobis, quia non tardabit.
-Levate capita vestra: ecce appropinquat redemptio vestra.
+Rex pacificus * magnificatus est, cujus vultum desiderat universa terra.;;109
+Magnificatus est * Rex pacificus super omnes reges universae terrae.;;110
+Completi sunt dies Mariae, ut pareret Filium suum primogenitum.;;111
+Scitote quia prope est regnum Dei: amen dico vobis, quia non tardabit.;;112
+Levate capita vestra: ecce appropinquat redemptio vestra.;;116
 
 [Capitulum Vespera]
 !Titus 3:4-5
-v. Apparuit benignitas, et humanitas Salvatoris nostri Dei: non ex operibus~
-justitiae, quae fecimus nos, sed secundum suam misericordiam salvos nos fecit.
+v. Apparuit benignitas, et humanitas Salvatoris nostri Dei: non ex operibus justitiae, quae fecimus nos, sed secundum suam misericordiam salvos nos fecit.
 $Deo gratias
 
 [Hymnus Vespera]
@@ -45,7 +45,7 @@ Quod solus e sinu Patris
 Mundi salus adveneris.
 _
 Hunc astra, tellus, aequora,
-Hunc omne quod coelo subest,
+Hunc omne quod caelo subest,
 Salutis Auctorem novae
 Novo salutat cantico.
 _
@@ -92,9 +92,9 @@ ob diem natális tui
 hymnum novum concínimus.
 _
 Iesu, tibi sit glória,
-qui natus est de Vírgine,
+qui natus es de Vírgine,
 cum Patre et almo Spíritu,
-in sempitérna sæcula. 
+in sempitérna sæcula.
 Amen.
 
 [Versum 1]
@@ -102,12 +102,10 @@ V. Crastina die delebitur iniquitas terrae
 R. Et regnabit super nos Salvator mundi.
 
 [Ant 1]
-Cum ortus * fuerit sol de caelo, videbitis Regem regum procedentem a Patre,~
-tamquam sponsum de thalamo suo.
+Cum ortus * fuerit sol de caelo, videbitis Regem regum procedentem a Patre, tamquam sponsum de thalamo suo.
 
 [Oratio]
-Concede, quaesumus omnipotens Deus: ut nos Unigeniti tui nova per carnem~
-Nativitas liberet; quos sub peccati jugo vetusta servitus tenet.
+Concede, quaesumus omnipotens Deus: ut nos Unigeniti tui nova per carnem Nativitas liberet; quos sub peccati jugo vetusta servitus tenet.
 $Per eumdem
 
 [Invit]
@@ -124,7 +122,7 @@ V. Tamquam sponsus.
 R. Dominus procedens de thalamo suo.
 Suscepimus * Deus misericordiam tuam in medio templi tui;;47
 Orietur * in diebus Domini abundantia pacis, et dominabitur;;71
-Veritas de terra * orta est, et justitia de coelo prospexit;;84
+Veritas de terra * orta est, et justitia de caelo prospexit;;84
 V. Speciosus forma prae filiis hominum.
 R. Diffusa est gratia in labiis tuis.
 Ipse invocabit * me, alleluia: Pater meus es tu, alleluia;;88
@@ -143,15 +141,12 @@ R. Pater meus es tu, alleluia.
 6 Parvulus enim natus est nobis, et filius datus est nobis, et factus est principatus super humerum ejus: et vocabitur nomen ejus, Admirabilis, Consiliarius, Deus, Fortis, Pater futuri saeculi, Princeps pacis.
 
 [Responsory1]
-R. Hodie nobis caelorum Rex de Virgine nasci dignatus est, ut hominem perditum~
-ad coelestia regna revocaret:
+R. Hodie nobis caelorum Rex de Virgine nasci dignatus est, ut hominem perditum ad caelestia regna revocaret:
 * Gaudet exercitus Angelorum: quia salus aeterna humano generi apparuit.
 V. Gloria in excelsis Deo, et in terra pax hominibus bonae voluntatis.
 R. Gaudet exercitus Angelorum: quia salus aeterna humano generi apparuit.
 &Gloria
-R. Hodie nobis caelorum Rex de Virgine nasci dignatus est, ut hominem perditum~
-ad coelestia regna revocaret: * Gaudet exercitus Angelorum: quia salus aeterna~
-humano generi apparuit.
+R. Hodie nobis caelorum Rex de Virgine nasci dignatus est, ut hominem perditum ad caelestia regna revocaret: * Gaudet exercitus Angelorum: quia salus aeterna humano generi apparuit.
 
 [Lectio2]
 !Isa 40:1-8
@@ -165,11 +160,10 @@ humano generi apparuit.
 8 exsiccatum est fœnum, et cecidit flos; verbum autem Domini nostri manet in aeternum.
 
 [Responsory2]
-R. Hodie nobis de coelo pax vera descendit:
-* Hodie per totum mundum melliflui facti sunt coeli.
-V. Hodie illuxit nobis dies redemptionis novae, reparationis antiquae,~
-felicitatis aeternae.
-R. Hodie per totum mundum melliflui facti sunt coeli.
+R. Hodie nobis de caelo pax vera descendit:
+* Hodie per totum mundum melliflui facti sunt caeli.
+V. Hodie illuxit nobis dies redemptionis novae, reparationis antiquae, felicitatis aeternae.
+R. Hodie per totum mundum melliflui facti sunt caeli.
 
 [Lectio3]
 !Isa 52:1-6
@@ -191,144 +185,81 @@ R. Natum vidimus, et choros Angelorum collaudantes Dominum.
 [Lectio4]
 Sermo sancti Leonis Papae.
 !Sermo 1. de Nativitate Domini.
-Salvator noster, dilectissimi, hodie natus est: gaudeamus. Neque enim fas est~
-locum esse tristitiae, ubi natalis est vitae: quae consumpto mortalitatis timore,~
-nobis ingerit de promissa aeternitate laetitiam. Nemo ab hujus alacritatis~
-participatione secernitur. Una cunctis laetitiae communis est ratio: quia~
-Dominus noster peccati mortisque destructor, sicut nullum a reatu liberum~
-reperit, ita liberandis omnibus venit. Exsultet sanctus, quia appropinquat ad~
-palmam: gaudeat peccator, quia invitatur ad veniam: animetur Gentilis, quia~
-vocatur ad vitam. Dei namque Filius secundum plenitudinem temporis, quam divini~
-consilii inscrutabilis altitudo disposuit, reconciliandam auctori suo naturam~
-generis assumpsit humani, ut inventor mortis diabolus, per ipsam, quam vicerat,~
-vinceretur.
+Salvator noster, dilectissimi, hodie natus est: gaudeamus. Neque enim fas est locum esse tristitiae, ubi natalis est vitae: quae consumpto mortalitatis timore, nobis ingerit de promissa aeternitate laetitiam. Nemo ab hujus alacritatis participatione secernitur. Una cunctis laetitiae communis est ratio: quia Dominus noster peccati mortisque destructor, sicut nullum a reatu liberum reperit, ita liberandis omnibus venit. Exsultet sanctus, quia appropinquat ad palmam: gaudeat peccator, quia invitatur ad veniam: animetur Gentilis, quia vocatur ad vitam. Dei namque Filius secundum plenitudinem temporis, quam divini consilii inscrutabilis altitudo disposuit, reconciliandam auctori suo naturam generis assumpsit humani, ut inventor mortis diabolus, per ipsam, quam vicerat, vinceretur.
 
 [Responsory4]
-R. O magnum mysterium, et admirabile sacramentum, ut animalia viderent Dominum~
-natum, jacentem in praesepio:
+R. O magnum mysterium, et admirabile sacramentum, ut animalia viderent Dominum natum, jacentem in praesepio:
 * Beata Virgo, cujus viscera meruerunt portare Dominum Christum.
 V. Ave Maria, gratia plena: Dominus tecum.
 R. Beata Virgo, cujus viscera meruerunt portare Dominum Christum.
 
 [Lectio5]
-In quo conflictu pro nobis inito, magno et mirabili aequitatis jure certatum est,~
-dum omnipotens Dominus cum saevissimo hoste non in sua majestate, sed in nostra~
-congreditur humilitate: objiciens ei eamdem formam, eamdemque naturam,~
-mortalitatis quidem nostrae participem, sed peccati totius expertem. Alienum~
-quippe ab hac nativitate est, quod de omnibus legitur: Nemo mundus a sorde, nec~
-infans, cujus est unius diei vita super terram. Nihil ergo in istam singularem~
-nativitatem de carnis concupiscentia transivit, nihil de peccati lege manavit.~
-Virgo regia Davidicae stirpis eligitur, quae sacro gravidanda foetu, divinam~
-humanamque prolem prius conciperet mente, quam corpore. Et ne superni ignara~
-consilii ad inusitatos paveret affatus, quod in ea operandum erat a Spiritu~
-sancto, colloquio discit angelico: nec damnum credit pudoris, Dei Genitrix mox~
-futura.
+In quo conflictu pro nobis inito, magno et mirabili aequitatis jure certatum est, dum omnipotens Dominus cum saevissimo hoste non in sua majestate, sed in nostra congreditur humilitate: objiciens ei eamdem formam, eamdemque naturam, mortalitatis quidem nostrae participem, sed peccati totius expertem. Alienum quippe ab hac nativitate est, quod de omnibus legitur: Nemo mundus a sorde, nec infans, cujus est unius diei vita super terram. Nihil ergo in istam singularem nativitatem de carnis concupiscentia transivit, nihil de peccati lege manavit. Virgo regia Davidicae stirpis eligitur, quae sacro gravidanda foetu, divinam humanamque prolem prius conciperet mente, quam corpore. Et ne superni ignara consilii ad inusitatos paveret affatus, quod in ea operandum erat a Spiritu sancto, colloquio discit angelico: nec damnum credit pudoris, Dei Genitrix mox futura.
 
 [Responsory5]
 R. Beata Dei Genitrix Maria, cujus viscera intacta permanent:
 * Hodie genuit Salvatorem saeculi.
-V. Beata, quae credidit: quoniam perfecta sunt omnia, quae dicta sunt ei a~
-Domino.
+V. Beata, quae credidit: quoniam perfecta sunt omnia, quae dicta sunt ei a Domino.
 R. Hodie genuit Salvatorem saeculi.
 
 [Lectio6]
-Agamus ergo, dilectissimi, gratias Deo Patri, per Filium ejus in Spiritu sancto:~
-qui propter multam caritatem suam, qua dilexit nos, misertus est nostri: et cum~
-essemus mortui peccatis, convivificavit nos Christo, ut essemus in ipso nova~
-creatura, novumque figmentum. Deponamus ergo veterem hominem cum actibus suis:~
-et adepti participationem generationis Christi, carnis renuntiamus oporibus.~
-Agnosce, o Christiane, dignitatem tuam: et divinae consors factus naturae, noli~
-in veterem vilitatem degeneri conversatione redire. Memento, cujus capitis et~
-cujus corporis sis membrum. Reminiscere, quia ortus de potestate tenebrarum,~
-translatus es in Dei lumen et regnum.
+Agamus ergo, dilectissimi, gratias Deo Patri, per Filium ejus in Spiritu sancto: qui propter multam caritatem suam, qua dilexit nos, misertus est nostri: et cum essemus mortui peccatis, convivificavit nos Christo, ut essemus in ipso nova creatura, novumque figmentum. Deponamus ergo veterem hominem cum actibus suis: et adepti participationem generationis Christi, carnis renuntiamus oporibus. Agnosce, o Christiane, dignitatem tuam: et divinae consors factus naturae, noli in veterem vilitatem degeneri conversatione redire. Memento, cujus capitis et cujus corporis sis membrum. Reminiscere, quia ortus de potestate tenebrarum, translatus es in Dei lumen et regnum.
 
 [Responsory6]
 R. Sancta et immaculata virginitas, quibus te laudibus eiferam nescio:
-* Quia quem coeli capere non poterant, tuo gremio contulisti.
+* Quia quem caeli capere non poterant, tuo gremio contulisti.
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem coeli capere non poterant, tuo gremio contulisti.
+R. Quia quem caeli capere non poterant, tuo gremio contulisti.
 &Gloria
-R. Quia quem coeli capere non poterant, tuo gromio contulisti.
+R. Quia quem caeli capere non poterant, tuo gremio contulisti.
 
 [Benedictio3]
 A vinculis peccatorum nostrorum absolvat nos omnipotens et misericors Dominus. Amen.
 Jube domne benedicere.
 Evangelica lectio sit nobis salus et protectio. Amen.
 Per Evangelica dicta deleantur nostra relicta. Amen.
-Verba Sancti Evangelii, doceat nos Christus Filii Dei. Amen.
+Verba Sancti Evangelii, doceat nos Christus Filius Dei. Amen.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Lucam.
 !Luke 2:1-14
-In illo tempore: Exiit edictum a Caesare Augusto, ut describeretur universus~
-orbis. Et reliqua.
+In illo tempore: Exiit edictum a Caesare Augusto, ut describeretur universus orbis. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
 !Homilia 8. in Evang.
-Quia largiente Domino, Missarum solemnia ter hodie celebraturi sumus, loqui diu~
-de evangelica lectione non possumus: sed nos aliquid vel breviter dicere,~
-Redemptoris nostri nativitas ipsa compellit. Quid est enim, quod nascituro~
-Domino mundus describitur, nisi hoc, quod aperte monstratur, quia ille apparebat~
-in carne, qui electos suos adscriberet in aeternitate? Quo contra de reprobis~
-per prophetam dicitur: Deleantur de libro viventium, et cum justis non~
-scribantur. Qui bene etiam in Bethlehem nascitur. Bethlehem quippe domus panis~
-interpretatur. Ipse namque est, qui ait: Ego sum panis vivus, qui de coelo~
-descendi. Locus ergo, in quo Dominus nascitur, domus panis antea vocatus est:~
-quia futurum profecto erat, ut ille ibi per materiam carnis appareret, qui~
-electorum mentes interna satietate reficeret. Qui non in parentum domo, sed in~
-via nascitur: ut profecto ostenderet, quia per humanitatem suam, quam~
-assumpserat, quasi in alieno nascebatur.
+Quia largiente Domino, Missarum solemnia ter hodie celebraturi sumus, loqui diu de evangelica lectione non possumus: sed nos aliquid vel breviter dicere, Redemptoris nostri nativitas ipsa compellit. Quid est enim, quod nascituro Domino mundus describitur, nisi hoc, quod aperte monstratur, quia ille apparebat in carne, qui electos suos adscriberet in aeternitate? Quo contra de reprobis per prophetam dicitur: Deleantur de libro viventium, et cum justis non scribantur. Qui bene etiam in Bethlehem nascitur. Bethlehem quippe domus panis interpretatur. Ipse namque est, qui ait: Ego sum panis vivus, qui de caelo descendi. Locus ergo, in quo Dominus nascitur, domus panis antea vocatus est: quia futurum profecto erat, ut ille ibi per materiam carnis appareret, qui electorum mentes interna satietate reficeret. Qui non in parentum domo, sed in via nascitur: ut profecto ostenderet, quia per humanitatem suam, quam assumpserat, quasi in alieno nascebatur.
 
 [Responsory7]
-R. Beata viscera Mariae Virginis, quae portaverunt aeterni Patris Filium: et~
-beata libera, quae lactaverunt Christum Dominum:
+R. Beata viscera Mariae Virginis, quae portaverunt aeterni Patris Filium: et beata libera, quae lactaverunt Christum Dominum:
 * Qui hodie pro salute mundi de Virgine nasci dignatus est.
 V. Dies sanctificatus illuxit nobis: venite Gentes, et adorate Dominum.
 R. Qui hodie pro salute mundi de Virgine nasci dignatus est.
 
 [Lectio8]
-Lectio sancti Evangelii secundum Lucam. 
-!Luke 2:15-20 
-In illo tempore: Pastores loquebantur ad invicem: Transeamus usque Bethlehem, et videamus hoc verbum, quod~
-factum est, quod Dominus ostendit nobis. Et reliqua.
+Lectio sancti Evangelii secundum Lucam.
+!Luke 2:15-20
+In illo tempore: Pastores loquebantur ad invicem: Transeamus usque Bethlehem, et videamus hoc verbum, quod factum est, quod Dominus ostendit nobis. Et reliqua.
 _
 Homilia sancti Ambrosii Episcopi.
 !2. in cap. 2. Luca;, circa med.
-Videte Ecclesiae surgentis exordium. Christus nascitur, et pastores vigilare~
-coeperunt: qui Gentium greges, pecudum modo ante viventes, in caulam Domini~
-congregarent, ne quos spiritalium bestiarum, per offusas noctium tenebras~
-paterentur incursus. Et bene pastores vigilant, quos bonus pastor informat. Grex~
-igitur populus, nox saeculum, pastores sunt sacerdotes. Aut fortasse etiam ille~
-sit pastor, cui dicitur: Esto vigilans, et confirma. Quia non solum episcopos ad~
-tuendum gregem Dominus ordinavit, sed etiam Angelos destinavit.
+Videte Ecclesiae surgentis exordium. Christus nascitur, et pastores vigilare coeperunt: qui Gentium greges, pecudum modo ante viventes, in caulam Domini congregarent, ne quos spiritalium bestiarum, per offusas noctium tenebras paterentur incursus. Et bene pastores vigilant, quos bonus pastor informat. Grex igitur populus, nox saeculum, pastores sunt sacerdotes. Aut fortasse etiam ille sit pastor, cui dicitur: Esto vigilans, et confirma. Quia non solum episcopos ad tuendum gregem Dominus ordinavit, sed etiam Angelos destinavit.
 
 [Responsory8]
 R. Verbum caro factum est, et habitavit in nobis:
-* Et vidimus gloriam ejus, gloriam quasi Unigeniti a Patre, plenum gratiae et~
-veritatis.
+* Et vidimus gloriam ejus, gloriam quasi Unigeniti a Patre, plenum gratiae et veritatis.
 V. Omnia per ipsum facta sunt, et sine ipso factum est nihil.
-R. Et vidimus gloriam ejus, gloriam quasi Unigeniti a Patre, plenum gratiae et~
-veritatis.
+R. Et vidimus gloriam ejus, gloriam quasi Unigeniti a Patre, plenum gratiae et veritatis.
 &Gloria
-R. Et vidimus gloriam ejus, gloriam quasi Unigeniti a Patre, plenum gratiae et~
-veritatis.
+R. Et vidimus gloriam ejus, gloriam quasi Unigeniti a Patre, plenum gratiae et veritatis.
 
 [Lectio9]
 Lectio sancti Evangelii secundum Joannem.
 !John 1:1-14
-In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. Et~
-reliqua.
+In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
 !Tract. 1. in Joann., circa medium.
-Revile aliquid putares quale consuevisti cogitare, cum verba humana soleres~
-audire, audi quid cogites. Deus erat Verbum. Exeat nunc nescio quis infidelis~
-Arianus, et dicat, quia Verbum Dei factum est. Quomodo potest fieri, ut Verbum~
-Dei factum sit, quando Deus per Verbum fecit omnia? Si et Verbum Dei ipsum~
-factum est; per quod aliud verbum factum est? Si hoc dicis, quia hoc est verbum~
-Verbi, per quod factum est illud: ipsum dico ego unicum Filium Dei. Si autem non~
-dicis verbum Verbi, concede non factum, per quod facta sunt omnia. Non enim per~
-seipsum fieri potuit, per quod facta sunt omnia. Crede ergo Evangelistae.
+Ne vile aliquid putares quale consuevisti cogitare, cum verba humana soleres audire, audi quid cogites. Deus erat Verbum. Exeat nunc nescio quis infidelis Arianus, et dicat, quia Verbum Dei factum est. Quomodo potest fieri, ut Verbum Dei factum sit, quando Deus per Verbum fecit omnia? Si et Verbum Dei ipsum factum est; per quod aliud verbum factum est? Si hoc dicis, quia hoc est verbum Verbi, per quod factum est illud: ipsum dico ego unicum Filium Dei. Si autem non dicis verbum Verbi, concede non factum, per quod facta sunt omnia. Non enim per seipsum fieri potuit, per quod facta sunt omnia. Crede ergo Evangelistae.
 &teDeum
 
 [Ant Laudes]
@@ -340,9 +271,7 @@ Parvulus filius * hodie natus est nobis: et vocabitur Deus, fortis, alleluia, al
 
 [Capitulum Laudes]
 !Heb 1:1-2
-v. Multifariam, multisque modis olim Deus loquens patribus in prophetis:~
-novissime diebus istis locutus est nobis in Filio, quem constituit haerodem~
-universorum, per quem fecit et saecula.
+v. Multifariam, multisque modis olim Deus loquens patribus in prophetis: novissime diebus istis locutus est nobis in Filio, quem constituit heredem universorum, per quem fecit et saecula.
 $Deo gratias
 
 [Hymnus Laudes]
@@ -376,7 +305,7 @@ Praesepe non abhorruit:
 Et lacte modico pastus est,
 Per quem nec ales esurit.
 _
-Gaudet chorus coelestium,
+Gaudet chorus caelestium,
 Et Angeli canunt Deo;
 Palamque fit pastoribus
 Pastor, Creator omnium.
@@ -392,20 +321,15 @@ V. Notum fecit Dominus, alleluia.
 R. Salutare suum, alleluia.
 
 [Ant 2]
-Gloria in excelsis Deo * et in terra pax hominibus bonae voluntatis, alleluia,~
-alleluia
+Gloria in excelsis Deo * et in terra pax hominibus bonae voluntatis, alleluia, alleluia
 
 [Lectio Prima]
 !Heb 1:11-12
-v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent:~
-et velut amictum mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui~
-non deficient.
+v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent: et velut amictum mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui non deficient.
 
 [Capitulum Tertia]
 !Heb 1:1-2
-v. Multifariam, multisque modis olim Deus loquens patribus in prophetis:~
-novissime diebus istis locutus est nobis in Filio, quem constituit haerodem~
-universorum, per quem fecit et saecula.
+v. Multifariam, multisque modis olim Deus loquens patribus in prophetis: novissime diebus istis locutus est nobis in Filio, quem constituit heredem universorum, per quem fecit et saecula.
 $Deo gratias
 
 [Responsory Tertia]
@@ -421,8 +345,7 @@ R. Pater meus es tu, alleluia.
 
 [Capitulum Sexta]
 !Heb 1:10
-v. Et: Tu in principio Domine terram fundasti: et opera manuum tuarum sunt~
-caeli.
+v. Et: Tu in principio Domine terram fundasti: et opera manuum tuarum sunt caeli.
 $Deo gratias
 
 [Responsory Sexta]
@@ -438,9 +361,7 @@ R. Salutare Dei nostri, alleluia.
 
 [Capitulum Nona]
 !Heb 1:11-12
-v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent:~
-et velut amictum mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui~
-non deficient.
+v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent: et velut amictum mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui non deficient.
 $Deo gratias
 
 [Responsory Nona]
@@ -463,9 +384,7 @@ De fructu * ventris tui ponam super sedem tuam;;131
 
 [Capitulum Vespera 3]
 !Heb 1:1-2
-v. Multifariam, multisque modis olim Deus loquens patribus in prophetis:~
-novissime diebus istis locutus est nobis in Filio, quem constituit haeredem~
-universorum, per quem fecit et saecula.
+v. Multifariam, multisque modis olim Deus loquens patribus in prophetis: novissime diebus istis locutus est nobis in Filio, quem constituit heredem universorum, per quem fecit et saecula.
 $Deo gratias
 
 [Versum 3]
@@ -473,9 +392,7 @@ V. Notum fecit Dominus, alleluia.
 R. Salutare suum, alleluia.
 
 [Ant 3]
-Hodie Christus natus est * hodie Salvator apparuit: hodie in terra canunt Angeli,~
-laetantur Archangeli: hodie exsultant justi, dicentes: Gloria in excelsis Deo,~
-alleluia.
+Hodie Christus natus est * hodie Salvator apparuit: hodie in terra canunt Angeli, laetantur Archangeli: hodie exsultant justi, dicentes: Gloria in excelsis Deo, alleluia.
 
 [Octava 3]
 !Commemoratio de Nativitate.
@@ -484,18 +401,16 @@ _
 V. Notum fecit Dominus, alleluia.
 R. Salutare suum, alleluia.
 _
-v. Oremus.
-Concede, quaesumus omnipotens Deus: ut nos Unigeniti tui nova per carnem Nativitas liberet, quos sub peccati jugo vetusta servitus tenet.
+v. Oremus. Concede, quaesumus omnipotens Deus: ut nos Unigeniti tui nova per carnem Nativitas liberet, quos sub peccati jugo vetusta servitus tenet.
 $Per eumdem
 
 [Octava 2]
 !Commemoratio de Nativitate.
-Ant. Gloria in excelsis Deo * et in terra pax hominibus bonae voluntatis, alleluia,~
+Ant. Gloria in excelsis Deo * et in terra pax hominibus bonae voluntatis, alleluia,
 alleluia
 _
 V. Notum fecit Dominus, alleluia.
 R. Salutare suum, alleluia.
 _
-v. Oremus.
-Concede, quaesumus omnipotens Deus: ut nos Unigeniti tui nova per carnem Nativitas liberet, quos sub peccati jugo vetusta servitus tenet.
+v. Oremus. Concede, quaesumus omnipotens Deus: ut nos Unigeniti tui nova per carnem Nativitas liberet, quos sub peccati jugo vetusta servitus tenet.
 $Per eumdem

@@ -18,7 +18,6 @@ Incipit liber Actuum Apostolorum.
 7 Dixit autem eis: Non est vestrum nosse tempora vel momenta quae Pater posuit in sua potestate:
 8 sed accipietis virtutem supervenientis Spiritus Sancti in vos, et eritis mihi testes in Jerusalem, et in omni Judaea, et Samaria, et usque ad ultimum terrae.
 
-
 [Responsory1]
 @Tempora/Pasc0-2:Responsory1
 
@@ -30,7 +29,6 @@ Incipit liber Actuum Apostolorum.
 12 Tunc reversi sunt Jerosolymam a monte qui vocatur Oliveti, qui est juxta Jerusalem, sabbati habens iter.
 13 Et cum introissent in cœnaculum, ascenderunt ubi manebant Petrus, et Joannes, Jacobus, et Andreas, Philippus, et Thomas, Bartholomaeus, et Matthaeus, Jacobus Alphaei, et Simon Zelotes, et Judas Jacobi.
 14 Hi omnes erant perseverantes unanimiter in oratione cum mulieribus, et Maria matre Jesu, et fratribus ejus.
-
 
 [Responsory2]
 @Tempora/Pasc0-2:Responsory2
@@ -45,23 +43,16 @@ Incipit liber Actuum Apostolorum.
 20 Scriptum est enim in libro Psalmorum: Fiat commoratio eorum deserta, et non sit qui inhabitet in ea: et episcopatum ejus accipiat alter.
 21 Oportet ergo ex his viris qui nobiscum sunt congregati in omni tempore quo intravit et exivit inter nos Dominus Jesus,
 22 incipiens a baptismate Joannis usque in diem qua assumptus est a nobis, testem resurrectionis ejus nobiscum fieri unum ex istis.
-23 Et statuerunt duos, Joseph, qui vocabatur Barsabas, qui cognominatus est Justus, et Mathiam.
+23 Et statuerunt duos, Joseph, qui vocabatur Barsabas, qui cognominatus est Justus, et Matthiam.
 24 Et orantes dixerunt: Tu Domine, qui corda nosti omnium, ostende quem elegeris ex his duobus unum,
 25 accipere locum ministerii hujus et apostolatus, de quo praevaricatus est Judas ut abiret in locum suum.
-26 Et dederunt sortes eis, et cecidit sors super Mathiam: et annumeratus est cum undecim Apostolis.
-
+26 Et dederunt sortes eis, et cecidit sors super Matthiam: et annumeratus est cum undecim Apostolis.
 
 [Responsory3]
 @Tempora/Pasc0-3:Responsory1
 
 [Ant 2]
-Surgens Jesus * mane prima sabbati, apparuit primo Mariae Magdalenae, de qua~
-ejecerat septem daemonia, alleluia.
+Surgens Jesus * mane prima sabbati, apparuit primo Mariae Magdalenae, de qua ejecerat septem daemonia, alleluia.
 
 [Ant 3]
-Crucem sanctam * subiit qui infernum confregit, accinctus est potentia, surrexit~
-die tertia, alleluia.
-
-
-
-
+Pax vobis, * ego sum, alleluja: nolíte timere, alleluja. 

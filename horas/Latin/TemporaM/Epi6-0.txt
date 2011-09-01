@@ -15,7 +15,7 @@ R. Sicut incensum in conspectu tuo.
 Suscépit Deus * Israël, púerum suum: sicut locútus est ad Abraham, et semen ejus usque in sãculum.
 
 [Oratio]
-Praesta quaesumus omnipotens Deus: ut semper rationabile meditantes; quae tibi~
+Praesta quaesumus omnipotens Deus: ut semper rationabilia meditantes; quae tibi~
 sunt placita, et dictis exsequamur et factis
 $Per Dominum
 
@@ -23,13 +23,13 @@ $Per Dominum
 Incipit epistola ad Hebreos
 !Heb 1:1-4
 1 Multifariam, multisque modis olim Deus loquens patribus in prophetis:
-2 novissime, diebus istis locutus est nobis in Filio, quem constituit haeredem~
+2 novissime, diebus istis locutus est nobis in Filio, quem constituit heredem~
 universorum, per quem fecit et saecula:
 3 qui cum sit splendor gloriae, et figura substantiae ejus, portansque omnia~
 verbo virtutis suae, purgationem peccatorum faciens, sedet ad dexteram~
 majestatis in excelsis:
 4 tanto melior angelis effectus, quanto differentius prae illis nomen~
-haereditavit.
+hereditavit.
 
 [Responsory1]
 @TemporaM/Epi2-0:Responsory1
@@ -60,7 +60,7 @@ tui non deficient.
 13 Ad quem autem angelorum dixit aliquando: Sede a dextris meis, quoadusque~
 ponam inimicos tuos scabellum pedum tuorum?
 14 Nonne omnes sunt administratorii spiritus, in ministerium missi propter eos,~
-qui haereditatem capient salutis?
+qui hereditatem capient salutis?
 
 [Responsory3]
 @TemporaM/Epi2-0:Responsory3

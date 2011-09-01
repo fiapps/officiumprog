@@ -12,8 +12,7 @@ De libro Genesis
 19 Qui accepit duas uxores, nomen uni Ada, et nomen alteri Sella.
 20 Genuitque Ada Jabel, qui fuit pater habitantium in tentoriis, atque pastorum.
 21 Et nomen fratris ejus Jubal: ipse fuit pater canentium cithara et organo.
-22 Sella quoque genuit Tubalcain, qui fuit malleator et faber in cuncta opera aeris et ferri. Soror vero Tubalcain, Noëma.
-
+22 Sella quoque genuit Tubalcain, qui fuit malleator et faber in cuncta opera aeris et ferri. Soror vero Tubalcain, Noema.
 
 [Responsory1]
 @Tempora/Quadp1-0:Responsory4
@@ -25,7 +24,6 @@ De libro Genesis
 25 Cognovit quoque adhuc Adam uxorem suam: et peperit filium, vocavitque nomen ejus Seth, dicens: Posuit mihi Deus semen aliud pro Abel, quem occidit Cain.
 26 Sed et Seth natus est filius, quem vocavit Enos: iste cœpit invocare nomen Domini.
 
-
 [Responsory2]
 @Tempora/Quadp1-0:Responsory5
 
@@ -36,7 +34,6 @@ De libro Genesis
 3 Vixit autem Adam centum triginta annis: et genuit ad imaginem et similitudinem suam, vocavitque nomen ejus Seth.
 4 Et facti sunt dies Adam, postquam genuit Seth, octingenti anni: genuitque filios et filias.
 5 Et factum est omne tempus quod vixit Adam, anni nongenti triginta, et mortuus est.
-
 
 [Responsory3]
 @Tempora/Quadp1-0:Responsory6

@@ -49,7 +49,7 @@ sub tfgetweek {
 
 sub collect_arrays {
  my $kyear = shift;
- my $datafolder = shift;
+ my $datafolder = shift;   
 
 @monthlength = (31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
 @daynames = ('Sun', 'Mon', 'Tue', 'Wen', 'Thu', 'Fri', 'Sat');
@@ -61,6 +61,7 @@ my $kalendarname = ($version =~ /1570/) ? 1570 : ($version =~ /Trident/i) ? 1888
   : ($version =~ /newcal/i) ? '2009' : ($version =~ /1960/) ? 1960 : '1942';     
 our %kalendar = undef;
 our $kalendarkey = '';
+$tempname = ($version =~ /Monastic/i) ? 'TemporaM' : 'Tempora';
 if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
   my @a = <INP>;
   close INP;
@@ -78,12 +79,12 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
      while ($line = <INP>) {$tr .= chompd($line);}
      $tr =~ s/\=/\;\;/g;
      close(INP);
-     %transferspec = split(';;', $tr);      
-     $transferspec = $transferspec{$sday}; 
-  } else {%transferspec = undef; $transferspec = '';} 
+     %transfertemp = split(';;', $tr);   
+     $transfertemp = $transfertemp{$sday}; 
+  } else {%transfertemp = undef; $transfertemp = '';} 
 
 
-  if (open(INP, "$datafolder/Latin/Tabulae/Tr$vtrans$year.txt")) {
+  if (open(INP, "$datafolder/Latin/Tabulae/Tr$vtrans$kyear.txt")) {
      my $tr = '';
      while ($line = <INP>) {$tr .= chompd($line);}
      close(INP);
@@ -101,9 +102,10 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
   #Nat1 assignment
   tfgetweek(12, 25, $kyear);
   my $nat1 = '30';
+  my $nat1name = ($version =~ /1960/) ? 'Nat1-0r' : 'Nat1-0';
   if ($version =~ /(1955|1960|Monastic)/i && $dayofweek > 0) {$nat1 = 32 - $dayofweek;} 
   elsif ($dayofweek == 1 || $dayofweek == 3) {$nat1 = 32 - $dayofweek;} 
-  push(@tfer, sprintf("12-%02i=Tempora/Nat1-0", $nat1));
+  push(@tfer, sprintf("12-%02i=$tempname/$nat1name", $nat1));
 
   $epi2flag = 0;
 
@@ -111,6 +113,8 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
   my @impeded = splice(@impeded, @impeded);
   my @free = splice(@free, @free);
   my @seant = splice(@seant, @seant);
+  my $macc2flag = 0;
+  my $macc2num = 0;
 
 #*** cycle to build tfer array
   for ($tmonth = 0; $tmonth < @monthlength; $tmonth++) {  
@@ -118,7 +122,7 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
     $initia = 0;
 	
     $kmonth = $tmonth + 1;
-    for (my $kday = 1; $kday <= $monthlength[$tmonth]; $kday++) {	   
+    for (my $kday = 1; $kday <= $monthlength[$tmonth]; $kday++) {	  
            
       my ($kmp1, $kdp1, $kyp1) = tfprevnext($kmonth, $kday, $kyear, 1); 
       my ($kmm1, $kdm1, $kym1) = tfprevnext($kmonth, $kday, $kyear, -1); 
@@ -131,13 +135,14 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
       $dayname[0] =~ s /^\s*//g; 
       
 	  if ($dayname[0] =~ /Epi1/i && $dayofweek == 0) {
-	    if ($version =~ /(Trident|Monastic)/i) {push(@tfer, sprintf("%02i-%02i=Tempora/Epi1-0a", $kmonth, $kday));}
+	    if ($version =~ /(Trident|Monastic)/i) {push(@tfer, sprintf("%02i-%02i=$tempname/Epi1-0a", $kmonth, $kday));}
         if ($version !~ /Monastic/i) {push(@scriptfer, sprintf("%02i-%02i=Epi1-0a", $kmp1, $kdp1));}
 	  }   
       if ($version =~ /Monastic/i) {next;} 
 
 	  if ($dayname[0] =~ /Epi([2-5])/i) {$epi2flag = $1;} 
-      if ($dayname[0] =~ /Quadp1/i && $epi2flag && $version !~ /1960/) { 
+      if ($dayname[0] =~ /Epi6/i) {$epi2flag = 0;}
+	  if ($dayname[0] =~ /Quadp1/i && $epi2flag && $version !~ /1960/) { 
         my %epi = split(';','3;Epi3-3~A;4;Epi4-2~Epi4-4~A;5;Epi5-2~Epi5-4~A');
 		$epi2flag++;
 		if (exists($epi{$epi2flag})) { 
@@ -165,8 +170,8 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
       }
 
       my $tname = "$dayname[0]-$dayofweek";	 
-      if (exists($transferspec{"Tempora/$tname"})) {
-	    $tname =$transferspec{"Tempora/$tname"};
+      if (exists($transfertemp{"Tempora/$tname"})) {
+	    $tname =$transfertemp{"Tempora/$tname"};
 		$tname =~ s/Tempora\///;
 	  }
       if (exists($transfer{"Tempora/$tname"})) {
@@ -183,9 +188,10 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
 
       my $sday = get_sday($kmonth, $kday, $kyear);
       if (exists($kalendar{$sday})) {$sday = $kalendar{$sday};}
-      if (exists($transferspec{$sday})) {$sday = $transferspec{$sday};}
-	  if (exists($transfer{$sday})) {$sday = $transfer{$sday}; $transfered = 1;}
+      if (exists($transfertemp{$sday})) {$sday = $transfertemp{$sday};}
+	  if (exists($transfer{$sday}) && $transfer{$sday} !~ /Tempora/i) {$sday = $transfer{$sday}; $transfered = 1;}
       
+
       %saint = %{setupstring("$datafolder/Latin/Sancti/$sday.txt")};
       $srank = $saint{Rank};      
       if ($version =~ /1955|1960/ && exists($saint{Rank1960})) {$srank = $saint{Rank1960};}
@@ -196,7 +202,7 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
 
       my $sday1 = nextday($kmonth, $kday, $kyear);
       if (exists($kalendar{$sday1})) {$sday1 = $kalendar{$sday1};}
-      if (exists($transferspec{$sday1})) {$sday1 = $transferspec{$sday1};}
+      if (exists($transfertemp{$sday1})) {$sday1 = $transfertemp{$sday1};}
 	    if (exists($transfer{$sday1})) {$sday1 = $transfer{$sday1};}
       
       %saint1 = %{setupstring("$datafolder/Latin/Sancti/$sday1.txt")};
@@ -218,9 +224,8 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
 		if ($dayofweek > 0 && $dayofweek < $lim && ($srank[2] >= 2 || $srank1[2] >= 1)) 
 		  {push(@seant, "Quadp$sw-$dayofweek");}
 		if ($dayofweek >= $lim && $dayofweek < 6 && $srank[2] < 2 && !$srank1[2]) { 
-		  my $s = shift(@seant);
-		  if (!$s) {$s = "Quadp$sw-0";}
-		  push(@scriptfer, sprintf("seant%02i-%02i=$s", $kmonth, $kday));
+		  my $s = pop(@seant);
+		  if ($s) {push(@scriptfer, sprintf("seant%02i-%02i=$s", $kmonth, $kday));}
 	    }
       }
 
@@ -269,6 +274,8 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
         {$dirgemonth = sprintf("%02i-%02i", $kmonth, $kday);}
     
       
+
+
       
 #*** fill scriptfer  
 	  if ($version !~ /1960/) {
@@ -302,17 +309,19 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
      
 
 	 $initia = ($tempora{Lectio1} =~ /!.*? 1\:1\-/) ? 1 : 0; 
+	 
 	 if ($initia && $trank[2] < $srank[2] &&
-         ((($version !~ /Trident/i && $saint{Rank} =~ /;;ex C/ ) || 
-          ($version =~ /Trident/i && $srank[2] >= 2 && $srank !~ /infra Octav/i)) ||
-          exists($saint{Lectio1}))) {     
+         (($version !~ /Trident/i && $saint{Rank} =~ /;;ex C/ ) || 
+          ($version =~ /Trident/i && $srank[2] >= 2 && $srank !~ /infra Octav/i) ||
+          exists($saint{Lectio1}))) {   
        my $line = monthday(0);   
        if (!$line) {$line = "$dayname[0]-$dayofweek";}      
        if ($dayname[0] && $dayname[0] !~ /not found/i) {push(@impeded, $line);}
+
 	} elsif ($dayofweek != 0 && $saint{Rank} !~ /;;ex C9/i  && !exists($saint{Lectio1}) &&
 	         !((($version !~ /Trident/i && $saint{Rank} =~ /;;ex C/ ) || 
-             ($version =~ /Trident/i && $srank[2] >= 3)))) {
-       if (@impeded) {
+             ($version =~ /Trident/i && $srank[2] >= 3)))) { 
+	   if (@impeded) {
          my $line = '';
          foreach (@impeded) {$line .= "$_~";}
          $line .= 'B';
@@ -321,30 +330,36 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
        } else {push(@free, sprintf("%02i-%02i", $kmonth, $kday));}
      }     
          
-		 #** there is no 5th week of September
-		 if ($kmonth == 9 && $dayofweek == 4 && $kday > 24 && $tempora{Rank} =~ /IV\. Sept/i) {	
+	#** there is no 5th week of September
+	if ($kmonth == 9 && $dayofweek == 4 && $kday > 24 && $tempora{Rank} =~ /IV\. Sept/i) {	
        my $d1 = $kday;
-		   push(@scriptfer, "09-$d1=095-0");      
+	   push(@scriptfer, "09-$d1=095-0");      
        $d1++;
-		   if ($d1 < 31) {push(@scriptfer, "09-$d1=095-1");}
+	   if ($d1 < 31) {push(@scriptfer, "09-$d1=095-1");}
        $d1++;
-		   if ($d1 < 31) {push(@scriptfer, "09-$d1=095-2");}
+	   if ($d1 < 31) {push(@scriptfer, "09-$d1=095-2");}
      }       
          
-		 #** there is no 5th week of October
-		 if ($kmonth == 10 && $dayofweek == 4 && $kday > 25 && $tempora{Rank} =~ /IV\. Oct/i) {	
-       my $d1 = $kday;
-		   push(@scriptfer, "10-$d1=105-0");      
-       $d1++;
-		   if ($d1 < 32) {push(@scriptfer, "10-$d1=105-1");}
-       $d1++;
-		   if ($d1 < 32) {push(@scriptfer, "10-$d1=105-2");}
-     }       
-	  }   
+	 #*** story of Maccabei martyrs
+	 if ($kmonth == 10 && $dayofweek == 4 && $kday > 25 && $tempora{Rank} =~ /IV\. Oct/i) {$macc2flag = 1;}
+	 if ($tempora{Rank} =~ / V\. Oct/i) {$macc2flag = 1;}
+	 if ($tempora{Rank}	=~ /Nov/i || $macc2num > 2) {$macc2flag = 0;}
+
+	 elsif ($macc2flag) {
+	   if ($dayofweek == 0) {if ($version =~ /trident/i && (transfered($sday) || !exists($saint{Lectio1}))) {$macc2num++;}}
+ 	   elsif (!exists($saint{Lectio1})) {
+	     push(@scriptfer, sprintf("%02i-%02i=105-%01i", $kmonth, $kday, $macc2num));      
+         $macc2num++; 
+	   }	       
+	 }   
+
+  }
+
 
 #*** collect transfered files
-      if (($trank[2] < 5 || $srank[2] < 5) && $tname !~ /Nat/i) {
-	  	  if (($trank[2] >= 5 || $srank[2] >= 5) && !$transfered ) {next;}
+      my $lim1 = ($version =~ /1960/) ? 6 :  5; 
+	  if (($trank[2] < $lim1 || $srank[2] < $lim1) && $tname !~ /Nat/i) { 
+	  	  if (($trank[2] >= $lim1 || $srank[2] >= $lim1) && !$transfered ) {next;}
 		    if (!@collect) {next;}	 
 		    @collect = sort(@collect);
 		    my $line = pop(@collect);  
@@ -357,8 +372,8 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
 #*** set  transfered files to @collect array
 	  my $sortnum = sprintf("%02i", $srank[2] * 10); 
       if ($sday =~ /(12\-08|12\-24|01\-05)/ ) {next;}
-	    if ($dayofweek == 0 && $sday =~ /11-02/) {push(@tfer, "11-03=11-02"); next;}
-	    if ($day == 13 && $tname =~ /Epi1/i && $version !~ /1955|1960/i) 
+	  if ($dayofweek == 0 && $sday =~ /11-02/) {push(@tfer, "11-03=11-02"); next;}
+	  if ($day == 13 && $tname =~ /Epi1/i && $version !~ /1955|1960/i) 
 	      {push(@tfer, "01-12=Tempora/Epi1-0"); next;}
       if ($trank[2] >= 6 && $srank[2] >= 6) {push(@collect, "$sortnum;;$sday"); next;}
 	    if ($version =~ /(1955|1960)/) {next;}
@@ -366,13 +381,17 @@ if (open(INP, "$datafolder/Latin/Tabulae/K$kalendarname.txt")) {
       if ($trank[2] > 5.5) {push(@collect, "$sortnum;;$sday");}
 	    next; 
    
-	}
 	if ($dirgemonth) {$dirge .= "$dirgemonth,";}
   }
+  }
+
+
     #Nat2 assignment
   tfgetweek(1, 1, $kyear);
-  if ($dayofweek > 3) {push(@tfer, sprintf("01-%02i=Tempora/Nat2-0",8 - $dayofweek));}
-  else {push(@tfer, "01-02=Tempora/Nat2-0");}
+  if ($version !~ /1570/i) {
+    if ($dayofweek > 2) {push(@tfer, sprintf("01-%02i=$tempname/Nat2-0",8 - $dayofweek));}
+    else {push(@tfer, "01-02=$tempname/Nat2-0");}
+  }
   @tfer = sort(@tfer);
 
   $dirge =~ s/,$//;

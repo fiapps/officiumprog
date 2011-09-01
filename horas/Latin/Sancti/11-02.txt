@@ -52,14 +52,14 @@ $Indulgentiam
 &Dominus_vobiscum
 _
 $Oremus
-v. Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque~
-tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper~
+v. Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque
+tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper
 optaverunt, piis supplicationibus consequantur:
 $Qui vivis
 
 [Oratio mortuorum1]
 &pater_noster
-_ 
+_
 V. A porta inferi.
 R. Erue Domine animas eorum.
 V. Requiescant in pace
@@ -70,11 +70,11 @@ R. Et clamor meus ad te veniat
 _
 $Oremus
 v. Propitiare, quesumus Domine, animabus omnium famulorum famularumque tuarum, pro quibus majestatem tuam suppliciter exoramus, ut per haec piae deprecationis officia, pervenire mereantur ad requiem sempiternam.
-$Per Dominum 
+$Per Dominum
 
 [Oratio mortuorum]
 &pater_noster
-_ 
+_
 V. A porta inferi.
 R. Erue Domine animas eorum.
 V. Requiescant in pace
@@ -84,14 +84,14 @@ R. Et clamor meus ad te veniat
 &Dominus_vobiscum2
 _
 $Oremus
-Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque~
-tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper~
+Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque
+tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper
 optaverunt, piis supplicationibus consequantur:
-$Qui vivis 
+$Qui vivis
 
 [Oratio mortuorum2]
 &pater_noster
-_ 
+_
 V. A porta inferi.
 R. Erue Domine animas eorum.
 V. Requiescant in pace
@@ -118,7 +118,6 @@ R. Amen
 20 Peccavi; quid faciam tibi, o custos hominum? quare posuisti me contrarium tibi, et factus sum mihimetipsi gravis?
 21 Cur non tollis peccatum meum, et quare non aufers iniquitatem meam? ecce nunc in pulvere dormiam, et si mane me quaesieris, non subsistam.
 
-
 [Lectio2]
 !Job 14:1-6
 1 Homo natus de muliere, brevi vivens tempore, repletur multis miseriis.
@@ -127,7 +126,6 @@ R. Amen
 4 Quis potest facere mundum de immundo conceptum semine? nonne tu qui solus es?
 5 Breves dies hominis sunt: numerus mensium ejus apud te est: constituisti terminos ejus, qui praeteriri non poterunt.
 6 Recede paululum ab eo, ut quiescat, donec optata veniat, sicut mercenarii, dies ejus.
-
 
 [Lectio3]
 !Job 19:20-27
@@ -139,7 +137,6 @@ R. Amen
 25 Scio enim quod redemptor meus vivit, et in novissimo die de terra surrecturus sum:
 26 et rursum circumdabor pelle mea, et in carne mea videbo Deum meum:
 27 quem visurus sum ego ipse, et oculi mei conspecturi sunt, et non alius: reposita est haec spes mea in sinu meo.
-
 
 [Lectio4]
 Ex Libro Sancti Augustini Episcopi de cura pro mortuis gerenda
@@ -169,7 +166,6 @@ De Epistola Prima beati Pauli Apostoli ad Corinthios
 21 quoniam quidem per hominem mors, et per hominem resurrectio mortuorum.
 22 Et sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur.
 
-
 [Lectio8]
 !1 Cor 15:35-44
 35 Sed dicet aliquis: Quomodo resurgunt mortui? qualive corpore venient?
@@ -181,11 +177,10 @@ De Epistola Prima beati Pauli Apostoli ad Corinthios
 41 Alia claritas solis, alia claritas lunae, et alia claritas stellarum. Stella enim a stella differt in claritate:
 42 sic et resurrectio mortuorum. Seminatur in corruptione, surget in incorruptione.
 43 Seminatur in ignobilitate, surget in gloria: seminatur in infirmitate, surget in virtute:
-44 seminatur corpus animale, surget corpus spiritale. 
+44 seminatur corpus animale, surget corpus spiritale.
 
 [Responsory8]
-R. Domine secundum actum meum noli me judicare: nihil dignum in conspectu tuo~
-egi: ideo deprecor majestatem tuam
+R. Domine secundum actum meum noli me judicare: nihil dignum in conspectu tuo egi: ideo deprecor majestatem tuam
 * Ut tu Deus deleas iniquitatem meam.
 V. Amplius lava me Domine ab injustitia mea, et a delicto meo munda me.
 R. Ut tu Deus deleas iniquitatem meam.
@@ -203,11 +198,11 @@ R. Ut tu Deus deleas iniquitatem meam.
 
 [Responsory9]
 R. Libera me Domine de morte aeterna in die illa tremenda:
-* Quando coeli movendi sunt et terra: * Dum veneris judicare saeculum per ignem.
-V. Tremens factus sum ego, et timeo, dum discussio venerit, atque ventura ira. 
-R. Quando coeli movendi sunt et terra
+* Quando caeli movendi sunt et terra: * Dum veneris judicare saeculum per ignem.
+V. Tremens factus sum ego, et timeo, dum discussio venerit, atque ventura ira.
+R. Quando caeli movendi sunt et terra
 V. Dies illa, dies irae, calamitatis et miseriae, dies magna et amara valde.
-R. Dum veneris judicare saeculum per ignem. 
+R. Dum veneris judicare saeculum per ignem.
 $Requiem
 
 [Special Prima]

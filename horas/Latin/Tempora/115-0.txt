@@ -1,6 +1,5 @@
 [Ant 1]
-Super muros tuos * Jerusalem constitui custodes: tota die et nocte non tacebunt~
-laudare nomen Domini.
+Super muros tuos * Jerusalem constitui custodes: tota die et nocte non tacebunt laudare nomen Domini.
 
 [Versum 1]
 V. Vespertina oratio ascendat ad te Domine.
@@ -13,7 +12,6 @@ Incipit Micheas Propheta
 2 Audite, populi omnes, et attendat terra, et plenitudo ejus: et sit Dominus Deus vobis in testem, Dominus de templo sancto suo.
 3 Quia ecce Dominus egredietur de loco suo, et descendet, et calcabit super excelsa terrae.
 
-
 [Responsory1]
 @Tempora/Pent01-0:Responsory1
 
@@ -22,7 +20,6 @@ Incipit Micheas Propheta
 4 Et consumentur montes subtus eum, et valles scindentur sicut cera a facie ignis, et sicut aquae quae decurrunt in praeceps.
 5 In scelere Jacob omne istud, et in peccatis domus Israël. Quod scelus Jacob? nonne Samaria? et quae excelsa Judae? nonne Jerusalem?
 6 Et ponam Samariam quasi acervum lapidum in agro, cum plantatur vinea; et detraham in vallem lapides ejus, et fundamenta ejus revelabo.
-
 
 [Responsory2]
 @Tempora/111-0:Responsory2
@@ -33,47 +30,23 @@ Incipit Micheas Propheta
 8 Super hoc plangam, et ululabo; vadam spoliatus, et nudus; faciam planctum velut draconum, et luctum quasi struthionum:
 9 quia desperata est plaga ejus, quia venit usque ad Judam; tetigit portam populi mei usque ad Jerusalem.
 
-
 [Responsory3]
 @Tempora/111-0:Responsory3
 
 [Lectio4]
-De Sermone sancti Basilii Magni in Psalmum trigesimum tertium. Cum te appetitus~
-invaserit peccandi, velim cogites horribile illud et intolerabile Christi~
-tribunal, in quo praesidebit judex in alto et excelso throno: astabit autem~
-omnis creatura, ad gloriosum illius conspectum contremiscens. Adducendi etiam~
-nos sumus singuli, eorum quae in vita gesserimus, rationem reddituri. Mox illis~
-qui multa mala in vita perpetrarint, terribiles quidam et deformes assistent~
-angeli, igneos vultus prae se ferentes, atque ignem spirantes, ea re propositi~
-et voluntatis acerbitatem ostendentes nocti vultu similes, propter. moerorem~
-et odium in humanum genus. Super muros tuos Jerusalem constitui custodes:~
-Tota die et nocte non tacebunt laudare nomen Domini. Praedicabunt populis~
-fortitudinem meam, et annuntiabunt Gentibus gloriam meam.
+De Sermone sancti Basilii Magni in Psalmum trigesimum tertium. Cum te appetitus invaserit peccandi, velim cogites horribile illud et intolerabile Christi tribunal, in quo praesidebit judex in alto et excelso throno: astabit autem omnis creatura, ad gloriosum illius conspectum contremiscens. Adducendi etiam nos sumus singuli, eorum quae in vita gesserimus, rationem reddituri. Mox illis qui multa mala in vita perpetrarint, terribiles quidam et deformes assistent angeli, igneos vultus prae se ferentes, atque ignem spirantes, ea re propositi et voluntatis acerbitatem ostendentes nocti vultu similes, propter. moerorem et odium in humanum genus. Super muros tuos Jerusalem constitui custodes: Tota die et nocte non tacebunt laudare nomen Domini. Praedicabunt populis fortitudinem meam, et annuntiabunt Gentibus gloriam meam.
 
 [Responsory4]
 @Tempora/111-0:Responsory4
 
 [Lectio5]
-Ad haec cogites profundum barathrum, inextricabiles tenebras, ignem carentem~
-splendore, urendi quidem vim habentem, sed privatum lumine deinde vermium~
-genus venenum immittens, et carnem vorans, inexplebiliter edens, neque umquam~
-saturitatem sentiens, intolerabiles dolores corrosione ipsa infigens. Postremo,~
-quod suppliciorum omnium gravissimum est, opprobrium illud et confusionem~
-sempiternam. Haec time, et hoc timore correptus, animam a peccatorum~
-concupiscentia tamquam fraeno quodam reprime.
+Ad haec cogites profundum barathrum, inextricabiles tenebras, ignem carentem splendore, urendi quidem vim habentem, sed privatum lumine deinde vermium genus venenum immittens, et carnem vorans, inexplebiliter edens, neque umquam saturitatem sentiens, intolerabiles dolores corrosione ipsa infigens. Postremo, quod suppliciorum omnium gravissimum est, opprobrium illud et confusionem sempiternam. Haec time, et hoc timore correptus, animam a peccatorum concupiscentia tamquam fraeno quodam reprime.
 
 [Responsory5]
 @Tempora/111-0:Responsory5
 
 [Lectio6]
-Hunc timorem Domini se docturum Propheta promisit: docere autem non simpliciter~
-promisit, sed eos qui eum audire voluerint: non eos qui longius prolapsi sunt,~
-sed qui salutem appetentes accurrunt: non alienos a promissionibus, sed ex~
-baptismate filiorum adoptionis, verbo ipsi conciliatos atque conjunctos.~
-Propterea, Venite, inquit, hoc est, per bona opera accedite ad me filii, quippe~
-qui per regenerationem filii lucis effici digni facti estis: audite, qui aures~
-cordis habetis apertas; timorem Domini docebo vos: illum scilicet, quem paulo~
-ante oratione nostra descripsimus.
+Hunc timorem Domini se docturum Propheta promisit: docere autem non simpliciter promisit, sed eos qui eum audire voluerint: non eos qui longius prolapsi sunt, sed qui salutem appetentes accurrunt: non alienos a promissionibus, sed ex baptismate filiorum adoptionis, verbo ipsi conciliatos atque conjunctos. Propterea, Venite, inquit, hoc est, per bona opera accedite ad me filii, quippe qui per regenerationem filii lucis effici digni facti estis: audite, qui aures cordis habetis apertas; timorem Domini docebo vos: illum scilicet, quem paulo ante oratione nostra descripsimus.
 
 [Responsory6]
 @Tempora/111-0:Responsory6

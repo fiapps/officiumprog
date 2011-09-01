@@ -127,7 +127,7 @@ R. Ne extendas manum tuam super puerum, eo quod timeas Dominum.
 
 [Lectio5]
 Sed ideo addidit singula, ut ejus affectum probaret: ne forte aut imprudenter~
-coepisse videretur, aut fraus aliqua mandatis coelestibus pararetur. Sed sicut~
+coepisse videretur, aut fraus aliqua mandatis caelestibus pararetur. Sed sicut~
 coacervanda fuerunt praecepta, ne quid lateret; ita etiam proponenda praemia, ne~
 forte desperaret. Tentatur ut fortis, incitatur ut fidelis, provocatur ut~
 justus: meritoque exivit, quemadmodum locutus est illi Dominus. Et exivit cum eo~
@@ -136,18 +136,18 @@ Deum; perfecit Abraham, factoque sapientum dicta praevenit, et secutus Deum~
 exivit de terra sua.
 
 [Responsory5]
-R. Vocavit Angelus Domini Abraham de coelo, secundo, dicens: Benedicam tibi
-* Et multiplicabo te sicut stellas coeli,
+R. Vocavit Angelus Domini Abraham de caelo, secundo, dicens: Benedicam tibi
+* Et multiplicabo te sicut stellas caeli,
 V. Possidebit semen tuum portas inimicorum tuorum, et benedicentur in semine tuo~
 omnes tribus terrae.
-R. Et multiplicabo te sicut stellas coeli,
+R. Et multiplicabo te sicut stellas caeli,
 
 [Lectio6]
 Sed quia ante terra ei fuerat alia, hoc est, regio Chaldaeorum, de qua exivit~
 Thare pater Abrahae, et in Charran demigravit: et quia secum eduxit nepotem suum,~
 cui dictum fuerat, Exi de cognatione tua: consideremus, ne forte hoc sit exire~
 de terra sua, de hujus terrae, hoc est, de corporis nostri quadam commoratione~
-egredi, de qua exivit Paulus, qui dixit: Nostra autem conversatio in coelis est.
+egredi, de qua exivit Paulus, qui dixit: Nostra autem conversatio in caelis est.
 
 [Responsory6]
 R. Deus domini mei Abraham dirige viam meam:
@@ -172,7 +172,7 @@ praedixit: ut cum eum morientem, sicut praedictum est, cernerent; etiam~
 resurrecturum non dubitarent. Sed quia carnales adhuc discipuli nullo modo~
 valebant capere verba mysterii, venitur ad miraculum. Ante eorum oculos caecus~
 lumen recepit: ut qui caelestis mysterii verba non caperent, eos ad fidem~
-coelestia facta solidarent.
+caelestia facta solidarent.
 
 [Responsory7]
 R. Veni hodie ad fontem aquae, et oravi Dominum, dicens:

@@ -7,7 +7,6 @@ De libro Job
 4 non loquentur labia mea iniquitatem, nec lingua mea meditabitur mendacium.
 5 Absit a me ut justos vos esse judicem: donec deficiam, non recedam ab innocentia mea.
 
-
 [Responsory1]
 @Tempora/091-1:Responsory1
 
@@ -19,7 +18,6 @@ De libro Job
 9 Numquid Deus audiet clamorem ejus, cum venerit super eum angustia?
 10 aut poterit in Omnipotente delectari, et invocare Deum omni tempore?
 
-
 [Responsory2]
 @Tempora/091-1:Responsory2
 
@@ -27,10 +25,9 @@ De libro Job
 !Job 27:11-15
 11 Docebo vos per manum Dei quae Omnipotens habeat, nec abscondam.
 12 Ecce vos omnes nostis: et quid sine causa vana loquimini?
-13 Haec est pars hominis impii apud Deum, et haereditas violentorum, quam ob Omnipotente suscipient.
+13 Haec est pars hominis impii apud Deum, et hereditas violentorum, quam ob Omnipotente suscipient.
 14 Si multiplicati fuerint filii ejus, in gladio erunt, et nepotes ejus non saturabuntur pane:
 15 qui reliqui fuerint ex eo sepelientur in interitu, et viduae illius non plorabunt.
-
 
 [Responsory3]
 @Tempora/091-0:Responsory3

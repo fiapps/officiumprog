@@ -31,7 +31,7 @@ R. Omnes de Saba venient, * Alleluia, alleluia.
 {:H-CrudelisHerodes:}v. Crudelis Herodes, Deum
 Regem venire quid times?
 Non eripit mortalia,
-Qui regna dat coelestia.
+Qui regna dat caelestia.
 _
 Ibant magi, quam viderant,
 Stellam sequentes praeviam:
@@ -39,7 +39,7 @@ Lumen requirunt lumine:
 Deum fatentur munere.
 _
 Lavacra puri gurgitis
-Coelestis Agnus attigit:
+Caelestis Agnus attigit:
 Peccata, quae non detulit,
 Nos abluendo sustulit.
 _
@@ -115,8 +115,8 @@ feriam vobiscum pactum sempiternum, misericordias David fideles.
 R. Hodie in Jordane baptizato Domino aperti sunt caeli, et sicut columba super~
 eum Spiritus mansit, et vox Patris intonuit:
 * Hic est Filius meus dilectus, in quo mihi bene complacui.
-V. Descendit Spiritus sanctus corporali specie sicut columba in ipsum, et vox de~
-coelo facta est.
+V. Descendit Spiritus Sanctus corporali specie sicut columba in ipsum, et vox de~
+caelo facta est.
 R. Hic est Filius meus dilectus, in quo mihi bene complacui.
 
 [Responsory1]
@@ -144,9 +144,9 @@ fuerit ad te multitudo maris; fortitudo gentium venerit tibi.
 venient, aurum et thus deferentes, et laudem Domino annuntiantes.
 
 [Responsory2]
-R. In columbae specie Spiritus sanctus visus est, Paterna vox audita est:
+R. In columbae specie Spiritus Sanctus visus est, Paterna vox audita est:
 * Hic est Filius meus dilectus, in quo mihi bene complacui.
-V. Coeli aperti sunt super eum, et vox Patris intonuit.
+V. Caeli aperti sunt super eum, et vox Patris intonuit.
 R. Hic est Filius meus dilectus, in quo mihi bene complacui.
 
 [Lectio3]
@@ -164,7 +164,7 @@ R. Reges Tharsis et insulae munera offerent:
 * Reges Arabum et Saba dona Domino Deo adducent.
 V. Omnes de Saba venient, aurum et thus deferentes.
 R. Reges Arabum et Saba dona Domino Deo adducent.
-&Gloria Patri
+&Gloria
 R. Reges Arabum et Saba dona Domino Deo adducent.
 
 [Lectio4]
@@ -208,11 +208,11 @@ R. Alleluia, alleluia, alleluia.
 [Lectio6]
 Agnoscamus ergo, dilectissimi, in Magis adoratoribus Christi, vocationis nostrae~
 fideique primitias: et exsultantibus animis beatae spei initia celebremus.~
-Exinde enim in aeternam haereditatem coepimus introire: exinde nobis Christum~
+Exinde enim in aeternam hereditatem coepimus introire: exinde nobis Christum~
 loquentia Scripturarum arcana patuerunt, et veritas, quam Judaeorum obcaecatio~
 non recipit, omnibus nationibus lumen suum invexit. Honoretur itaque a nobis~
 sacratissimus dies, in quo salutis nostrae Auctor apparuit: et quem Magi~
-infantem venerati sunt in cunabulis, nos omnipotentem adoremus in coelis. Ac~
+infantem venerati sunt in cunabulis, nos omnipotentem adoremus in caelis. Ac~
 sicut illi de thesauris suis mysticas Domino munerum species obtulerunt, ita et~
 nos de cordibus nostris, quae Deo sunt digna, promamus.
 
@@ -237,9 +237,9 @@ reliqua.
 _
 Homilia sancti Gregorii Papae.
 !Homilia 10. in Evang.
-Sicut in lectione evangelica, fratres carissimi, audistis, coeli Rege nato, rex~
+Sicut in lectione evangelica, fratres carissimi, audistis, caeli Rege nato, rex~
 terrae turbatus est: quia nimirum terrena altitudo confunditur, cum celsitudo~
-coelestis aperitur. Sed quaerendum nobis est, quidnam sit, quod, Redemptore nato,~
+caelestis aperitur. Sed quaerendum nobis est, quidnam sit, quod, Redemptore nato,~
 pastoribus in Judaea Angelus apparuit, atque ad adorandum hunc ab Oriente Magos~
 non Angelus, sed stella perduxit? Quia videlicet Judaeis, tamquam ratione~
 utentibus, rationale animal, id est, Angelus praedicare debuit: Gentiles vero,~
@@ -321,7 +321,7 @@ R. Reges Tharsis et insulae munera offerent * Alleluia, alleluia.
 [Hymnus Laudes]
 {:H-Osolamagnarum:}v. O sola magnarum urbium
 Major Bethlem, cui contigit
-Ducem salutis coelitus
+Ducem salutis caelitus
 Incorporatum gignere.
 _
 Quem stella, quae solis rotam
@@ -337,7 +337,7 @@ _
 Regem Deumque annuntiant
 Thesaurus, et fragrans odor
 Thuris Sabaei, ac myrrheus
-Pulvis sepulchrum praedocet.
+Pulvis sepulcrum praedocet.
 _
 Jesu, tibi sit gloria,
 Qui apparuisti gentibus,

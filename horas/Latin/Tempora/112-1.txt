@@ -7,7 +7,6 @@ De Ezechiele Propheta
 4 audiens autem quisquis ille est sonitum buccinae, et non se observaverit, veneritque gladius, et tulerit eum: sanguis ipsius super caput ejus erit.
 5 Sonum buccinae audivit, et non se observavit: sanguis ejus in ipso erit. Si autem se custodierit, animam suam salvabit.
 
-
 [Responsory1]
 @Tempora/111-1:Responsory1
 
@@ -17,7 +16,6 @@ De Ezechiele Propheta
 7 Pedes eorum, pedes recti, et planta pedis eorum quasi planta pedis vituli: et scintillae quasi aspectus aeris candentis.
 8 Et manus hominis sub pennis eorum, in quatuor partibus: et facies et pennas per quatuor partes habebant.
 
-
 [Responsory2]
 @Tempora/111-1:Responsory2
 
@@ -26,7 +24,6 @@ De Ezechiele Propheta
 9 Junctaeque erant pennae eorum alterius ad alterum: non revertebantur cum incederent, sed unumquodque ante faciem suam gradiebatur.
 10 Similitudo autem vultus eorum, facies hominis et facies leonis a dextris ipsorum quatuor, facies autem bovis a sinistris ipsorum quatuor, et facies aquilae desuper ipsorum quatuor.
 11 Facies eorum et pennae eorum extentae desuper: duae pennae singulorum jungebantur, et duae tegebant corpora eorum.
-
 
 [Responsory3]
 @Tempora/111-1:Responsory3

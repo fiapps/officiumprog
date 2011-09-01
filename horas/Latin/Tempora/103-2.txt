@@ -6,7 +6,6 @@ De libro primo Maccabeorum
 3 et abierunt Romam, et intraverunt curiam, et dixerunt: Jonathas summus sacerdos, et gens Judaeorum miserunt nos, ut renovaremus amicitiam et societatem secundum pristinum.
 4 Et dederunt illis epistolas ad ipsos per loca, ut deducerent eos in terram Juda cum pace.
 
-
 [Responsory1]
 @Tempora/101-2:Responsory1
 
@@ -17,7 +16,6 @@ De libro primo Maccabeorum
 7 Jampridem missae erant epistolae ad Oniam summum sacerdotem ab Ario, qui regnabat apud vos, quoniam estis fratres nostri, sicut rescriptum continet, quod subjectum est.
 8 Et suscepit Onias virum, qui missus fuerat, cum honore: et accepit epistolas, in quibus significabatur de societate et amicitia.
 
-
 [Responsory2]
 @Tempora/101-2:Responsory2
 
@@ -26,7 +24,6 @@ De libro primo Maccabeorum
 9 Nos cum nullo horum indigeremus, habentes solatio sanctos libros, qui sunt in manibus nostris,
 10 maluimus mittere ad vos renovare fraternitatem et amicitiam, ne forte alieni efficiamur a vobis: multa enim tempora transierunt, ex quo misistis ad nos.
 11 Nos ergo in omni tempore sine intermissione in diebus solemnibus, et ceteris, quibus oportet, memores sumus vestri in sacrificiis quae offerimus, et in observationibus, sicut fas est, et decet meminisse fratrum.
-
 
 [Responsory3]
 @Tempora/101-2:Responsory3

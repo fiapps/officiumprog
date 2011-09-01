@@ -24,7 +24,7 @@ sub ordo {
   if (!$version) {$version = 'Divino Afflatu';} 
 
   $smallgray = $smallblack;
-  $boldblue = addattribute($bluefont, 'bold', $blue);
+  $boldblue = addattribute($bluefont, 'bold', $blue); 
   $boldblack = addattribute($blackfont, 'bold', $black);
   $boldred = addattribute($blackfont, 'bold', $red);
   $italicblue = addattribute($linkfont, 'italic', $blue);
@@ -32,6 +32,8 @@ sub ordo {
   $italicred = addattribute($blackfont, 'italic', $red);
 
   ordorut($kmonth, $kyear);
+  $mw->configure(-title=>$title);
+
 
   $mw->bind("<Key-Down>"=>sub{$mwf->yview(scroll, "$scrollamount", 'units')}); 
   $mw->bind("<Key-Up>"=>sub{$mwf->yview(scroll, "-$scrollamount", 'units')}); 
@@ -50,7 +52,7 @@ sub ordorut {
 @monthlength = (31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
 @daynames = ('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fry', 'Sat');
 
-my $title = "Ordo: $version $monthnames[$kmonth-1] $kyear";
+$title = "Ordo: $version $monthnames[$kmonth-1] $kyear";
                                   
 if ($mwf) {$mwf->destroy();}
 $mw->idletasks();
@@ -110,28 +112,35 @@ else {$fname = ordohtml($version, $kyear, $kmonth);}
  my $str = '';
  foreach $line (@a) {$str .= $line;};
  $str =~ s/[\n;]//g;
- $str =~ s/\<TR.*?\>/;;;/g;
+ $str =~ s/(\<TR.*?\>)/;;;$1/g;
  @a = split(';;;', $str);
  my $i = 0;
  my $fground = 'black';
  foreach $line (@a) { 
-   if ($line =~ /\<TH/) {$fground = 'maroon';}
-   if ($line =~ /\<T[DH].*?\>/i) {
+   $bold = ($line =~ /bold/i) ? 'bold' : '';
+   $color = ($line =~ /(red|maroon|blue|gray)/i) ? $1 : $black;
+     if ($line =~ /\<TH/) {$fground = 'maroon';}
+     if ($line =~ /\<T[DH].*?\>/i) {
+     $line =~ s/\<TR.*?\>//g;
      $line =~ s/\<T[DH].*?\>/;;/g;
 	 $line =~ s/\n//g;
 	 $line =~ s/\<BR\>/\n/gi;
-	 $line =~ s/\<.*?\>//g;
+	 $line =~ s/\<.*?\>//g;   
 	 my @l = split(';;', $line);
 	 my $j = 0;
+	 
 	 foreach $l (@l) {
 	   if ($j == 0) {
 	     if ($l =~ /[0-9]+ Sun/) {$fground = 'red';}
-		 elsif ($l =~ /[0-9]+ [a-z]+/i) {$fground = 'black';}
+	   	 elsif ($l =~ /[0-9]+ [a-z]+/i) {$fground = 'black';}
        }
 	   if (!$l || $l =~ /^\s*$/) {if ($j == 0) {next;} else { $l = '--'}}
 	   my $bground = ((($i-1) % 4) > 1) ? $framecolor : '#eeeeee';
-	   $middleframe->Label(-text=>$l, -foreground=>$fground, -background=>$bground, 
-	     -font=>"{Arial} 10", -justify=>'left', -anchor=>'w')
+	   $font = "{Arial} 10";
+	   if ($bold) {$font .= " bold";}
+       #$font .= " $color";
+	   $middleframe->Label(-text=>$l, -foreground=>$color, -background=>$bground, 
+	     -font=>$font, -justify=>'left', -anchor=>'w')
 	     ->grid(-row=>$i, -column=>$j, -sticky=>'nsew', -padx=>1, -pady=>0);
        $j++;
      }
@@ -237,7 +246,22 @@ sub ordohtml {
    
 
   if (!open(OUT, ">$datafolder/Ordo/$filename.html")) {print "$datafolder/Ordo/$filename.html cannot open!\n"; return;}
+
+  $knames = '';
+  if (open(INP, "$datafolder/knames.txt")) {
+    while ($l = <INP>) {$knames .= $l;}
+	close INP; 
+	$knames =~ s/\n/;/g;
+	%knames = split(';', $knames);
+  }
   
+  %commonnames = split( ';;', 
+    "C1;;Apostle;;C1a;;Evangelist;;C1v;;Vigil of Apostle;;C2;;one Martyr;;" .
+    "C3;;many Martyrs;;C4;;Confessor Bishop;;" .
+    "C4a;;Doctor, Bishop;;C5;;Confessor not Bishop;;C5a;;Doctor, not Bishop;;" .
+    "C6;;one Virgin;;C6a;;many Virgins;;C6b;;Virgin, Martyr;;C7;;Martyr Holy Woman;;C7a;;Holy Woman;;" .
+    "C8;;Dedication of a Church;;C9;;Dead;;C10;;B.M.V. on Saturday;;C11;;Blessed Virgin Mary");
+
   print OUT "<HTML><HEAD><TITLE>Ordo</TITLE></HEAD><BODY BGCOLOR=\"#ffffff\">\n";
   print OUT "<P ALIGN=CENTER><B><I>$version Ordo $kpyear $mnames[$kpmonth-1]</I></B></P>\n";
   print OUT "<TABLE WIDTH=98% BORDER=1 CELLPADDING=2 CELLSPACING=0 ALIGN=CENTER BGCOLOR=\"#dddddd\">\n";
@@ -259,6 +283,7 @@ sub ordohtml {
 	  $kpmonth = $savekmonth;
 	  $kpday = $savekday;
 
+
 	  if ($commemorated) {%commemorated = %{officestring("$datafolder/$lang1/$commemorated")};}
 
 	  my $col1 = "$d1 $days[$dayofweek]";
@@ -267,21 +292,41 @@ sub ordohtml {
 	  my $col2 = "$rank[2]";
 	  my $r3 = $rank[3];
 	  my $col3 = "$rank[0]";
+	  if ($version =~ /1960/) { 
+	    $col3 = getkname($winner);
+		if (($dayofweek == 0 || $rank[0] =~ /(Feria|Dominica)/i) && 
+		    $rank[0] =~ / (III|II|IV|I|V)\.\s(August|Septembr|Octobr|Novembr|Decembr)/i) 
+	      {$col3 .= (' ' . $knames{$1} . ' ' . $knames{$2});} 
+        if ($kpmonth == 9 && $rank[0] =~ /Quattuor/i) {$col3 = $knames{"Ember$dayofweek"};}
+	  }
+
 
 	  if ($commemoratio1) {
 		if ($version =~ /1960/) {$r[2] = floor($r[2]);}
 	    my @r = split(';;', chompd($commemoratio1{Rank}));
-		if ($r[2] >= 2 || $vespera != 1) {$col3 .= "<BR>$r[0]"; $col2 .= "<BR>$r[2]";}
+		if ($r[2] >= 2 || $vespera != 1) {
+	      if ($version =~ /1960/) {$col3 .= '<BR>' . getkname($commemoratio1);}
+		  else {$col3 .= "<BR>$r[0]";}
+		  $col2 .= "<BR>$r[2]";
+		}
 	  }
 	  if ($commemoratio) {
 	  	my @r = split(';;', chompd($commemoratio{Rank}));
 		if ($version =~ /1960/) {$r[2] = floor($r[2]);}
-		if ($r[2] >= 2 || $vespera != 1) {$col3 .= "<BR>$r[0]"; $col2 .= "<BR>$r[2]";}
+		if ($r[2] >= 2 || $vespera != 1) {
+	      if ($version =~ /1960/) {$col3 .= '<BR>' . getkname($commemoratio);}
+		  else {$col3 .= "<BR>$r[0]";}
+		  $col2 .= "<BR>$r[2]";
+		}
 	  }
      if ($commemorated) {
  	    my @r = split(';;', chompd($commemorated{Rank}));
 		if ($version =~ /1960/) {$r[2] = floor($r[2]);}
-		if ($r[2] >= 2 || $vespera != 1) {$col3 .= "<BR>$r[0]"; $col2 .= "<BR>$r[2]";}
+		if ($r[2] >= 2 || $vespera != 1) {
+	      if ($version =~ /1960/) {$col3 .= '<BR>' . getkname($commemorated);}
+		  else {$col3 .= "<BR>$r[0]";}
+		  $col2 .= "<BR>$r[2]";
+		}
 	  }
       
 	  if ($hora =~ /Laudes/i) {
@@ -300,28 +345,42 @@ sub ordohtml {
 	    $col41 = chompd($r3);
 	    $col41 =~ s/(ex|vide|sancti|tempora)//gi;
 		$col41 =~ s/[\/\s]//g;
+		if (exists($commonnames{$col41})) {
+		  my $ptime = ($col41 =~ /C[23]/i && $dayname[0] =~ /Pasc/i) ? 'Martyr Easter-time' : '';
+		  $col41 = $commonnames{$col41};
+		  if ($ptime) {$col41 = $ptime;;}
+		}
 	  } 
 
       my $col5 = '';
 	  my ($dox, $dname) = doxology('', 'Latin');
 	  if ($dox || $dname) {$col5 .= 'Doxology<BR>';}
-	  if ($laudes == 2) {$col5 .= 'Laudes2<BR>';}
-	  if (preces('Feriales') == 0) {$col5 .= 'Preces F.<BR>';}
-	  if (preces('Dominicales') == 0 && $version !~/(1955|1960)/) {$col5 .= 'Preces D.<BR>';}
-      if (checksuffragium() && $version !~ /(1955|1960)/) {$col5 .= 'Suffr.<BR>';}
-	  if (exists($winner{'Hymnus Matutinum'}) || exists($winner{'Hymnus Laudes'}) || exists($winner{'Hymnus Vespera'}) || 
-         exists($winner{'Hymnus Vespera3'}) ) {$col5 .= 'Hymnus<BR>';}
-	  if (exists($winner{'Ant Matutinum'}) || exists($winner{'Ant Laudes'}) || exists($winner{'Ant Vespera'}) || 
-         exists($winner{'Ant Vespera3'}) ) {$col5 .= 'Ant. Psalm.<BR>';}
-      if ($hora =~ /Laudes/i && exists($winner{'Ant 2'})) {$col5 .= 'Ant. Bened.<BR>';}
-      if ($hora =~ /Vespera/i && (exists($winner{'Ant 1'}) || exists($winner{'Ant 3'}))) {$col5 .= 'Ant. Magn.<BR>';}
+	  if ($hora =~ /Laudes/i) {
+	    if ($laudes == 2) {$col5 .= 'Laudes2<BR>';}
+	    if (exists($winner{'Ant Matutinum'}) || exists($winner{'Ant Laudes'})) {$col5 .= 'Ant. Psalm.<BR>';}
+        if (exists($winner{'Capitulum Laudes'}) || exists($winner{'Capitulum Tertia'})) {$col5 .= 'Capitulum<BR>';} 
+  	    if (exists($winner{'Hymnus Matutinum'}) || exists($winner{'Hymnus Laudes'})) {$col5 .= 'Hymnus<BR>';}
+        if (exists($winner{'Ant 2'})) {$col5 .= 'Ant. Bened.<BR>';}
+	    if (preces('Feriales') == 0) {$col5 .= 'Preces F.<BR>';}
+	    if (preces('Dominicales') == 0 && $version !~/(1955|1960)/) {$col5 .= 'Preces D.<BR>';}
+        if (checksuffragium() && $version !~ /(1955|1960)/) {$col5 .= 'Suffr.<BR>';}
+      }
+      if ($hora =~ /Vespera/i) {
+		if  (exists($winner{'Ant Vespera'}) || exists($winner{'Ant Vespera3'})) {$col5 .= 'Ant. Psalm.<BR>';}
+	    if (exists($winner{'Capitulum Vespera'}) || exists($winner{'Capitulum Vespera 3'})) {$col5 .= 'Capitulum<BR>';} 
+	    if (exists($winner{'Hymnus Vespera'}) || exists($winner{'Hymnus Vespera3'}) ) {$col5 .= 'Hymnus<BR>';}
+	    if (exists($winner{'Ant 1'}) || exists($winner{'Ant 3'})) {$col5 .= 'Ant. Magn.<BR>';}
+	    if (preces('Feriales') == 0) {$col5 .= 'Preces F.<BR>';}
+	    if (preces('Dominicales') == 0 && $version !~/(1955|1960)/) {$col5 .= 'Preces D.<BR>';}
+        if (checksuffragium() && $version !~ /(1955|1960)/) {$col5 .= 'Suffr.<BR>';}
+	  }
 	  $col5 =~ s/\<BR\>$//; 
 
       $octavam = '';
-	  my %cc = oratio($lang1, $kpmonth, $kpday);
+	  my %cc = oratio($lang1, $kpmonth, $kpday); 
       my $col6 = '';
       foreach $key (sort keys %cc) { 
-        if ($key >= '0990') {  
+        if ($key >= '0900') {  
 		   my $cname = $cc{$key}; 
 		   if ($cname =~ /!(.*?)\n/) {$cname = $1;} else {$cname = '';}
 		   if ($cname) {
@@ -335,12 +394,16 @@ sub ordohtml {
       $col6 =~ s/\<BR\>$//; 
 
 	  my $style = '';
-	  if ($dayofweek == 0) {$style .= "color:red;";}
-	  if ((($kpday-1) % 2) == 0) {$style .= "background-color:#ffffdd;";}
+	  if ($hora =~ /Laudes/i && ($dayofweek == 0 || holyday($winner))) {$style .= "font-weight:bold;";}
+	  if ($col41 =~ /(B\.M\.V\.|Blessed Virgin Mary)/) {$style .= "color:blue;"}
+	  elsif ($col2 >= 6) {$style .= "color:red;"}
+	  elsif ($col2 >= 5) {$style .= "color:maroon;"}
+	  elsif ($col2 < 2) {$style .= "color:grey;"}
+	  if ((($kpday-1) % 2) == 0) {$style .= "background-color:#ffffdd;";} 
 	  if ($style) {$style = "style=\"$style\"";}
 	  my $tr .= "<TR $style>"; 
 
-	  print OUT "$tr<TD>$col1</TD><TD>$col2</TD><TD>$col3</TD>";
+      print OUT "$tr<TD>$col1</TD><TD>$col2</TD><TD>$col3</TD>";
 	  if ($col4) {print OUT "<TD>$col4</TD>";}
 	  else {print OUT "<TD ALIGN=CENTER>--</TD>";}
 	  if ($col41) {print OUT "<TD>$col41</TD>";}
@@ -360,3 +423,37 @@ sub ordohtml {
  return $filename;
 }
 
+
+sub getkname {
+  my $item = shift;
+  my $key;
+  if ($item =~ /Tempora/i && $item =~ /([a-z0-9]+\-[0-9])/i) {
+    $key = $1;
+	if ($dayofweek == 0 && $kpmonth > 7 && $key =~ /^Epi/) {$key = 'P' . $key;}
+	if (exists($knames{$key})) {return $knames{$key};}
+	if ($key =~ /Adv/i) {return $knames{Adv};}	
+	if ($key =~ /Quad[1-4]/i) {return $knames{Quad};}
+	if ($key =~ /Quad5/i) {return $knames{Quad5};}
+	if ($key =~ /Pasc/i) {return $knames{Pasc};}
+    return 'Feria';
+  } 
+  if ($item =~ /Sancti/i && $item =~ /([0-9][0-9]\-[0-9D][0-9U])/) {
+    $key = $1;
+	if (exists($knames{$key})) {
+	  my $name = $knames{$key};
+	  if ($name =~ /==/) {$name = $`;}
+	  return $name;
+	}
+  }
+  if ($item =~ /C10/i) {return $knames{C10};}
+  %w = officestring("$datafolder/Latin/$item");
+  my @r = split(';;', $w{Rank});
+  return $r[0];
+}
+
+sub holyday {
+  my $w = shift;
+  if ($w =~ /(Pasc5-4|12-08|12-25)/) {return 1;}
+  if ($w =~ /(01-01|08-15|11-01)/ && $dayofweek != 1 && $dayofweek != 6) {return 1;}
+  return 0;
+}

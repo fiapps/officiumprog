@@ -25,7 +25,7 @@ Amen.
 
 #Psalmi
 
-#Capitulum Responsory Versum
+#Capitulum Responsory Versus
 
 #Preces Feriales
 v. Lord have mercy on us, Christ have mercy on us, Lord have mercy on us 

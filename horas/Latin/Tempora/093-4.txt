@@ -6,7 +6,6 @@ De libro Tobiae
 3 Me duxit et reduxit sanum, pecuniam a Gabelo ipse recepit, uxorem ipse me habere fecit, et daemonium ab ea ipse compescuit: gaudium parentibus ejus fecit, meipsum a devoratione piscis eripuit, te quoque videre fecit lumen caeli, et bonis omnibus per eum repleti sumus. Quid illi ad haec poterimus dignum dare?
 4 Sed peto te, pater mi, ut roges eum, si forte dignabitur medietatem de omnibus quae allata sunt, sibi assumere.
 
-
 [Responsory1]
 @Tempora/093-0:Responsory1
 
@@ -18,7 +17,6 @@ De libro Tobiae
 8 Bona est oratio cum jejunio, et eleemosyna magis quam thesauros auri recondere:
 9 quoniam eleemosyna a morte liberat, et ipsa est quae purgat peccata, et facit invenire misericordiam et viam aeternam.
 10 Qui autem faciunt peccatum et iniquitatem, hostes sunt animae suae.
-
 
 [Responsory2]
 @Tempora/093-0:Responsory2
@@ -32,7 +30,6 @@ De libro Tobiae
 15 Ego enim sum Raphaël angelus, unus ex septem qui adstamus ante Dominum.
 16 Cumque haec audissent, turbati sunt, et trementes ceciderunt super terram in faciem suam.
 17 Dixitque eis angelus: Pax vobis: nolite timere.
-
 
 [Responsory3]
 @Tempora/093-0:Responsory3

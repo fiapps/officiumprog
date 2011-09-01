@@ -64,7 +64,6 @@ will not leave you orphans."
 [Responsory3]
 @TemporaM/Pasc5-4:Responsory9
 
-
 [LectioE]
 Continuation of the Holy Gospel according to John
 !John 14:15-21

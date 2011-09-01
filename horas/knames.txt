@@ -6,7 +6,7 @@ Adv3-5;Ember Friday in Advent
 Adv3-6;Ember Saturday in Advent
 Adv4-0;Fourth Sunday of Advent
 Adv;Feria of Advent
-Nat1-0;Sunday in the Octave of Chriatmas
+Nat1-0;Sunday in the Octave of Christmas
 Nat2-0;Most Holy Name of Jesus
 Epi1-0;Holy Family
 Epi2-0;2nd Sunday after Epiphany
@@ -118,16 +118,16 @@ C10;Saturday of Our Lady
 01-02;Feria in Chrismastide
 01-03;Feria in Chrismastide
 01-04;Feria in Chrismastide
-01-05;St. Telesphorus Pope and Martyr 
+01-05;Feria in Chrismastide==St. Telesphorus Pope and Martyr 
 01-06;On the Epiphany of the Lord
 01-07;Feria after Epiphany
 01-08;Feria after Epiphany
 01-09;Feria after Epiphany
 01-10;Feria after Epiphany
-01-11;St. Hyginus Pope and Martyr
+01-11;Feria after Epiphany==St. Hyginus Pope and Martyr
 01-12;Feria after Epiphany
 01-13;On the the Baptism of our Lord Jesus Christ
-01-14;St. Hilary Bishop, Confessor, and Doctor of the Church==St. Felix PrieSt. and Martyr
+01-14;St. Hilary Bishop, Confessor, and Doctor of the Church==St. Felix Priest and Martyr
 01-15;St. Paul first hermit, Confessor==St. Maurus Abbot
 01-16;St. Marcellus I Pope and Martyr
 01-17;St. Anthony Abbot
@@ -158,7 +158,7 @@ C10;Saturday of Our Lady
 02-11;On the Apparition of the Blessed Virgin Mary Immaculate
 02-12;The Seven Holy Founders of the Order of Servants of the Blessed Virgin Mary Confessors
 02-13;Feria
-02-14;St. Valentine PrieSt. and Martyr
+02-14;St. Valentine Priest and Martyr
 02-15;Ss. Faustinus and Jovita Martyrs
 02-16;Feria
 02-17;Feria
@@ -472,7 +472,7 @@ C10;Saturday of Our Lady
 12-21;St. Thomas Apostle
 12-22;Feria
 12-23;Feria
-12-24;Vigil
+12-24;Vigil of the Nativity of our Lord Jesus Christ
 12-25;On the Nativity of our Lord Jesus Christ
 12-26;II day within the octave of the Nativity of the Lord, St. Stephen Protomartyr
 12-27;III day within the octave of the Nativity of the Lord, St. John Apostle and Evangelist

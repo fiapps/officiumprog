@@ -8,7 +8,6 @@ De libro primo Maccabeorum
 5 Et nunc non mihi contingat parcere animae meae in omni tempore tribulationis: non enim melior sum fratribus meis.
 6 Vindicabo itaque gentem meam, et sancta, natos quoque nostros, et uxores: quia congregatae sunt universae gentes conterere nos inimicitiae gratia.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory1
 
@@ -22,7 +21,6 @@ De libro primo Maccabeorum
 12 Et movit Tryphon a Ptolemaida cum exercitu multo, ut veniret in terram Juda, et Jonathas cum eo in custodia.
 13 Simon autem applicuit in Addus contra faciem campi.
 
-
 [Responsory2]
 @Tempora/101-0:Responsory2
 
@@ -34,7 +32,6 @@ De libro primo Maccabeorum
 17 Et cognovit Simon quia cum dolo loqueretur secum: jussit tamen dari argentum et pueros, ne inimicitiam magnam sumeret ad populum Israël, dicentem:
 18 Quia non misit ei argentum, et pueros, propterea periit.
 19 Et misit pueros, et centum talenta: et mentitus est, et non dimisit Jonathan.
-
 
 [Responsory3]
 @Tempora/101-0:Responsory3

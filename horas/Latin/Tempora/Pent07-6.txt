@@ -21,7 +21,6 @@ De libro tertio Regum.
 6 Et intulerunt sacerdotes arcam fœderis Domini in locum suum, in oraculum templi, in Sanctum sanctorum, subter alas cherubim.
 7 Siquidem cherubim expandebant alas super locum arcae, et protegebant arcam, et vectes ejus desuper.
 
-
 [Responsory2]
 @Tempora/Pent01-3:Responsory3
 
@@ -31,7 +30,6 @@ De libro tertio Regum.
 10 Factum est autem cum exissent sacerdotes de sanctuario, nebula implevit domum Domini,
 11 et non poterant sacerdotes stare et ministrare propter nebulam: impleverat enim gloria Domini domum Domini.
 12 Tunc ait Salomon: Dominus dixit ut habitaret in nebula.
-
 
 [Responsory3]
 @Tempora/Pent01-3:Responsory3

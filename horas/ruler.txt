@@ -2,6 +2,9 @@ Name:
 Rule:
 Rank:3 plus unit
 Rank1960:3 plus unit
+RankNewcal:3 plus unit
+RankTrid:3 plus unit
+Rank1570:3 plus unit
 Ant (Vespera|Laudes):5 line~>\* inside
 Versum [1-3]:2 line=V\.,R\.
 Ant [1-3]:1 line~>\* inside

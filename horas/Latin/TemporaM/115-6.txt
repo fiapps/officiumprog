@@ -3,7 +3,7 @@ Incipit Malachias Propheta
 !Mal 1:1-4
 1 Onus verbi Domini ad Israël in manu Malachiae.
 2 Dilexi vos, dicit Dominus, et dixistis: In quo dilexisti nos? Nonne frater erat Esau Jacob? dicit Dominus: et dilexi Jacob,
-3 Esau autem odio habui, et posui montes ejus in solitudinem, et haereditatem ejus in dracones deserti.
+3 Esau autem odio habui, et posui montes ejus in solitudinem, et hereditatem ejus in dracones deserti.
 4 Quod si dixerit Idumaea: Destructi sumus, sed revertentes aedificabimus quae destructa sunt: haec dicit Dominus exercituum: Isti aedificabunt, et ego destruam: et vocabuntur termini impietatis, et populus cui iratus est Dominus usque in aeternum.
 
 

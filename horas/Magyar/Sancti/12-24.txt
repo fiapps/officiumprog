@@ -1,5 +1,5 @@
 [Rank]
-In Vigilia Nativitatis Domini;;Duplex I classis;;6.5
+In Vigilia Nativitatis Domini;;Duplex I classis;;6.1
 
 [Rule]
 3 lectiones
@@ -18,51 +18,31 @@ Jézus anyja, Mária, Józsefnek a jegyese, még mielõtt egybekeltek volna, úgy talá
 _
 Homily by St Jerome, Priest (at Bethlehem,)
 !Book of Commentaries, on Matth. i.
-Why was the Lord conceived of an espoused virgin rather than of a free? First,~
-for the sake of the genealogy of Mary, which we have obtained by that of Joseph.~
-Secondly, because she was thus saved from being stoned by the Jews as an~
-adulteress. Thirdly, that Himself and His mother might have a guardian on their~
-journey into Egypt. To these, Ignatius, the martyr of Antioch, has added a~
-fourth reason namely, that the birth might take place unknown to the devil,~
-who would naturally suppose that Mary had conceived by Joseph.
+Why was the Lord conceived of an espoused virgin rather than of a free? First, for the sake of the genealogy of Mary, which we have obtained by that of Joseph. Secondly, because she was thus saved from being stoned by the Jews as an adulteress. Thirdly, that Himself and His mother might have a guardian on their journey into Egypt. To these, Ignatius, the martyr of Antioch, has added a fourth reason namely, that the birth might take place unknown to the devil, who would naturally suppose that Mary had conceived by Joseph.
 
 [Responsory1]
 R. Sanctify yourselves to-day, and be ready for on the morrow ye shall see
 * The majesty of God upon you.
-V. This day ye shall know that the Lord cometh, and in the morning, then ye~
-shall see
+V. This day ye shall know that the Lord cometh, and in the morning, then ye shall see
 R. The majesty of God upon you.
 
 [Lectio2]
-Therefore they came together, she was found with child of the Holy Ghost. She~
-was found, that is, by Joseph, but by no one else. He had already almost an~
-husband's privilege to know all that concerned her. Before they came together.~
-This doth not imply that they ever did come together the Scripture merely~
-showeth the absolute fact that up to this time they had not done so.
+Before they came together, she was found with child of the Holy Ghost. She was found, that is, by Joseph, but by no one else. He had already almost an~
+husband's privilege to know all that concerned her. Before they came together. This doth not imply that they ever did come together the Scripture merely showeth the absolute fact that up to this time they had not done so.
 
 [Responsory2]
-R. Stand still, and ye shall see the help of the Lord with you O Judah and~
-Jerusalem, fear not.
+R. Stand still, and ye shall see the help of the Lord with you O Judah and Jerusalem, fear not.
 * To-morrow ye shall go out, and the Lord will be with you.
 V. Sanctify yourselves, O ye children of Israel, and be ready.
 R. To-morrow ye shall go out, and the Lord will be with you.
 
 [Lectio3]
-Then Joseph her husband, being a just man, and not willing to make her a public~
-example, was minded to put her away privily. If any man be joined to a~
-fornicatress they become one body; and according to the law they that are privy~
-to a crime are thereby guilty. How then can it be that Joseph is described as a~
-just man, at the very time he was compounding the criminality of his espoused?~
-It must have been that he knew her to be pure, and yet understood not the~
-mystery of her pregnancy, but, while he wondered at that which had happened, was~
-willing to hold his peace.
+Then Joseph her husband, being a just man, and not willing to make her a public example, was minded to put her away privily. If any man be joined to a fornicatress they become one body; and according to the law they that are privy to a crime are thereby guilty. How then can it be that Joseph is described as a just man, at the very time he was compounding the criminality of his espoused? It must have been that he knew her to be pure, and yet understood not the mystery of her pregnancy, but, while he wondered at that which had happened, was willing to hold his peace.
 
 [Responsory3]
-R. Sanctify yourselves, O ye children of Israel, saith the Lord for on the~
-morrow the Lord will come down.
+R. Sanctify yourselves, O ye children of Israel, saith the Lord for on the morrow the Lord will come down.
 * And will take away from you all sickness. 
-V. On the morrow the sins of the earth shall be washed away, and the Saviour of~
-the world will be our King.
+V. On the morrow the sins of the earth shall be washed away, and the Saviour of the world will be our King.
 R. And will take away from you all sickness.
 &Gloria
 R. And will take away from you all sickness.
@@ -84,13 +64,10 @@ V. On the morrow the sins of the earth shall be washed away.
 R. And the Saviour of the world will be our King.
 
 [Ant 2]
-The Saviour of the world * shall rise like the sun, and come down into the womb of~
-the Virgin as the showers upon the grass. Alleluia.
+The Saviour of the world * shall rise like the sun, and come down into the womb of the Virgin as the showers upon the grass. Alleluia.
 
 [Oratio]
-God, who gladden us by the annual expectation of our redemption, grant that we~
-who now joyfully welcome thy Only-begotten Son as our Redeemer, may also,~
-without fear, behold him coming as our Judge
+God, who gladden us by the annual expectation of our redemption, grant that we who now joyfully welcome thy Only-begotten Son as our Redeemer, may also, without fear, behold him coming as our Judge
 $Qui tecum
 
 [Lectio Prima]
@@ -99,7 +76,7 @@ v. Általa nyertük a kegyelmet és az apostoli küldetést, hogy neve dicsõségére mu
 
 [Capitulum Tertia]
 !Rom 1:1-3
-v. Pál, Krisztus Jézus szolgája, meghívott apostol, akit az Isten kiválasztott evangéliumának hirdetésére,  amelyet prófétái által a szent iratokban elõre megígért,  Fiáról, Jézus Krisztusról, a mi Urunkról. Õ test szerint Dávid nemzetségébõl született, 
+v. Pál, Krisztus Jézus szolgája, meghívott apostol, akit az Isten kiválasztott evangéliumának hirdetésére,  amelyet prófétái által a szent iratokban elõre megígért,  Fiáról, Jézus Krisztusról, a mi Urunkról. Õ test szerint Dávid nemzetségébõl született. 
 $Deo gratias
 
 [Responsory Tertia]

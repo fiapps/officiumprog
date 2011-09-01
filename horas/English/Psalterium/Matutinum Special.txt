@@ -21,13 +21,13 @@ Sabbato = We are God's people and the sheep of His pasture. * Come, let us adore
 The Lord, the King who is to come * O come, let us adore Him
 
 [Invit Adv3]
-The Lord is near * O come, let us adore Him
+The Lord is now near * O come, let us adore Him
 
 [Invit Nat24]
 Today you will understand that the Lord is coming * And you will see his glory in the morning
 
 [Invit Quad]
-It is not futile to get up early, before the light, * God promised the crown for those on the night watch
+Let it not be vain for you to rise up early, before the light: * for the Lord hath promised a crown to them that watch.
 
 [Invit Quad5]
 When you hear the voice of the Lord today * Do not harden your heart 
@@ -96,7 +96,7 @@ Amen.
 
 
 [Day1 Hymnus]
-v. Our limbs refreshed slumber now, 
+v. Our limbs refreshed with slumber now, 
 And sloth cast off, in prayer we bow;
 And while we sing thy praises dear,
 O Father, be thou present here.
@@ -131,7 +131,7 @@ _
 All darkness from our minds dispel,
 And turn to flight the hosts of hell:
 Bid sleepfulness our eyelids fly, 
-Lest overwhelmed In sloth we lie.
+Lest overwhelmed in sloth we lie.
 _
 Jesu, thy pardon, kind and free,
 Bestow on us who trust in thee:
@@ -179,7 +179,7 @@ We contrite in confession fall.
 _
 Take far away our load of sin,
 Our soiled minds make clean within:
-Thy sov’reign grace, 0 Christ, impart,
+Thy sov’reign grace, O Christ, impart,
 From all offence to guard our heart.
 _
 For lo! our mind is dull and cold, 
@@ -271,12 +271,12 @@ _
 So when the Judge of quick and dead
 Shall bid his awful summons come,
 To whelm the guilty soul with dread,
-And call the blessed to their home,
+And call the blessed to their home.
 _
 Saved from the whirling, black abyss,
 Forevermore to us be given 
 To share the feast of saintly bliss, 
-And see the face of God in heaven,
+And see the face of God in heaven.
 _
 To God the Father and the Son 
 Our songs with one accord we raise;
@@ -397,7 +397,7 @@ O Christ, thou bidd'st us rise with thee
 From death to immortality.
 _
 Eternal Shepherd, thou dost lave
-Thy flock in pure baptismal waveÂ—
+Thy flock in pure baptismal wave,
 That mystic bath, that grave of sin,
 Where ransomed souls new life begin.
 _
@@ -511,8 +511,7 @@ v. Wash yourselves, be clean, take away the evil of your devices from my eyes: c
 $Deo gratias
 _
 V. They shall bear thee up in their hands, 
-R. Lest haply thou dash thy foot against a~
-stone.
+R. Lest haply thou dash thy foot against a stone.
 
 [MM Capitulum Quad5]
 !Jer 11:18-19

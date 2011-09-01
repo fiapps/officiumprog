@@ -11,7 +11,6 @@ De libro tertio Regum.
 2 Et ingressa Jerusalem multo cum comitatu et divitiis, camelis portantibus aromata, et aurum infinitum nimis, et gemmas pretiosas, venit ad regem Salomonem, et locuta est ei universa quae habebat in corde suo.
 3 Et docuit eam Salomon omnia verba quae proposuerat: non fuit sermo qui regem posset latere, et non responderet ei.
 
-
 [Responsory1]
 @Tempora/Pent01-3:Responsory1
 
@@ -22,7 +21,6 @@ De libro tertio Regum.
 6 Dixitque ad regem: Verus est sermo quem audivi in terra mea
 7 super sermonibus tuis, et super sapientia tua: et non credebam narrantibus mihi, donec ipsa veni, et vidi oculis meis, et probavi quod media pars mihi nuntiata non fuerit: major est sapientia et opera tua, quam rumor quem audivi.
 
-
 [Responsory2]
 @Tempora/Pent01-3:Responsory2
 
@@ -32,7 +30,6 @@ De libro tertio Regum.
 9 Sit Dominus Deus tuus benedictus, cui complacuisti, et posuit te super thronum Israël, eo quod dilexerit Dominus Israël in sempiternum, et constituit te regem ut faceres judicium et justitiam.
 10 Dedit ergo regi centum viginti talenta auri, et aromata multa nimis, et gemmas pretiosas: non sunt allata ultra aromata tam multa, quam ea quae dedit regina Saba regi Salomoni.
 11 (Sed et classis Hiram, quae portabat aurum de Ophir, attulit ex Ophir ligna thyina multa nimis, et gemmas pretiosas.
-
 
 [Responsory3]
 @Tempora/Pent01-3:Responsory3

@@ -6,7 +6,6 @@ De libro primo Maccabeorum
 57 et dixit: Faciamus et ipsi nobis nomen, et eamus pugnare adversus gentes quae in circuitu nostro sunt.
 58 Et praecepit his qui erant in exercitu suo, et abierunt Jamniam.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory7
 
@@ -16,7 +15,6 @@ De libro primo Maccabeorum
 60 Et fugati sunt Josephus et Azarias usque in fines Judaeae: et ceciderunt illo die de populo Israël ad duo millia viri, et facta est fuga magna in populo:
 61 quia non audierunt Judam, et fratres ejus, existimantes fortiter se facturos.
 62 Ipsi autem non erant de semine virorum illorum, per quos salus facta est in Israël.
-
 
 [Responsory2]
 @Tempora/101-1:Responsory2
@@ -28,7 +26,6 @@ De libro primo Maccabeorum
 65 Et exivit Judas et fratres ejus, et expugnabant filios Esau in terra quae ad austrum est, et percussit Chebron et filias ejus: et muros ejus, et turres succendit igni in circuitu.
 66 Et movit castra ut iret in terram alienigenarum, et perambulabat Samariam.
 67 In die illa ceciderunt sacerdotes in bello, dum volunt fortiter facere, dum sine consilio exeunt in praelium.
-
 
 [Responsory3]
 @Tempora/101-1:Responsory3

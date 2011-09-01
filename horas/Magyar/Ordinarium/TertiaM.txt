@@ -22,7 +22,7 @@ Mindörökön uralkodó.
 
 #Psalmi
 
-#Capitulum Versum
+#Capitulum Versus
 _
 v. Uram irgalmazz nekünk. Krisztus kegyelmezz nekünk. Uram irgalmazz nekünk.
 &pater_noster

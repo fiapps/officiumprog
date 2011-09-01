@@ -438,13 +438,23 @@ sub setcross {
 #*** setcell($text1, $lang1);
 # output the content of the cell
 sub setcell {
-  my $text = shift;
+  my $text = shift;  
+  
   my $lang = shift; 
   
-  my $width = ($only) ? 100 : 50;
+  my $width = ($only) ? 100 : 50; 
                        
   if (!$Ck) {
-    if (columnsel($lang)) {$searchind++; print "<TR>";} 
+    if (columnsel($lang)) {
+	  $searchind++; print "<TR>"; 
+      if ($notes && $text =~ /\{\:(.*?)\:\}/) {
+        my $notefile = $1;
+	    $notefile =~ s/^pc/p/;
+		my $colspan = ($only) ? 1 : 2;
+	    print "<TR><TD COLSPAN=$colspan WIDTH=100% $background VALIGN=MIDDLE ALIGN=CENTER>\n" .
+	    "<IMG SRC=\"$imgurl/$notefile.gif\" WIDTH=80%></TD></TR>\n";
+      }
+	} 
     print "<TD $background VALIGN=TOP WIDTH=$width% ID=L$searchind>"; 
     topnext_cell($lang);
     if ($text =~ /\%(.*?)\%/) {    
@@ -519,7 +529,7 @@ sub ante_post {
   my $title = shift;
   
   if ($Ck) {return;}
-  my $colspan = ($only) ? '' : 'COLSPAN=2';
+  my $colspan = ($only) ? '' : 'COLSPAN=2';  
 
   print "<TR><TD $background VALIGN=TOP $colspan ALIGN=CENTER>\n";
   print "<INPUT TYPE=RADIO NAME=link onclick='linkit(\"\$$title\", 0, \"Latin\");'>\n";

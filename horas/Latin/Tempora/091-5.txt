@@ -6,7 +6,6 @@ De libro Job
 3 Quasi arena maris haec gravior appareret; unde et verba mea dolore sunt plena:
 4 quia sagittae Domini in me sunt, quarum indignatio ebibit spiritum meum; et terrores Domini militant contra me.
 
-
 [Responsory1]
 @Tempora/091-0:Responsory4
 
@@ -15,7 +14,6 @@ De libro Job
 5 Numquid rugiet onager cum habuerit herbam? aut mugiet bos cum ante praesepe plenum steterit?
 6 aut poterit comedi insulsum, quod non est sale conditum? aut potest aliquis gustare quod gustatum affert mortem?
 7 Quae prius nolebat tangere anima mea, nunc, prae angustia, cibi mei sunt.
-
 
 [Responsory2]
 @Tempora/091-0:Responsory5
@@ -28,7 +26,6 @@ De libro Job
 11 Quae est enim fortitudo mea, ut sustineam? aut quis finis meus, ut patienter agam?
 12 Nec fortitudo lapidum fortitudo mea, nec caro mea aenea est.
 13 Ecce non est auxilium mihi in me, et necessarii quoque mei recesserunt a me.
-
 
 [Responsory3]
 @Tempora/091-0:Responsory6

@@ -1,12 +1,12 @@
 [Source]
-Zsoltáros részbõl az adott napra
-Zsoltáros részbõl az egyházi év szerint
-Az idõszaki részbõl
-A szentek saját officiumából
-A szentek közös officiumából
-Évközi
-Zsoltár és Antiphona vasárnapról
-Votív
+zsoltáros részbõl az adott napra
+zsoltáros részbõl az egyházi év szerint
+az idõszaki részbõl
+a szentek saját officiumából
+a szentek közös officiumából
+évközi
+zsoltár és Antiphona vasárnapról
+votív
 
 [Preces]
 van
@@ -27,3 +27,4 @@ Tridentin
 Megemlékezés a hétközi napról 
 Megemlékezés a vasarnapról 
 Megemlékezés a szentrõl
+Megemlekezes Vizkereszt vigiliajarol

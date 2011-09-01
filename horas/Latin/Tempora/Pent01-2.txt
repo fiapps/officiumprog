@@ -14,15 +14,11 @@ Oratio Dominica
 17 Tunc Heli ait ei: Vade in pace: et Deus Israël det tibi petitionem tuam quam rogasti eum.
 18 Et illa dixit: Utinam inveniat ancilla tua gratiam in oculis tuis. Et abiit mulier in viam suam, et comedit, vultusque illius non sunt amplius in diversa mutati.
 
-
 [Responsory1]
 R. Percussit Saul mille, et David decem millia:
-* Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit~
-opprobrium ex Israel.
-V. Nonne iste est David, de quo canebant in choro, dicentes Saul percussit~
-mille, et David decem millia?
-R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit~
-opprobrium ex Israel.
+* Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit opprobrium ex Israël.
+V. Nonne iste est David, de quo canebant in choro, dicentes Saul percussit mille, et David decem millia?
+R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit opprobrium ex Israël.
 
 [Lectio2]
 !1 Sam 1:18-22
@@ -32,13 +28,11 @@ opprobrium ex Israel.
 21 Ascendit autem vir ejus Elcana, et omnis domus ejus, ut immolaret Domino hostiam solemnem, et votum suum.
 22 Et Anna non ascendit: dixit enim viro suo: Non vadam donec ablactetur infans, et ducam eum, ut appareat ante conspectum Domini, et maneat ibi jugiter.
 
-
 [Responsory2]
 R. Montes Gelboe, nec ros nec pluvia veniant super vos,
-* Ubi ceciderunt fortes Israel.
-V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboe autem~
-transeat.
-R. Ubi ceciderunt fortes Israel.
+* Ubi ceciderunt fortes Israël.
+V. Omnes montes, qui estis in circuitu ejus, visitet Dominus: a Gelboe autem transeat.
+R. Ubi ceciderunt fortes Israël.
 
 [Lectio3]
 !1 Sam 1:23-28
@@ -49,13 +43,10 @@ R. Ubi ceciderunt fortes Israel.
 27 Pro puero isto oravi, et dedit mihi Dominus petitionem meam quam postulavi eum.
 28 Idcirco et ego commodavi eum Domino cunctis diebus quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum. Et oravit Anna, et ait:
 
-
 [Responsory3]
-R. Ego te tuli de domo patris tui, dicit Dominus, et posui te poscere gregem~
-populi mei:
+R. Ego te tuli de domo patris tui, dicit Dominus, et posui te poscere gregem populi mei:
 * Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.
-V. Fecique tibi nomen grande, juxta nomen magnorum, qui sunt in terra: et~
-requiem dedi tibi ab omnibus inimicis tuis.
+V. Fecique tibi nomen grande, juxta nomen magnorum, qui sunt in terra: et requiem dedi tibi ab omnibus inimicis tuis.
 R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.
 &Gloria
 R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.

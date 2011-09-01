@@ -8,7 +8,6 @@ De libro primo Maccabeorum
 5 Et venit qui nuntiaret ei in Perside, quia fugata sunt castra quae erant in terra Juda:
 6 et quia abiit Lysias cum virtute forti in primis, et fugatus est a facie Judaeorum
 
-
 [Responsory1]
 @Tempora/101-0:Responsory1
 
@@ -19,7 +18,6 @@ De libro primo Maccabeorum
 8 Et factum est ut audivit rex sermones istos, expavit, et commotus est valde: et decidit in lectum, et incidit in languorem prae tristitia, quia non factum est ei sicut cogitabat.
 9 Et erat illic per dies multos, quia renovata est in eo tristitia magna, et arbitratus est se mori.
 
-
 [Responsory2]
 @Tempora/101-0:Responsory2
 
@@ -29,7 +27,6 @@ De libro primo Maccabeorum
 11 et dixi in corde meo: In quantam tribulationem deveni, et in quos fluctus tristitiae, in qua nunc sum: qui jucundus eram, et dilectus in potestate mea !
 12 Nunc vero reminiscor malorum quae feci in Jerusalem, unde et abstuli omnia spolia aurea et argentea quae erant in ea, et misi auferre habitantes Judaeam sine causa.
 13 Cognovi ergo quia propterea invenerunt me mala ista: et ecce pereo tristitia magna in terra aliena.
-
 
 [Responsory3]
 @Tempora/101-0:Responsory3

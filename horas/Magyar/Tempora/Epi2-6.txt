@@ -13,6 +13,26 @@ Olvasmány szent Pál apostol Korintusiakhoz irott második levelébõl
 4 Gyöngeségében ugyan megfeszítették, de Isten erejébõl él. Mi is gyöngék vagyunk benne, de vele együtt élünk, és ezt be is bizonyítjuk azzal az erõvel, amelyet Isten veletek szemben ad. 
 
 [Responsory1]
+R. Mercy and judgment I will sing to thee, O Lord: 
+* I will sing, and I will understand in the unspotted way, when thou shalt come to me. 
+V. I walked in the innocence of my heart, in the midst of my house. 
+R. Mercy and judgment I will sing to thee, O Lord
+
+[Responsory2]
+R.  Hear my prayer, O Lord, and let my crying come unto thee.
+* For thou wilt not despise, O God, the prayer of the destitute
+V. O let thine ears consider well the voice of my complaint
+R. For thou wilt not despise, O God, the prayer of the destitute.
+
+[Responsory3]
+R. Haste thee to + hear me O Lord.
+* For my days are consumed away like smoke
+V. But thou art the same, and thy years shall not fail.
+R. For my days are consumed away like smoke.
+&Gloria
+R. For my days are consumed away like smoke.
+
+[ResponsoryT1]
 @Tempora/Epi2-3:Responsory1
 
 [Lectio2]
@@ -23,7 +43,7 @@ Olvasmány szent Pál apostol Korintusiakhoz irott második levelébõl
 8 Az igazság ellen nem tehetünk semmit, csak az igazságért. 
 9 Örülünk, hogy gyöngék vagyunk, csak ti legyetek erõsek. Imádkozunk is tökéletesedésetekért. 
 
-[Responsory2]
+[ResponsoryT2]
 @Tempora/Epi2-3:Responsory2
 
 [Lectio3]
@@ -34,5 +54,5 @@ Olvasmány szent Pál apostol Korintusiakhoz irott második levelébõl
 13 Urunk, Jézus Krisztus kegyelme, Isten szeretete és a Szentlélek közössége legyen mindnyájatokkal! 
 
 
-[Responsory3]
+[ResponsoryT3]
 @Tempora/Epi2-3:Responsory3

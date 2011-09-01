@@ -6,7 +6,6 @@ De libro primo Maccabeorum
 21 propitius sit nobis Deus: non est nobis utile relinquere legem, et justitias Dei:
 22 non audiemus verba regis Antiochi, nec sacrificabimus transgredientes legis nostrae mandata, ut eamus altera via.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory7
 
@@ -19,7 +18,6 @@ De libro primo Maccabeorum
 25 sed et virum, quem rex Antiochus miserat, qui cogebat immolare, occidit in ipso tempore, et aram destruxit:
 26 et zelatus est legem, sicut fecit Phinees Zamri filio Salomi.
 
-
 [Responsory2]
 @Tempora/101-1:Responsory2
 
@@ -29,7 +27,6 @@ De libro primo Maccabeorum
 28 Et fugit ipse, et filii ejus in montes, et reliquerunt quaecumque habebant in civitate.
 29 Tunc descenderunt multi quaerentes judicium, et justitiam, in desertum:
 30 et sederunt ibi ipsi, et filii eorum, et mulieres eorum, et pecora eorum: quoniam inundaverunt super eos mala.
-
 
 [Responsory3]
 @Tempora/101-2:Responsory3

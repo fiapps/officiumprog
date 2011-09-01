@@ -1,11 +1,11 @@
 [Invit]
 Dominica = Dominum qui fecit nos * Venite adoremus
-Feria II = Venite * Exultemus Domino
-Feria III = Jubilemus Deo * Salutaris nostro
+Feria II = Venite * Exsultemus Domino
+Feria III = Jubilemus Deo * Salutari nostro
 Feria IV = Deum magnum Dominum * Venite adoremus
 Feria V = Regem magnum Dominum * Venite adoremus
 Feria VI =  Dominum Deum nostrum * Venite adoremus
-Sabbato = Populus Domini et oves pascue eius * Venite adoremus
+Sabbato = Populus Domini et oves pascuae eius * Venite adoremus
 Invit 1 = Adoremus Dominum * Quoniam ipse fecit nos
 
 [Invit Trid]
@@ -30,13 +30,13 @@ Prope est jam Dominus * Venite adoremus
 Hodie scietis quia veniet Dominus * Et mane videbitis gloriam eius
 
 [Invit Quad]
-Non sit vobis vanum mane surgere ante lucem * quia promisit Dominus coronam vigilantibus
+Non sit vobis vanum mane surgere ante lucem * Quia promisit Dominus coronam vigilantibus
 
 [Invit Quad5]
-Utinam hodie vocem Domini audiatis * Nolite obdurare corda vestra
+Hodie si vocem Domini audieritis * Nolite obdurare corda vestra
 
 [Invit Pasch]
-Surrexit Dominus vere * alleluia
+Surrexit Dominus vere * Alleluia
 
 [Day0 Hymnus]
 {:H-MatDom1:}v. Nocte surgentes vigilemus omnes,
@@ -45,12 +45,12 @@ Voce concordi Domino canamus
 Dulciter hymnos.
 _
 Ut pio Regi pariter canentes,
-Cum suis sanctis mereamur aulam
-Ingredi coeli, simul et perennem
+Cum suis Sanctis mereamur aulam
+Ingredi caeli, simul et perennem
 Ducere vitam.
 _
 Praestet hoc nobis Deitas beata
-Patris, ac Nati, pariterque sancti
+Patris, ac Nati, pariterque Sancti
 Spiritus, cujus resonat per omnem
 Gloria mundum.
 Amen.
@@ -91,7 +91,7 @@ Tu probra nostra diluas:
 Nobisque largus commoda
 Vitae perennis conferas.
 _
-Praesta, Pater piissime, 
+* Praesta, Pater piissime, 
 Patrique compar Unice, 
 Cum Spiritu Paraclito 
 Regnans per omne saeculum.
@@ -118,7 +118,7 @@ Noxas ut omnes amputes,
 Et ore te canentium
 Lauderis omni tempore.
 _
-Praesta, Pater piissime,
+* Praesta, Pater piissime,
 Patrique compar Unice,
 Cum Spiritu Paraclito,
 Regnans per omne saeculum.
@@ -140,7 +140,7 @@ Indulgeas credentibus,
 Ut prosit exorantibus,
 Quod praecinentes psallimus.
 _
-Praesta, Pater piissime,
+* Praesta, Pater piissime,
 Patrique compar Unice,
 Cum Spiritu Paraclito,
 Regnans per omne saeculum.
@@ -152,8 +152,8 @@ Rectorque noster, aspice,
 Nos a quiete noxia
 Mersos sopore libera.
 _
-Te, Sancte Christe, poscimus,
-Ignosce tu criminibus,
+Te, sancte Christe, poscimus,
+Ignosce culpis omnibus,
 Ad confitendum surgimus,
 Morasque noctis rumpimus.
 _
@@ -162,12 +162,12 @@ Propheta sicut noctibus
 Nobis gerendum praecipit,
 Paulusque gestis censuit.
 _
-Vides malum, quod gessimus,
+Vides malum, quod fecimus,
 Occulta nostra pandimus,
 Preces gementes fundimus,
 Dimitte, quod peccavimus.
 _
-Praesta, Pater piissime,
+* Praesta, Pater piissime,
 Patrique compar Unice,
 Cum Spiritu Paraclito,
 Regnans per omne saeculum.
@@ -194,7 +194,7 @@ Intrinsecus quam maxime:
 Ut in beato gaudeat
 Se collocari lumine.
 _
-Praesta, Pater piissime,
+* Praesta, Pater piissime,
 Patrique compar Unice,
 Cum Spiritu Paraclito,
 Regnans per omne saeculum.
@@ -205,11 +205,6 @@ Amen.
 Orbem potenter quae regis,
 Attende laudis canticum,
 Quod excubantes psallimus.
-_
-Ortus refulget Lucifer
-Sparsamque lucem nuntiat,
-Cadit caligo noctium,
-Lux Sancta nos illuminet.
 _
 Nam lectulo consurgimus
 Noctis quieto tempore,
@@ -223,7 +218,7 @@ Tuae potestas gloriae.
 _
 Ne corpus astet sordidum,
 Nec torpor instet cordium,
-Nec criminis contagio
+Ne criminis contagio
 Tepescat ardor spiritus.
 _
 Ob hoc, Redemptor, quaesumus:
@@ -231,13 +226,40 @@ Reple tuo nos lumine,
 Per quod dierum circulis
 Nullis ruamus actibus.
 _
-Praesta, Pater piissime,
+* Praesta, Pater piissime,
 Patrique compar Unice,
 Cum Spiritu Paraclito,
 Regnans per omne saeculum.
 Amen.
 
 [Day6 Hymnus]
+{:H-MatFeria:}v. Summae Parens clementiæ,
+Mundi regis qui machinam,
+Uníus et substantiae,
+Trinusque personis Deus:
+_
+Nostros pius cum canticis
+Fletus benigne suscipe:
+Ut corde puro sordium
+Te perfruamur largius.
+_
+Lumbos jecurque morbidum
+Flammis adure congruis,
+Accincti ut artus excubent,
+Luxu remoto pessimo.
+__
+Quicumque ut horas noctium
+Nunc concinendo rumpimus,
+Ditemur omnes affatim
+Donis beatae patriae.
+_
+* Praesta, Pater piissime,
+Patrique compar Unice,
+Cum Spiritu Paraclito
+Regnans per omne saeculum.
+Amen.
+
+[Day6 HymnusM]
 {:H-MatFeria:}v. Summae Deus clementiae,
 Mundique factor machinae,
 Unus potentialiter,
@@ -258,7 +280,7 @@ Nunc concinendo rumpimus,
 Donis beatae patriae
 Ditemur omnes affatim.
 _
-Praesta, Pater piissime,
+* Praesta, Pater piissime,
 Patrique compar Unice,
 Cum Spiritu Paraclito,
 Regnans per omne saeculum.
@@ -273,20 +295,20 @@ _
 Illumina nunc pectora, 
 Tuoque amore concrema, 
 Ut cor caduca deserens 
-Coeli voluptas impleat.
+Caeli voluptas impleat.
 _
 Ut, cum tribunal Judicis 
 Damnabit igni noxios,
 Et vox amica debitum
-Vocabit ad coelum pios.
+Vocabit ad caelum pios.
 _
 Non esca flammarum nigros 
 Volvamur inter turbines, 
 Vultu Dei sed compotes 
-Coeli fruamur gaudiis.
+Caeli fruamur gaudiis.
 _
-Patri simulque Filio, 
-Tibique sancte Spiritus, 
+* Patri simulque Filio, 
+Tibique Sancte Spiritus, 
 Sicut fuit, sit jugiter 
 Saeclum per omne gloria.
 Amen.
@@ -313,7 +335,7 @@ Nullumque demus callidi
 Hostis locum tyrannidi. 
 _
 Flectamus iram vindicem, 
-Ploremus ante judicem, 
+Ploremus ante Judicem, 
 Clamemus ore supplici, 
 Dicamus omnes cernui: 
 _
@@ -341,21 +363,21 @@ Amen.
 [Hymnus Quad5]
 {:H-MatQuad5:}v. Pange, lingua, gloriosi
 Lauream certaminis,
-Et super crucis trophaeo
+Et super Crucis trophaeo
 Dic triumphum nobilem,
-Qualiter redemptor orbis
+Qualiter Redemptor orbis
 Immolatus vicerit.
 _
 De parentis protoplasti
-Fraude factor condolens,
+Fraude Factor condolens,
 Quando pomi noxialis
-Morte morsu corruit,
+In necem morsu ruit,
 Ipse lignum tunc notavit,
 Damna ligni ut solveret.
 _
 Hoc opus nostrae salutis
 Ordo depoposcerat,
-Multiformis perditoris
+Multiformis proditoris
 Ars ut artem falleret,
 Et medelam ferret inde,
 Hostis unde laeserat.
@@ -363,7 +385,7 @@ _
 Quando venit ergo sacri
 Plenitudo temporis,
 Missus est ab arce Patris
-Natus, orbis conditor,
+Natus, orbis Conditor,
 Atque ventre virginali
 Carne amictus prodiit.
 _
@@ -383,8 +405,8 @@ Laudet universitas.
 Amen.
 
 [Hymnus Pasch]
-{:H-MatPasc:}v. Rex sempiternae coelitum,
-Rerum creator omnium,
+{:H-MatPasc:}v. Rex sempiterne caelitum,
+Rerum Creator omnium,
 Aequalis ante saecula
 Semper Parenti Filius.
 _
@@ -399,14 +421,14 @@ Tu carne amictus, perditam
 Formam reformas artifex.
 _
 Qui natus olim e Virgine,
-Nunc e sepulchro nasceris
+Nunc e sepulcro nasceris
 Tecumque nos a mortuis
-Jubes sepulto surgere.
+Jubes sepultos surgere.
 _
 Qui pastor aeternus gregem
 Aqua lavas baptismatis:
 Haec est lavacrum mentium;
-Haec est sepulchrum criminum.
+Haec est sepulcrum criminum.
 _
 Nobis diu qui debitae
 Redemptor affixus cruci,

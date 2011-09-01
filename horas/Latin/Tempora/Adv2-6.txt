@@ -10,22 +10,20 @@ De Isaia Propheta
 1 Domine, Deus meus es tu; exaltabo te, et confitebor nomini tuo: quoniam fecisti mirabilia, cogitationes antiquas fideles. Amen.
 2 Quia posuisti civitatem in tumulum, urbem fortem in ruinam, domum alienorum: ut non sit civitas, et in sempiternum non aedificetur.
 3 Super hoc laudabit te populus fortis; civitas gentium robustarum timebit te:
-4 quia factus es fortitudo pauperi, fortitudo egeno in tribulatione sua, spes a turbine, umbraculum ab aestu; spiritus enim robustorum quasi turbo impellens parietem.
-
+4 quia factus es fortitudo pauperi, fortitudo egeno in tribulatione sua, spes a turbine, umbraculum ab aestu.
 
 [Responsory1]
-@Tempora/Adv1-0:Responsory7
+@Tempora/Adv2-0:Responsory7
 
 [Lectio2]
 !Isa 25:4-7
-4 quia factus es fortitudo pauperi, fortitudo egeno in tribulatione sua, spes a turbine, umbraculum ab aestu; spiritus enim robustorum quasi turbo impellens parietem.
+4 spiritus enim robustorum quasi turbo impellens parietem.
 5 Sicut aestus in siti, tumultum alienorum humiliabis; et quasi calore sub nube torrente, propaginem fortium marcescere facies.
 6 Et faciet Dominus exercituum omnibus populis in monte hoc convivium pinguium, convivium vindemiae, pinguium medullatorum, vindemiae defaecatae.
 7 Et praecipitabit in monte isto faciem vinculi colligati super omnes populos, et telam quam orditus est super omnes nationes.
 
-
 [Responsory2]
-@Tempora/Adv1-0:Responsory8
+@Tempora/Adv2-0:Responsory8
 
 [Lectio3]
 !Isa 25:8-12
@@ -35,9 +33,8 @@ De Isaia Propheta
 11 Et extendet manus suas sub eo sicut extendit natans ad natandum; et humiliabit gloriam ejus cum allisione manuum ejus.
 12 Et munimenta sublimium murorum tuorum concident, et humiliabuntur, et detrahentur in terram usque ad pulverem.
 
-
 [Responsory3]
-@Tempora/Adv1-0:Responsory9
+@Tempora/Adv2-0:Responsory9
 
 [Ant 2]
-Levabit Dominus signum * in nationibus, et congregabit dispersos Israel.
+Levabit Dominus signum * in nationibus, et congregabit dispersos Israël.

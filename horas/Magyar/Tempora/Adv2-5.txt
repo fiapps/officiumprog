@@ -5,14 +5,14 @@ Feria VI infra Hebdomadam II Adventus;;Feria major;;2
 Oratio Dominica
 
 [Lectio1]
-Olvasmány Iziás próféta könyvébõl
+Olvasmány Izaiás próféta könyvébõl
 !Isa 24:1-3
 1 Íme, az Úr elpusztítja a földet, kopárrá teszi és elcsúfítja a színét, lakóit pedig messze szétszórja. 
 2 A pap úgy jár majd, mint a nép, az úr, mint a szolgája, s az úrnõ, mint a szolgálója. Az eladó olyan lesz, mint a vásárló, a kölcsönadó, mint a kölcsönvevõ, és a hitelezõ olyan, mint az adós. 
 3 A föld elpusztul, s úgy jár, mint akit kifosztottak. Igen, az Úr mondta ki ezt ellene. 
 
 [Responsory1]
-@Tempora/Adv1-0:Responsory4
+@Tempora/Adv2-0:Responsory4
 
 [Lectio2]
 !Isa 24:4-6
@@ -21,7 +21,7 @@ Olvasmány Iziás próféta könyvébõl
 6 Ezért átok emészti meg a földet, és megbûnhõdnek, akik rajta laknak. Tûz emészti meg a föld lakóit, és csak kevesen maradnak életben. 
 
 [Responsory2]
-@Tempora/Adv1-0:Responsory5
+@Tempora/Adv2-0:Responsory5
 
 [Lectio3]
 !Isa 24:7-16
@@ -34,15 +34,12 @@ Olvasmány Iziás próféta könyvébõl
 13 Éppúgy lesz majd a földön a nemzetek között, mint amikor leverik a bogyót az olajfákról, és a szüret elmúltával összeböngészik a szõlõt. 
 14 De õk örömükben dicséretet zengenek, ujjonganak a tenger felõl az Úr fölségének. 
 15 A szigeteken is az Urat áldják; a tenger szigetein az Úr nevét, Izrael Istenének nevét dicsõítik. 
-16 A föld határáról halljuk az énekszót: Legyen dicsõség az Igaznak! Hanem én azt mondom: "Elég már, elég! Jaj az árulóknak, akik hûtlenül járnak el, az árulóknak, akik mindenestül hûtlenek!" 
-
+16 A föld határáról halljuk az énekszót: Legyen dicsõség az Igaznak! 
 [Responsory3]
-@Tempora/Adv1-0:Responsory6
+@Tempora/Adv2-0:Responsory6
 
 [Ant 2]
-Say * Ye that are of a fearful heart, be strong; behold, the Lord our God will~
-come.
+Say * Ye that are of a fearful heart, be strong; behold, the Lord our God will come.
 
 [Ant 3]
-Sing unto the Lord * a new song from the end of the earth let the voice of~
-praise be heard.
+Sing unto the Lord * a new song from the end of the earth let the voice of praise be heard.

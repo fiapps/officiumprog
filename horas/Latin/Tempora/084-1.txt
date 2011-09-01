@@ -7,7 +7,6 @@ De libro Ecclesiastici.
 25 Radix sapientiae est timere Dominum, et rami illius longaevi.
 26 In thesauris sapientiae intellectus et scientiae religiositas: execratio autem peccatoribus sapientia.
 
-
 [Responsory1]
 @Tempora/081-1:Responsory1
 
@@ -21,7 +20,6 @@ De libro Ecclesiastici.
 32 execratio autem peccatori cultura Dei.
 33 Fili, concupiscens sapientiam, conserva justitiam, et Deus praebebit illam tibi.
 
-
 [Responsory2]
 @Tempora/081-1:Responsory2
 
@@ -34,7 +32,6 @@ De libro Ecclesiastici.
 38 Attende in illis, ne forte cadas, et adducas animae tuae inhonorationem:
 39 et revelet Deus absconsa tua, et in medio synagogae elidat te:
 40 quoniam accessisti maligne ad Dominum, et cor tuum plenum est dolo et fallacia.
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

@@ -11,7 +11,7 @@ Symbolum Athanasium
 Glory be to Thee, + O Trinity in Unity, one Deity, before all ages, now and forever.;;109
 Praise and eternal glory + to God the Father and to the Son, together with the Holy paraclete, through all ages.;;110
 Let the glory + of praise resound from every voice to the Father and to His begotten Son, together with the Holy Spirit likewise let everlasting praise be given.;;111
-From whom are all things, * through whom are all things, and in whom are all things: to him be glory for evermore.
+From whom are all things, * through whom are all things, and in whom are all things: to him be glory for evermore.;;112
 
 [Capitulum Vespera]
 !Rom 11:33
@@ -415,6 +415,14 @@ With all our heart * and with all our voice do we acknowledge thee, praise thee,
 and bless thee, O God the Father the Unbegotten, O God the Only-Begotten Son, O~
 God the Holy Ghost the Comforter, One Holy and Undivided Trinity To thee be~
 glory for ever
+
+[Oratio 3]
+Almighty and everlasting God, you have given thy servants~
+in the confession of the true faith, to acknowledge the glory of~
+the Eternal Trinity, and to adore the unity in the power of thy~
+Majesty; grant, that by steadfastness in this faith we may ever~
+be defended from all adversities.
+$Per Dominum
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew

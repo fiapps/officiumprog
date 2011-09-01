@@ -8,7 +8,6 @@ De libro Job
 5 Nunc autem venit super te plaga, et defecisti; tetigit te, et conturbatus es.
 6 Ubi est timor tuus, fortitudo tua, patientia tua, et perfectio viarum tuarum?
 
-
 [Responsory1]
 @Tempora/091-0:Responsory2
 
@@ -19,7 +18,6 @@ De libro Job
 9 flante Deo perisse, et spiritu irae ejus esse consumptos.
 10 Rugitus leonis, et vox leaenae, et dentes catulorum leonum contriti sunt.
 11 Tigris periit, eo quod non haberet praedam, et catuli leonis dissipati sunt.
-
 
 [Responsory2]
 @Tempora/081-0:Responsory1
@@ -33,7 +31,6 @@ De libro Job
 16 Stetit quidam, cujus non agnoscebam vultum, imago coram oculis meis, et vocem quasi aurae lenis audivi.
 17 Numquid homo, Dei comparatione, justificabitur? aut factore suo purior erit vir?
 18 Ecce qui serviunt ei, non sunt stabiles, et in angelis suis reperit pravitatem;
-
 
 [Responsory3]
 @Tempora/091-0:Responsory3

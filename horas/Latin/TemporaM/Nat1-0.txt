@@ -58,9 +58,9 @@ non quaesita reperit, sed in inquisitione deficit.
 
 [Responsory5]
 R. Sancta et immaculata virginitas, quibus te laudibus efferam, nescio:
-* Quia quem coeli capere non poterant, tuo gremio contulisti.
+* Quia quem caeli capere non poterant, tuo gremio contulisti.
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
-R. Quia quem coeli capere non poterant, tuo gremio contulisti.
+R. Quia quem caeli capere non poterant, tuo gremio contulisti.
 
 [Lectio6]
 Ne autem infirmitatis nostrae perturbemur angustiis, evangelicae nos et~
@@ -90,7 +90,7 @@ dicebantur de illo. Et reliqua.
 _
 Homilia sancti Ambrosii Episcopi.
 !Lib. 2. in cap. 2. Lucae, prope finem.
-Vides liberem in omnes gratiam, Domini generatione diffusam et prophetiam~
+Vides uberem in omnes gratiam, Domini generatione diffusam et prophetiam~
 incredulis negatam esse, non justis. Ecce et Simeon prophetat, in ruinam et~
 resurrectionem plurimorum venisse Dominum Jesum Christum, ut justorum,~
 iniquorumque merita discernat; et pro nostrorum qualitate factorum, judex verus~
@@ -123,12 +123,12 @@ descripserimus, cum viduas hortaremur, hoc loco, quoniam ad alia properamus, non
 putamus iteranda.
 
 [Responsory9]
-R. O regem coeli, * cui talia famulantur obsequia: stabulo ponitur, qui continet mundum:
-* Jacet in praesepio et in coelis regnat
+R. O regem caeli, * cui talia famulantur obsequia: stabulo ponitur, qui continet mundum:
+* Jacet in praesepio et in caelis regnat
 V. Natus est nobis hodie Salvator, qui est Christus Dominus, in civitate David.
-R. Jacet in praesepio et in coelis regnat.
+R. Jacet in praesepio et in caelis regnat.
 &Gloria
-R. Jacet in praesepio et in coelis regnat
+R. Jacet in praesepio et in caelis regnat
 
 [Capitulum Laudes]
 !Gal 1:1-2

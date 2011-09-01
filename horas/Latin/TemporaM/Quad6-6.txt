@@ -63,15 +63,15 @@ R. Ut vivificaret populum suum.
 
 [Responsory2]
 R. Jerusalem surge, et exue te vestibus jucunditatis induere cinere et cilicio,
-* Quia in te occisus est Salvator Israel.
+* Quia in te occisus est Salvator Israël.
 V. Deduc quasi torrentem lacrimas per diem et noctem, et non taceat pupilla~
 oculi tui.
-R. Quia in te occisus est Salvator Israel.
+R. Quia in te occisus est Salvator Israël.
 
 [Lectio3]
 !Lam 5:1-11
 1 Recordare, Domine, quid acciderit nobis; intuere et respice opprobrium nostrum.
-2 Haereditas nostra versa est ad alienos, domus nostrae ad extraneos.
+2 Hereditas nostra versa est ad alienos, domus nostrae ad extraneos.
 3 Pupilli facti sumus absque patre, matres nostrae quasi viduae.
 4 Aquam nostram pecunia bibimus; ligna nostra pretio comparavimus.
 5 Cervicibus nostris minabamur, lassis non dabatur requies.
@@ -115,14 +115,14 @@ mortis et seras pariter Salvator noster disrupit.
 
 [Lectio5]
 Quo perduxerunt illas scrutationes suas, quas perscrutantes defecerunt, ut etiam~
-mortuo Domino et sepulto, custodes ponerent ad sepulchrum? Dixerunt enim Pilato:~
+mortuo Domino et sepulto, custodes ponerent ad sepulcrum? Dixerunt enim Pilato:~
 Seductor ille: hoc appellabitur nomine Dominus Jesus Christus, ad solatium~
 servorum suorum, quando dicuntur seductores: ergo illi Pilato: Seductor ille,~
 inquiunt, dixit adhuc vivens: Post tres dies resurgam. Jube itaque custodiri~
-sepulchrum usque in diem tertium, ne forte veniant discipuli ejus, et furentur~
+sepulcrum usque in diem tertium, ne forte veniant discipuli ejus, et furentur~
 eum, et dicant plebi, Surrexit a mortuis: et erit novissimus error pejor priore.~
 Ait illis Pilatus: Habetis custodiam, ite, custodite sicut scitis. Eli autem~
-abeuntes, munierunt sepulchrum, signantes lapidem cibi custodibus.
+abeuntes, munierunt sepulcrum, signantes lapidem cibi custodibus.
 
 [Responsory5]
 R. O vos omnes, qui transitis per viam, attendite et videte,
@@ -131,10 +131,10 @@ V. Attendite universi populi, et videte dolorem meum.
 R. Si est dolor similis sicut dolor meus.
 
 [Lectio6]
-Posuerunt custodes milites ad sepulchrum. Concussa terra Dominus resurrexit:~
-miracula facta sunt talia circa sepulchrum, ut et ipsi milites, qui custodes~
+Posuerunt custodes milites ad sepulcrum. Concussa terra Dominus resurrexit:~
+miracula facta sunt talia circa sepulcrum, ut et ipsi milites, qui custodes~
 advenerant, testes fierent, si vellent vera nuntiare. Sed avaritia illa, quae~
-captivavit discipulum comitem Christi, captivavit et militem custodem sepulchri.~
+captivavit discipulum comitem Christi, captivavit et militem custodem sepulcri.~
 Damus, inquiunt, vobis pecuniam: et dicite, quia vobis dormientibus venerunt~
 discipuli ejus, et abstulerunt eum. Vere defecerunt scrutantes scrutationes.~
 Quid est quod dixisti, o infelix astutia? Tantum ne deseris lucem consilii~
@@ -170,7 +170,7 @@ R. Adversus Dominum, et adversus Christum ejus.
 
 [Lectio8]
 !Heb 9:15-18
-15 Et ideo novi testamenti mediator est: ut morte intercedente, in redemptionem earum praevaricationum, quae erant sub priori testamento, repromissionem accipiant qui vocati sunt aeternae haereditatis.
+15 Et ideo novi testamenti mediator est: ut morte intercedente, in redemptionem earum praevaricationum, quae erant sub priori testamento, repromissionem accipiant qui vocati sunt aeternae hereditatis.
 16 Ubi enim testamentum est, mors necesse est intercedat testatoris.
 17 Testamentum enim in mortuis confirmatum est: alioquin nondum valet, dum vivit qui testatus est.
 18 Unde nec primum quidem sine sanguine dedicatum est.

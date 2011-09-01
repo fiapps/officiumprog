@@ -1,14 +1,11 @@
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvébõl
 !Sir 1:22-26
-22 A bölcseség koronája az Úr félelme; teljes békeséget ad és az üdvösség~
-gyümölcsét.
+22 A bölcseség koronája az Úr félelme; teljes békeséget ad és az üdvösség gyümölcsét.
 23 És látja és számba veszi azt; mind a kettö pedig Isten ajándéka.
-24 Tudományt és értelmes okosságot osztogat a bölcseség, és a veletartókat~
-dicsöségesen fölmagasztalja.
+24 Tudományt és értelmes okosságot osztogat a bölcseség, és a veletartókat dicsöségesen fölmagasztalja.
 25 A bölcseség gyökere az Úr félelme, és az ö ágai hosszú életûek.
-26 A bölcseség kincseiben az értelem és az istenes tudomány; de a bûnösök elött~
-utálat a bölcseség.
+26 A bölcseség kincseiben az értelem és az istenes tudomány; de a bûnösök elött utálat a bölcseség.
 
 [Responsory1]
 @Tempora/081-1:Responsory1
@@ -16,15 +13,12 @@ utálat a bölcseség.
 [Lectio2]
 !Sir 1:27-33
 27 Az Úr félelme kiözi a bûnt;
-28 mert a ki (isteni) félelem nélkül vagyon, nem igazúlhat meg; mivel vakmerö~
-haragja az ö romlása.
+28 mert a ki (isteni) félelem nélkül vagyon, nem igazúlhat meg; mivel vakmerö haragja az ö romlása.
 29 Csak egy ideig szenved a béketûrö, és azután vígaság a fizetése.
-30 A jó értelmû egy ideig titkolja igéit, és sokak ajkai hirdetni fogják~
-értelmességét.
+30 A jó értelmû egy ideig titkolja igéit, és sokak ajkai hirdetni fogják értelmességét.
 31 A bölcseség kincseiben van a fegyelem tanítása;
 32 de a bûnös elött utálatosság az isteni tisztelet.
-33 Fiam! ha bölcseséget kivánsz, tartsd meg az igazságot, és Isten azt megadja~
-neked.
+33 Fiam! ha bölcseséget kivánsz, tartsd meg az igazságot, és Isten azt megadja neked.
 
 [Responsory2]
 @Tempora/081-1:Responsory2
@@ -37,8 +31,7 @@ neked.
 37 Ne légy képmutató az emberek színe elött, és botrányt ne szerezz ajakiddal.
 38 Vigyázz azokra, nehogy elessél, és lelkedre tiszteletlenséget hozz,
 39 és Isten kijelentse titkaidat, és a gyülekezetnek közepette leverjen,
-40 mivel gonoszúl járúltál az Úrhoz, szived rakva lévén álnoksággal és~
-csalárdsággal.
+40 mivel gonoszúl járúltál az Úrhoz, szived rakva lévén álnoksággal és csalárdsággal.
 
 [Responsory3]
 @Tempora/081-1:Responsory3

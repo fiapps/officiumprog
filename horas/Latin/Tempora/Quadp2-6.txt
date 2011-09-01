@@ -14,7 +14,6 @@ De libro Genesis
 14 Sale quoque vixit triginta annis, et genuit Heber.
 15 Vixitque Sale, postquam genuit Heber, quadringentis tribus annis: et genuit filios et filias.
 
-
 [Responsory1]
 @Tempora/Quadp2-0:Responsory1
 
@@ -29,7 +28,6 @@ De libro Genesis
 22 Vixit vero Sarug triginta annis, et genuit Nachor.
 23 Vixitque Sarug, postquam genuit Nachor, ducentis annis: et genuit filios et filias.
 
-
 [Responsory2]
 @Tempora/Quadp2-0:Responsory8
 
@@ -42,7 +40,6 @@ De libro Genesis
 28 Mortuusque est Aran ante Thare patrem suum, in terra nativitatis suae, in Ur Chaldaeorum.
 29 Duxerunt autem Abram et Nachor uxores: nomen uxoris Abram, Sarai: et nomen uxoris Nachor, Melcha filia Aran, patris Melchae, et patris Jeschae.
 30 Erat autem Sarai sterilis, nec habebat liberos.
-
 
 [Responsory3]
 @Tempora/Quadp2-1:Responsory1

@@ -1,0 +1,107 @@
+H-Adregias;;Ad re-gi-as Ag-ni da-pes,;;Sto-lis a-mic-ti can-di-dis,;;Post tran-si-tum Ma-ris Ru-bri,;;Chris-to ca-na-mus Pri-nci-pi: 
+H-AeternaChristi;;Ae-ter-na Chris-ti mu-ne-ra,;;A-pos-to-lo-rum glo-ri-am,;;Pal-mas et hym-nos de-bi-tos;;Lae-tis ca-na-mus men-ti-bus.
+H-Aeternarex;;Ae-ter-ne Rex al--tis-si-me,;;Re-demp-tor et fi-de-li-um,;;Cui mors pe-rem-pta de-tu-lit;;Sum-mae tri-um-phum glo-ri-ae.
+H-Aeternererum;;Ae-ter-ne re-rum Con-di-tor,;;Noc-tem di-em-que qui re-gis,;;Et tem-po-rum das tem-po-ra,;;Ut al-le-ves fas-ti-di-um. 
+H-Altoexolympi;;Al-to ex O-lym-pi ver-ti-ce;;Sum-mi Pa-ren-tis Fi-li-us,;;Ceu mon-te de-sec-tus la-pis;;Ter-ras in i-mas de-ci-dens,;;Do-mus su-per-nae, et in-fi-mae,;;Ut-rum-que jun-xit an-gu-lum.
+H-Asolisortus;;A so-lis or-tus car-di-ne;;Ad us-que ter-rae li-mi-tem,;;Chris-tum ca-na-mus Prin-ci-pem,;;Na-tum Ma-ri-a Vir-gi-ne.
+H-Audibenigne;;Au-di be-nig-ne Con-di-tor,;;Nost-ras pre-ces cum fle-ti-bus,;;In hoc sac-ro je-ju-ni-o;;Fu-sas quad-ra-ge-na-ri-o. 
+H-Auroracoelum;;Au-ro-ra coe-lum pur-pu-rat,;;Ae-ther re-sul-tat lau-di-bus,;;Mun-dus tri-um-phans ju-bi-lat,;;Hor-rens a-ver-nus in-fre-mit: 
+H-Avemaris;;A-ve ma-ris stel-la,;;De-i Ma-ter al-ma,;;At-que sem-per Vir-go,;;Fe-lix cael-i por-ta. 
+H-Beatanobisgaudia;;Be-a-ta no-bis gau-di-a;;An-ni re-du-xit or-bi-ta,;;Cum Spi-ri-tus Pa-rac-li-tus;;Il-lap-sus est A-pos-to-lis.
+H-BeatepastorPetre;;Be-a-te pas-tor Pet-re cle-mens ac-ci-pe;;Vo-ces pre-can-tum, cri-mi-num-que vin-cu-la;;Ver-bo re-sol-ve, cui po-tes-tas tra-di-ta,;;A-pe-ri-re ter-ris cae-lum, a-per-tum clau-de-re.
+H-Christesanctorum;;Chris-te, sanc-to-rum de-cus an-ge-lo-rum,;;Gen-tis hu-ma-nae Sa-tor et Re-dem-ptor,;;Coe-li-tum no-bis tri-bu-as be-a-tas;;Scan-de-re se-des.
+H-Christoprofusum;;Chris-to pro-fu-sum san-gui-nem,;;Et mar-ty-rum vic-to-ri-as,;;Dig-nam-que coe-lo lau-re-am;;Lae-tis se-qua-mur vo-ci-bus.
+H-Coelestisurbs;;Coe-les-tis urbs Je-ru-sa-lem,;;Be-a-ta pa-cis vi-si-o,;;Quae cel-sa de vi-ven-ti-bus;;Sa-xis ad ast-ra tol-le-ris,;;Spon-sae-que ri-tu cin-ge-ris;;Mil-le an-ge-lo-rum mil-li-bus.
+H-Completorium;;Te lu-cis an-te ter-mi-num,;;Re-rum Cre-a-tor, pos-ci-mus,;;Ut pro tu-a cle-men-ti-a;;Sis prae-sul et cus-to-di-a. 
+H-CrudelisHerodes;;Cru-de-lis He-ro-des, De-um;;Re-gem ve-ni-re quid ti-mes?;;Non e-ri-pit mor-ta-li-a,;;Qui reg-na dat coe-les-ti-a.
+H-Decoralux;;De-co-ra lux ae-ter-ni-ta-tis, au-re-am;;Di-em be-a-tis ir-ri-ga-vit ig-ni-bus,;;A-pos-to-lo-rum quae co-ro-nat pri-nci-pes,;;Re-is-que in as-tra li-be-ram pan-dit vi-am.
+H-Deustuorummilitum;;De-us tu-o-rum mi-li-tum;;Sors, et co-ro-na, pre-mi-um,;;Lau-des ca-nen-tes mar-ty-ris;;Ab-sol-ve ne-xu cri-mi-nis.
+H-Ecceiamnoctis;;Ec-ce, jam noc-tis te-nu-a-tur umb-ra,;;Lux et au-ro-rae ru-ti-lans co-rus-cat:;;Sup-pli-ces re-rum Do-mi-num ca-no-ra;;Vo-ce pre-ce-mur: 
+H-Exsultetorbisgaudiis;;Ex-sul-tet or-bis gau-di-is:;;Coe-lum re-sul-tet lau-di-bus:;;A-pos-to-lo-rum glo-ri-am;;Tel-lus et ast-ra con-ci-nunt. 
+H-Invictemartyrunicum;;In-vic-te mar-tyr, u-ni-cum;;Pat-ris se-cu-tus Fi-li-um,;;Vic-tis tri-um-phas hos-ti-bus,;;Vic-tor fru-ens coe-les-ti-bus.
+H-Isteconfessor;;Is-te con-fes-sor Do-mi-ni co-len-tes;;Quem pi-e lau-dant po-pu-li per or-bem:;;Hac di-e lae-tus me-ru-it be-a-tas;;Scan-de-re se-des.
+H-JamChristusastra;;Jam Chris-tus ast-ra as-cen-de-rat,;;Re-ver-sus un-de ve-ne-rat,;;Pat-ris fru-en-dum mu-ne-re;;Sanc-tum da-tu-rus Spi-ri-tum.
+H-Jesucoronacelsior;;Je-su, co-ro-na cel-si-or,;;Et ve-ri-tas sub-li-mi-or,;;Qui con-fi-ten-ti ser-vu-lo;;Red-dis pe-ren-ne prae-mi-um:
+H-Jesucoronavirginum;;Je-su, co-ro-na vir-gi-num,;;Quem ma-ter il-la con-ci-pit,;;Quae so-la Vir-go par-tu-rit:;;Haec vo-ta cle-mens ac-ci-pe.
+H-Jesuredemptoromnium;;Je-su Re-dem-ptor om-ni-um,;;Per-pes co-ro-na prae-su-lum,;;In hac di-e clem-en-ti-us;;Ind-ul-ge-as pre-can-ti-bus.
+H-LaudsAdv;;En cla-ra vox re-dar-gu-it;;Obs-cu-ra quae-que per-so-nans:;;Pro-cul fu-gen-tur som-ni-a,;;Ab al-to Je-sus pro-mi-cat.
+H-LaudsFeria;;Splen-dor Pa-ter-nae glo-ri-ae,;;De lu-ce lu-cem pro-fe-rens,;;Lux lu-cis, et fons lu-mi-nis,;;Di-em di-es il-lum-in-ans:
+H-Luciscreator;;Lu-cis Cre-a-tor op-ti-me,;;Lu-cem di-e-rum pro-fe-rens,;;Pri-mor-di-is lu-cis no-vae,;;Mun-di pa-rans o-ri-gi-nem: 
+H-Lustrasex;;Lust-ra sex qui jam per-e-git,;;Tem-pus imp-lens cor-po-ris:;;Spon-te li-be-ra Re-dem-ptor;;Pas-si-o-ni de-di-tus:;;Ag-nus in cru-cis le-va-tur;;Im-mo-lan-dus sti-pi-te. 
+H-MatAdv;;Ver-bum su-per-num pro-di-ens,;;E Pat-ris ae-ter-ni si-nu;;Qui na-tus or-bi sub-ve-nis,;;La-ben-te cur-su tem-po-ris: 
+H-MatDom1;;Noc-te sur-gen-tes vi-gi-le-mus om-nes,;;Sem-per in psal-mis me-di-te-mur, at-que;;Vo-ce con-cor-di Do-mi-no ca-na-mus;;Dul-ci-ter hym-nos. 
+H-MatDom4;;Pri-mo di-e, quo Tri-ni-tas;;Be-a-ta mun-dum con-di-dit,;;Vel quo re-sur-gens Con-di-tor;;Nos mor-te vic-ta li-be-rat: 
+H-MatFeria;;Som-no re-fec-tis ar-tu-bus;;Spre-to cu-bi-li sur-gi-mus.;;No-bis, Pa-ter, ca-nen-ti-bus;;Ad-es-se te de-pos-ci-mus. 
+H-MatPasc;;Rex sem-pi-ter-nae coe-li-tum,;;Re-rum cre-a-tor om-ni-um,;;Ae-qua-lis an-te sae-cu-la;;Sem-per Pa-ren-ti Fi-li-us. 
+H-MatQuad;;Ex mo-re do-cti mys-ti-co;;Ser-ve-mus hoc je-ju-ni-um,;;De-no di-e-rum cir-cu-lo;;Duc-to qua-ter no-tis-si-mo. 
+H-MatQuad5;;Pan-ge, lin-gua, glo-ri-o-si;;Lau-re-am cer-ta-mi-nis,;;Et su-per cru-cis tro-phae-o;;Dic tri-um-phum no-bi-lem,;;Qua-li-ter re-demp-tor or-bis;;Im-mo-la-tus vi-ce-rit. 
+H-Nona;;Re-rum De-us te-nax vi-gor,;;Im-mo-tus in te per-ma-nens,;;Lu-cis di-ur-nae tem-po-ra;;Suc-ces-si-bus de-ter-mi-nans: 
+H-Ogloriosavirginum;;O glo-ri-o-sa vir-gi-num,;;Sub-li-mis in-ter si-de-ra,;;Qui te cre-a-vit, par-vu-lum;;Lac-ten-te nut-ris u-be-re. 
+H-Osolamagnarum;;O so-la mag-na-rum ur-bi-um;;Ma-jor Beth-lem, cui con-ti-git;;Du-cem sa-lu-tis coe-li-tus;;In-cor-po-ra-tum gig-ne-re.
+H-Osolsalutis;;O sol sa-lu-tis, in-ti-mis,;;Je-su, re-ful-ge men-ti-bus,;;Dum, noc-te pul-sa, gra-ti-or;;Or-bi di-es re-nas-ci--tur. 
+H-Pangualingua;;Pan-ge lin-gua glo-ri-o-si;;Cor-po-ris mys-te-ri-um,;;San-gui-nis-que pre-ti-o-si,;;Quem in mun-di pre-ti-um;;Fruc-tus ven-tris ge-ne-ro-si;;Rex ef-fu-dit gen-ti-um.
+H-Paschalemundogaudium;;Pas-cha-le mun-do gau-di-um;;Sol nun-ti-at for-mo-si-or,;;Cum lu-ce ful-gen-tem no-va;;Je-sum vi-dent A-pos-to-li.
+H-Placarechriste;;Pla-ca-re, Chris-te, ser-vu-lis,;;Qui-bus Pat-ris cle-men-ti-am;;Tu-ae ad tri-bu-nal gra-ti-ae;;Pat-ro-na Vir-go pos-tu-lat
+H-Prima1;;Jam lu-cis or-to si-de-re,;;De-um pre-ce-mur sup-pli-ces,;;Ut in di-ur-nis ac-ti-bus;;Nos ser-vet a no-cen-ti-bus. 
+H-Quemterra;;Quem ter-ra, pon-tus, si-de-ra;;Co-lunt, a-do-rant, prae-di-cant,;;Tri-nam re-gen-tem ma-chi-nam,;;Claus-trum Ma-ri-ae ba-ju-lat.
+H-Rexgloriosemartyrum;;Rex glo-ri-o-se mar-ty-rum,;;Co-ro-na con-fi-ten-ti-um,;;Qui res-pu-en-tes ter-re-a;;Per-du-cis ad coe-les-ti-a.
+H-Sacrisolemnis;;Sac-ris so-lem-ni-is junc-ta sint gau-di-a,;;Et ex prae-cor-di-is so-nent prae-co-ni-a:;;Re-ce-dant ve-te-ra no-va sint om-ni-a,;;Cor-da, vo-ces, et o-pe-ra.
+H-Salutisaeternae;;Sa-lu-tis ae-ter-nae da-tor,;;Je-su, re-dem-ptis sub-ve-ni:;;Vir-go pa-rens cle-men-ti-ae;;Do-na sa-lu-tem ser-vu-lis.
+H-Salutishumanaesator;;Sa-lu-tis hu-ma--nae Sa-tor,;;Je-su, vo-lup-tas cor-di-um,;;Or-bis re-dem-pti Con-di-tor,;;Et cas-ta lux a-man-ti-um:
+H-Sanctorummeritis;;Sanc-to-rum me-ri-tis in-cly-ta gau-di-a;;Pan-ga-mus so-ci-i, ges-ta-que for-ti-a:;;Glis-cens fert a-ni-mus pro-me-re can-ti-bus;;Vic-to-rum ge-nus op-ti-mum.
+H-Sexta;;Rec-tor po-tens ve-rax De-us,;;Qui tem-pe-ras re-rum vi-ces,;;Splen-do-re ma-ne il-lu-mi-nas,;;Et ig-ni-bus me-ri-di-em: 
+H-Stabatmater;;Sta-bat Ma-ter do-lo-ro-sa;;Jux-ta cru-cem lac-ri-mo-sa,;;Dum pen-de-bat Fi-li-us.
+H-Tertia;;Nunc Sanc-te no-bis Spi-ri-tus,;;U-num Pat-ri cum Fi-li-o,;;Dig-na-re promp-tus in-ge-ri;;Nost-ro re-fu-sus pec-to-ri. 
+H-Tristeserantapostoli;;Tris-tes e-rant A-pos-to-li;;De Chris-ti a-cer-bo fu-ne-re,;;Quem mor-te cru-de-lis-si-ma;;Ser-vi ne-car-ant im-pi-i.
+H-Venicreator;;Ve-ni Cre-a-tor Spi-ri-tus,;;Men-tes tu-o-rum vi-si-ta,;;Imp-le su-per-na gra-ti-a,;;Quae tu cre-as-ti pec-to-ra. 
+H-Verbumsupernum;;Ver-bum su-per-num pro-di-ens,;;Nec Pat-ris lin-quens dex-te-ram,;;Ad o-pus su-um e-xi-ens,;;Ve-nit ad vi-tae ves-pe-ram.
+H-VespAdv;;Cre-a-tor al-me si-de-rum,;;Ae-ter-na lux cre-den-ti-um,;;Je-su, Re-demp-tor om-ni-um,;;In-ten-de vo-tis supp-li-cum
+H-VespFeria;;Im-men-se coe-li Con-di-tor,;;Qui mix-ta ne con-fun-de-rent,;;A-quae flu-en-ta di-vi-dens,;;Coe-lum de-di-sti li-mi-tem.
+H-Vexillaregis;;Ve-xil-la Re-gis pro-de-unt:;;Ful-get cru-cis mys-te-ri-um,;;Qua vi-ta mor-tem per-tu-lit,;;Et mor-te vi-tam pro-tu-lit. 
+H-Virginisproles;;Vir-gi-nis Pro-les, o-pi-fex-que mat-ris,;;Vir-go quem ges-sit, pe-pe-rit-que Vir-go;;;Vir-gi-nis par-tos ca-ni-mus de-co-ra;;Mor-te tri-um-phos.
+S-AlmaRedemptoris;;Al-ma Re-demp-to-ris ma-ter, quae per-vi-a coe-li por-ta ma-nes, ;;et stel-la mar-is, suc-cur-re ca-den-ti,;;sur-ge-re qui cu-rat, po-pu-lo: tu quae ge-nu-is-ti,;;na-tu-ra mi-ra-nte, tu-um sanc-tum Ge-ni-to-rem,;;vir-go pri-us ac pos-te-ri-us, Gab-ri-e-lis ab o-re;;su-mens il-lud a-ve, pec-ca-to-rum mi-se-re-re. 
+S-AveRegina;;A-ve, Re-gi-na cae-lo-rum,;;A-ve, Do-mi-na An-ge-lo-rum:;;Sal-ve ra-dix, sal-ve por-ta,;;Ex qua mun-do lux est or-ta:;;Gau-de, Vir-go glo-ri-o-sa,;;Su-per om-nes spe-ci-o-sa,;;Va-le, o val-de de-co-ra,;;Et pro no-bis Chris-tum ex-o-ra.
+S-ReginaCaeli;;Re-gi-na coe-li, lae-ta-re, al-le-lu-ia:;;Qui-a quem me-ru-is-ti por-ta-re, al-le-lu-ia,;;Re-sur-re-xit, si-cut di-xit, al-le-lu-ia:;;O-ra pro no-bis De-um, al-le-lu-ia. 
+S-SalveRegina;;Sal-ve, Re-gi-na, ma-ter mi-se-ri-cor-di-ae:;;vi-ta, dul-ce-do et spes nos-tra, sal-ve.;;Ad te cla-ma-mus ex-sul-es fi-li-i He-vae.;;Ad te sus-pi-ra-mus ge-men-tes et flen-tes;;In hac lac-ri-ma-rum val-le.;;E-ia er-go, ad-vo-ca-ta nost-ra,;;il-los tu-os mi-se-ri-cor-des o-cu-los ad nos con-ver-te.;;Et Ie-sum, be-ne-dic-tum fruc-tum ven-tris tu-i,;;no-bis post hoc ex-si-li-um os-ten-de.;;O cle-mens, o pi-a, o dul-cis Vir-go Ma-ri-a. 
+p1D;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1a;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1a2;;Sic in-cípitur, sic fléc-ti-tur; et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1a3;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1f;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1G;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1g;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1g2;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1g3;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p1g5;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, atque sic fí-ni-tur
+p2A;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, atque sic fí-ni-tur
+p2D;;Sic in-cípitur, sic fléc-ti-tur, et_sic_medía-tur, atque sic fí-ni-tur
+p2d;;Sic in-cípitur, sic fléc-ti-tur, et_sic_medía-tur, atque sic fí-ni-tur
+p2g;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, atque_sic fí-ni-tur
+p3a;;Sic in-cípitur, sic fléc-ti-tur, et sic me-dí--a-tur, atque sic fí-ni-tur
+p3b;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, atque sic fí-ni-tur
+p3g;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p3g2;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, -at-que sic fí-ni-tur
+p4E;;Sic in-cípitur, sic_fléc-ti-tur, et sic me-dí-a-tur, at-que sic fí--ni-tur
+p4a;;Sic in-cípitur, sic_fléc-ti-tur, et sic me-dí-a-tur, -at-que sic fí-ni-tur
+p4c;;Sic in-cípitur, sic_fléc-ti-tur, et sic me-dí-a-tur, atque_sic fí-ni-tur
+p4e;;Sic in-cípitur, sic_fléc-ti-tur, et sic me-dí-a-tur, at-que sic fí--ni-tur
+p4g;;Sic in-cípitur, sic_fléc-ti-tur, et sic me-dí-a-tur, atque_sic fí-ni-tur
+p5;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que -sic fí-ni-tur
+p5a;;Sic in-cípitur, sic fléc-ti-tur, et_sic_medía-tur, at-que -sic fí-ni-tur
+p5g;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que -sic fí-ni-tur
+p6;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que sic fí-ni-tur
+p6F;;Sic in-cípitur, sic fléc-ti-tur, et_sic_-me-dí-a-tur, at-que sic fí-ni-tur
+p6f;;Sic in-cípitur, sic fléc-ti-tur, et_sic_-me-dí-a-tur, at-que sic fí-ni-tur
+p7a;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que -sic fí-ni-tur
+p7b;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que -sic fí-ni-tur
+p7c;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que -sic fí-ni-tur
+p7c2;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que -sic fí-ni-tur
+p7d;;Sic in-cípitur, sic fléc-ti-tur, et sic -me-dí-a-tur, at-que -sic fí-ni-tur
+p8G;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
+p8g;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
+p8G2;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
+p8a;;Sic in-cípitur, sic fléc-ti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
+p8c;;Sic in-cípitur, sic_flécti-tur, et_sic_me-dí-a-tur, at-que sic fí-ni-tur
+p9;;Sic_incípit-ur, sic fléc-ti-tur, -et sic me-dí-a-tur, atque sic fí-ni-tur
+p9d;;Sic_incípit-ur, sic fléc-ti-tur, et sic me-dí-a-tur, atque_sic fí-ni-tur
+p9i;;Sic_incíp-it-ur, sic fléc-ti-tur, et_sic_me-dí-a-tur, atque sic fí-ni-tur

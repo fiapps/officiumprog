@@ -16,18 +16,17 @@ De Epistola beati Jacobi Apostoli.
 
 [Responsory1]
 R. In ecclesiis benedicite Deo, alleluia,
-* Domino de fontibus Israel, alleluia, alleluia.
+* Domino de fontibus Israël, alleluia, alleluia.
 V. Psalmum dicite nomini ejus, date gloriam laudi ejus.
-R. Domino de fontibus Israel, alleluia, alleluia.
+R. Domino de fontibus Israël, alleluia, alleluia.
 
 [Lectio2]
 !Jas 2:5-9
-5 Audite, fratres mei dilectissimi: nonne Deus elegit pauperes in hoc mundo, divites in fide, et haeredes regni, quod repromisit Deus diligentibus se?
+5 Audite, fratres mei dilectissimi: nonne Deus elegit pauperes in hoc mundo, divites in fide, et heredes regni, quod repromisit Deus diligentibus se?
 6 vos autem exhonorastis pauperem. Nonne divites per potentiam opprimunt vos, et ipsi trahunt vos ad judicia?
 7 nonne ipsi blasphemant bonum nomen, quod invocatum est super vos?
 8 Si tamen legem perficitis regalem secundum Scripturas: Diliges proximum tuum sicut teipsum: bene facitis:
 9 si autem personas accipitis, peccatum operamini, redarguti a lege quasi transgressores.
-
 
 [Responsory2]
 R. In toto corde meo, alleluia, exquisivi te, alleluia:
@@ -44,7 +43,6 @@ R. Ne repellas me a mandatis tuis, alleluia, alleluia.
 12 Sic loquimini, et sic facite sicut per legem libertatis incipientes judicari.
 13 Judicium enim sine misericordia illi qui non fecit misericordiam: superexaltat autem misericordia judicium.
 
-
 [Responsory3]
 R. Hymnum cantate nobis, alleluia:
 * Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
@@ -57,5 +55,4 @@ R. Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
 Pax vobis, * ego sum, alleluia: nolite timere, alleluia.
 
 [Ant 3]
-Cum venerit * Paraclitus Spiritus veritatis, ille arguet mundum de peccato, et~
-de justitia, et de judicio, alleluia.~
+Cum venerit * Paraclitus Spiritus veritatis, ille arguet mundum de peccato, et de justitia, et de judicio, alleluia.

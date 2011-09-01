@@ -1,19 +1,22 @@
 [Chant]
-$voicecolumn='mute';;
-$keyfreq='160';;
-$basetime='360';;
-$voweltime='40';;
-$vowelmod='10';;
-$mono='0';;
-$pitchdiff='0';;
+$notes='1';;
+$voicecolumn='100';;
+$keyfreq='100';;
+$basetime='10';;
+$voweltime='0';;
+$vowelmod='0';;
+$mono='';;
+$pitchdiff='';;
 
 [general]
 $expand='all';;
-$version='pre Trident Monastic';;
+$version='Rubrics 1960';;
 $testmode='Regular';;
 $lang2='English';;
 $votive='proper';;
 $output='';;
+$accented='1';;
+$onefile='1';;
 
 [parameters]
 $priest='0';;

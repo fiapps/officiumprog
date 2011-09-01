@@ -10,7 +10,6 @@ De libro Ecclesiastae.
 7 Tempus scindendi, et tempus consuendi; tempus tacendi, et tempus loquendi.
 8 Tempus dilectionis, et tempus odii; tempus belli, et tempus pacis.
 
-
 [Responsory1]
 @Tempora/081-2:Responsory1
 
@@ -22,7 +21,6 @@ De libro Ecclesiastae.
 12 Et cognovi quod non esset melius nisi laetari, et facere bene in vita sua;
 13 omnis enim homo qui comedit et bibit, et videt bonum de labore suo, hoc donum Dei est.
 
-
 [Responsory2]
 @Tempora/081-0:Responsory5
 
@@ -32,7 +30,6 @@ De libro Ecclesiastae.
 15 Quod factum est, ipsum permanet; quae futura sunt jam fuerunt, et Deus instaurat quod abiit.
 16 Vidi sub sole in loco judicii impietatem, et in loco justitiae iniquitatem:
 17 et dixi in corde meo: Justum et impium judicabit Deus, et tempus omnis rei tunc erit.
-
 
 [Responsory3]
 @Tempora/081-0:Responsory6

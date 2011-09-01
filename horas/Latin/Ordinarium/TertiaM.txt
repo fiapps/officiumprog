@@ -22,7 +22,7 @@ Amen.
 
 #Psalmi
 
-#Capitulum Versum
+#Capitulum Versus
 _
 v. Kyrie eleison. Christe, eleison. Kyrie, eleison.
 &pater_noster

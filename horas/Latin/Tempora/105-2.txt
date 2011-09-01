@@ -6,7 +6,6 @@ De libro secundo Maccabeorum
 26 Cum autem multis eam verbis esset hortatus, promisit suasurum se filio suo.
 27 Itaque inclinata ad illum, irridens crudelem tyrannum, ait patria voce: Fili mi, miserere mei, quae te in utero novem mensibus portavi, et lac triennio dedi et alui, et in aetatem istam perduxi.
 
-
 [Responsory1]
 @Tempora/101-2:Responsory1
 
@@ -18,7 +17,6 @@ De libro secundo Maccabeorum
 31 Tu vero, qui inventor omnis malitiae factus es in Hebraeos, non effugies manum Dei.
 32 Nos enim pro peccatis nostris haec patimur.
 33 Et si nobis propter increpationem et correptionem Dominus Deus noster modicum iratus est: sed iterum reconciliabitur servis suis.
-
 
 [Responsory2]
 @Tempora/101-2:Responsory2
@@ -33,7 +31,6 @@ De libro secundo Maccabeorum
 39 Tunc rex accensus ira in hunc, super omnes crudelius desaevit, indigne ferens se derisum.
 40 Et hic itaque mundus obiit, per omnia in Domino confidens.
 41 Novissime autem post filios, et mater consumpta est.
-
 
 [Responsory3]
 @Tempora/101-2:Responsory3

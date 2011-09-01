@@ -6,6 +6,12 @@ Psalmi Dominica
 Antiphonas horas
 Psalm5 Vespera=115
 
+[Ant Vespera]
+Omnes sancti, * quanta passi sunt tormenta, ut securi pervenirent ad palmam martyrii;;109
+Cum palma * ad regna pervenerunt sancti, coronas decoris meruerunt de manu Dei;;110
+Corpora sanctorum * in pace sepulta sunt: et vivent nomina eorum in aeternum;;111
+Martyrum chorus * laudate Dominum de caelis, alleluia;;112
+
 [Capitulum Vespera]
 !Sap 5:1
 v. Stabunt justi in magna constantia adversus eos qui se angustiaverunt et qui~
@@ -24,7 +30,7 @@ R. Lux perpetua lucebit sanctis tuis Domine, * alleluia, alleluia.
 
 [Versum 1]
 V. Sancti et justi in Domino gaudete, alleluia.
-R. Vos elegit Deus in haereditatem sibi, alleluia.
+R. Vos elegit Deus in hereditatem sibi, alleluia.
 
 [Ant 1]
 Lux perpetua * lucebit sanctis tuis Domine, et aeternitas temporum, alleluia.
@@ -48,7 +54,7 @@ Stabunt justi * in magna constantia adversus eos, qui se angustiaverunt, allelui
 ;;15
 ;;23
 V. Sancti et justi in Domino gaudete, alleluia.
-R. Vos elegit Deus in haereditatem sibi, alleluia.
+R. Vos elegit Deus in hereditatem sibi, alleluia.
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia;;32
 ;;33
 ;;45
@@ -143,7 +149,7 @@ R. Et aeternitas temporum, alleluia, alleluia.
 
 [Lectio5]
 Annuntiomus inquam sanctis Martyribus Dominicae Paschae gratiam: ut dum~
-sepulturae illius praedicamus reserata claustra, et horum sepulchra reserentur:~
+sepulturae illius praedicamus reserata claustra, et horum sepulcra reserentur:~
 dum corpus illius mortuum dicimus tepentibus venis subito viguisse, horum quoque~
 membra jam frigida immortalitatis calore foveantur. Eadem enim ratio Martyres~
 suscitat, quae et Dominum suscitavit. Nam sicut viam passionis ejus experti sunt,~
@@ -198,6 +204,12 @@ R. Ego sum vitis vera, et vos palmites:
 V. Sicut dilexit me Pater, et ego dilexi vos.
 R. Qui manet in me, et ego in eo, hic fert fructum multum, alleluia, alleluia.
 
+[Responsory7c]
+R. Tristitia vestra, alleluia,
+* Convertetur in gaudium, alleluia, alleluia.
+V. Mundus autem gaudebit, vos vero contristabimini, sed tristitia vestra.
+R. Convertetur in gaudium, alleluia, alleluia.
+
 [Lectio8]
 Quid ergo est, Ego sum vitis vera? Numquid ut adderet, vera, hoc ad eam vitem~
 retulit, unde ista similitudo translata est? Sic enim dicitur vitis per~
@@ -235,7 +247,7 @@ R. Illi autem sunt in pace
 
 [Ant Laudes]
 Sancti tui Domine * florebunt sicut lilium, alleluia: et sicut odor balsami erunt ante te, alleluia.
-In coelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia.
+In caelestibus regnis * sanctorum habitatio est, alleluia: et in aeternum requies eorum, alleluia.
 In velamento * clamabant sancti tui Domine, alleluia, alleluia, alleluia.
 Spiritus et animas * justorum hymnum dicite Deo nostro, alleluia, alleluia.
 Fulgebunt justi * sicut sol in conspectu Dei, alleluia.
@@ -248,7 +260,7 @@ $Deo gratias
 _
 R.br. Sancti et justi in Domino gaudete, * alleluia, alleluia.
 R. Sancti et justi in Domino gaudete, * alleluia, alleluia.
-V. Vos elegit Deus in haereditatem sibi. 
+V. Vos elegit Deus in hereditatem sibi. 
 R. Alleluia, alleluia.
 &Gloria
 R. Sancti et justi in Domino gaudete, * alleluia, alleluia.
@@ -276,7 +288,7 @@ $Deo gratias
 
 [Responsory Tertia]
 V. Sancti et justi * in Deo gaudete, alleluia: 
-R. Vos elegit Deus in haereditdtem sibi,~
+R. Vos elegit Deus in hereditdtem sibi,~
 alleluia.
 
 [Capitulum Sexta]
@@ -310,7 +322,7 @@ V. Laetamini in Domino, et exsultate justi.
 R. Et gloriamini omnes recti corde.
 
 [Ant 3]
-Sancti et justi * in Domino gaudete, alleluia: vos elegit Deus in haereditatem~
+Sancti et justi * in Domino gaudete, alleluia: vos elegit Deus in hereditatem~
 sibi, alleluia.
 
 [LectioE]

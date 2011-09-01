@@ -8,7 +8,6 @@ De libro Ecclesiastici.
 27 Ne reverearis proximum tuum in casu suo,
 28 nec retineas verbum in tempore salutis. Non abscondas sapientiam tuam in decore suo:
 
-
 [Responsory1]
 @Tempora/081-0:Responsory7
 
@@ -19,7 +18,6 @@ De libro Ecclesiastici.
 31 Non confundaris confiteri peccata tua, et ne subjicias te omni homini pro peccato.
 32 Noli resistere contra faciem potentis, nec coneris contra ictum fluvii.
 
-
 [Responsory2]
 @Tempora/081-1:Responsory2
 
@@ -29,7 +27,6 @@ De libro Ecclesiastici.
 34 Noli citatus esse in lingua tua, et inutilis, et remissus in operibus tuis.
 35 Noli esse sicut leo in domo tua, evertens domesticos tuos, et opprimens subjectos tibi.
 36 Non sit porrecta manus tua ad accipiendum, et ad dandum collecta.
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

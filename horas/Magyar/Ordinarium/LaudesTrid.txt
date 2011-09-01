@@ -8,7 +8,7 @@ $Deus in adjutorium
 
 #Psalmi
 
-#Capitulum Hymnus Versum
+#Capitulum Hymnus Versus
 
 #Canticum Benedictus
 &ant_Benedictus(1)

@@ -7,7 +7,7 @@ $Deus in adjutorium
 
 #Psalmi
 
-#Capitulum Hymnus Versum
+#Capitulum Hymnus Versus
 
 #Canticum Magnificat
 &ant_Magnificat(1)
@@ -36,7 +36,7 @@ R. Which thou hast possessed from the beginning.
 V. Let peace be in thy strength:
 R. And abundance in thy towers
 V. Let us pray for the faithful departed
-R: Eternal rest give unto them O Lord, and let perpetual light shine upon them.
+R. Eternal rest give unto them O Lord, and let perpetual light shine upon them.
 V. May they rest in peace.
 R. Amen.
 

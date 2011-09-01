@@ -16,7 +16,6 @@ Incipit Epistola ad Colossenses
 7 sicut didicistis ab Epaphra carissimo conservo nostro, qui est fidelis pro vobis minister Christi Jesu,
 8 qui etiam manifestavit nobis dilectionem vestram in spiritu.
 
-
 [Responsory1]
 @Tempora/Epi2-2:Responsory1
 
@@ -26,7 +25,6 @@ Incipit Epistola ad Colossenses
 10 ut ambuletis digne Deo per omnia placentes: in omni opere bono fructificantes, et crescentes in scientia Dei:
 11 in omni virtute confortati secundum potentiam claritatis ejus, in omni patientia et longanimitate cum gaudio,
 12 gratias agentes Deo Patri, qui dignos nos fecit in partem sortis sanctorum in lumine:
-
 
 [Responsory2]
 @Tempora/Epi2-2:Responsory2
@@ -39,7 +37,6 @@ Incipit Epistola ad Colossenses
 16 quoniam in ipso condita sunt universa in caelis, et in terra, visibilia, et invisibilia, sive throni, sive dominationes, sive principatus, sive potestates: omnia per ipsum et in ipso creata sunt:
 17 et ipse est ante omnes, et omnia in ipso constant.
 18 Et ipse est caput corporis Ecclesiae, qui est principium, primogenitus ex mortuis: ut sit in omnibus ipse primatum tenens:
-
 
 [Responsory3]
 @Tempora/Epi2-2:Responsory3

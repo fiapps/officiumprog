@@ -7,7 +7,6 @@ De libro Ecclesiastici.
 4 Noli quaerere a Domino ducatum, neque a rege cathedram honoris.
 5 Non te justifices ante Deum, quoniam agnitor cordis ipse est: et penes regem noli velle videri sapiens.
 
-
 [Responsory1]
 @Tempora/081-1:Responsory1
 
@@ -19,7 +18,6 @@ De libro Ecclesiastici.
 9 Noli esse pusillanimis in animo tuo:
 10 exorare et facere eleemosynam ne despicias.
 
-
 [Responsory2]
 @Tempora/081-1:Responsory2
 
@@ -30,7 +28,6 @@ De libro Ecclesiastici.
 13 Noli amare mendacium adversus fratrem tuum, neque in amicum similiter facias.
 14 Noli velle mentiri omne mendacium: assiduitas enim illius non est bona.
 15 Noli verbosus esse in multitudine presbyterorum, et non iteres verbum in oratione tua.
-
 
 [Responsory3]
 @Tempora/081-1:Responsory3

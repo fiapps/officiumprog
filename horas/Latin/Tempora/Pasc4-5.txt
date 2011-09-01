@@ -14,12 +14,11 @@ De Epistola beati Jacobi Apostoli.
 3 Petitis, et non accipitis: eo quod male petatis: ut in concupiscentiis vestris insumatis.
 4 Adulteri, nescitis quia amicitia hujus mundi inimica est Dei? quicumque ergo voluerit amicus esse saeculi hujus, inimicus Dei constituitur.
 
-
 [Responsory1]
 R. In ecclesiis benedicite Deo, alleluia,
-* Domino de fontibus Israel, alleluia, alleluia.
+* Domino de fontibus Israël, alleluia, alleluia.
 V. Psalmum dicite nomini ejus, date gloriam laudi ejus.
-R. Domino de fontibus Israel, alleluia, alleluia.
+R. Domino de fontibus Israël, alleluia, alleluia.
 
 [Lectio2]
 !Jas 4:5-10
@@ -29,7 +28,6 @@ R. Domino de fontibus Israel, alleluia, alleluia.
 8 Appropinquate Deo, et appropinquabit vobis. Emundate manus, peccatores: et purificate corda, duplices animo.
 9 Miseri estote, et lugete, et plorate: risus vester in luctum convertatur, et gaudium in mœrorem.
 10 Humiliamini in conspectu Domini, et exaltabit vos.
-
 
 [Responsory2]
 R. In toto corde meo, alleluia, exquisivi te, alleluia:
@@ -47,7 +45,6 @@ R. Ne repellas me a mandatis tuis, alleluia, alleluia.
 14 qui ignoratis quid erit in crastino.
 15 Quae est enim vita vestra? vapor est ad modicum parens, et deinceps exterminabitur; pro eo ut dicatis: Si Dominus voluerit. Et: Si vixerimus, faciemus hoc, aut illud.
 
-
 [Responsory3]
 R. Hymnum cantate nobis, alleluia:
 * Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
@@ -57,9 +54,7 @@ R. Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
 R. Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
 
 [Ant 2]
-Isti sunt sermones, * quos dicebam vobis, cum essem vobiscum, alleluia,~
-alleluia.
+Isti sunt sermones, * quos dicebam vobis, cum essem vobiscum, alleluia, alleluia.
 
 [Ant 3]
-Vado ad eum * qui misit me: et nemo ex vobis interrogat me: Quo vadis? alleluia,~
-alleluia.
+Vado ad eum * qui misit me: et nemo ex vobis interrogat me: Quo vadis? alleluia, alleluia.

@@ -15,8 +15,7 @@ Olvasmány Jeremiás próféta könyvébõl
 18 Valljanak szégyent, akik üldöznek, ne én szégyenüljek meg! Rettegjenek õk, ne én rettegjek! Rájuk hozd el a nyomorúság napját, és kétszeres csapással zúzd õket össze! 
 
 [Responsory1]
-R.They have spoken against with deceitful tongues; and they have compassed me~
-about with words of hatred; and have fought against me without cause
+R.They have spoken against with deceitful tongues; and they have compassed me about with words of hatred; and have fought against me without cause
 * I prayed and you listen to me O God, my Lord.
 V. And they repaid me evil for good: and hatred for my love.
 R. * I prayed and you listen to me O God, my Lord.
@@ -31,18 +30,10 @@ R. * I prayed and you listen to me O God, my Lord.
 18 Így beszéltek: "Rajta! Szõjünk összeesküvést Jeremiás ellen, mert nélküle sem fog hiányozni a törvény a papnak, sem a tanács a bölcsnek, sem a beszéd a prófétának! Gyertek, verjük meg a saját nyelvével; úgy, hogy gondosan megfigyeljük minden szavát." 
 
 [Responsory2]
-R. The wicked people have said, reasoning with themselves, but not right: Let us~
-therefore lie in wait for the just, because he is not for our turn, and he is~
-contrary to our doings. He boasteth that he hath the knowledge of God, and~
-calleth himself the son of God
-* Let us see then if his words be true, for if he be the true son of God, he~
-will defend him, and will deliver him from our hands, let us examine him by~
-outrages and tortures
-V. We are esteemed by him as triflers, and he abstaineth from our ways as from~
-filthiness, and he preferreth the latter end of the just
-R. Let us see then if his words be true, for if he be the true son of God, he~
-will defend him, and will deliver him from our hands, let us examine him by~
-outrages and tortures
+R. The wicked people have said, reasoning with themselves, but not right: Let us therefore lie in wait for the just, because he is not for our turn, and he is contrary to our doings. He boasteth that he hath the knowledge of God, and calleth himself the son of God
+* Let us see then if his words be true, for if he be the true son of God, he will defend him, and will deliver him from our hands, let us examine him by outrages and tortures
+V. We are esteemed by him as triflers, and he abstaineth from our ways as from filthiness, and he preferreth the latter end of the just
+R. Let us see then if his words be true, for if he be the true son of God, he will defend him, and will deliver him from our hands, let us examine him by outrages and tortures
 
 [Lectio3]
 !Jer 18:19-23
@@ -75,8 +66,7 @@ O Almighty God, we beseech Thee that we whose transgressions do unceasingly harm
 $Qui tecum
 
 [Ant 3]
-The handmaid said to Peter * Surely thou also art one of them; for even thy~
-speech doth discover thee.
+The handmaid said to Peter * Surely thou also art one of them; for even thy speech doth discover thee.
 
 [Oratio 3]
 Lord, we beseech Thee, behold this Thy family, for which our Lord Jesus Christ was contented to be betrayed, and given up into the hands of wicked men, and to suffer death upon the Cross

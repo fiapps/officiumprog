@@ -15,7 +15,7 @@ Doxology=Nat
 She is the brightness * of eternal light, and the unspotted mirror.;;109
 A woman * clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.;;112
 Thou art the glory of Jerusalem, * thou art the joy of Israel, thou art the honour of our people;;121
-Blessed art thou, * O Virgin Mary, by the Lord, the most high God, above all women upon the eart;;126
+Blessed art thou, * O Virgin Mary, by the Lord, the most high God, above all women upon the earth;;126
 This day the Lord * hath so magnified thy name that thy praise shall not depart out of the mouth of men.;;147
 
 [Capitulum Vespera]
@@ -24,10 +24,10 @@ v. Arise, my love, my beautiful one, and come:My dove in the clefts of the rock,
 $Deo gratias
 
 [Ant 1]
-Ista est * columba mea, perfecta mea, immaculata mea
+She is * my dove, my perfect one, my undefiled 
 
 [Oratio]
-O God who by the Immaculate Conception of the Virgin didst prepare a worthy dwelling place for thy Son, we humbly beseech the that we, who celebrate the apparence of the same Virgin, may obtain healt of soul and body
+O God who by the Immaculate Conception of the Virgin didst prepare a worthy dwelling place for thy Son, we humbly beseech the that we, who celebrate the apparence of the same Virgin, may obtain health of soul and body
 $Per eumdem
 
 [Invit]
@@ -194,7 +194,7 @@ R. And a river went out of the place of pleasure.
 She is the brightness * of eternal light, and the unspotted mirror.
 A woman * clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.
 Thou art the glory of Jerusalem, * thou art the joy of Israel, thou art the honour of our people
-Blessed art thou, * O Virgin Mary, by the Lord, the most high God, above all women upon the eart
+Blessed art thou, * O Virgin Mary, by the Lord, the most high God, above all women upon the earth
 This day the Lord * hath so magnified thy name that thy praise shall not depart out of the mouth of men.
 
 [Capitulum Laudes]

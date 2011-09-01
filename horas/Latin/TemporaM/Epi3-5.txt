@@ -21,7 +21,7 @@ sed magis gratiarum actio.
 [Lectio2]
 !Eph 5:5-8
 5 Hoc enim scitote intelligentes: quod omnis fornicator, aut immundus, aut~
-avarus, quod est idolorum servitus, non habet haereditatem in regno Christi et~
+avarus, quod est idolorum servitus, non habet hereditatem in regno Christi et~
 Dei.
 6 Nemo vos seducat inanibus verbis: propter haec enim venit ira Dei in filios~
 diffidentiae.

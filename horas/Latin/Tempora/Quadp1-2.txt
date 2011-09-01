@@ -9,9 +9,8 @@ De libro Genesis
 !Gen 2:15-18
 15 Tulit ergo Dominus Deus hominem, et posuit eum in paradiso voluptatis, ut operaretur, et custodiret illum:
 16 praecepitque ei, dicens: Ex omni ligno paradisi comede;
-17 de ligno autem scientiae boni et mali ne comedas: in quocumque enim die comederis ex eo, morte morieris.
+17 de ligno autem scientiae boni et mali ne comedas: In quocumque enim die comederis ex eo, morte morieris.
 18 Dixit quoque Dominus Deus: Non est bonum esse hominem solum: faciamus ei adjutorium simile sibi.
-
 
 [Responsory1]
 @Tempora/Quadp1-0:Responsory4
@@ -20,7 +19,6 @@ De libro Genesis
 !Gen 2:19-20
 19 Formatis igitur Dominus Deus de humo cunctis animantibus terrae, et universis volatilibus caeli, adduxit ea ad Adam, ut videret quid vocaret ea: omne enim quod vocavit Adam animae viventis, ipsum est nomen ejus.
 20 Appellavitque Adam nominibus suis cuncta animantia, et universa volatilia caeli, et omnes bestias terrae: Adae vero non inveniebatur adjutor similis ejus.
-
 
 [Responsory2]
 @Tempora/Quadp1-0:Responsory5
@@ -32,10 +30,8 @@ De libro Genesis
 23 Dixitque Adam: Hoc nunc os ex ossibus meis, et caro de carne mea: haec vocabitur Virago, quoniam de viro sumpta est.
 24 Quam ob rem relinquet homo patrem suum, et matrem, et adhaerebit uxori suae: et erunt duo in carne una.
 
-
 [Responsory3]
 @Tempora/Quadp1-0:Responsory6
 
 [Ant 3]
-Dixit autem paterfamilias: * Amice, non facio tibi injuriam: nonne ex denario~
-convenisti mecum? tolle quod tuum est, et vade.
+Dixit autem paterfamilias: * Amice, non facio tibi injuriam: nonne ex denario convenisti mecum? tolle quod tuum est, et vade.

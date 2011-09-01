@@ -5,7 +5,6 @@ De libro Esther
 6 qui translatus fuerat de Jerusalem eo tempore quo Jechoniam regem Juda Nabuchodonosor rex Babylonis transtulerat,
 7 qui fuit nutritius filiae fratris sui Edissae, quae altero nomine vocabatur Esther, et utrumque parentem amiserat: pulchra nimis, et decora facie. Mortuisque patre ejus ac matre, Mardochaeus sibi eam adoptavit in filiam.
 
-
 [Responsory1]
 @Tempora/095-0:Responsory1
 
@@ -16,7 +15,6 @@ De libro Esther
 10 Quae noluit indicare ei populum et patriam suam: Mardochaeus enim praeceperat ei, ut de hac re omnino reticeret:
 11 qui deambulabat quotidie ante vestibulum domus, in qua electae virgines servabantur, curam agens salutis Esther, et scire volens quid ei accideret.
 
-
 [Responsory2]
 @Tempora/094-0:Responsory7
 
@@ -25,7 +23,6 @@ De libro Esther
 15 Evoluto autem tempore per ordinem, instabat dies quo Esther filia Abihail fratris Mardochaei, quam sibi adoptaverat in filiam, deberet intrare ad regem. Quae non quaesivit muliebrem cultum, sed quaecumque voluit Egeus eunuchus custos virginum, haec ei ad ornatum dedit. Erat enim formosa valde, et incredibili pulchritudine: omnium oculis gratiosa et amabilis videbatur.
 16 Ducta est itaque ad cubiculum regis Assueri mense decimo, qui vocatur Tebeth, septimo anno regni ejus.
 17 Et adamavit eam rex plus quam omnes mulieres, habuitque gratiam et misericordiam coram eo super omnes mulieres: et posuit diadema regni in capite ejus, fecitque eam regnare in loco Vasthi.
-
 
 [Responsory3]
 @Tempora/095-0:Responsory3

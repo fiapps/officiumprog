@@ -11,7 +11,6 @@ De libro secundo Regum.
 7 Et caesus est ibi populus Israël ab exercitu David, factaque est plaga magna in die illa, viginti millium.
 8 Fuit autem ibi praelium dispersum super faciem omnis terrae, et multo plures erant quos saltus consumpserat de populo, quam hi quos voraverat gladius in die illa.
 
-
 [Responsory1]
 @Tempora/Pent01-3:Responsory1
 
@@ -22,7 +21,6 @@ De libro secundo Regum.
 11 Et ait Joab viro qui nuntiaverat ei: Si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum?
 12 Qui dixit ad Joab: Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium regis: audientibus enim nobis praecepit rex tibi, et Abisai, et Ethai, dicens: Custodite mihi puerum Absalom.
 
-
 [Responsory2]
 @Tempora/Pent01-3:Responsory2
 
@@ -32,7 +30,6 @@ De libro secundo Regum.
 15 cucurrerunt decem juvenes armigeri Joab, et percutientes interfecerunt eum.
 16 Cecinit autem Joab buccina, et retinuit populum, ne persequeretur fugientem Israël, volens parcere multitudini.
 17 Et tulerunt Absalom, et projecerunt eum in saltu, in foveam grandem, et comportaverunt super eum acervum lapidum magnum nimis: omnis autem Israël fugit in tabernacula sua.
-
 
 [Responsory3]
 @Tempora/Pent01-3:Responsory3

@@ -15,8 +15,7 @@ Olvasmány Mózes elsõ könyvébõl
 
 
 [Responsory1]
-R. When the Lord walked in the garden in the cool of the day, He called, and~
-said Adam, where art thou? Lord, I heard thy voice
+R. When the Lord walked in the garden in the cool of the day, He called, and said Adam, where art thou? Lord, I heard thy voice
 * And I hid myself.
 V. I heard thy voice in the garden, and I was afraid, because I was naked.
 R. And I hid myself.
@@ -32,12 +31,9 @@ R. And I hid myself.
 6 Egyszer pára szállt fel a földrõl és megáztatta a föld egész felszínét. 
 
 [Responsory2]
-R. The Lord said unto Adam; In the sweat of thy face shalt thou eat bread; when~
-thou tillest the ground it shall not henceforth yield unto thee her fruits.
+R. The Lord said unto Adam; In the sweat of thy face shalt thou eat bread; when thou tillest the ground it shall not henceforth yield unto thee her fruits.
 * Thorns also and thistles shall it bring forth to thee.
-V. Because thou hast hearkened unto the voice of thy wife, and hast eaten of the~
-tree which I commanded thee, saying Thou shalt not eat of it, cursed is the~
-ground whereon thou shalt labour.
+V. Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree which I commanded thee, saying Thou shalt not eat of it, cursed is the ground whereon thou shalt labour.
 R. Thorns also and thistles shall it bring forth to thee.
 
 [Lectio3]
@@ -51,5 +47,4 @@ R. Thorns also and thistles shall it bring forth to thee.
 @Tempora/Quadp1-0:Responsory3
 
 [Ant 3]
-These last have wrought but one hour, * and thou hast made them equal unto us,~
-which have borne the burden and heat of the day.
+These last have wrought but one hour, * and thou hast made them equal unto us, which have borne the burden and heat of the day.

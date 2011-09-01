@@ -47,7 +47,7 @@ terrae;
 R. Jerusalem, cito veniet salus tua: quare maerore consumeris? numquid~
 consiliarius non est tibi, quia innovavit te dolor?
 * Salvabo te, et liberabo te, noli timere.
-V. Ego enim sum Dominus Deus tuus, sanctus Israel, Redemptor tuus.
+V. Ego enim sum Dominus Deus tuus, sanctus Israël, Redemptor tuus.
 R. Salvabo te, et liberabo te, noli timere.
 
 [Lectio2]
@@ -75,7 +75,7 @@ qui ablactatus fuerit manum suam mittet.
 9 Non nocebunt, et non occident in universo monte sancto meo, quia repleta est~
 terra scientia Domini, sicut aquae maris operientes.
 10 In die illa radix Jesse, qui stat in signum populorum, ipsum gentes~
-deprecabuntur, et erit sepulchrum ejus gloriosum.
+deprecabuntur, et erit sepulcrum ejus gloriosum.
 
 [Responsory3]
 R. Civitas Jerusalem noli flere: quoniam deluit Dominus super te:
@@ -96,7 +96,7 @@ interpretantur: quod scilicet in virga regnantis potentia, in flore pulchritudo~
 monstretur.
 
 [Responsory4]
-R. Ecce veniet Dominus, protector noster, sanctus Israel,
+R. Ecce veniet Dominus, protector noster, sanctus Israël,
 * Coronam regni habens in capite suo.
 V. Et dominabitur a mari usque ad mare, et a flumine usque ad terminos orbis~
 terrarum.

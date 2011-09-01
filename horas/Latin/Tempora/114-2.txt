@@ -6,7 +6,6 @@ Incipit Joele Propheta
 3 Super hoc filiis vestris narrate, et filii vestri filiis suis, et filii eorum generationi alterae.
 4 Residuum erucae comedit locusta, et residuum locustae comedit bruchus, et residuum bruchi comedit rubigo.
 
-
 [Responsory1]
 @Tempora/111-2:Responsory1
 
@@ -15,7 +14,6 @@ Incipit Joele Propheta
 5 Expergiscimini, ebrii, et flete et ululate, omnes qui bibitis vinum in dulcedine, quoniam periit ab ore vestro.
 6 Gens enim ascendit super terram meam, fortis et innumerabilis: dentes ejus ut dentes leonis, et molares ejus ut catuli leonis.
 7 Posuit vineam meam in desertum, et ficum meam decorticavit; nudans spoliavit eam, et projecit: albi facti sunt rami ejus.
-
 
 [Responsory2]
 @Tempora/111-2:Responsory2
@@ -26,7 +24,6 @@ Incipit Joele Propheta
 9 Periit sacrificium et libatio de domo Domini; luxerunt sacerdotes, ministri Domini.
 10 Depopulata est regio, luxit humus, quoniam devastatum est triticum, confusum est vinum, elanguit oleum.
 11 Confusi sunt agricolae, ululaverunt vinitores super frumento et hordeo, quia periit messis agri.
-
 
 [Responsory3]
 @Tempora/111-2:Responsory3

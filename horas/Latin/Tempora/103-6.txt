@@ -6,7 +6,6 @@ De libro primo Maccabeorum
 16 Et cum inebriatus esset Simon et filii ejus, surrexit Ptolemaeus cum suis, et sumpserunt arma sua, et intraverunt in convivium: et occiderunt eum, et duos filios ejus, et quosdam pueros ejus:
 17 et fecit deceptionem magnam in Israël, et reddidit mala pro bonis.
 
-
 [Responsory1]
 @Tempora/101-0:Responsory7
 
@@ -17,7 +16,6 @@ De libro primo Maccabeorum
 20 Et alios misit occupare Jerusalem et montem templi.
 21 Et praecurrens quidam, nuntiavit Joanni in Gazara quia periit pater ejus et fratres ejus, et quia misit te quoque interfici.
 
-
 [Responsory2]
 @Tempora/101-1:Responsory2
 
@@ -27,7 +25,6 @@ De libro primo Maccabeorum
 22 Ut audivit autem, vehementer expavit: et comprehendit viros, qui venerant perdere eum, et occidit eos: cognovit enim quia quaerebant eum perdere.
 23 Et cetera sermonum Joannis, et bellorum ejus, et bonarum virtutum, quibus fortiter gessit, et aedificii murorum, quos exstruxit, et rerum gestarum ejus:
 24 ecce haec scripta sunt in libro dierum sacerdotii ejus, ex quo factus est princeps sacerdotum post patrem suum.
-
 
 [Responsory3]
 @Tempora/101-1:Responsory3

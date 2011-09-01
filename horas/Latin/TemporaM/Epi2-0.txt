@@ -12,7 +12,7 @@ R. Et descendat super nos misericordia tua.
 Suscépit Deus * Israël, púerum suum: sicut locútus est ad Abraham, et semen ejus usque in sãculum.
 
 [Oratio]
-Omnipotens sempiterne Deus, qui coelestia simul et terrena moderaris:~
+Omnipotens sempiterne Deus, qui caelestia simul et terrena moderaris:~
 supplicationes populi tui clementer exaudi, et pacem tuam nostris concede~
 temporibus.
 $Per Dominum.
@@ -67,7 +67,7 @@ quae in nobis est donationis, per multos gratiae agantur pro nobis.
 [Responsory3]
 R. A dextris est mihi Dominus, ne commovear:
 * Propter hoc dilatatum est cor meum, et exsultavit lingua mea.
-V. Dominus pars haereditatis meae, et calicis mei.
+V. Dominus pars hereditatis meae, et calicis mei.
 R. Propter hoc dilatatum est cor meum, et exsultavit lingua mea.
 &Gloria
 R. Propter hoc dilatatum est cor meum, et exsultavit lingua mea.
@@ -89,7 +89,7 @@ habore.
 R. Notas mihi fecisti Domine vias vitae:
 * Adimplebis me laetitia cum vultu tuo: delectationes in dextera tua usque in~
 finem.
-V. Tu es qui restitues haereditatem meam mihi.
+V. Tu es qui restitues hereditatem meam mihi.
 R. Adimplebis me laetitia cum vultu tuo: delectationes in dextera tua usque in~
 finem.
 
@@ -170,7 +170,7 @@ R. Sana me Domine medicamento poenitentiae, Deus
 R. Afflicti pro peccatis nostris quotidie cum lacrimis expectamus finem nostrum:~
 dolor cordis nostri ascendat ad te Domine:
 * Ut eruas nos a malis, quae innovantur in nobis
-V. Domine Deus Israel, exaudi preces nostras, auribus percipe dolorem cordis~
+V. Domine Deus Israël, exaudi preces nostras, auribus percipe dolorem cordis~
 nostri
 R. Ut eruas nos a malis, quae innovantur in nobis
 

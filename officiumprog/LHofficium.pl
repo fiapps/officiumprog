@@ -94,8 +94,9 @@ getini('Hhoras'); #files, colors
 our $Hk = 1;
 our $Tk = 0;
 our $Ck = 0;
+our $notes = 0;
 our $missa = 0;
-our $accented = 'plane';
+our $accented = 'accented';
 
 our ($lang1, $lang2, $expand, $column);
 our %translate; #translation of the skeleton label for 2nd language 
@@ -150,7 +151,7 @@ if ($firstcall == 1) {return;}
 $firstcall = 1;
 $mw->configure(-title=>"Generate Offices");
 $error = '';
-our $only = ($lang1 =~ /$lang2/) ? 1 : 0;
+our $only = ($lang1 =~ /^$lang2$/) ? 1 : 0;
 our ($priest, $width, $blackfont, $redfont, $smallblack, $smallfont, $titlefont,
   $black, $red, $blue);
 
@@ -269,7 +270,7 @@ sub errorTk {
 # called before exit
 # saves horas.setup file with the current values
 sub finalsave {
-  setsetup('general', $expand, $version, $testmode, $lang2, 'proper');
+  setsetup('general', $expand, $version, $testmode, $lang2, 'proper', $accented);
   if ($savesetup) {
     savesetuphash('Hhoras', \%setup);
   }      

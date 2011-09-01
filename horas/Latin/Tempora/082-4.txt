@@ -6,7 +6,6 @@ De libro Ecclesiastae.
 3 Si quid vovisti Deo, ne moreris reddere: displicet enim ei infidelis et stulta promissio, sed quodcumque voveris redde:
 4 multoque melius est non vovere, quam post votum promissa non reddere.
 
-
 [Responsory1]
 @Tempora/081-0:Responsory1
 
@@ -16,7 +15,6 @@ De libro Ecclesiastae.
 6 Ubi multa sunt somnia, plurimae sunt vanitates, et sermones innumeri; tu vero Deum time.
 7 Si videris calumnias egenorum, et violenta judicia, et subverti justitiam in provincia, non mireris super hoc negotio: quia excelso excelsior est alius, et super hos quoque eminentiores sunt alii;
 8 et insuper universae terrae rex imperat servienti.
-
 
 [Responsory2]
 @Tempora/081-0:Responsory2
@@ -28,7 +26,6 @@ De libro Ecclesiastae.
 11 Dulcis est somnus operanti, sive parum sive multum comedat; saturitas autem divitis non sinit eum dormire.
 12 Est et alia infirmitas pessima quam vidi sub sole: divitiae conservatae in malum domini sui.
 13 Pereunt enim in afflictione pessima: generavit filium qui in summa egestate erit.
-
 
 [Responsory3]
 @Tempora/081-0:Responsory3

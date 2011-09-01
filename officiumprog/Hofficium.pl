@@ -17,6 +17,7 @@ our $padx = 10;
 our $pady = 10;
 our $widthperc = .99;
 our $heightperc = .90;
+our $htmltext = '';
 
 use POSIX;
 use FindBin qw($Bin);
@@ -119,6 +120,7 @@ eval $setup{'Chant'};
 $testmode = ($testmode =~ /season/i) ? $testmode : 'regular';
 $votive = 'proper';
 
+
 our $command = '';
 our $hora = $command; #Matutinum, Laudes, Prima, Tertia, Sexta, Nona, Vespera, Completorium
 our $votive = 'proper';
@@ -196,7 +198,8 @@ $topframe->Button(-text=>"Generate Offices",  -font=>$labelfont, -command=>sub{g
   configure($label, $framecolor, $labelfont, $titlecolor);
   $topframe->Entry(-textvariable=>\$outdir, -width=>32, -background=>"#ffffdd")
   ->pack(-side=>'left', -padx=>$padx);	   
-  if ($iexplore =~ /firefox/i) {setcheckbox($topframe, 'pdf:', \$pdf);}
+  #if ($iexplore =~ /firefox/i) {setcheckbox($topframe, 'pdf:', \$pdf);}
+  setcheckbox($topframe, 'one file:', \$onefile);
 
 #*** bottomframe
 $bottomframe = $mwf->Frame(-background=>"#ffffdd")->pack(-side=>'top', -ipady=>50);
@@ -260,7 +263,7 @@ $bframe3->Button(-text=>'Help',
 
   my $label = $bottomframe->Label(-textvariable=>\$error)->pack(-side=>'left', -pady=>$pady);
   configure($label, $framecolor, $labelfont, $titlecolor);
-  $label = $bottomframe->Label(-textvariable=>\$message)->pack(-side=>'left', -pady=>$pady);
+  $label = $bottomframe->Label(-textvariable=>\$message, justify=>'left')->pack(-side=>'left', -pady=>$pady);
   configure($label, $framecolor, $labelfont, $titlecolor);
 
 $mwf->pack(-anchor=>'n');
@@ -278,7 +281,7 @@ sub errorTk {
 # called before exit
 # saves horas.setup file with the current values
 sub finalsave {
-  setsetup('general', $expand, $version, $testmode, $lang2, 'proper', $output);
+  setsetup('general', $expand, $version, $testmode, $lang2, 'proper', $output, $accented, $onefile);
   if ($savesetup) {
     savesetuphash('Hhoras', \%setup);
   }      
@@ -319,26 +322,34 @@ sub generate {
     if (!(d- "$outdir")) {mkdir("$outdir");}
     $month_day = "$month-$day"; 
 	if ($votive =~ /(Dedication|Defunctorum|Parvum B.M.V.)/i) {$month_day = "$1$month_day"; ;}
-	if (!(d- "$outdir/$year")) {mkdir("$outdir/$year");}
-    if (!(d- "$outdir/$year/$month_day")) {mkdir("$outdir/$year/$month_day");}
+    if (!(d- "$outdir/$year")) {mkdir("$outdir/$year");}
+	if (!$onefile) {
+      if (!(d- "$outdir/$year/$month_day")) {mkdir("$outdir/$year/$month_day");}
+      master($month_day);
+    } 
 
-    master($month_day);
     foreach $h (@horas) {
 	  if ($votive =~ /Defunctorum/i && $h !~ /(Matutinum|Laudes|Vespera)/i) {next;}
 	  generatehora($h, $date1);
+	  if ($onefile) {next;}
 	  if (open(OUT, ">$outdir/$year/$month_day/$hora.html")) {
         print OUT $htmltext;
         close OUT;
-      if ($iexplore =~ /firefox/ && $pdf) {
-	    $mycwd = getcwd();
-		chdir("$outdir/$year/$month_day");
-		unlink("$hora.pdf");
-		system("start firefox -print $hora.html -printfile $hora.pdf");
-	    chdir($mycwd);
-	  }
+        if ($iexplore =~ /firefox/ && $pdf) {
+	      $mycwd = getcwd();
+		  chdir("$outdir/$year/$month_day");
+		  unlink("$hora.pdf");
+		  system("start firefox -print $hora.html -printfile $hora.pdf");
+	      chdir($mycwd);
+	    }
 	  
 	  } else {print "$outdir/$year/$month_day/$hora.html cannot open\n"; last;}
     }
+	if ($onefile && open(OUT, ">$outdir/$year/O$month_day.html")) {
+        print OUT $htmltext;
+        close OUT;
+	} elsif ($onefile)  {print "$outdir/$year/O$month_day.html cannot open\n"; }
+
     $maxnum++;
     if ($date1 eq $dateto) {last;}
     $date1 = prevnext(1, $date1);
@@ -348,6 +359,8 @@ sub generate {
 }
 
 sub master {
+   if ($onefile) {return;}
+
    my $monthday = shift;
    my $title = "Master-$monthday";
    $hora = 'Laudes';
@@ -393,7 +406,6 @@ sub generatehora {
   our $psalmnum1 = 0;
   our $psalmnum2 = 0;                           
   our $octavam = ''; #to avoid duplication of commemorations
-  our $htmltext = '';
 	  
   # prepare title	   
 
@@ -405,24 +417,28 @@ sub generatehora {
   
   $background = ($whitebground) ? "BGCOLOR=\"white\"" : "BGCOLOR=\"$framecolor\"";
 
-  $headline = setheadline();
-  htmlHead($title);
-  $htmltext .= "<BODY VLINK=$visitedlink LINK=$link BGCOLOR=\"$framecolor\"> ";
-  $htmltext .= 
-    "<P ALIGN=CENTER><FONT COLOR=$daycolor>$dayname[1]<BR></FONT>\n" .
-    "$comment<BR><BR>\n" .
-    "<FONT COLOR=MAROON SIZE=+1><B><I>$title</I></B></FONT>\n" .
-    "&nbsp;&nbsp;&nbsp;&nbsp;</P>\n";
+  if (!$onefile || $hora =~ /Matutinum/i) {
+    $headline = setheadline();
+    htmlHead($title);
+    $htmltext .= "<BODY VLINK=$visitedlink LINK=$link BGCOLOR=\"$framecolor\"> ";
+    $htmltext .= "<P ALIGN=CENTER><FONT COLOR=$daycolor>$dayname[1]<BR></FONT>$comment</P>\n";
+  }
+  
+  $htmltext .=  "<P ALIGN=CENTER><FONT COLOR=MAROON SIZE=+1><B><I>$title</I></B></FONT>&nbsp;&nbsp;&nbsp;&nbsp;</P>\n";
   if ($hora =~ /vesper/i) {$hora = 'Vespera';}
   horas($hora); 
-  $htmltext .= "</BODY></HTML>";
+  
+  if (!$onefile || $hora =~ /Completorium/i) {$htmltext .= "</BODY></HTML>";}
 }  
 
 sub chantmessage {
   $message = ($Hk < 3) ? 'Install mbr folder and point to it in Hhoras.ini for chant' :
     ($voicecolumn =~ /chant/) ?
-    "Call 'Options' 'Chant' and set 'Generate chant' button to mute if you do not want chant files" :
-    "Call 'Options' 'Chant' and set 'Generate chant' button to chant if you want chant files";
+    "Call 'Options' 'Chant' and set 'Generate chant' button to mute if you do not want chant files\n" :
+    "Call 'Options' 'Chant' and set 'Generate chant' button to chant if you want chant files\n";
+  if ($notes) {$message .= "Call 'Options' 'Chant' and clear 'Show notes' box to skip notes";}
+  else {$message .= "Call 'Options' 'Chant' and set 'Show notes' box to set notes";}
+
 }
 
 sub cleantab {

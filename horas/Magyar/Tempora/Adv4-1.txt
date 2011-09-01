@@ -5,7 +5,7 @@ Feria II infra Hebdomadam IV Adventus;;Feria major;;2
 Oratio Dominica
 
 [Lectio1]
-Olvasmány Iziás próféta könyvébõl
+Olvasmány Izaiás próféta könyvébõl
 !Isa 41:8-10
 8 És te, Izrael, én szolgám, Jákob, akit kiválasztottam barátomnak, Ábrahám ivadéka. 
 9 Te, akit a föld határairól hoztalak elõ, és a világ végérõl hívtalak meg; te, akihez így szóltam: Szolgám vagy, kiválasztottalak, ezért nem vetlek el: 
@@ -33,5 +33,4 @@ Olvasmány Iziás próféta könyvébõl
 @Tempora/Adv4-0:Responsory3
 
 [Ant 2]
-Thus saith the Lord, * Repent ye, for the kingdom of heaven is at hand.~
-Alleluia.
+Thus saith the Lord, * Repent ye, for the kingdom of heaven is at hand. Alleluia.

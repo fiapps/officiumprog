@@ -30,23 +30,18 @@ R. Isten ezért megáldott mindörökre
 Herein is the great mystery of heirship * the womb of her who knew not a man, became a temple of God: in taking of her flesh. He was not defiled: all nations shall come and say: Glory to thee O lord 
 
 [Oratio]
-Kérünk téged ÚrIsten, add meg nekünk szolgáidnak testünk és lelkünk egészségét~
-és örömeit, hogy akik a Boldogságos mindig szûz Mária közbenjárását el'vezzük,~
-szabaduljunk meg szomorúságainktõl és lépjünk be örok örömödbe. 
+Kérünk téged ÚrIsten, add meg nekünk szolgáidnak testünk és lelkünk egészségét és örömeit, hogy akik a Boldogságos mindig szûz Mária közbenjárását el'vezzük, szabaduljunk meg szomorúságainktõl és lépjünk be örok örömödbe. 
 $Per Dominum
 
 [Special Completorium]
 $Ave Mária
-$Converte
 $Deus in adjutorium
 _
-Ant. Könyörûlj rajtam * Uram és hallgasd meg imádságomat
 &psalm(128)
 _
 &psalm(129)
 _
 &psalm(130)
-Ant. Könyörûlj rajtam * Uram és hallgasd meg imádságomat
 _
 !Hymnus.
 Emlékezzél meg, Alkotó,
@@ -91,7 +86,7 @@ $Per Dominum
 [Ant Matutinum]
 Áldott vagy te az asszonyok között* és áldott a te méhednek gyümölcse Jézus;;8
 Istennek szent anyja * illatosabb vagy mint a legjobb mirha;;18
-E szent Szûz elott * énekeljétek ujra a hála dalát ;;23
+E szent Szûz elõtt * énekeljétek ujra a hála dalát ;;23
 V. A te ékességeddel és * szépségeddel
 R. Indúlj meg, járj szerencsésen és országolj
 A te ékességeddel és * szépségeddel, indúlj meg, járj szerencsésen és országolj;;44
@@ -109,12 +104,9 @@ R. Hogy sátraban lakjék színe elõtt
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvébõl
 !Sir 24:11-13
-11 minden nagy és kicsiny szivét legyöztem erömmel; és mindezekben nyugodalmat~
-kerestem, és az Úr örökségében lett maradásom.
-12 Akkor parancsola és mondá nekem a mindenek Teremtöje, és a ki teremtett engem,~
-megnyugovék hajlékomban,
-13 és mondá nekem: Jákobban lakjál, és Izraelben bírj örökséget, és~
-választottaim között verj gyökeret.
+11 minden nagy és kicsiny szivét legyöztem erömmel; és mindezekben nyugodalmat kerestem, és az Úr örökségében lett maradásom.
+12 Akkor parancsola és mondá nekem a mindenek Teremtöje, és a ki teremtett engem, megnyugovék hajlékomban,
+13 és mondá nekem: Jákobban lakjál, és Izraelben bírj örökséget, és választottaim között verj gyökeret.
 
 [Responsory1]
 R. How holy and how spotless is thy breast
@@ -124,14 +116,11 @@ R. For thou hast borne in thy breast Him Whom the heavens cannot contain.
 
 [Lectio2]
 !Sir 24:15-16
-15 És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen~
-megnyugodtam, és Jerusalemben az én hatalmam.
-16 És meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében,~
-mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
+15 És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen megnyugodtam, és Jerusalemben az én hatalmam.
+16 És meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében, mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
 
 [Responsory2]
-R. Blessed art thou, O Virgin Mary, who hast carried the Lord, the Maker of the~
-world.
+R. Blessed art thou, O Virgin Mary, who hast carried the Lord, the Maker of the world.
 * Thou hast borne Him Who created thee, and thou abidest a virgin for ever.
 V. Hail, Mary, full of grace. The Lord is with thee.
 R. Thou hast borne Him Who created thee, and thou abidest a virgin for ever.
@@ -140,21 +129,16 @@ R. Thou hast borne Him Who created thee, and thou abidest a virgin for ever.
 
 [Lectio3]
 !Sir 24:17-20
-17 Magasra nöttem, mint Libanon hegyén a czedrus, és mint a cziprusfa Sion~
-hegyén;
+17 Magasra nöttem, mint Libanon hegyén a czedrus, és mint a cziprusfa Sion hegyén;
 18 növekedtem mint a pálma Kádeszben, és mint a rózsaültetvény Jerikóban;
-19 mint a mezökön a szép olajfa, felnöttem, és mint a platanus viz mellett az~
-utczákon.
-20 Mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a~
-jóillat gyönyöröségét;
+19 mint a mezökön a szép olajfa, felnöttem, és mint a platanus viz mellett az utczákon.
+20 Mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a jóillat gyönyöröségét;
 &teDeum
 
 [Responsory3]
 R. O holy Virgin Mary, happy indeed art thou, and right worthy of all praise
 * For out of thee rose the Sun of righteousness, even Christ our God.
-V. Pray for the people, plead for the clergy, make intercession for all women~
-vowed to God. Let all that are making this holy memorial of thee feel the might~
-of thine assistance.
+V. Pray for the people, plead for the clergy, make intercession for all women vowed to God. Let all that are making this holy memorial of thee feel the might of thine assistance.
 R. For out of thee rose the Sun of righteousness
 &Gloria
 R. Even Christ our God.
@@ -179,10 +163,7 @@ V. Blessed art thou among women.
 R. And blessed is the Fruit of thy womb.
 
 [Ant 2]
-O Blessed Mary, * Mother of God, Virgin for ever, temple of the Lord, sanctuary~
-of the Holy Ghost, thou, without any ensample before thee, didst make thyself~
-well-pleasing in the sight of our Lord Jesus Christ pray for the people, plead~
-for the clergy, make intercession for all women vowed to God.
+O Blessed Mary, * Mother of God, Virgin for ever, temple of the Lord, sanctuary of the Holy Ghost, thou, without any ensample before thee, didst make thyself well-pleasing in the sight of our Lord Jesus Christ pray for the people, plead for the clergy, make intercession for all women vowed to God.
 
 [Special Prima]
 $Ave Mária

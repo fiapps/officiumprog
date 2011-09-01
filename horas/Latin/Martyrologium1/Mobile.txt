@@ -19,27 +19,22 @@ Dominica Passionis.
 
 [Quad6-0]
 Dominica Palmarum, quando Dominus noster Jesus Christus,~
-juxta Zachariae prophetiam, sedens super pullum asinae, Hierosolymam intravit;~
-cui turba cum ramis palmarum obviam venit.
+juxta Zachariae prophetiam, sedens super pullum asinae, Hierosolymam intravit; cui turba cum ramis palmarum obviam venit.
  
 [Quad6-4]
-Cena Dominicae, quando Christus Jesus, pridie quam pro nostra salute crucifigeretur,~
-mysteria Corporis et Sanguinis sui Discipulis tradidit celebranda.
+Cena Dominicae, quando Christus Jesus, pridie quam pro nostra salute crucifigeretur, mysteria Corporis et Sanguinis sui Discipulis tradidit celebranda.
 
 [Pasc0-1]
-Hac die, quam fecit Dominus, Solemnitas solemnitatum, et Pascha nostrum:~
-Resurrectio Salvatoris nostri Jesu Christi secundum carnem.
+Hac die, quam fecit Dominus, Solemnitas solemnitatum, et Pascha nostrum: Resurrectio Salvatoris nostri Jesu Christi secundum carnem.
 
 [Pasc1-0]
 Dominica in Albis in Octava Paschae.
  
 [Pasc2-3]
-Solemnitas sancti Joseph, Sponsi beatae Mariae Virginis,~
-Confessoris et universalis Ecclesiae Patroni.
+Solemnitas sancti Joseph, Sponsi beatae Mariae Virginis, Confessoris et universalis Ecclesiae Patroni.
 
 [Pasc3-3]
-Octava Solemnitatis sancti Joseph, Sponsi beatae Mariae Virginis,~
-Confessoris et universalis Ecclesiae Patroni. 
+Octava Solemnitatis sancti Joseph, Sponsi beatae Mariae Virginis, Confessoris et universalis Ecclesiae Patroni. 
 
 [Pasc5-1] 
 Romae Litaniae minores ad sanctam Mariam Majorem.

@@ -6,8 +6,8 @@ Responsory Feria
 Preces feriales
 Versum Feria
 no Te Deum
-Laudes 2 
-No Suffragium 
+Laudes 2
+No Suffragium
 
 [Lectio1]
 @Commune/C3:Lectio71
@@ -19,6 +19,5 @@ No Suffragium
 @Commune/C3:Lectio91
 
 [Oratio]
-Domine Deus noster, multiplica super nos gratiam tuam: et quorum praevenimus~
-gloriosa solemnia, tribue subsequi in sancta professione laetitiam.
+Domine Deus noster, multiplica super nos gratiam tuam: et quorum praevenimus gloriosa solemnia, tribue subsequi in sancta professione laetitiam.
 $Per Dominum

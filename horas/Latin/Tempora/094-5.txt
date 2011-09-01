@@ -5,7 +5,6 @@ De libro Judith
 2 ita ut nullus loqueretur cum proximo suo, sed inclinato capite, relictis omnibus, evadere festinabant Hebraeos, quos armatos super se venire audiebant, fugientes per vias camporum et semitas collium.
 3 Videntes itaque filii Israël fugientes, secuti sunt illos. Descenderuntque clangentes tubis, et ululantes post ipsos.
 
-
 [Responsory1]
 @Tempora/094-0:Responsory4
 
@@ -14,7 +13,6 @@ De libro Judith
 5 Misit itaque Ozias nuntios per omnes civitates et regiones Israël.
 6 Omnis itaque regio, omnisque urbs electam juventutem armatam misit post eos, et persecuti sunt eos in ore gladii, quousque pervenirent ad extremitatem finium suorum.
 7 Reliqui autem qui erant in Bethulia, ingressi sunt castra Assyriorum, et praedam quam fugientes Assyrii reliquerant, abstulerunt, et onustati sunt valde.
-
 
 [Responsory2]
 @Tempora/094-0:Responsory5
@@ -25,7 +23,6 @@ De libro Judith
 10 Quae cum exisset ad illum, benedixerunt eam omnes una voce, dicentes: Tu gloria Jerusalem; tu laetitia Israël; tu honorificentia populi nostri:
 11 quia fecisti viriliter, et confortatum est cor tuum, eo quod castitatem amaveris, et post virum tuum, alterum nescieris: ideo et manus Domini confortavit te, et ideo eris benedicta in aeternum.
 12 Et dixit omnis populus: Fiat, fiat.
-
 
 [Responsory3]
 @Tempora/094-0:Responsory6

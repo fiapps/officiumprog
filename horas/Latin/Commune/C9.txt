@@ -5,7 +5,7 @@ Officium Defunctorum
 Psalmi Dominca
 Antiphonas horas
 Capitulum Versum 2
-Omit Incipit Hymnus Capitulum Lectio Preces Capitulum Commemoratio Suffragium 
+Omit Incipit Hymnus Capitulum Lectio Preces Capitulum Commemoratio Suffragium
 Special Conclusio
 Limit Benedictiones Oratio
 Requiem gloria
@@ -19,12 +19,11 @@ Si iniquitates * observaveris Domine: Domine quis sustinebit;;129
 Opera * manuum tuarum Domine ne despicias;;137
 
 [Versum 1]
-V. Audivi vocem de coelo dicentem mihi.
+V. Audivi vocem de caelo dicentem mihi.
 R. Beati mortui qui in Domino moriuntur.
 
 [Ant 1]
-Omne * quod dat mihi Pater, ad me veniet: et eum qui venit ad me, non ejiciam~
-foras.
+Omne * quod dat mihi Pater, ad me veniet: et eum qui venit ad me, non ejiciam foras.
 
 [Oratio 1]
 &pater_noster
@@ -39,8 +38,8 @@ R. Et clamor meus ad te veniat.
 &Dominus_vobiscum2
 _
 $Oremus
-Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque~
-tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper~
+Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque
+tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper
 optaverunt, piis supplicationibus consequantur:
 $Qui vivis
 
@@ -56,8 +55,8 @@ R. Et clamor meus ad te veniat.
 &Dominus_vobiscum2
 _
 $Oremus
-Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque~
-tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper~
+Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque
+tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper
 optaverunt, piis supplicationibus consequantur:
 $Qui vivis
 
@@ -71,7 +70,7 @@ $Per Dominum
 
 [Conclusio]
 V. Requiem aeternam dona eis Domine.
-R. Et lux perpetua luceat eis. 
+R. Et lux perpetua luceat eis.
 V. Requiescant in pace.
 R. Amen.
 
@@ -104,10 +103,8 @@ R. Et animas pauperum tuorum ne obliviscaris in finem
 20 Peccavi; quid faciam tibi, o custos hominum? quare posuisti me contrarium tibi, et factus sum mihimetipsi gravis?
 21 Cur non tollis peccatum meum, et quare non aufers iniquitatem meam? ecce nunc in pulvere dormiam, et si mane me quaesieris, non subsistam.
 
-
 [Responsory1]
-R. Credo quod Redemptor meus vivit, et in novissimo die de terra surrecturus~
-sum:
+R. Credo quod Redemptor meus vivit, et in novissimo die de terra surrecturus sum:
 * Et in carne mea videbo Deum Salvatorem meum.
 V. Quem visurus sum ego ipse, et non alius: et oculi mei conspecturi sunt.
 R. Et in carne mea videbo Deum Salvatorem meum.
@@ -122,7 +119,6 @@ R. Et in carne mea videbo Deum Salvatorem meum.
 6 ut quaeras iniquitatem meam, et peccatum meum scruteris,
 7 et scias quia nihil impium fecerim, cum sit nemo qui de manu tua possit eruere?
 
-
 [Responsory2]
 R. Qui Lazarum resuscitasti a monumento foetidum:
 * Tu eis Domine dona requiem, et locum indulgentiae.
@@ -132,19 +128,16 @@ R. Tu eis Domine dona requiem, et locum indulgentiae.
 [Lectio3]
 !Job 10: 8-12
  iii. Job 10. b.
-8 manus tuae plasmaverunt me et fecerunt me totum in circuitu et sic repente~
-praecipitas me
+8 manus tuae plasmaverunt me et fecerunt me totum in circuitu et sic repente praecipitas me
 9 memento quaeso quod sicut lutum feceris me et in pulverem reduces me
 10 nonne sicut lac mulsisti me et sicut caseum me coagulasti
 11 pelle et carnibus vestisti me et ossibus et nervis conpegisti me
-12 vitam et misericordiam tribuisti mihi et visitatio tua custodivit spiritum~
-meum
+12 vitam et misericordiam tribuisti mihi et visitatio tua custodivit spiritum meum
 
 [Responsory3]
 R. Domine, quando veneris judicare terram, ubi me abscondam a vultu irae tuae?
 * Quia peccavi nimis in vita mea.
-V. Commissa mea pavesco, et ante te erubesco: dum veneris judicare, noli me~
-condemnare.
+V. Commissa mea pavesco, et ante te erubesco: dum veneris judicare, noli me condemnare.
 R. Quia peccavi nimis in vita mea.
 &Gloria
 R. Quia peccavi nimis in vita mea.
@@ -158,7 +151,6 @@ R. Quia peccavi nimis in vita mea.
 26 scribis enim contra me amaritudines, et consumere me vis peccatis adolescentiae meae.
 27 Posuisti in nervo pedem meum, et observasti omnes semitas meas, et vestigia pedum meorum considerasti:
 28 qui quasi putredo consumendus sum, et quasi vestimentum quod comeditur a tinea.
-
 
 [Responsory4]
 R. Memento mei Deus, quia ventus est vita mea,
@@ -175,10 +167,8 @@ R. Nec aspiciat me visus hominis.
 5 Breves dies hominis sunt: numerus mensium ejus apud te est: constituisti terminos ejus, qui praeteriri non poterunt.
 6 Recede paululum ab eo, ut quiescat, donec optata veniat, sicut mercenarii, dies ejus.
 
-
 [Responsory5]
-R. Hei mihi Domine, quia peccavi nimis in vita mea: Quid faciam, miser? ubi~
-fugiam, nisi ad te Deus meus?
+R. Hei mihi Domine, quia peccavi nimis in vita mea: Quid faciam, miser? ubi fugiam, nisi ad te Deus meus?
 * Miserere mei, dum veneris in novissimo die.
 V. Anima mea turbata est valde, sed tu Domine succurre ei.
 R. Miserere mei, dum veneris in novissimo die.
@@ -190,7 +180,6 @@ R. Miserere mei, dum veneris in novissimo die.
 15 Vocabis me, et ego respondebo tibi: operi manuum tuarum porriges dexteram.
 16 Tu quidem gressus meos dinumerasti: sed parce peccatis meis.
 
-
 [Responsory6]
 R. Ne recorderis peccata mea Domine
 * Dum veneris judicare saeculum per ignem.
@@ -201,7 +190,7 @@ R. Dum veneris judicare saeculum per ignem.
 
 [Lectio7]
 !Job 17:1-3; 17:11-15
-1 Spiritus meus attenuabitur; dies mei breviabuntur: et solum mihi superest sepulchrum.
+1 Spiritus meus attenuabitur; dies mei breviabuntur: et solum mihi superest sepulcrum.
 2 Non peccavi, et in amaritudinibus moratur oculus meus.
 3 Libera me, Domine, et pone me juxta te, et cujusvis manus pugnet contra me.
 11 Dies mei transierunt; cogitationes meae dissipatae sunt, torquentes cor meum.
@@ -209,13 +198,6 @@ R. Dum veneris judicare saeculum per ignem.
 13 Si sustinuero, infernus domus mea est, et in tenebris stravi lectulum meum.
 14 Putredini dixi: Pater meus es; Mater mea, et soror mea, vermibus.
 15 Ubi est ergo nunc praestolatio mea? et patientiam meam quis considerat?
-
-11 Dies mei transierunt; cogitationes meae dissipatae sunt, torquentes cor meum.
-12 Noctem verterunt in diem, et rursum post tenebras spero lucem.
-13 Si sustinuero, infernus domus mea est, et in tenebris stravi lectulum meum.
-14 Putredini dixi: Pater meus es; Mater mea, et soror mea, vermibus.
-15 Ubi est ergo nunc praestolatio mea? et patientiam meam quis considerat?
-
 
 [Responsory7]
 R. Peccantem me quotidie, et non me poenitentem, timor mortis conturbat me:
@@ -234,10 +216,8 @@ R. Quia in inferno nulla est redemptio, miserere mei Deus, et salva me.
 26 et rursum circumdabor pelle mea, et in carne mea videbo Deum meum:
 27 quem visurus sum ego ipse, et oculi mei conspecturi sunt, et non alius: reposita est haec spes mea in sinu meo.
 
-
 [Responsory8]
-R. Domine secundum actum meum noli me judicare: nihil dignum in conspectu tuo~
-egi: ideo deprecor majestatem tuam
+R. Domine secundum actum meum noli me judicare: nihil dignum in conspectu tuo egi: ideo deprecor majestatem tuam
 * Ut tu Deus deleas iniquitatem meam.
 V. Amplius lava me Domine ab injustitia mea, et a delicto meo munda me.
 R. Ut tu Deus deleas iniquitatem meam.
@@ -250,10 +230,8 @@ R. Ut tu Deus deleas iniquitatem meam.
 21 antequam vadam, et non revertar, ad terram tenebrosam, et opertam mortis caligine:
 22 terram miseriae et tenebrarum, ubi umbra mortis et nullus ordo, sed sempiternus horror inhabitat.
 
-
 [Responsory91]
-R. Libera me Domine de viis inferni, qui portas aereas confregisti: et visitasti~
-infernum, et dedisti eis lumen, ut viderent te:
+R. Libera me Domine de viis inferni, qui portas aereas confregisti: et visitasti infernum, et dedisti eis lumen, ut viderent te:
 * Qui erant in poenis tenebrarum.
 V. Clamantes et dicentes: Advenisti Redemptor noster.
 R. Qui erant in poenis tenebrarum.
@@ -262,9 +240,9 @@ R. Qui erant in poenis tenebrarum.
 
 [Responsory9]
 R. Libera me Domine de morte aeterna in die illa tremenda:
-* Quando coeli movendi sunt et terra: * Dum veneris judicare saeculum per ignem.
-V. Tremens factus sum ego, et timeo, dum discussio venerit, atque ventura ira. 
-R. Quando coeli movendi sunt et terra
+* Quando caeli movendi sunt et terra: * Dum veneris judicare saeculum per ignem.
+V. Tremens factus sum ego, et timeo, dum discussio venerit, atque ventura ira.
+R. Quando caeli movendi sunt et terra
 V. Dies illa, dies irae, calamitatis et miseriae, dies magna et amara valde.
 R. Dum veneris judicare saeculum per ignem. &Gloria
 &Gloria
@@ -278,12 +256,11 @@ A porta inferi * erue Domine animam meam;;222
 Omnis spiritus * laudet Dominum;;150
 
 [Versum 2]
-V. Audivi vocem de coelo dicentem mihi.
+V. Audivi vocem de caelo dicentem mihi.
 R. Beati mortui qui in Domino moriuntur.
 
 [Ant 2]
-Ego sum * resurrectio et vita: qui credit in me, etiam si mortuus fuerit, vivet:~
-et omnis qui vivit et credit in me, non morietur in aeternum.
+Ego sum * resurrectio et vita: qui credit in me, etiam si mortuus fuerit, vivet: et omnis qui vivit et credit in me, non morietur in aeternum.
 
 [Oratio 21]
 &pater_noster
@@ -298,7 +275,7 @@ R. Et clamor meus ad te veniat.
 &Dominus_vobiscum2
 _
 $Oremus
-Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque~
-tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper~
+Fidelium Deus omnium conditor et redemptor, animabus famulorum famularumque
+tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper
 optaverunt, piis supplicationibus consequantur:
 $Qui vivis
