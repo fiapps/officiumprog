@@ -1,0 +1,29 @@
+[Source]
+Zsoltáros részbõl az adott napra
+Zsoltáros részbõl az egyházi év szerint
+Az idõszaki részbõl
+A szentek saját officiumából
+A szentek közös officiumából
+Évközi
+Zsoltár és Antiphona vasárnapról
+Votív
+
+[Preces]
+van
+elmarad
+speciális
+
+[Prima_Special]
+ünnepi
+hétköznapi
+
+[Suffragium]
+elmarad
+évközi
+husvéti
+Tridentin
+
+[Lectio]
+Megemlékezés a hétközi napról 
+Megemlékezés a vasarnapról 
+Megemlékezés a szentrõl

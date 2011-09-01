@@ -1,0 +1,32 @@
+[Lectio1]
+Olvasmány a Makkabeusok második könyvébõl
+!2 Mac  10:1-5
+1 A Makkabeus és emberei Isten segítségével elfoglalták a szentélyt és a várost. 
+2 Szétrombolták a pogányok oltárait, amelyeket a piacon emeltek, és a berkeket is. 
+3 Megtisztították a templomot, és az égõáldozatok bemutatására új oltárt építettek. Szikrát csiholtak a kõbõl és úgy gyújtottak tüzet. Kétévi szünet után újra mutattak be áldozatot, égettek tömjént és mécsest, és kitették a kenyeret is. 
+4 Amikor ezzel elkészültek, a földre borultak és könyörögtek az Úrhoz, ne engedje, hogy még egyszer ilyen nagy nyomorúság szakadjon rájuk, s ha újra vétkeznek, csak mértékkel büntesse õket, ne szolgáltassa ki õket többé az istenkáromló, barbár pogányoknak. 
+5 Ugyanazon a napon tisztították meg a templomot, amelyen a pogányok meggyalázták, vagyis ugyanúgy Kiszleu hónap huszonötödik napján. 
+
+[Responsory1]
+@Tempora/101-0:Responsory1
+
+[Lectio2]
+!2 Mac 10:24-27
+24 Timóteus, akit a zsidók korábban már megvertek, idegenekbõl hatalmas sereget gyûjtött, és Ázsiából tekintélyes számú lovasságot szedett össze. Azt tervezte, hogy fegyverrel elfoglalja Júdeát. 
+25 Közeledtekor Makkabeus hívei Istenhez imádkoztak, hamut szórtak a fejükre, csípõjükre meg vezeklõruhát öltöttek. 
+26 Leborultak az oltár elõtt és könyörögtek, legyen hozzájuk irgalmas, és legyen ellenségüknek ellensége és ellenfelüknek ellenfele, ahogyan a törvény hirdeti. 
+27 Az ima befejeztével fegyvert ragadtak és kivonultak, meglehetõsen messze a várostól. Az ellenség közelében megálltak. 
+
+[Responsory2]
+@Tempora/101-0:Responsory2
+
+[Lectio3]
+!2 Mac 10:28-32
+28 Amikor felvirradt a hajnal, mindkét oldalon megindították a támadást. Egyikük - a bátorságon kívül - Istenbe vetett bizalmát tekintette a szerencse és a gyõzelem zálogának. Másikuknak a szenvedélyük volt vezérük a harcban. 
+29 Már javában tombolt a küzdelem, amikor az ellenség elõtt megjelent az égbõl öt pompás lovas, aranyzablájú lovon, és a zsidók élére állt. 
+30 Ketten közrevették a Makkabeust, védték fegyverükkel, oltalmazták a sebek ellen. Az ellenségre nyilakat és villámokat szórtak, úgyhogy megvakultak, elteltek rémülettel és csatát vesztettek. 
+31 Húszezer-ötszáz katonát, s hatszáz lovast megöltek. 
+32 Maga Timóteus egy Gezer nevû erõdbe menekült. Ez alaposan megerõsített hely volt, s Chereász parancsnoksága alá tartozott. 
+
+[Responsory3]
+@Tempora/101-0:Responsory3

@@ -1,0 +1,208 @@
+[Prima]
+Dominica = Alleluia, * Dicsérjétek az Urat, mert irgalma örökkévaló
+117,118(2-16),118(17-32)
+Feria II = Akinek a keze tiszta * és ártatlan a szíve, felmehet az Ur hegyére
+23,18(1-7),18(8-15),[46]
+Feria III = Istenem * benned bizakodom. Ne hagyd, hogy szégyenben maradjak
+24(1-7),24(8-14),24(15-22),[95]
+Feria IV = Uram jóságodat * szemem elõtt tartom és igazságod szerint élek.
+25,51,52,[96]
+Feria V = Zöldellõ réteken * az Ur igazgat engem
+22,71(1-8),71(9-20),[97]
+Feria VI = Ne maradj távol * szükségemben, légy közel, mert sehol sincs segítség: nincs aki segítsen
+21(1-12),21(13-23),21(24-32),[98]
+Sabbato = Kelj föl, Uram * aki ítélkezel a föld felett, és fizess meg az elbizakodottaknak,
+93(1-11),93(12-23),107,[149]
+
+[Tertia]
+Dominica = Alleluia * vezess az úton, amelyet te szabtál, alleluia, alleluia
+118(33-48),118(49-64),118(65-80)
+Feria II = Világosságom * és üdvösségem az Úr
+26(1-6), 26(7-14), 27
+Feria III = Odafigyelt rám az Úr * és meghallgatta kérésemet
+39(1-9), 39(10-14), 39(15-18)
+Feria IV =  Isten az én segítségem, az Úr ereje tartja fenn életem.
+53, 54(1-16), 54(17-24)
+Feria V = Milyen jó az Isten * az igazakhoz, az Úr mindazokhoz, akiknek tiszta a szívük
+72(1-9), 72(10-17), 72(18-28)
+Feria VI =  Éleszd fel * hatalmad, jöjj és szabadíts meg
+79(1-8), 79(9-20), 81
+Sabbato = Kiáltásom  * jusson színed elé, Uram, ne rejtsd el elõlem arcodat
+101(1-13), 101(14-23), 101(24-29)
+
+[Sexta]
+Dominica = Alleluia * tied vagyok  Uram, siess segítségemre alleluia, alleluia
+118(81-96), 118(97-112), 118(113-128)
+Feria II = Igazságodban * szabadíts és ments meg engem, Uram
+30(1-9), 30(10-19), 30(20-25)
+Feria III = Megõrzöl sértetlenül Uram *  és engeded, hogy színed elõtt álljak
+40, 41(1-6), 41(7-12
+Feria IV = Az Úrban bízom * nem félek, ember mit árthatna nekem
+55, 56, 57
+Feria V = Gondolj közösségedre * amelyet õsidõk óta kiválasztottál
+73(1-9), 73(10-17), 73(18-23)
+Feria VI = Boldogok * akik házadban laknak
+83(1-8), 83(9-13), 86
+Sabbato = Uram, Istenem * mindennél nagyobb vagy!
+103(1-12), 103(13-23), 103(24-35)
+
+[Nona]
+Dominica = Alleluia * Derítsd fel Uram arcodat szolgád felett, alleluia, alleluia.
+118(129-144), 118(145-160), 118(161-176)
+Feria II = Örüljetek, ujjongjatok *  mindnyájan, tiszta szívûek
+31, 32(1-11), 32(12-22)
+Feria III = Megmentettél minket Uram * mindenkor a te neved dicsõítetjük
+43(1-9), 43(10-20), 43(21-26)
+Feria IV =  Jóságos Istenem * irgalmad megment engem
+58(1-11), 58(12-21), 59
+Feria V =  Dicsérjük * neved és hirdetjük csodatetteid
+74, 75(1-7), 75(8-13)
+Feria VI = Elõtted kegyelem * és hûség menetel.
+88(1-19), 88(20-38), 88(39-53)
+Sabbato = Istenem, ne hallgass * hisz a gyûlölet szavával vesznek körül
+108(1-13), 108(14-20), 108(21-31)
+Elõtted kegyelem * és hûség menetel
+
+[Completorium]
+Dominica = Könyörülj rajtam * Uram és hallgasd meg imám
+4,90,133
+Feria II = Mentsd meg életemet * Uram, irgalmasságodban szabadíts meg
+6,7(1-10),7(11-18)
+Feria III = Uram, te megvédesz *  bennünket, mindörökre
+11,12,15
+Feria IV = Az Úr angyala védõfalat emel *  körülveszi az igazat, hogy oltalmazza.
+33(1-11),33(12-23),60
+Feria V = Segítõm * és szabadítóm légy Uram
+69,70(1-12),70(13-24)
+Feria VI = Istenhez száll szavam, * hozzá kiáltok, az Ur nem feledi el jõságát
+76(1-13),76(14-21),85
+Sabbato = Jusson el imádságom * szemed elé Uram
+87,102(1-12),102(13-22)
+
+[Adv1]
+1 = És leszen az napon * hogy édességet csöpögnek a hegyek, a halmok tejjel és mézzel folynak, Alleluia.
+2 = Ujjongj, Sion leánya * Zengj éneket Jeruzsálem leánya! Alleluia.
+ 3 =Ime az Úr jõ * és angyalai vele. Azon a napon nagy fényesség leszen. Alleluia.
+4 = Ti szomjazók * gyertek a vizekre mind, keressétek az Urat, amíg megtaláljátok. Alleluia.
+5 = Ime a nagy próféta jõ * és megujítja Jeruzsalemet. Alleluia.
+
+[Adv2]
+1 = Ime az ég felhõibõl * az Ur jon nagy hatalommal, alleluia
+2 = Erõs várunk va * Sion, védelmül kõfal és bástya szolgál. Nyissátok ki a kapukat, mert velünk az Isten, alleluia.
+3 = Ecce, apparebit * Dominus, et non mentietur: si moram fecerit, exspecta eum, quia veniet, et non tardabit, alleluia.
+4 = Montes et colles * cantabunt coram Deo laudem, et omnia ligna silvarum plaudent manibus: quoniam veniet Dominator Dominus in regnum aeternum, alleluia, alleluia.
+5 = Ecce, Dominus * noster cum virtute veniet, et illuminabit oculos servorum suorum, alleluia.
+
+[Adv3]
+1 = Veniet Dominus, * et non tardabit, et illuminabit abscondita tenebrarum, et manifestabit se ad omnes gentes, alleluia.
+2 = Jerusalem, gaude * gaudio magno, quia veniet tibi Salvator, alleluia.
+3 = Dabo in Sion * salutem, et in Jerusalem gloriam meam, alleluia.
+4 = Montes et omnes colles * humiliabuntur: et erunt prava in directa, et aspera in vias planas: veni, Domine, et noli tardare, alleluia.
+5 = Juste et pie * vivamus, exspectantes beatam spem, et adventum Domini.
+
+[Adv4]
+1 = Canite tuba * in Sion, quia prope est dies Domini: ecce, veniet ad salvandum nos, alleluia, alleluia
+2 = Ecce, veniet * desideratas cunctis gentibus: et replebitur gloria domus Domini, alleluia.
+3 = Erunt prava * in directa, et aspera in vias planas: veni, Domine, et noli tardare, alleluia.
+4 = Dominus veniet, * occurrite illi, dicentes: Magnum principium, et regni ejus non erit finis: Deus, Fortis, Dominator, Princeps pacis, alleluia, alleluia.
+5 = Omnipotens Sermo tuus, * Domine, a regalibus sedibus veniet, alleluia.
+
+[Adv42]
+1 = Ecce, veniet * Dominus princeps regum terra: beati, qui parati sunt occurrere illi.
+2 = Cum venerit * Filius hominis, putas, inveniet fidem super terram?
+3 = Ecce, jam venit * plenitudo temporis, in quo misit Deus Filium suum in terras.
+4 = Haurietis aquas * in gaudio de fontibus Salvatoris.
+5 = Egredietur * Dominus de loco sancto suö veniet, ut salvet populum suum
+
+[Adv43]
+1 = Rorate, coeli, desuper, * et nubes pluant justum: aperiatur terra, et germinet Salvatorem.
+2 = Emitte Agnum, Domine, * Dominatorem terrae, de Petra deserti, ad montem filiae Sion.
+3 = Ut cognoscamus, Domine, * in terra viam tuam, in omnibus gentibus salutare tuum.
+4 = Da mercedem, Domine, * sustinentibus te, ut Prophetae tui fideles 
+5 = Lex per Moysen data est * gratia et veritas per Jesus Christum facta est
+
+[Adv44]
+1 = Prophetae praedicaverunt * nasci Salvatorem de Virgine Maria
+2 = Spiritus * Domini super me, evangelizare pauperibus misit me
+3 = Propter Sion * non tacebo, donec egrediatur ut splendor justus eius
+4 = Ecce, veniet Dominus, * ut sedeat cum principibus, et solium gloria? teneat.
+5 = Annuntiate * populis, et dicite: Ecce, Deus Salvator noster veniet.
+
+[Adv45]
+1 = De Sion * veniet Dominus   omnipotens,   ut salvum faciat populum suum.
+2 = Convertere, Domine, * aliquantulum, et ne tardes venire ad servos tuos.
+3 = De Sion * veniet, qui regnaturus est Dominus, Emmanuel magnum nomen ejus.
+4 = Ecce Deus meus, * et honorabo eum: Deus patris mei, et exaltabo eum.
+5 = Dominus * legifer noster, Dominus Rex noster, o ipse veniet, et salvabit nos.
+
+[Adv46]
+1 = Constantes estote, * videbitis auxilium Domini super vos.
+2 = Ad te, Domine, * levavi animam meam: Veni, et eripe me, Domine, ad te confugi.
+3 = Veni, Domine, * et noli tardare: relaxa facinora plebi tuae Israel.
+4 = Deus a Libano veniet, * et splendor ejus sicut lumen erit.
+5 = Ego autem * ad Dominum aspiciam, et exspectabo Deum, Salvatorem meum.
+
+[Adv47]
+1 = Intuemini, * quam sit gloriosus iste, qui ingreditur ad salvandos populos.
+2 = Multiplicabitur * ejus imperium, et pacis non erit finis.
+3 = Ego Dominus * prope feci justitiam meam, non elongabitur, et salus mea non morabitur.
+4 = Exspectetur, * sicut pluvia, eloquium Domini: et descendat, sicut ros, super nos Deus noster.
+5 = Paratus esto, * Israel, in occursum Domini, quoniam venit.
+
+[Quad]
+1 = Amint igaz, hogy élek * mondja az Úr, az Isten -, nem lelem kedvemet az istentelen halálában. Inkább annak örülök, ha az istentelen letér útjáról és él. 
+2 = Eljöttek * a bûnbánat napjai, a bûnok bocsánatára, és a lekek megmentésére
+3 = Ajánljuk magunkat nagy türelemmel, böjttel az igazság fegyverében
+4 = 
+5 = Az igazság fegyverében * Isten erejében ajánljuk magunkat nagy türelemmel,
+
+[Quad5]
+1 = Tégy le óvadékot értem * önmagadnál! Ki volna más, ki értem kezességet vállal?
+2 = Megvédelmezted * lelkem ügyét, Uram, megváltottad életemet. Uram, én Istenem
+3 = Népem * Mit vétettem neked? Mi eshetett nehezedre? Felelj nekem! 
+4 =
+5 = Vajon rosszal szokás-e * fizetni a jóért? Miért ásnak hát vermet nekem? 
+
+[Pasch]
+Alleluia, * alleluia, alleluia
+Alleluia, * alleluia, alleluia
+Alleluia, * alleluia, alleluia
+Alleluia, * alleluia, alleluia
+Alleluia, * alleluia, alleluia
+
+[Tridentinum]
+Prima Dominica=Alleluia * alleluia, alleluia;;53,117,118(2-16),118(17-32)
+Prima Feria II=Boldogok * kik az Úr törvényében járnak;;53,23,118(2-16),118(17-32)
+Prima Feria III=Boldogok * kik az Úr törvényében járnak;;53,24,118(2-16),118(17-32)
+Prima Feria IV=Boldogok * kik az Úr törvényében járnak;;53,25,118(2-16),118(17-32)
+Prima Feria V=Boldogok * kik az Úr törvényében járnak;;53,22,118(2-16),118(17-32)
+Prima Feria VI=Boldogok * kik az Úr törvényében járnak;;53,21,118(2-16),118(17-32)
+Prima Sabbato=Boldogok * kik az Úr törvényében járnak;;53,118(2-16),118(17-32)
+Prima Festis=Alleluia * Alleluia, alleluia;;53,118(2-16),118(17-32)
+Tertia Dominica=Alleluia * alleluia, alleluia;;118(33-48),118(49-64),118(65-80)
+Tertia Feria=Vezess engem * parancsaid ösvényére,;;118(33-48), 118(49-64),118(65-80)
+Sexta Dominica=Alleluia * alleluia, alleluia;;118(81-96), 118(97-112), 118(113-128)
+Sexta Feria=Segíts engem * és megszabadúlok, Uram;;118(81-96), 118(97-112), 118(113-128)
+Nona Dominica=Alleluia * alleluia, alleluia;;118(129-144), 118(145-160), 118(161-176)
+Nona Feria=Tekints rám * e's könyörülj rajtam, Uram;;118(129-144), 118(145-160), 118(161-176)
+Completorium=Könyörûlj rajtam * Uram és hallgasd meg imádságomat;;4,30(1-6),90,133
+
+[Monastic]
+[Monastic]
+Prima Dominica=Alleluia * alleluia, alleluia (alleluia);;118(2-9),118(10-16),118(17-24),118(25-32)
+Prima Feria II=Serve ye the Lord with fear: * and rejoice unto him with trembling.;;1,2,6
+Prima Feria III=God is a just judge * strong and patient,will He be angry every day?;;7,8,9(1-20)
+Prima Feria IV=Arise, O Lord, * let not man be strengthened;;9(21-39),10,11
+Prima Feria V=As I live * saith the Lord, I have no pleasure in the death of the sinner, but rather that he be converted and live.;;12,13,14
+Prima Feria VI=Thou hast no need of my goods * preserve me, O Lord, for I have put my trust in thee;;15,16,17(1-25)
+Prima Sabbato=The Lord liveth, and blessed by my God, my salvation;;17(26-51),18,19
+Prima Festis=Alleluia * alleluia, alleluia alleluia);;118(2-9),118(10-16),118(17-24),118(25-32)
+Tertia Dominica=Alleuia * alleluia, alleluia (alleluia);;118(33-40),118(41-48),118(49-56)
+Tertia Feria II=Adjuva me * et salvus ero Domine;;118(105-112),118(113-120),118(121-128)
+Tertia Feria=I cried unto the Lord, * and He heard me;;119,120,121
+Sexta Dominica=Alleluia, * alleluia, alleluia (alleluia);;118(57-64),118(65-72),118(73-80)
+Sexta Feria II=Look upon me * and have mercy on me;;118(129-136),118(137-144),118(145-152)
+Sexta Feria=Who dwellest * in haeven, have mercy on us;;122,123,124
+Nona Dominica=Alleluia, * alleluia, alleluia (alleluia);;118(81-88),118(89-96),118(97-104)
+Nona Feria II=Let thy hand be with me to save me; * for I have chosen thy precepts;;118(153-160),118(160-168),118(169-176)
+Nona Feria=Blessed are all they * that fear the Lord;;125,126,127

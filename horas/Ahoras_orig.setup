@@ -1,0 +1,67 @@
+[Chant]
+$keyfreq='160';;
+$basetime='360';;
+$voweltime='40';;
+$vowelmod='10';;
+$mono='0';;
+$pitchdiff='0';;
+$chantmatins='1';;
+
+[Colors]
+$blackcell='{Arial} 11 black on #ffffdd';;
+$redsmall='{Arial} 8 red on #ffffdd';;
+$titlelargeframe='{Arial} 11 italic maroon on #ffffdd';;
+$linkfont='{Arial} 11 blue on #ffffdd';;
+$dialogfont='{Arial} 9 black on grey';;
+$voicegrey1='#eeeeee';;
+$voicegrey2='#f8f8f8';;
+
+[Param]
+$priest='0';;
+$churchpatron='';;
+$building='0';;
+$lang1='Latin';;
+$accented='accented';;
+$border='1';;
+$scrollamount='3';;
+
+[VoiceEnglish]
+$voicecontinue='1';;
+$pitch1='3';;
+$voicename1='Microsoft Mary';;
+$pitch2='-2';;
+$voicename2='Microsoft Mary';;
+$voicerate='-2';;
+$volume='50';;
+
+[VoiceLatin]
+$voicecontinue='1';;
+$pitch1='3';;
+$voicename1='eSpeak-MB-LA1';;
+$pitch2='-2';;
+$voicename2='eSpeak-MB-LA1';;
+$voicerate='-2';;
+$volume='50';;
+
+[VoiceMagyar]
+$voicecontinue='1';;
+$pitch1='3';;
+$voicename1='eSpeak-HU';;
+$pitch2='-2';;
+$voicename2='eSpeak-HU';;
+$voicerate='-2';;
+$volume='50';;
+
+[general]
+$expand='psalms';;
+$version='Rubrics 1960';;
+$testmode='Regular';;
+$lang2='English';;
+$voicecolumn='mute';;
+$completed='0';;
+$browsertime='3-13-2009';;
+$geometry='1262x952+0+0';;
+$fpixels='120';;
+$popupgeo='640x800+640+57';;
+$setuptab='Param';;
+

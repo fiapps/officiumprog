@@ -1,0 +1,6 @@
+clefdo=8=1.2=.9,
+3p,5v~6v,7-p,6v~5v~4v,5p,5v~6v~5v,4p,3v~2v,1b,
+5p,5p,6p,4v~2v,4p,3v~4v,2p,1v~2v,3b,
+2p,2p,4p,2v~1v,4p,4v~5v~6v,5p,5v~4v,2b,
+4p,4v~6v~7-v~6v~5v,6p,4v~2v,4p,3v~4v,2p,1v~2v,4b,
+2v~3v~4v,1v~2v,4b

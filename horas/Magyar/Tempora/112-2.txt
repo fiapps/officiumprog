@@ -1,0 +1,30 @@
+[Lectio1]
+Olvasmány Ezekiel próféta könyvébõl
+!Ezek  34:1-4
+1 Az Úr szózatot intézett hozzám: 
+2 Emberfia, jövendölj, Izrael pásztorairól, jövendölj és mondd meg nekik: Ti pásztorok, ezt mondja az Úr, az Isten: Jaj Izrael pásztorainak, akik magukat legeltették! A pásztoroknak nem a nyájat kell-e legeltetniük? 
+3 A tejet felhasználtátok eledelül, a gyapjút ruházatul, a kövér állatokat levágtátok, de a nyájat nem legeltettétek. 
+4 A gyengét nem gyámolítottátok, a beteget nem gyógyítottátok, a sérültet nem kötöztétek be. Nem mentetek utána az eltévelyedettnek, nem kerestétek meg az elveszettet. Durván és kegyetlenül hatalmaskodtatok fölöttük. 
+
+[Responsory1]
+@Tempora/111-2:Responsory1
+
+[Lectio2]
+!Ezek 1:5-9
+5 Középütt kivettem valamit, amely négy élõlényhez hasonlított. Emberi formájuk volt. 
+6 Mindegyiknek négy arca és mindegyiknek négy szárnya volt. 
+7 A lábuk egyenes volt, a talpuk meg olyan, mint a borjú talpa, s úgy szikráztak, akár a fényes érc. 
+8 Szárnyaik alatt emberi kezek voltak. Arcuk - mind a négyüké - négy irányba nézett. 
+9 Az egyiknek a szárnya összeért a másikéval. Amikor mentek, nem fordultak meg, hanem mindegyik egyenesen haladt. 
+
+[Responsory2]
+@Tempora/111-2:Responsory2
+
+[Lectio3]
+!Ezek 1:10-12
+10 Arcuk emberi archoz hasonlított, és jobb felõl mind a négynek oroszlánarca volt, bal felõl meg mind a négynek bikaarca volt, s mind a négynek sasarca volt. 
+11 Szárnyaik felül ki voltak terjesztve. Két szárnya mindegyiknek összeért, kettõ meg a testüket födte. 
+12 Mindegyik egyenesen ment maga elõtt, oda mentek, ahova a lélek irányította õket, nem fordultak meg, amikor mentek. 
+
+[Responsory3]
+@Tempora/111-2:Responsory3

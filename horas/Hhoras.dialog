@@ -1,0 +1,116 @@
+[parameters]
+Priest~>$priest~>Checkbutton;;
+Language1~>$lang1~>Optionmenu~>languages;;
+Frame color~>$framecolor~>Entry~>16;;
+White background~>$whitebground~>Checkbutton;;
+Border~>$border~>Entry~>16;;
+Text font~>$blackfont~>Entry~>16;;
+Small text~>$smallblack~>Entry~>16;;
+Red font~>$redfont~>Entry~>16;;
+Initiale~>$initiale~>Entry~>16;;
+Large font~>$largefont~>Entry~>16;;
+Small red~>$smallfont~>Entry~>16;;
+Title font~>$titlefont~>Entry~>16;;
+
+[Chant]
+Generate chant~>$voicecolumn~>Optionmenu~>{mute,chant Latin #1,chant Magyar #2};;
+Key pitch~>$keyfreq~>Scaleentry~>100~300~5;;
+Syllable time~>$basetime~>Scaleentry~>100~700~10;;
+Vowel mult * 10~>$voweltime~>Scaleentry~>10~100~2;;
+Vowel modification~>$vowelmod~>Scaleentry~>0~20~1;;
+Mono~>$mono~>Checkbutton;;
+Pitch difference~>$pitchdiff~>Scaleentry~>0~20~1;;
+
+[general]
+Expand~>$expand~>Optionmenu~>{all,psalms,none,skeleton};;
+Version~>$version~>Optionmenu~>{Tridentinum,Divino Afflatu,Reductions 1955,Rubrics 1960};;
+Language 2~>$lang2~>Optionmenu~>languages
+
+[languages]
+Latin,English
+
+[psalmversion]
+accented,plain
+
+[horas]
+Ante,Matutinum,Laudes,Prima,Tertia,Sexta,Nona,Vesperae,Completorium,Post
+
+[communes]
+C1,Commune Apostolorum, 
+C1a,Commune Evangelistarum,
+C1p,Commune Apostolorum tempore Paschali, 
+C2,Commune Unius Martyris,
+C2p,Commune Unius Martyris tempore Paschali,
+C3,Commune Plurimorum Martyrum,
+C3p,Commune Plurimorum Martyrum tempore Paschali,
+C4,Commune Confessoris Pontificis,
+C4a,Commune Doctorum Pontificium,
+C5,Commune Confessoris non Pontificis,
+C6,Commune unam Virginum,
+C6a,Commune plures Virgines
+C7,Commune non Virginum, Martyrum
+C7a,Commune non Virginum, non Martyrum
+C8,Commune Dedicationis Ecclaesiae
+C9,Officium defunctorum
+C10,Beata Maria in Sabbato
+C11,Commune Beatae Mariae Virginis,
+C12,Officium parvum Beatae Mariae Virginis
+
+
+[Rank Sancti]
+1=Simplex
+2=Semiduplex
+3=Duplex
+4=Duplex majus
+5=Duplex II Classis
+6=Duplex I Classis
+
+[Rank Tempora]
+1=Feria privilegiata
+4=Dominica ordinaria
+5=II class (Dominica Feast
+6=I class (Dominica, Feria, Feast)
+
+
+[helpparam]
+
+Parameters determine the generated html tables
+
+Priest: If unchecked = 'Domine exaudi' instead of 'Dominus vobiscum'
+
+Accented palms = If checked psalms will be listed as accented pointed
+
+Language1: click the button and select language of the first column
+
+Frame color: color of the frame
+
+White background = if checked cell background will be white, otherwise same as framecolor
+
+Border: 0 for no border, otherwise with of table cell border (always maroon)
+
+Colors as for html, name or #rrggbb
+
+Structure of font parameters: Relative size [bold] [italic] foreground color 
+
+Restore original: restores all parameters to the original state
+
+[helpchant]
+Select Param Color or Voice for more paramenters
+
+Chant parameters are used only if first column is Latin and chant column #1 is chosen
+
+generate chant : check the box if you want to generate chant files and refernces to them
+
+key pitch controls the pitch for the do or fa key
+
+syllable time controls the playing time for a syllable in milliseconds
+
+vowel mult*10 controls how much longer a vowel is sounded than a consonant. For practical reasons the number shown is ten times larger than the actual multiplier
+
+vovel modification controls the time as percentile as the connecting pitch is sounded. The value of this pitch differs from the base by one third of the difference from the surrounding base pitch<BR><BR>
+
+Mono : if checked 16000 mono otherwise 16000 stereo ferquency is generated
+
+Pitch difference : value alternately added or subracted from the generated pitch
+
+

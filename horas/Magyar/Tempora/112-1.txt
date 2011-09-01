@@ -1,0 +1,29 @@
+[Lectio1]
+Olvasmány Ezekiel próféta könyvébõl
+!Ezek  33:1-5
+1 Az Úr szózatot intézett hozzám: 
+2 Emberfia, szólj néped fiaihoz és mondd meg nekik: Ha valamely országra kardot szabadítok, és ennek az országnak a lakói kiválasztanak maguk közül egy férfit és megteszik õrnek, 
+3 ez mihelyt meglátja, hogy kard közelít az országra, rögvest megfújja a kürtöt, és így riasztja a népet. 
+4 Ha valaki már most hallja a trombita hangját, de mégsem vigyáz magára, úgyhogy a kard odaérve elragadja, akkor a vére a saját fejére száll. 
+5 Mert hallotta a kürt hangját, mégsem vigyázott, azért vére õrá magára száll. Aki azonban hallgat a figyelmeztetésre, megmenti a lelkét. 
+
+[Responsory1]
+@Tempora/111-1:Responsory1
+
+[Lectio2]
+!Ezek 1:6-8
+6 Mindegyiknek négy arca és mindegyiknek négy szárnya volt. 
+7 A lábuk egyenes volt, a talpuk meg olyan, mint a borjú talpa, s úgy szikráztak, akár a fényes érc. 
+8 Szárnyaik alatt emberi kezek voltak. Arcuk - mind a négyüké - négy irányba nézett. 
+
+[Responsory2]
+@Tempora/111-1:Responsory2
+
+[Lectio3]
+!Ezek 1:9-11
+9 Az egyiknek a szárnya összeért a másikéval. Amikor mentek, nem fordultak meg, hanem mindegyik egyenesen haladt. 
+10 Arcuk emberi archoz hasonlított, és jobb felõl mind a négynek oroszlánarca volt, bal felõl meg mind a négynek bikaarca volt, s mind a négynek sasarca volt. 
+11 Szárnyaik felül ki voltak terjesztve. Két szárnya mindegyiknek összeért, kettõ meg a testüket födte. 
+
+[Responsory3]
+@Tempora/111-1:Responsory3

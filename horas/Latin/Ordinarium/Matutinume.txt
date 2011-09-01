@@ -1,0 +1,16 @@
+#Incipit
+$Pater noster
+$Ave Maria
+$Credo
+
+#Psalmi cum lectionibus
+
+!Omit sequentibus nisi %Laudes% separandum est
+
+#Oratio
+
+#Conclusio
+&Dominus_vobiscumn
+&Benedicamus_Domino
+$Fidelium animae
+$Pater noster

@@ -1,0 +1,12 @@
+[Rank]
+Die Quinta Januarii;;Feria;;1.1;;ex Sancti/12-25
+
+[Rule]
+vide Sancti/12-25
+
+[Commemoratio]
+!Commemoratio S. Telesphori Papae et Martyris
+@Commune/C2:Oratio proper
+Deus, qui nos beati Telesphori Martyris tui atque Pontificis annua solemnitate laetificas: concede propitius; ut cujus natalitia colimus, de eiusdem etiam protectione gaudeamus.
+$Per Dominum
+

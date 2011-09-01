@@ -1,0 +1,31 @@
+[Chant]
+$voicecolumn='mute';;
+$keyfreq='160';;
+$basetime='360';;
+$voweltime='40';;
+$vowelmod='10';;
+$mono='0';;
+$pitchdiff='0';;
+
+[general]
+$expand='all';;
+$version='Rubrics 1960';;
+$testmode='Regular';;
+$lang2='English';;
+$votive='proper';;
+$output='html';;
+
+[parameters]
+$priest='0';;
+$lang1='Latin';;
+$framecolor='#ffffdd';;
+$whitebground='1';;
+$border='0';;
+$blackfont='black';;
+$smallblack='-1 black';;
+$redfont=' italic red';;
+$initiale='+2 bold italic red';;
+$largefont='+1 bold italic red';;
+$smallfont='1 red';;
+$titlefont='+1 red';;
+

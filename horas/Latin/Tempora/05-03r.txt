@@ -1,0 +1,19 @@
+[Rank]
+Ss. Alexandri et socios martyris;;Simplex;;1;;vide C3
+
+[Rule]
+vide C3;
+
+[Commemoratio 2]
+!Commemoratio Ss. Martyrum.
+Ant. Filiae Jerusalem, venite, et videte Martyres cum coronis, quibus coronavit~
+eos Dominus in die solemnitatis et laetitiae, alleluia, alleluia
+_
+V. Pretiosa in conspectu Domini, alleluia.
+R. Mors sanctorum ejus, alleluia.
+_
+!Oratio.
+Praesta quaesumus omnipotens Deus: ut qui sanctorum tuorum Alexandri, Eventii,~
+Theoduli, atque Juvenalis natalitia colimus, a cunctis malis imminentibus, eorum~
+intercessionibus liberemur.
+$Per Dominum.

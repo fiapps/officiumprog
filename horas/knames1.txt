@@ -1,0 +1,366 @@
+01-01; Octave of the Nativity of the Lord
+01-02; Feria.
+01-03; Feria.
+01-04; Feria.
+01-05; St. Telesphorus Pope and Martyr, 
+01-06; On the Epiphany of the Lord
+01-07; Feria.
+01-08; Feria.
+01-09; Feria.
+01-10; Feria.
+01-11; St. Hyginus Pope and Martyr, 
+01-12; Feria.
+01-13; On the the Baptism of our Lord Jesus Christ
+01-14; St. Hilary Bishop, Confessor, and Doctor of the Church Com. of St. Felix Priest and Martyr.
+01-15; St. Paul first hermit, Confessor Com. of St. Maurus Abbot.
+01-16; St. Marcellus I Pope and Martyr
+01-17; St. Anthony Abbot
+01-18; St. Prisca Virgin and Martyr, 
+01-19; Ss. Marius, Martha, Audifax, and Abachum Martyrs, Comm., Com. of St. Canute, Martyr.
+01-20; Ss. Fabian Pope and Sebastian Martyrs
+01-21; St. Agnes, Virgin and Martyr, III class
+01-22; Ss. Vincent and Anastasius Martyrs
+01-23; St. Raymund of Peñafort Confessor Com. of St. Emerentiana Virgin and Martyr.
+01-24; St. Timothy Bishop and Martyr
+01-25; On the Conversion of St. Paul Apostle Com. of St. Peter Apostle.
+01-26; St. Polycarp Bishop and Martyr
+01-27; St. John Chrysostom Bishop, Confessor, and Doctor of the Church
+01-28; St. Peter Nolasco Confessor Com. of St. Agnes, Virgin and Martyr second.
+01-29; St. Francis de Sales Bishop, Confessor, and Doctor of the Church
+01-30; St. Martina Virgin and Martyr
+01-31; St. John Bosco Confessor
+02-01; St. Ignatius Bishop and Martyr
+02-02; On the Purification of the Blessed Virgin Mary
+02-03; St. Blase Bishop and Martyr, 
+02-04; St. Andrew Corsini Bishop and Confessor
+02-05; St. Agatha Virgin and Martyr
+02-06; St. Titus Bishop and Confessor Com. of St. Dorothy Virgin and Martyr.
+02-07; St. Romuald Abbot
+02-08; St. John of Matha Confessor
+02-09; St. Cyril Bishop of Alexandria, Confessor, and Doctor of the Church Com. of St. Apollonia Virgin and Martyr.
+02-10; St. Scholastica Virgin
+02-11; On the Apparition of the Blessed Virgin Mary Immaculate
+02-12; The Seven Holy Founders of the Order of Servants of the Blessed Virgin Mary Confessors
+02-13; Feria.
+02-14; St. Valentine Priest and Martyr, 
+02-15; Ss.Faustinus and Jovita Martyrs, 
+02-16; Feria.
+02-17; Feria.
+02-18; St. Simeon Bishop and Martyr, 
+02-19; Feria.
+02-20; Feria.
+02-21; Feria.
+02-22; Chair of St. Peter Com. of St. Paul.
+02-23; St. Peter Damian Confessor
+02-24; St. Matthias Apostle
+02-25; Feria.
+02-26; Feria.
+02-27; St. Gabriel of Our Lady of Sorrows, III class
+02-28; Feria.
+03-01; Feria.
+03-02; Feria.
+03-03; Feria.
+03-04; St. Casimir Confessor Com. of St. Lucius I Pope and Martyr.
+03-05; Feria.
+03-06; Ss. Perpetua and Felicity Martyrs
+03-07; St. Thomas Aquinas Confessor and Doctor of the Church
+03-08; St. John of God Confessor
+03-09; St. Frances of Rome Widow
+03-10; The Forty Holy Martyrs
+03-11; Feria.
+03-12; St. Gregory I Pope, Confessor, and Doctor of the Church
+03-13; Feria.
+03-14; Feria.
+03-15; Feria.
+03-16; Feria.
+03-17; St. Patrick Bishop and Confessor
+03-18; St.Cyril Bishop of Jerusalem, Confessor, and Doctor of the Church
+03-19; St. Joseph, Spouse of the Blessed Virgin Mary, Confessor, and Patron of the Universal Church
+03-20; Feria.
+03-21; St. Benedict Abbot
+03-22; Feria.
+03-23; Feria.
+03-24; St. Gabriel the Archangel
+03-25; Annunciation of the Blessed Virgin Mary
+03-26; Feria.
+03-27; St. John Damascene Confessor and Doctor of the Church, III class
+03-28; St. John Capistran Confessor, III class
+03-29; Feria.
+03-30; Feria.
+03-31; Feria.
+04-01; Feria.
+04-02; St. Francis of Paula Confessor
+04-03; Feria.
+04-04; St. Isidore Bishop, Confessor, and Doctor of the Church
+04-05; St. Vincent Ferrer Confessor
+04-06; Feria.
+04-07; Feria.
+04-08; Feria.
+04-09; Feria.
+04-10; Feria.
+04-11; St. Leo I Pope, Confessor, and Doctor of the Church
+04-12; Feria.
+04-13; St. Hermenegild Martyr
+04-14; St. Justin Com. of Ss. Tiburtius, Valerian, and Maximus Martyrs.
+04-15; Feria.
+04-16; Feria.
+04-17; St. Anicetus Pope and Martyr, 
+04-18; Feria.
+04-19; Feria.
+04-20; Feria.
+04-21; St. Anselm Bishop, Confessor, and Doctor of the Church
+04-22; Ss. Soter and Cajus Popes and Martyrs
+04-23; St. George Martyr, 
+04-24; St. Fidelis of Sigmaringen Martyr
+04-25; Greater Litany. - St. Mark Evangelist
+04-26; Ss. Cletus and Marcellinus Popes and Martyrs
+04-27; St. Peter Canisius Confessor and Doctor of the Church
+04-28; St. Paul of the Cross Confessor
+04-29; St. Peter Martyr
+04-30; St. Catherine of Siena Virgin
+05-01; St. Joseph the Workman, Spouse of the Blessed Virgin Mary, Confessor
+05-02; St. Athanasius, Bishop, Confessor, and Doctor of the Church
+05-03; Ss. Alexander I Pope, Eventius and Theodulus Martyrs, and Juvenal, Bishop and Confessor, 
+05-04; St. Monica Widow
+05-05; St. Pius V Pope and Confessor
+05-06; Feria.
+05-07; St. Stanislaus Bishop and Martyr
+05-08; Feria.
+05-09; St. Gregory Nazianzen Bishop, Confessor, and Doctor of the Church
+05-10; St. Antoninus Bishop and Confessor Com. of Ss. Gordian and Epimachus.
+05-11; Ss. Philip and James Apostles
+05-12; Ss. Nereus, Achilleus, Domitilla Virgin, and Pancras Martyrs
+05-13; St. Robert Bellarmine Bishop, Confessor, and Doctor of the Church
+05-14; St. Boniface Martyr, 
+05-15; St. John Baptist de la Salle Confessor
+05-16; St. Ubald Bishop and Confessor
+05-17; St. Paschal Baylon Confessor
+05-18; St. Venantius Martyr
+05-19; St. Peter Celestine Pope and Confessor Com. of St. Pudentiana Virgin.
+05-20; St. Bernardine of Siena Confessor
+05-21; Feria.
+05-22; Feria.
+05-23; Feria.
+05-24; Feria.
+05-25; St. Gregory VII Pope and Confessor Com. of St. Urban I Pope and Martyr.
+05-26; St. Philip Neri Confessor Com. of St. Eleutherius Pope and Martyr.
+05-27; St. Bede the Venerable Confessor and Doctor of the Church, Com. of St. John I Pope and Martyr
+05-28; St. Augustine Bishop and Confessor
+05-29; St. Mary Magdalen de Pazzi Virgin
+05-30; St. Felix I Pope and Martyr, 
+05-31; Blessed Virgin Mary, Queen Com. of St. Petronilla Virgin.
+06-01; St. Angela Merici Virgin
+06-02; Ss. Marcellinus, Peter, and Erasmus Bishop, Martyrs, 
+06-03; Feria.
+06-04; St. Francis Caracciolo Confessor
+06-05; St. Boniface Bishop and Martyr
+06-06; St. Norbert Bishop and Confessor
+06-07; Feria.
+06-08; Feria.
+06-09; Ss. Primus and Felician Martyrs, 
+06-10; St. Margaret Queen, Widow
+06-11; St. Barnabas Apostle
+06-12; St. John of San Facundo Confessor Com. of Ss. Basilides, Cyrinus, Nabor, and Nazarius Martyrs.
+06-13; St. Anthony of Padua Confessor
+06-14; St. Basil the Great Bishop, Confessor, and Doctor of the Church
+06-15; Ss. Vitus, Modestus, and Crescentia Martyrs, 
+06-16; Feria.
+06-17; St. Gregory Barbarigo Bishop and Confessor
+06-18; St. Ephraem Syrus Deacon, Confessor, and Doctor of the Church Com. of Ss. Mark and Marcellianus Martyrs.
+06-19; St. Juliana Falconieri Virgin Com. of Ss. Gervase and Protase Martyrs.
+06-20; St. Silverius Pope and Martyr, 
+06-21; St. Aloysius Gonzaga Confessor
+06-22; St. Paulinus Bishop and Confessor, III class
+06-23; Vigil
+06-24; On the Nativity of St. John the Baptist
+06-25; St. William Abbot
+06-26; Ss. John and Paul Martyrs
+06-27; Feria.
+06-28; Vigil
+06-29; Ss. Peter and Paul Apostles
+06-30; On the St. Paul Apostle Com. of St. Peter Apostle.
+07-01; The Most Precious Blood of our Lord Jesus Christ
+07-02; On the Visitation of the Blessed Virgin Mary Com. of Ss. Processus and Martinian Martyrs.
+07-03; St. Irenaeus Bishop and Martyr
+07-04; Feria.
+07-05; St. Anthony Mary Zaccaria Confessor
+07-06; Feria.
+07-07; Ss. Cyril and Methodius Bishops and Confessors
+07-08; St. Elizabeth Queen, Widow
+07-09; Feria.
+07-10; The Seven Holy Brothers Martyrs, and Ss. Rufina and Secunda Virgins and Martyrs
+07-11; St. Pius I Pope and Martyr, 
+07-12; St. John Gualbert Abbot Com. of Ss. Nabor and Felix Martyrs.
+07-13; Feria.
+07-14; St. Bonaventure Bishop, Confessor, and Doctor of the Church
+07-15; St. Henry II Emperor, Confessor
+07-16; the Blessed Virgin Mary of Mt. Carmel, 
+07-17; St. Alexius Confessor, 
+07-18; St. Camillus de Lellis Confessor Com. of St. Symphorosa and her seven Sons Martyrs.
+07-19; St. Vincent de Paul Confessor
+07-20; St. Jerome Emiliani Confessor Com. of St. Margaret Virgin Martyr.
+07-21; St. Lawrence of Brindisi Confessor and Doctor of the Church Com. of St. Praxedes Virgin.
+07-22; St. Mary Magdalene Penitent
+07-23; St. Apollinaris Martyr Com. of St. Liborius Bishop and Confessor.
+07-24; St. Christina Virgin and Martyr.
+07-25; St. James Apostle
+07-26; St. Anne Mother of the Blessed Virgin Mary
+07-27; St. Pantaleon Martyr, 
+07-28; Ss. Nazarius and Celsus Martyrs, Victor I Pope and Martyr, and St. Innocent I Pope and Confessor
+07-29; St. Martha Virgin Com. of Ss. Felix, Simplicius, Faustinus, and Beatrice Martyrs.
+07-30; Ss. Abdon and Sennen Martyrs, 
+07-31; St. Ignatius Confessor
+08-01; the Holy Machabees Martyrs, 
+08-02; St. Alphonsus Mary of Liguori Bishop, Confessor, and Doctor of the Church Com. of St. Stephen I Pope and Martyr.
+08-03; Feria.
+08-04; St. Dominic Confessor, Greater III class.
+08-05; On the Dedication of Our Lady of the Snows
+08-06; On the Transfiguration of our Lord Jesus Christ Com. of Ss. Xystus II Pope, Felicissimus, and Agapitus Martyrs.
+08-07; St. Cajetan Confessor Com. of St. Donatus Bishop and Martyr.
+08-08; St. John Mary Vianney Confessor and Priest Com. of Ss. Cyriacus, Largus, and Smaragdus Martyrs.
+08-09; Vigil Com. of St. Romanus Martyr.
+08-10; St. Laurence Martyr
+08-11; Ss. Tiburtius and Susanna Virgin, Martyrs, 
+08-12; St. Clare Virgin
+08-13; Ss. Hippolytus and Cassian Martyrs, 
+08-14; Vigil Com. of St. Eusebius Confessor.
+08-15; On the Assumption of the Blessed Virgin Mary
+08-16; St. Joachim Father of the Blessed Virgin Mary, Confessor
+08-17; St. Hyacinth Confessor
+08-18; St. Agapitus Martyr, 
+08-19; St. John Eudes Confessor
+08-20; St. Bernard Abbot and Doctor of the Church
+08-21; St. Jane Frances de Chantal Widow
+08-22; Immaculate Heart of the Blessed Virgin Mary Com. of Ss. Timothy and Companions Martyrs.
+08-23; St. Philip Benizi Confessor
+08-24; St. Bartholomew Apostle
+08-25; St. Louis King, Confessor
+08-26; St. Zephyrinus Pope Martyr, 
+08-27; St. Joseph Calasanctius Confessor
+08-28; St. Augustine Bishop, Confessor, and Doctor of the Church Com. of St. Hermes Martyr.
+08-29; On the Beheading of St. John the Baptist Com. of St. Sabina Martyr.
+08-30; St. Rose of Lima Virgin Com. of Ss. Felix and Adauctus Martyrs.
+08-31; St. Raymond Nonnatus Confessor
+09-01; St. Giles Abbot, Comm, Com. of the Holy Twelve Brothers Martyrs.
+09-02; St. Stephen King, Confessor
+09-03; St. Pius X Pope and Confessor
+09-04; Feria.
+09-05; St. Laurence Justinian Bishop and Confessor
+09-06; Feria.
+09-07; Feria.
+09-08; On the Nativity of the Blessed Virgin Mary Com. of St. Hadrian Martyr.
+09-09; St. Gorgonius Martyr, 
+09-10; St. Nicholas of Tolentino Confessor
+09-11; Ss. Protus and Hyacinth Martyrs, 
+09-12; The Most Holy Name of Mary
+09-13; Feria.
+09-14; On the Exaltation of the Holy Cross
+09-15; Seven Sorrows of the Blessed Virgin Mary Com. of St. Nicomedes Martyr.
+09-16; St. Cornelius Pope and St. Cyprian Bishop, Martyrs Com. of Ss. Euphemia Virgin, Lucy and Geminianus Martyrs.
+09-17; the Impression of the sacred Stigmata of St. Francis Confessor, 
+09-18; St. Joseph of Cupertino Confessor
+09-19; St. Januarius Bishop and Companions Martyrs
+09-20; St. Eustace and Companions Martyrs, 
+09-21; St. Matthew Apostle and Evangelist
+09-22; St. Thomas of Villanova Bishop and Confessor Com. of Ss. Maurice and Companions Martyrs.
+09-23; St. Linus Pope and Martyr Com. of St. Thecla Virgin and Martyr.
+09-24; Our Lady of Ransom, 
+09-25; Feria.
+09-26; Ss. Cyprian and Justina Virgin, Martyrs, 
+09-27; Ss. Cosmas and Damian Martyrs
+09-28; St. Wenceslaus Duke, Martyr
+09-29; On the Dedication of St. Michael Archangel
+09-30; St. Jerome Priest, Confessor, and Doctor of the Church
+10-01; St. Remigius Bishop and Confessor, 
+10-02; The Holy Guardian Angels
+10-03; St. Teresa of the Child Jesus Virgin
+10-04; St. Francis of Assisi Confessor
+10-05; St. Placid and companions Martyrs, 
+10-06; St. Bruno Confessor
+10-07; Blessed Virgin Mary of the Rosary Com. of St. Mark Pope and Confessor.
+10-08; St. Bridget Widow Com. of Ss. Sergius, Bacchus, Marcellus and Apuleius Martyrs.
+10-09; St. John Leonard Confessor St. Denis Bishop, Rusticus Priest, and Eleutherius Martyrs.
+10-10; St. Francis Borgia Confessor
+10-11; The Maternity of the Blessed Virgin Mary
+10-12; Feria.
+10-13; St. Edward King, Confessor
+10-14; St. Callistus I Pope and Martyr
+10-15; St. Teresa Virgin
+10-16; St. Hedwig Widow
+10-17; St. Margaret Mary Alacoque Virgin
+10-18; St. Luke Evangelist
+10-19; St. Peter of Alcantara Confessor
+10-20; St. John Cantius Confessor
+10-21; St. Hilarion Abbot, Comm., Com. of St. Ursula and Companions Virgins and Martyrs.
+10-22; Feria.
+10-23; St. Anthony Mary Claret Bishop and Confessor
+10-24; St. Raphael Archangel
+10-25; Ss. Chrysanthus and Daria Martyrs, 
+10-26; St. Evaristus Pope and Martyr, 
+10-27; Feria.
+10-28; Ss. Simon and Jude Apostles
+10-29; Feria.
+10-30; Feria.
+10-31; Feria.
+Last Sunday in October; Our Lord Jesus Christ the King
+11-01; All Saints
+11-02; On the all the Faithful Departed
+11-03; Feria.
+11-04; St. Charles Bishop and Confessor Com. of Ss. Vitalis and Agricola Martyrs.
+11-05; Feria.
+11-06; Feria.
+11-07; Feria.
+11-08; the Holy Four Crowned Martyrs, 
+11-09; On the Dedication of the Archbasilica of the most Holy Saviour Com. of St. Theodore Martyr.
+11-10; St. Andrew Avellino Confessor Com. of Ss. Tryphon, Respicius, and Nympha Martyrs.
+11-11; St. Martin Bishop and Confessor Com. of St. Mennas Martyr.
+11-12; St. Martin I Pope and Martyr
+11-13; St. Didacus Confessor
+11-14; St. Josaphat Bishop and Martyr
+11-15; St. Albert the Great Bishop, Confessor, and Doctor of the Church
+11-16; St. Gertrude Virgin
+11-17; St. Gregory Thaumaturgus Bishop and Confessor
+11-18; On the Dedication of the Basilicas of Ss. Peter and Paul
+11-19; St. Elisabeth Widow Com. of St. Pontianus Pope and Martyr.
+11-20; St. Felix of Valois Confessor
+11-21; On the Presentation of the Blessed Virgin Mary
+11-22; St. Cecilia Virgin and Martyr
+11-23; St. Clement I Pope and Martyr Com. of St. Felicitas Martyr.
+11-24; St. John of the Cross Confessor and Doctor of the Church Com. of St. Chrysogonus Martyr.
+11-25; St. Catherine Virgin and Martyr
+11-26; St. Sylvester Abbot Com. of St. Peter of Alexandria Bishop and Martyr.
+11-27; Feria.
+11-28; Feria.
+11-29; St. Saturninus, 
+11-30; St. Andrew Apostle
+12-01; Feria.
+12-02; St. Bibiana Virgin and Martyr
+12-03; St. Francis Xavier Confessor
+12-04; St. Peter Chrysologus Bishop, Confessor, and Doctor of the Church Com. of St. Barbara Virgin and Martyr.
+12-05; St. Sabbas Abbot, 
+12-06; St. Nicholas Bishop and Confessor
+12-07; St. Ambrose Bishop, Confessor, and Doctor of the Church
+12-08; On the Immaculate Conception of the Blessed Virgin Mary
+12-09; Feria.
+12-10; St. Melchiades Pope and Martyr, 
+12-11; St. Damasus I Pope and Confessor
+12-12; Feria.
+12-13; St. Lucy Virgin and Martyr
+12-14; Feria.
+12-15; Feria.
+12-16; St. Eusebius Bishop and Martyr
+12-17; Feria.
+12-18; Feria.
+12-19; Feria.
+12-20; Feria.
+12-21; St. Thomas Apostle
+12-22; Feria.
+12-23; Feria.
+12-24; Vigil
+12-25; On the Nativity of our Lord Jesus Christ, I class with an octave. In the second Mass; St. Anastasia Martyr.
+12-26; II day within the octave of the Nativity of the Lord; St. Stephen Protomartyr
+12-27; III day within the octave of the Nativity of the Lord; St. John Apostle and Evangelist
+12-28; IV day within the octave of the Nativity of the Lord; The Holy Innocents
+12-29; Of the V day within the octave of the Nativity of the Lord St. Thomas Bishop and Martyr.
+12-30; Of the VI day within the Octave of the Nativity
+12-31; Of the VII day within the Octave of the Nativity St. Sylvester I Pope and Confessor.

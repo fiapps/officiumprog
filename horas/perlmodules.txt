@@ -1,0 +1,7 @@
+If you which to run the standalone version as perl program from the command line,
+after installing Activeperl 5.8.3  you must install additionally the modules below
+
+ppm install http://theoryx5.uwinnipeg.ca/ppms/Win32-SAPI5.ppd
+ppm install http://theoryx5.uwinnipeg.ca/ppms/Tk-JPEG.ppd
+ppm install Locale
+

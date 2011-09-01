@@ -1,0 +1,29 @@
+[Rank]
+In Vigilia Assumptionis B.M.V.;;Simplex;;1.5;;
+
+[Rank1960]
+In Vigilia Assumptionis B.M.V.;;Douplex 2nd class;;5;;
+
+[Rule]
+Responsory Feria
+Versum Feria
+Preces Feriales
+Laudes 2
+no Te Deum
+
+[Lectio1]
+@Commune/C11:Lectio7
+
+[Lectio2]
+@Commune/C11:Lectio8
+
+[Lectio3]
+@Commune/C11:Lectio9
+
+[Commemoratio]
+!Commemoratio S. Eusebii.
+@Commune/C4:Oratio
+
+[Oratio]
+Deus, qui virginalem aulam beatæ Mariæ, in qua habitares, eligere dignatus es: da, quaesumus; ut, sua nos defensione munitos, iucundos facias suae interesse festivitati:
+$Per Dominum

@@ -1,0 +1,36 @@
+Epi1-0 Holy family, need English  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+02-11 Apparition of Blessed Virgin Mary at Lourdes need English  2 2 2 2 2 2 2 2 2
+02-12 Seven Holy founders + (02-13) need Latin from hiemalis 0 0 0 0 0 0 0 0 0 0 0                    
+02-27 St Gabriel confessor ** need English  2 2 2 2 2 2 2 2 2 2 2 2
+03-24 St Gabriel Archangel + (03-18) need Latin; from verna 0 0 0 0 0 0 0 0 0 0 0 
+03-27 St John Damascene + (03-27) need Latin; from verna 0 0 0 0 0 0 0 0 0 0 0 0 0
+03-29 St John Capistran + (03-28) Need Latin; from verna 0 0 0 0 0 0 0 0 0 0 0 0 0
+04-27 St Peter Canisius ** need both; Latin from verna 0202020202020202020202020202
+05-13 St Robert Bellarmine ** need both; Latin from verna 020202020202020202020202
+05-23 St. John Baptist Rossi +(05-23) need Latin 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+05-27 St Bede Venerable + (05-27) need Latin; from verna 0 0 0 0 0 0 0 0 0 0 0 0 0
+05-31 Blessed Virgin Mary the Queen (1960) ** need both; latin from verna 02020202
+06-18 St Ephrem Syrian  ** need both; Latin from aestiva 02020202020202020202020202
+07-03 St Iraeneus (1960) ** need both 12121212121212121212121212121212121212121212
+07-05 St Anthoni Maria Zacharia + (07-05) need Latin; from aestiva 0 0 0 0 0 0 0 0
+07-21 St Laurence Brindisi (1960) ** need both; 1212121212121212121212121212121212
+07-27 St Pantaleon  (07-27) need Latin; from aestiva 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+08-08 St John Vianney ** need both; latin from aetiva (08-09) 02020202020202020202
+08-19 St John Eudes ** need both; Latin from aestiva 020202020202020202020202020202
+08-22 Immaculata Heart of Blessed Virgin Mary ** need both; latin from aestiva 0202
+09-11 St Pius X (1960) ** need both 121212121212121212121212121212121212121212121212
+10-03 St Teresa of the Child Jesus ** need both; latin from autumnalis 020202020202
+10-09 St John Leonard  ** need both;; latin from autumnalis 020202020202020202020202
+10-17 St Margaret Alaquoque ** need both; latin from autumnalis autumnalis 02020202
+10-23 Sty Anthony Mary Claret ** need both 1212121212121212121212121212121212121212
+10-24 St Raphael Archangel - (10-24) need Latin; from autumnalis 0 0 0 0 0 0 0 0 0 0
+Last Sunday of October Jesus Christ the King need both; latin from autumnalis 711 02
+11-15 St Adalbert the Great ** need both Latin from autumnalis 0202020202020202020202
+11-26 St Sylvester Abbot  + (11-26) need Latin; from autumnalis 0 0 0 0 0 0 0 0 0 0 
+
+0  = Latin from books. English exists, 
+02 = Latin from books, need English
+1  = nedd Latin, English exists
+12 = need either Latin and English
+
+

@@ -1,0 +1,85 @@
+[Dominus]
+At least deacon says 'Dominus vobiscum - Et cum spiritu tuo',
+others 'Domine exaudi orationem meam - Et clamor meus ad te veniat'.
+
+[Alleluia]
+Not recited in In passion time and in the Holy week
+
+
+INCIPIT:
+Pater Noster, Ave Maria, Credo before Matutinum and Prima always
+Pater Noster Ave Maria before horas except Completorium 
+  also except Laudes if immediately follows Matutinum
+  Completorium always starts with Iube Domne
+
+ANTIPHONES
+ Matutinum
+ Laudes
+ Prima:	day of week, 
+   Antiphona in Advent 1st of Sunday's Laudes, special from Dec 17-14, 
+	 special common for Quad, Quad5, Quad6, Pasc
+	 unless otherwise from the Proprio de Tempore or Sancti
+ Tercia, Sexta, Nona same as Prima except anriphona for Laudes 2nd, 3rd, 5th
+ Vesperae
+ Completorium: always day of week
+
+ For Prima, Tertia, Sexta, Nona Completorium before only first half always
+ For Matutinum, Laudes, Vespera full both beginning and end if Duplex
+
+PSALMI
+  Always day of week, unless major feast (Duplex 1, Duplex 2 from tempore of sancti)
+	Second set for Feriis of Advent, Quadragesimae, Pasinonis, Hebdomodae Sanctae
+  and Quattuor Temporum;  in this case Prima has 4 psalms
+	In prima special set for major feasts
+
+ Omit psalm's beginning if same as antiphone
+
+HYMNUS
+  Prima, Tercia, Sexta, Nona, Completorium after Incipit and always the same
+
+CAPITULUM
+  Prima : Per Annum weekdays and other for Sundays,
+    special for Duplex from proprio de tempore or sancti
+	Tercia, Sexta, None: 
+    Per Annum for weekdays and other for Sunday, 
+    special for Adv, Dec17-24, Quad, Quad5-6, Pass, Pasc
+    special for Duplex  from propriode tempore or sancti
+  Completorium: always the same
+ 
+ PRECES
+  Feriales (Laudes, Prima second part, Tertia, Sexta, Nona, Vesperae)
+	  in Adv, Quad and Ember days unless dupled occurs
+		Vespera2 concurrit for nex day
+  Dominicales (Prima first and thir part, Completorium)
+	  always unless duplex occurs
+
+CONCLUSIO
+  Pater noster unless another hora immediately continues
+  Maria Antiphona after Laudes or after the continuous hora(s)
+    and always after Completorium
+  Sacrosanctae is optional
+
+
+
+*********************************************
+Implemented 1960 changes:
+
+Pater noster, Ave Maria at the beginning and end of the horas, 
+(also Credo for beginning of Matins and Prima) deleted, 
+Antiphones are always double  
+Doxologies for hymns are never changed  
+Preces feriales only in ember days (except Pentecost week) and Wednesdays Fridays of Advent Lent time
+Suffragium, Preces dominicales deleted	 
+Athanasium Creed (Quicumque) only in Trinity Sunday 
+Lectio brevis in Prima is not changing for the saints only for the season
+Maria's Antiphone et the end of Lauds deleted
+Vigils only for Midsummer day, St Peter & Paul, St Laurence, Assumption, Christmas Eve 
+Octaves only for Christmas, Easter and Pentecost  
+Psalm 50 in holy triduum prayers deleted 
+Rank only 1st to 4th class, 
+  4th class commemoratio only,
+  3rd class (former semiduplex, duplex and some duplex majus) 3 lectiones only
+  2nd class (with some former duplex majus) 9 lections 
+    but for horas antiphones and psalms from the weekday
+  1st class: unchanged
+Some Kalendar changes are implemented

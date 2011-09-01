@@ -1,0 +1,10 @@
+#Psalmi cum lectionibus
+
+!Skip the rest, unless praying the %Lauds% separatelly
+
+#Oratio
+
+#Conclusio
+&Dominus_vobiscumn
+&Benedicamus_Domino.
+$Fidelium animae
