@@ -1,0 +1,6 @@
+*.bat text
+*.gif !text
+*.ini text
+*.html text
+*.pl text
+*.txt text
